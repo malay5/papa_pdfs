@@ -145,15 +145,21 @@ def _normalise(crop):
     return ImageOps.expand(tight, border=20, fill=255)
 
 
-def cell_image(page_image, bbox, dpi=DPI):
-    """The normalised image of one cell, or None when the cell is empty."""
+def _cell_crop(page_image, bbox, dpi=DPI):
+    """The raw pixels of one cell, inset past its border rules."""
     scale = dpi / 72.0
     x0, top, x1, bottom = bbox
     box = (round((x0 + CELL_INSET) * scale), round((top + CELL_INSET) * scale),
            round((x1 - CELL_INSET) * scale), round((bottom - CELL_INSET) * scale))
     if box[2] - box[0] < 6 or box[3] - box[1] < 6:
         return None
-    return _normalise(page_image.crop(box))
+    return page_image.crop(box)
+
+
+def cell_image(page_image, bbox, dpi=DPI):
+    """The normalised image of one cell, or None when the cell is empty."""
+    crop = _cell_crop(page_image, bbox, dpi)
+    return None if crop is None else _normalise(crop)
 
 
 # Ink heights to retry a short cell at.  Which height reads a given glyph
@@ -217,25 +223,67 @@ def _vote(candidates, preferred):
     return dotted if dotted in tally else winner
 
 
-# Ink height to re-check a value at when it may have lost a leading decimal
-# point.  Only the smallest scales hold onto the dot's couple of pixels.
-DOT_CHECK_INK_H = 18
+# Shape of a leading decimal point, relative to the cell's ink height: a
+# narrow mark sitting on the baseline, well below the tops of the digits.
+DOT_MAX_WIDTH = 0.34
+DOT_MIN_TOP = 0.55
+DOT_MAX_GAP = 0.55
 
 
-def _recover_leading_dot(page_image, bbox, dpi, value, multiline, whitelist):
-    """Look again at a value that may have lost a leading decimal point.
+def _leading_dot(crop):
+    """True when the crop opens with a decimal point.
 
-    Every ink height above the smallest drops the dot on '.024" Alum ††' and
-    '.10#', turning a thickness into a part number and a weight into ten
-    times itself.  The re-read is only adopted when it agrees with the value
-    already in hand character for character, so a poor read at this small
-    scale cannot do any harm.  Only a value starting with a digit can have
-    lost a dot, which keeps the second look off most cells.
+    Tesseract discards a leading period as noise at every scale tried, which
+    turns '.01#' into '01#' and '.024" Alum' into a part number.  The dot is
+    plainly there in the pixels, though, and its shape is unmistakable: a
+    narrow mark on the baseline, sitting well below the digits that follow
+    and separated from them.  So it is measured rather than recognised.
     """
-    if not value[:1].isdigit():
+    mask = _ink_mask(_as_dark_on_light(crop))
+    box = mask.getbbox()
+    if box is None:
+        return False
+    left, top, right, bottom = box
+    height = bottom - top
+    if height < 6 or right - left < 6:
+        return False
+    pixels = mask.load()
+
+    def inked(x):
+        return any(pixels[x, y] for y in range(top, bottom))
+
+    first = next((x for x in range(left, right) if inked(x)), None)
+    if first is None:
+        return False
+    end = first
+    while end < right and inked(end):
+        end += 1
+    gap = end
+    while gap < right and not inked(gap):
+        gap += 1
+    if gap >= right:                       # nothing follows: not a decimal point
+        return False
+    if (end - first) > DOT_MAX_WIDTH * height:
+        return False
+    if (gap - end) > DOT_MAX_GAP * height:  # too far to belong to the number
+        return False
+    rows = [y for y in range(top, bottom)
+            if any(pixels[x, y] for x in range(first, end))]
+    if not rows:
+        return False
+    # The mark must sit low: its top below the middle of the ink band, and
+    # its bottom on the baseline shared with the digits.
+    return (rows[0] - top) >= DOT_MIN_TOP * height and (bottom - rows[-1]) <= 0.2 * height
+
+
+def _recover_leading_dot(page_image, bbox, dpi, value):
+    """Put back a decimal point OCR dropped, when the pixels show one."""
+    if not value[:1].isalnum():
         return value
-    retry = _read_at(page_image, bbox, dpi, DOT_CHECK_INK_H, multiline, whitelist)
-    return retry if retry[:1] == "." and retry[1:] == value else value
+    crop = _cell_crop(page_image, bbox, dpi)
+    if crop is None or not _leading_dot(crop):
+        return value
+    return "." + value
 
 
 def read_cell(page_image, bbox, dpi=DPI, multiline=False, whitelist=None,
@@ -248,8 +296,7 @@ def read_cell(page_image, bbox, dpi=DPI, multiline=False, whitelist=None,
         others = [_read_at(page_image, bbox, dpi, h, multiline, whitelist)
                   for h in ink_heights]
         winner = _vote([primary, *others], primary)
-    return _recover_leading_dot(page_image, bbox, dpi, winner,
-                                multiline, whitelist)
+    return _recover_leading_dot(page_image, bbox, dpi, winner)
 
 
 def read_numeric_cell(page_image, bbox, dpi=DPI):

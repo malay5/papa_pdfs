@@ -175,7 +175,7 @@
               "29",
               "16\"",
               "50,000",
-              "7O#",
+              "76#",
               "Galvalume' Plus &",
               "✓"
             ],
@@ -183,7 +183,7 @@
               "29",
               "16\"",
               "50,000",
-              "7O#",
+              "70#",
               "Signature°® 200",
               "✓"
             ],
@@ -207,7 +207,7 @@
         }
       ],
       "text": "Residential Pricing\nt 16\" 16\"\n\" in \" OO\nMinor Ribs w/Striations Striations\nDESCRIPTION | PRICED PER SQUARE\n29 16\" 50,000 76# Galvalume' Plus & v\n29 16\" 50,000 76# Signature® 200 v\n26 16\" 50,000 99# Galvalume' Plus & v\n26 16\" 50,000 99# Signature\" 200 v\n* See MBCI Color Chart documents for available colors. Minimum quantities may be required.\n& The Galvalume Plus coating is subject to variances in spangle from coil to coil which may result in noticeable shade variation in installed panels, The Galvalume Plus\ncoating\nis also subject to differential weathering after panel installation. Panels may appear to be different shades due to this weathering characteristic. If a consistent appearance\nis required, recommends that pre-painted panels be used in lieu of Galvalume Plus. Shade variation in panels manufactured from Galvalume Plus coated material do not\ndiminish the structural integrity of the product. These shade variations should be anticipated and are not a cause for rejection.\nPanel Pricing:\n1. All pricing is based on net coverage (see chart on opposite page).\n2. Minimum quantities may be required for certain panel gauges and/or colors. Please Inquire.\n3. Panels 4'-O\" in length or shorter will incur an additional charge, please inquire.\n4. Panels must be specified as: \"striated\" or \"striated with minor ribs\".\nPackaging Costs:\n1. Maximum 3,000 pounds or 75 panels per bundle\n2. Standard packaging ..\n3. Heavy Duty packaging\nAdd $4.84 per linear foot\nAdd $17.05 per linear foot ($200.00 min.)\nDelivery:\nLead times and plant schedules vary and are determined and communicated upon receipt of your order\nacknowledgement. Please contact Customer Service for additional information.\nNotes:\n1. If non-striated or without minor ribs are required, customer must specify in writing on order.\n2. Slimline' panels cannot be endlapped.\n3. For panel lengths over 40'-0\"\n4. Heavier gauges, striations or minor ribs may minimize oil canning.\nIMPORTANT NOTICE TO INSTALLER/CUSTOMER: Material should be inspected carefully prior to installation\nfor defects including excessive oil canning. Installation of material constitutes acceptance.\nPlease inquire\n— Subject to change without notice.\nMBE. sce MBCI.COM for current information. EFFECTIVE JANUARY 2, 2026\n6",
-      "repaired_cells": 0,
+      "repaired_cells": 1,
       "effective_date": "JANUARY 2, 2026",
       "catalog": "residential"
     },
@@ -251,7 +251,7 @@
               "Width",
               "40 -7/8\"",
               "42-3/4\"",
-              "48 - 3/8\""
+              "48-3/8\""
             ],
             [
               "Gauge",
@@ -267,174 +267,6 @@
             ],
             [
               "Signature® 200 (Polyester)",
-              "",
-              "",
-              ""
-            ]
-          ]
-        },
-        {
-          "index": 1,
-          "section": "Flat Sheet Selection Chart",
-          "bbox": [
-            41.4,
-            230.5,
-            566.2,
-            253.4
-          ],
-          "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4"
-          ],
-          "column_labels": [
-            "",
-            "",
-            "",
-            ""
-          ],
-          "column_groups": [
-            "",
-            "",
-            "",
-            ""
-          ],
-          "rows": [
-            [
-              "Polar White",
-              "",
-              "",
-              ""
-            ],
-            [
-              "Signature® 200",
-              "",
-              "",
-              ""
-            ]
-          ]
-        },
-        {
-          "index": 2,
-          "section": "Flat Sheet Selection Chart",
-          "bbox": [
-            41.4,
-            459.5,
-            566.2,
-            482.4
-          ],
-          "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4"
-          ],
-          "column_labels": [
-            "",
-            "",
-            "",
-            ""
-          ],
-          "column_groups": [
-            "",
-            "",
-            "",
-            ""
-          ],
-          "rows": [
-            [
-              "Wine Red",
-              "",
-              "7",
-              ">"
-            ],
-            [
-              "Signature® 300",
-              "",
-              "",
-              ""
-            ]
-          ]
-        },
-        {
-          "index": 3,
-          "section": "Flat Sheet Selection Chart",
-          "bbox": [
-            41.4,
-            642.7,
-            566.2,
-            665.6
-          ],
-          "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4"
-          ],
-          "column_labels": [
-            "",
-            "",
-            "",
-            ""
-          ],
-          "column_groups": [
-            "",
-            "",
-            "",
-            ""
-          ],
-          "rows": [
-            [
-              "Tundra",
-              "a",
-              "0)",
-              ""
-            ],
-            [
-              "Signature® 300 Metallic",
-              "",
-              "",
-              ""
-            ]
-          ]
-        },
-        {
-          "index": 4,
-          "section": "Flat Sheet Selection Chart",
-          "bbox": [
-            41.4,
-            665.6,
-            566.2,
-            688.4
-          ],
-          "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4"
-          ],
-          "column_labels": [
-            "",
-            "",
-            "",
-            ""
-          ],
-          "column_groups": [
-            "",
-            "",
-            "",
-            ""
-          ],
-          "rows": [
-            [
-              "Copper Metallic",
-              "=a",
-              "0)",
-              ""
-            ],
-            [
-              "Unpainted",
               "",
               "",
               ""
@@ -499,7 +331,7 @@
               "29 Gauge Steel",
               "12'-6\"",
               "13%\"",
-              "8.854",
+              "8.83#",
               "N/A",
               "vt"
             ]
@@ -664,7 +496,7 @@
               "-65°F to +212°F",
               "Yall = Ws\"",
               "4",
-              "A7#",
+              "7#",
               "✓"
             ],
             [
@@ -672,15 +504,15 @@
               "-65°F to +212°F",
               "Wal - 4",
               "8\"",
-              "SOF",
+              "0#",
               "✓"
             ],
             [
               "HW-1002",
               "-65°F to +212°F",
               "AY\" _ 6\"",
-              "11",
-              ".95#",
+              "1",
+              "5#",
               "✓"
             ],
             [
@@ -694,7 +526,7 @@
             [
               "HW-1004",
               "-65°F to +212°F",
-              "7\" _ 13\"",
+              "7\" 243\"",
               "7\"",
               "2.56#",
               "✓"
@@ -712,15 +544,15 @@
           ],
           "columns": [
             "column_1",
-            "column_2",
-            "column_3",
+            "high_temperaturi",
+            "7",
             "column_4",
             "column_5"
           ],
           "column_labels": [
             "",
-            "",
-            "",
+            "HIGH TEMPERATURI",
+            "7",
             "",
             ""
           ],
@@ -733,29 +565,22 @@
           ],
           "rows": [
             [
-              "",
-              "HIGH TEMPERATURI",
-              "7",
-              "",
-              ""
-            ],
-            [
               "-100°F to +437°F",
-              "YW,\" _ A\"",
-              "8",
-              "SO#",
+              "yl gr",
+              "3\"",
+              "0#",
               "v"
             ],
             [
               "\"100°F to +437°F",
               "Avy! - 7\"",
               "1\"",
-              "I5#",
+              "5#",
               "v"
             ],
             [
               "\"100°F to +437°F",
-              "7\" _ 13\"",
+              "J\" 243\"",
               "7\"",
               "2.56#",
               "v"
@@ -807,7 +632,7 @@
               "HW-1005",
               "-65°F to +212°F",
               "Va\" . 4\"",
-              "83/16\"",
+              "8316",
               "4#",
               "✓"
             ],
@@ -815,7 +640,7 @@
               "HW-1006",
               "-65°F to +212°F",
               "4A\" _ oy,\"",
-              "14%\"",
+              "14",
               "2.20#",
               "✓"
             ],
@@ -840,15 +665,15 @@
           ],
           "columns": [
             "column_1",
-            "column_2",
-            "column_3",
+            "high_temperaturi",
+            "7",
             "column_4",
             "column_5"
           ],
           "column_labels": [
             "",
-            "",
-            "",
+            "HIGH TEMPERATURI",
+            "7",
             "",
             ""
           ],
@@ -861,23 +686,16 @@
           ],
           "rows": [
             [
-              "",
-              "HIGH TEMPERATURI",
-              "7",
-              "",
-              ""
-            ],
-            [
               "-100°F to +437°F",
               "Yo\" _ 4\"",
-              "88/16\"",
-              "74H",
+              "8316",
+              "4#",
               "v"
             ],
             [
               "-100°F to +437°F",
               "4\" - gyyl",
-              "14%\"",
+              "14",
               "2.20#",
               "v"
             ],
@@ -885,14 +703,14 @@
               "\"100°F to +437°F",
               "9%\" - 16%\"",
               "212\"",
-              "3./8#",
+              "3.78#",
               "v"
             ]
           ]
         }
       ],
       "text": "Residential Pricing\nACCESSORIES\nRubber Roof Jac\nDESCRIPTION PRICED PER EACH\nTEMPERATURE\nRANGE PIPE SIZE BASE DIM. WEIGHT EACH\nHW-1000 -65°F to +212°F Ya\" - 12\" 4y\" A7# v\nHW-1001 -65°F to +212°F a\" - 4\" 8\" SO# v\nHW-1002 -65°F to +212°F 4%\" - 6\" n\" O5# v\nHW-1003 -65°F to +212°F 6\" - 11\" 14\" 1.55# v\nHW-1004 -65°F to +212°F 7\" - 13\" 17\" 2.56# v\nHIGH TEMPERATURE\nHW-1046 -100°F to +437°F Ya\" - 4\" 8\" SOF v\nHW-1047 -100°F to +437°F 4%\" -7\" n\" 5# v\nHW-1048 -100°F to +437°F 7\" -13\" 7\" 2.56# vy\nHW-1049 -100°F to +437°F 10\" - 18\" as\" 3,.86# v\nRetrofit Rubber Roof Jac\nDESCRIPTION PRICED PER EACH\nTEMPERATURE\nRANGE PIPE SIZE BASE DIM. WEIGHT EACH\nHW-1005 SESE KO) AIPA Ya\" - 4\" B5/i6\" 4H v\nHW-1006 -65°F to +212°F 4\"- 9%\" 14%\" 2.20# v\nHW-1007 -65°F to +212°F Qa\" - 16Y%a\" 21%\" 3.78# v\nHIGH TEMPERATURE\nHW-1060 -100°F to +437°F Ya\" - 4\" 83/6\" S48 v\nHW-1061 -100°F to +437°F 4\"- 9%\" 14%\" 2.20# v\nHW-1062 -100°F to +437°F 9%\" - 16%\" 21%\" 3.78# v\nSubject to change without notice.\nMBC. See MBCI.COM for current information.\nEFFECTIVE JANUARY 2, 2026 9",
-      "repaired_cells": 4,
+      "repaired_cells": 13,
       "effective_date": "JANUARY 2, 2026",
       "catalog": "residential"
     },
@@ -988,8 +806,8 @@
             [
               "HW-3925",
               "SolarGuard",
-              "4A'-Q\"",
-              "]125'-O\"",
+              "4'-0\"",
+              "125'-0\"",
               "31.00#",
               "✓"
             ],
@@ -997,7 +815,7 @@
               "HW-3926",
               "SolarGuard",
               "6'-O\"",
-              "125'-0\"",
+              "125'-O\"",
               "46.50#",
               "✓"
             ]
@@ -1013,47 +831,33 @@
             554.5
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4",
-            "column_5"
+            "part",
+            "width",
+            "length",
+            "roll_weight",
+            "price"
           ],
           "column_labels": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "PART #",
+            "WIDTH",
+            "LENGTH",
+            "ROLL WEIGHT",
+            "PRICE"
           ],
           "column_groups": [
-            "",
-            "",
-            "",
-            "",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
             ""
           ],
           "rows": [
-            [
-              "DESCRIPTION",
-              "",
-              "",
-              "",
-              "PRICED PER EACH"
-            ],
-            [
-              "PART #",
-              "WIDTH",
-              "LENGTH",
-              "ROLL WEIGHT",
-              "PRICE"
-            ],
             [
               "HW-514",
               "3\"",
               "150'-O\"",
               "1.50#",
-              "v"
+              "✓"
             ]
           ]
         },
@@ -1170,7 +974,7 @@
               "HW-452",
               "Outside",
               "Yes",
-              "\"x 24\"",
+              "1\" x 24\"",
               "OS#",
               "✓"
             ]
@@ -1215,7 +1019,7 @@
               "Acrylic",
               "White",
               "Tl ounce",
-              "SSH",
+              "5",
               "✓"
             ],
             [
@@ -1223,7 +1027,7 @@
               "Acrylic",
               "Gray",
               "Tl ounce",
-              "5H",
+              "5",
               "✓"
             ],
             [
@@ -1231,7 +1035,7 @@
               "Urethane",
               "White",
               "Tl ounce",
-              "85H",
+              "85#",
               "✓"
             ],
             [
@@ -1239,7 +1043,7 @@
               "Urethane",
               "Gray",
               "Tl ounce",
-              "85St",
+              "85#",
               "✓"
             ],
             [
@@ -1247,7 +1051,7 @@
               "Urethane",
               "Bronze",
               "Tl ounce",
-              "S85",
+              "85#",
               "✓"
             ],
             [
@@ -1255,7 +1059,7 @@
               "Urethane",
               "Almond",
               "Tl ounce",
-              "SBSH",
+              "85#",
               "✓"
             ],
             [
@@ -1270,7 +1074,7 @@
         }
       ],
       "text": "Residential Pricing ACCESSORIES\nClosure Strip - 5V Crimp\n————\nInside\nOa ? On)\nOutside\nDESCRIPTION PRICED PER EACH\nADHESIVE WEIGHT EACH\nHW-450 Inside No \"x 24\" O4# v\nHW-452 Outside Yes \"x 24\" .OS# v\nTube Sealant\nNote:\n* 25' per tube at %\" bead.\nDESCRIPTION PRICED PER TUBE\nTUBE SIZE TUBE WEIGHT\nHW-548 Acrylic White Tl ounce 75# v\nHW-550 Acrylic Gray Tl ounce 75H v\nHW-540 Urethane White 11 ounce 85H# v\nHW-541 Urethane Gray Tl ounce BS# v\nHW-542 Urethane Bronze 11 ounce 85H v\nHW-544 Urethane Almond 11 ounce .85# v\nHW-549 Non-Skinning Butyl White 10 ounce 1.00# v\nSubject to change without notice.\nWABIE. sce MBCI.COM for current information. EFFECTIVE JANUARY 2, 2026 N",
-      "repaired_cells": 0,
+      "repaired_cells": 6,
       "effective_date": "JANUARY 2, 2026",
       "catalog": "residential"
     },
@@ -1407,16 +1211,16 @@
             [
               "AG-207",
               "10'-2\"",
-              "21",
+              "217.\"",
               "26",
-              "13.84#",
+              "13.844",
               "✓",
               "✓"
             ],
             [
               "AG-208",
               "20'-2\"",
-              "212\"",
+              "21%.\"",
               "29",
               "21.244",
               "✓",
@@ -1435,7 +1239,7 @@
         }
       ],
       "text": "Residential Pricing\nNote:\n* Specify roof slope or angle indicated on drawing.\n* Specify use for Ridge or Hip.\nDESCRIPTION PRICED PER EACH\nAG-202 10'-6\" 13\" 2) 6.44# v v\nAG-202 10'-2\" 13\" 26 8.37# v v\nAG-203 20'-2\" 13\" 28) 12.88# v v\nAG-203 20'-2\" 13\" 26 16.74# v v\nVented Ridge Flash\nCOLOR Note:\n* Specify roof slope or angle indicated on drawing.\n4 yn\n+\nSPECIFY ANGLE\nDESCRIPTION PRICED PER EACH\nAG-207 10'-6\" 210A\" 2) 10.62# v v\nAG-207 10'-2\" 21\" 26 13.844 v v\nAG-208 20'-2\" 21%\" 28) 21.24# v v\nAG-208 20'-2\" 21\" 26 27.68# v v\n—a Subject to change without notice.\nMBE. sce MBCI.COM for current information. EFFECTIVE JANUARY 2, 2026 12",
-      "repaired_cells": 1,
+      "repaired_cells": 0,
       "effective_date": "JANUARY 2, 2026",
       "catalog": "residential"
     },
@@ -1568,7 +1372,7 @@
               "AG-237",
               "Oy,\"",
               "10'-6\"",
-              "2072\"",
+              "20%\"",
               "29",
               "10.88#",
               "✓",
@@ -1586,9 +1390,9 @@
             ],
             [
               "AG-238",
-              "oy,\"",
+              "Quy\"",
               "20'-2\"",
-              "2072\"",
+              "20%\"",
               "29",
               "21.76#",
               "✓",
@@ -1600,7 +1404,7 @@
               "20'-2\"",
               "21%\"",
               "26",
-              "28.3524",
+              "28.324",
               "✓",
               "✓"
             ]
@@ -1660,7 +1464,7 @@
               "AG-239",
               "20%\"",
               "10'-2\"",
-              "4254\"",
+              "42%,\"",
               "26",
               "28.29#",
               "✓",
@@ -1670,9 +1474,9 @@
               "AG-240",
               "197/16\"",
               "14'-O\"",
-              "407s\"",
+              "40%\"",
               "29",
-              "28.1#",
+              "28.71#",
               "✓",
               "✓"
             ],
@@ -1682,7 +1486,7 @@
               "14'-O\"",
               "42%\"",
               "26",
-              "38.82#",
+              "38.824",
               "✓",
               "✓"
             ]
@@ -1690,7 +1494,7 @@
         }
       ],
       "text": "Residential Pricing\nPeak Cap\nCOLOR Note:\nt$-— 6\" * Specify roof slope or angle indicated on drawing.\nDESCRIPTION PRICED PER EACH\nPART # LENGTH GAUGE WEIGHT EACH GALVALUME® PLUS — SIGNATURE® 200\nAG-233 10'-6\" ny\" 29 5.76H# v v\nAG-233 10'-2\" 1%\" 26 7.A8H v v\nAG-234 20'-2\" 1%\" 29 11.52% v v\nAG-234 20'-2\" 1154\" 26 14.96# v v\nStandard Valley\nCOLOR Note:\nLl. SPECIFY * Specify roof slope or angle indicated on drawing.\n\\-4. ANGLE\nA 5 _\\\na ft *e\nDESCRIPTION PRICED PER EACH\nPART # DIM \"A\" LENGTH GIRTH WEIGHT — GALVALUME® PLUS SIGNATURE 200\nEACH\nAG-237 Eya 10'-6\" 20%\" 29 10.88# v v\nAG-237 9%4\" 10-2\" 2136\" 26 14.16# v v\nAG-238 gy\" 20'-2\" 20%\" 29 21.76# v v\nAG-238 9%6\" 20'-2\" 2154\" 26 28,324 v v\nExtended Valley\nCOLOR SPECIFY Note:\n* Specify roof slope or angle indicated on drawing.\n7. \\- 4 ANGLE\n4 s—_\\\nDESCRIPTION PRICED PER EACH\nPART # DIM \"A\" LENGTH GIRTH WEIGHT — GALVALUME\" PLUS SIGNATURE® 200\nEACH\nAG-239 197/s6\" 10'-6\" 407%\" 29 273i v v\nAG-239 20%\" 10'-2\" 4254\" 26 28.29% v v\nAG-240 19%/s6\" 14'-0\" 407%\" 29 28.71# v v\nAG-240 20%\" 14'-0\" 4254\" 26 38.82# v v\nSubject to change without notice.\nWABIE. sce MBCI.COM for current information. EFFECTIVE JANUARY 2, 2026 13",
-      "repaired_cells": 2,
+      "repaired_cells": 1,
       "effective_date": "JANUARY 2, 2026",
       "catalog": "residential"
     },
@@ -1764,7 +1568,7 @@
               "20'-2\"",
               "17%\"",
               "29",
-              "16.44#",
+              "16.444",
               "✓",
               "✓"
             ],
@@ -1945,7 +1749,7 @@
               "FL-1001",
               "Box",
               "29",
-              "O8#",
+              ".O8#",
               "✓",
               "✓"
             ],
@@ -2014,16 +1818,16 @@
           "rows": [
             [
               "AG-244",
-              "g\"",
+              "3\"",
               "2\"",
               "29",
-              "O8#",
+              ".O8#",
               "✓",
               "✓"
             ],
             [
               "AG-244",
-              "g\"",
+              "3\"",
               "Qn",
               "26",
               "O9#",
@@ -2115,31 +1919,21 @@
             188.8
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3"
+            "part",
+            "weight_each",
+            "galvanized"
           ],
           "column_labels": [
-            "",
-            "",
-            ""
+            "PART #",
+            "WEIGHT EACH",
+            "GALVANIZED"
           ],
           "column_groups": [
-            "",
-            "",
+            "DESCRIPTION",
+            "DESCRIPTION",
             ""
           ],
           "rows": [
-            [
-              "DESCRIPTION",
-              "",
-              "PRICED PER EACH"
-            ],
-            [
-              "PART #",
-              "WEIGHT EACH",
-              "GALVANIZED"
-            ],
             [
               "HW-1328",
               "244",
@@ -2196,7 +1990,7 @@
             [
               "FL-31B",
               "14'-0\"",
-              "1678\"",
+              "16%\"",
               "26",
               "15.324",
               "✓",
@@ -2242,11 +2036,11 @@
           ],
           "rows": [
             [
-              "FL-31IA",
+              "FL-31A",
               "10'-2\"",
               "167%\"",
               "26",
-              "T12#",
+              "NA2#",
               "✓",
               "✓"
             ],
@@ -2321,7 +2115,7 @@
               "FL-32",
               "45°",
               "7\"",
-              "1678\"",
+              "167%\"",
               "26",
               "1.324",
               "✓",
@@ -2331,7 +2125,7 @@
               "FL-33",
               "90°",
               "7\"",
-              "1678\"",
+              "167%\"",
               "26",
               "1.28#",
               "✓",
@@ -2388,7 +2182,7 @@
             [
               "AG-246",
               "10'-2\"",
-              "7 Xe\"",
+              "7%\"",
               "26",
               "4.51#",
               "✓",
@@ -2483,7 +2277,7 @@
               "20'-2\"",
               "8\"",
               "26",
-              "10.324",
+              "10.32#",
               "✓",
               "✓"
             ]
@@ -2611,7 +2405,7 @@
             [
               "LG-109",
               "10'-6\"",
-              "By,\"",
+              "3y,\"",
               "26",
               "5.62#",
               "✓",
@@ -2661,7 +2455,7 @@
               "10'-6\"",
               "934\"",
               "29",
-              "5.524",
+              "5.32#",
               "✓",
               "✓"
             ]
@@ -2726,7 +2520,7 @@
               "CF-301",
               "3\"",
               "10'-6\"",
-              "Ry,\"",
+              "QV,\"",
               "29",
               "4.444",
               "✓",
@@ -2789,10 +2583,10 @@
           "rows": [
             [
               "FL-1020",
-              "28 /ig\"",
+              "215/16\"",
               "3-4:12",
               "10'-2\"",
-              "87/16\"",
+              "8716",
               "29",
               "4.31#",
               "✓",
@@ -2801,9 +2595,9 @@
             [
               "FL-1020",
               "28 /ig\"",
-              "$-4:12",
+              "3-4:12",
               "10'-2\"",
-              "87/16\"",
+              "876",
               "26",
               "5.57#",
               "✓",
@@ -2811,10 +2605,10 @@
             ],
             [
               "FL-1021",
-              "28/16\"",
+              "2816",
               "5-6:12",
               "10'-2\"",
-              "88/16\"",
+              "8516",
               "29",
               "4.244",
               "✓",
@@ -2822,10 +2616,10 @@
             ],
             [
               "FL-1021",
-              "28/6\"",
+              "286",
               "5-6:12",
-              "JO'-2\"",
-              "85/16\"",
+              "10'-2\"",
+              "8516",
               "26",
               "5.49#",
               "✓",
@@ -2833,21 +2627,21 @@
             ],
             [
               "FL-1022",
-              "2/6\"",
-              "712",
+              "26",
+              "7:12",
               "10°-2\"",
-              "88/16\"",
+              "8316",
               "29",
-              "4184",
+              "418#",
               "✓",
               "✓"
             ],
             [
               "FL-1022",
-              "21/16\"",
-              "7112",
+              "216",
+              "7:12",
               "10'-2\"",
-              "83/16\"",
+              "8316",
               "26",
               "5.40#",
               "✓",
@@ -2855,10 +2649,10 @@
             ],
             [
               "FL-1023",
-              "22/16\"",
+              "226",
               "8-9:12",
               "10'-2\"",
-              "87/16\"",
+              "86",
               "29",
               "4124",
               "✓",
@@ -2866,10 +2660,10 @@
             ],
             [
               "FL-1023",
-              "22/16\"",
+              "2216",
               "8-9:12",
               "10'-2\"",
-              "8/16\"",
+              "816",
               "26",
               "5.32#",
               "✓",
@@ -2877,10 +2671,10 @@
             ],
             [
               "FL-1024",
-              "27/6\"",
+              "2716",
               "10:12",
               "10'-2\"",
-              "78/6\"",
+              "786",
               "29",
               "4.05#",
               "✓",
@@ -2888,12 +2682,12 @@
             ],
             [
               "FL-1024",
-              "27/16\"",
+              "2716",
               "10:12",
               "10'-2\"",
-              "78/16\"",
+              "7816",
               "26",
-              "5.24#",
+              "5.244",
               "✓",
               "✓"
             ]
@@ -2901,7 +2695,7 @@
         }
       ],
       "text": "Residential Pricing\nConcealed Rake\n4+\"\n\"e\"\n4)\non OPEN HEM\nDESCRIPTION PRICED PER EACH\nPART # DIM \"A\" LENGTH GIRTH GAUGE WEIGHT EACH GALVALUME' PLUS SIGNATURE® 200\nCF-301 3\" 10'-6\" 8%\" 29 4444 v v\nCF-301A 6\" 10'-6\" 1%\" 29 6.07# v v\n5V Crimp Rake Trim\n2%\"\n\"Ar\nDESCRIPTION PRICED PER EACH\nDIM \"A\" ROOF SLOPE LENGTH GIRTH cauce WEIGHT GaLVALUME\" PLUS SIGNATURE* 200\nFL+1020 288/15\" 3-4:12 10'-2\" 87/y5\" 29 4.31 v v\nFL1020 —-288/ig\" 3-4:12 jo\" 87/6\" 26 5.57# v v\nFL-1021 2B/rg\" 5-6:12 10'-2\" B5/y6\" 29 4.244 v v\nFL-1021 28/16\" 5-6:12 10'-2\" B5/y6\" 26 5.49# v v\nFL+1022 2/16\" 7312 10'-2\" 85/5\" 29 A18# v v\nFL+1022.2\"/ig\" 7:12 10'-2\" B3/y5\" 26 5.40# v v\nFL+1023 29/6\" 8-9:12 O27 86\" 29 412 v v\nFL+1023. 29/6\" 8-9:12 10'-2\" 8/6\" 26 5.32# v v\nFL+1024 —-2%/rg\" 10:12 10'-2\" 78/6\" 29 4.05# v v\nFL+1024 -2?/re\" 10:12 10'-2\" T5/rg\" 26 5.24# v v\nSubject to change without notice.\nWABIE. sce MBCI.COM for current information. EFFECTIVE JANUARY 2, 2026 19",
-      "repaired_cells": 0,
+      "repaired_cells": 18,
       "effective_date": "JANUARY 2, 2026",
       "catalog": "residential"
     },
@@ -2959,10 +2753,10 @@
           "rows": [
             [
               "FL-1030",
-              "37/16\"",
+              "376",
               "3-412",
               "10'-2\"",
-              "BB /i6\"",
+              "886",
               "29",
               "4.50#",
               "✓",
@@ -2970,21 +2764,21 @@
             ],
             [
               "FL-1030",
-              "37/16\"",
-              "$-4:12",
+              "3716",
+              "3-4:12",
               "10'-2\"",
-              "8°3/16\"",
+              "BB /ig\"",
               "26",
               "5.82#",
               "✓",
               "✓"
             ],
             [
-              "FL-1031]",
-              "35/6\"",
+              "FL-1031",
+              "6",
               "5-6:12",
               "10'-2\"",
-              "8/15\"",
+              "816",
               "29",
               "4.444",
               "✓",
@@ -2992,10 +2786,10 @@
             ],
             [
               "FL-1031",
-              "35/16\"",
+              "316",
               "5-6:12",
               "10'-2\"",
-              "8\"/i6\"",
+              "816",
               "26",
               "5.73#",
               "✓",
@@ -3003,10 +2797,10 @@
             ],
             [
               "FL-1032",
-              "3B3/i6\"",
+              "36",
               "712",
               "10'-2\"",
-              "8/16\"",
+              "8916",
               "29",
               "4.37#",
               "✓",
@@ -3014,10 +2808,10 @@
             ],
             [
               "FL-1032",
-              "33/16\"",
+              "3316",
               "7:12",
               "10'-2\"",
-              "8/16\"",
+              "8916",
               "26",
               "5.65#",
               "✓",
@@ -3028,7 +2822,7 @@
               "36\"",
               "8-9:12",
               "10'-2\"",
-              "87/6\"",
+              "876",
               "29",
               "4.31#",
               "✓",
@@ -3036,10 +2830,10 @@
             ],
             [
               "FL-1033",
-              "3Vi6\"",
+              "36\"",
               "8-9:12",
               "10'-2\"",
-              "87/16\"",
+              "8716",
               "26",
               "5.57#",
               "✓",
@@ -3047,10 +2841,10 @@
             ],
             [
               "FL-1034",
-              "28/16\"",
+              "2816",
               "10:12",
               "10'-2\"",
-              "85/16\"",
+              "8516",
               "29",
               "4.244",
               "✓",
@@ -3058,10 +2852,10 @@
             ],
             [
               "FL-1034",
-              "28/16\"",
+              "2816",
               "10:12",
               "10'-2\"",
-              "85/16\"",
+              "8516",
               "26",
               "5.49#",
               "✓",
@@ -3128,7 +2922,7 @@
         }
       ],
       "text": "Residential Pricing\nSlimline' Rake Trim\nDESCRIPTION PRICED PER EACH\nDIM \"A\" ROOF SLOPE LENGTH GIRTH GauceE WEIGHT GALVALUME* PLUS SIGNATURE* 200\nFL-1030.-3%/re\" 3-412 10'-2\" 8/6\" 29 4.50 v v\nFL-1030—-37/ig! 3-412 10'-2\" B5/ig!\" 26 5.82 v v\nFL-1031 3g\" 5-6:12 10-2\" 8/45\" 29 4.444 v v\nFL-AO31 ——-35/ig\" 5-612 10'-2\" 8/46\" 26 5,73 v v\nFL-1032-35/e\" 712 10-2\" 8/6\" 29 4.37# v v\nFL+1032 35/5\" 712 10-2\" 8/16\" 26 5.65# v v\nFL-1033 3/5\" 8-9:12 10'-2\" 87/6\" 29 4.31 v v\nFL-1033.—_3Y/se\" 8-9:12 10-2\" 87/16\" 26 5.57# v v\nFL+1034 — 2/ag!\" 10:12 10-2\" 85/r6\"\" 29 4.244 v v\nFL+1034 25/1\" 10:12 10'-2\" 85/16\" 26 5.49% v v\nSlimline' Rake Trim\nTope COLOR\n©\nDESCRIPTION PRICED PER EACH\nLENGTH WEIGHT EACH GALVALUME® PLUS SIGNATURE?' 200\nAG-454 10'-6\" 8%\" 29 4.31# v v\nAG-456 20'-2\" 8%\" 29) 8.62\" v v\nSubject to change without notice.\nWABIE. sce MBCI.COM for current information. EFFECTIVE JANUARY 2, 2026 20",
-      "repaired_cells": 2,
+      "repaired_cells": 18,
       "effective_date": "JANUARY 2, 2026",
       "catalog": "residential"
     },
@@ -3184,7 +2978,7 @@
               "10'-2\"",
               "10%\"",
               "29",
-              "5,55#",
+              "5.55#",
               "✓",
               "✓"
             ],
@@ -3246,7 +3040,7 @@
               "✓"
             ],
             [
-              "AG-26]1",
+              "AG-261",
               "10'-2\"",
               "10\"",
               "26",
@@ -3323,7 +3117,7 @@
             [
               "AG-263",
               "10'-2\"",
-              "gy\"",
+              "ayy\"",
               "26",
               "5.61#",
               "✓",
@@ -3332,7 +3126,7 @@
             [
               "AG-264",
               "20'-2\"",
-              "gy\"",
+              "ayy",
               "29",
               "8.42#",
               "✓",
@@ -3402,7 +3196,7 @@
             [
               "FL-338",
               "10'-2\"",
-              "a\"",
+              "3\"",
               "24",
               "2.45#",
               "v"
@@ -3613,7 +3407,7 @@
               "20'-2\"",
               "7 343\"",
               "26",
-              "9.384",
+              "9.38",
               "✓",
               "✓"
             ]
@@ -3786,7 +3580,7 @@
               "10'-2\"",
               "Dy\"",
               "26",
-              "1.784",
+              "1.78#",
               "✓",
               "✓"
             ]
@@ -3832,7 +3626,7 @@
             [
               "AG-279",
               "10'-6\"",
-              "Q54\"",
+              "O54\"",
               "29",
               "4.77#",
               "✓",
@@ -3928,40 +3722,30 @@
             500.0
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3"
+            "gauge",
+            "galvalume_plus",
+            "signature_200"
           ],
           "column_labels": [
-            "",
-            "",
-            ""
+            "GAUGE",
+            "GALVALUME® PLUS",
+            "SIGNATURE® 200"
           ],
           "column_groups": [
             "",
-            "",
-            ""
+            "PRICED PER SQUARE FOOT",
+            "PRICED PER SQUARE FOOT"
           ],
           "rows": [
             [
-              "DESCRIPTION",
-              "PRICED PER SQUARE FOOT",
-              ""
-            ],
-            [
-              "GAUGE",
-              "GALVALUME® PLUS",
-              "SIGNATURE® 200"
-            ],
-            [
               "29",
-              "v",
-              "v"
+              "✓",
+              "✓"
             ],
             [
               "26",
-              "v",
-              "v"
+              "✓",
+              "✓"
             ]
           ]
         }

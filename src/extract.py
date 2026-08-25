@@ -35,6 +35,14 @@ MULTILINE_MIN_H = 21.0
 # Share of a column's values that must look numeric before an odd one out is
 # re-read under the digit-only whitelist.
 NUMERIC_COLUMN_RATIO = 0.6
+# A column headed like this holds numbers whatever its values came back as.
+# Many tables carry only one or two rows -- a single closure strip, a single
+# grommet -- which is too little for the ratio below to mean anything, and
+# those are exactly the tables where a lone bad reading has no neighbours to
+# be corrected against.
+NUMERIC_HEADER = re.compile(
+    r"weight|gauge|yield|psi|\blbs?\b|thickness|per_(each|sq|square|100|1000|piece|ft|foot)",
+    re.I)
 # Only short values are re-read as numbers.  A longer one -- '.024" Alum ††'
 # in a column of plain gauges -- is mixed on purpose, and a digit-only retry
 # would silently throw its words away.
@@ -127,7 +135,7 @@ def _numeric_shaped(value):
     return bool(NUMERIC_VALUE.match(value.translate(CONFUSABLE)))
 
 
-def _repair_numeric_columns(rows, column_count, page_image):
+def _repair_numeric_columns(rows, columns, page_image):
     """Re-read stray values in columns that are otherwise all numbers.
 
     In this typeface "4" reads as "A" and "7" as "/" often enough that a
@@ -135,14 +143,17 @@ def _repair_numeric_columns(rows, column_count, page_image):
     numeric everywhere else is strong evidence about what the outlier is.
     """
     repaired = 0
-    for index in range(column_count):
+    for index, name in enumerate(columns):
         values = [(row[index][0], row[index][0].text) for row in rows
                   if index < len(row) and row[index][1] == 1 and row[index][0].text]
-        if len(values) < 3:
+        if not values:
             continue
-        shaped = [text for _, text in values if _numeric_shaped(text)]
-        if len(shaped) < NUMERIC_COLUMN_RATIO * len(values):
-            continue
+        if not NUMERIC_HEADER.search(name):
+            if len(values) < 3:
+                continue
+            shaped = [text for _, text in values if _numeric_shaped(text)]
+            if len(shaped) < NUMERIC_COLUMN_RATIO * len(values):
+                continue
         for cell, text in values:
             if NUMERIC_VALUE.match(text) or len(text) > NUMERIC_REPAIR_MAX_LEN:
                 continue
@@ -219,11 +230,10 @@ def extract_page(pdf_path, page_index):
                 in_header = False
                 data_rows.append(row)
 
-        result["repaired_cells"] += _repair_numeric_columns(
-            data_rows, column_count, image)
-
         columns, labels = _column_names(header_rows, column_count)
         groups = _group_names(header_rows, column_count, edges)
+        result["repaired_cells"] += _repair_numeric_columns(
+            data_rows, columns, image)
 
         # Which section banner this table sits under.
         section = ""

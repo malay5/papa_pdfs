@@ -20,8 +20,12 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
 
 # A value that mixes letters into an otherwise numeric shape is the signature
-# of this typeface's digit/letter confusions.
+# of this typeface's digit/letter confusions.  Values opening with "#" are
+# left alone: the fastener catalog is full of genuine part numbers like #17C.
 SUSPECT_MIXED = re.compile(r'(?<=\d)[A-Za-z]{1,2}$|^[A-Za-z]{1,2}(?=\d)')
+# Enough values sharing one shape for a lone dissenter to look like a misread
+# rather than a legitimately different entry.
+OUTLIER_MIN_AGREEING = 3
 # Stray punctuation where a digit belongs: "8/#" for "87#", "/0#" for "70#".
 # A slash between two digits is left alone -- these catalogs are full of
 # genuine fractions like 5/16" and 40-7/8".
@@ -50,6 +54,10 @@ def issues(document):
                                "table": table["index"], "row": row_index,
                                "column": columns[index] if index < len(columns) else "?",
                                "value": value}
+            for row_index, column, value in _outliers(table):
+                yield {"kind": "column-outlier", "page": page["page"],
+                       "table": table["index"], "row": row_index,
+                       "column": column, "value": value}
             for kind, detail in _table_issues(table):
                 yield {"kind": kind, "page": page["page"],
                        "table": table["index"], "detail": detail}
@@ -60,9 +68,40 @@ def _classify(value):
         return None
     if SUSPECT_PUNCT.search(value):
         return "stray-punctuation"
+    if value.startswith("#"):
+        return None
     if len(value) <= 6 and SUSPECT_MIXED.search(value):
         return "digit-letter-mix"
     return None
+
+
+def _shape(value):
+    """Collapse a value to its pattern of digits, letters and punctuation."""
+    out = []
+    for char in value:
+        out.append("9" if char.isdigit() else "a" if char.isalpha()
+                   else " " if char.isspace() else char)
+    return re.sub(r"9+", "9", re.sub(r"a+", "a", "".join(out)))
+
+
+def _outliers(table):
+    """Values whose shape disagrees with the rest of their column.
+
+    Catches misreads that are individually plausible -- '1 W xX 36"' sitting
+    in a column of '1" x 36"' -- which no per-value rule would question.
+    """
+    for index, name in enumerate(table["columns"]):
+        values = [(row_index, row[index]) for row_index, row in enumerate(table["rows"])
+                  if index < len(row) and row[index]]
+        if len(values) < OUTLIER_MIN_AGREEING + 1:
+            continue
+        counts = collections.Counter(_shape(value) for _, value in values)
+        shape, count = counts.most_common(1)[0]
+        if count < OUTLIER_MIN_AGREEING or count == len(values):
+            continue
+        for row_index, value in values:
+            if _shape(value) != shape:
+                yield row_index, name, value
 
 
 def _table_issues(table):

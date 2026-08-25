@@ -79,7 +79,7 @@
               "1285\"",
               "For Pop Rivets",
               "10/pkg",
-              "10#",
+              ".10#",
               "✓"
             ],
             [
@@ -88,16 +88,16 @@
               "1990\"",
               "For #14 or %4\" diameter Fastener in 16 to 12 gauge steel",
               "10/pke",
-              "10#",
+              ".10#",
               "✓"
             ],
             [
               "HW-611",
               "#1",
-              "2280\"",
+              ".2280\"",
               "For #14 or %\" diameter Fastener in 7/;¢\" to 3%\" thick steel",
               "10/pkg",
-              "10#",
+              ".10#",
               "✓"
             ]
           ]
@@ -112,95 +112,83 @@
             611.9
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4"
+            "part",
+            "size",
+            "weight_per_each",
+            "price"
           ],
           "column_labels": [
-            "",
-            "",
-            "",
-            ""
+            "PART #",
+            "SIZE",
+            "WEIGHT PER EACH",
+            "PRICE"
           ],
           "column_groups": [
-            "",
-            "",
-            "",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
             ""
           ],
           "rows": [
             [
-              "DESCRIPTION",
-              "",
-              "",
-              "PRICED PER EACH"
-            ],
-            [
-              "PART #",
-              "SIZE",
-              "WEIGHT PER EACH",
-              "PRICE"
-            ],
-            [
               "HW-604",
               "38\" Hex Drive",
               "10#",
-              "v"
+              "✓"
             ],
             [
               "HW-605",
               "5/16\" Hex Drive",
-              "10#",
-              "v"
+              ".10#",
+              "✓"
             ],
             [
               "HW-606",
               "Y%\" Hex Drive",
               "10#",
-              "v"
+              "✓"
             ],
             [
               "HW-612",
               "38\" Hex Drive - For Long Life Fasteners",
               "10#",
-              "v"
+              "✓"
             ],
             [
               "HW-613",
               "5/16\" Hex Drive - For Long Life Fasteners",
               "10#",
-              "v"
+              "✓"
             ],
             [
               "HW-590",
               "6\" Long - %\" Hex Drive",
               "12#",
-              "v"
+              "✓"
             ],
             [
               "HW-591",
               "6\" Long - 5/16\" Hex Drive",
               "11#",
-              "v"
+              "✓"
             ],
             [
               "HW-592",
               "6\" Long - %4\" Hex Drive",
-              "104",
-              "v"
+              "10#",
+              "✓"
             ],
             [
               "HW-615",
               "#2 Philips Insert with Magentic Holder",
               "10#",
-              "v"
+              "✓"
             ],
             [
               "HW-616",
               "#2 Quadrex Drive",
-              "10#",
-              "v"
+              ".10#",
+              "✓"
             ]
           ]
         }
@@ -230,47 +218,35 @@
             248.3
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4"
+            "part",
+            "size",
+            "weight_per_each",
+            "price"
           ],
           "column_labels": [
-            "",
-            "",
-            "",
-            ""
+            "PART #",
+            "SIZE",
+            "WEIGHT PER EACH",
+            "PRICE"
           ],
           "column_groups": [
-            "",
-            "",
-            "",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
             ""
           ],
           "rows": [
             [
-              "DESCRIPTION",
-              "",
-              "",
-              "PRICED PER EACH"
-            ],
-            [
-              "PART #",
-              "SIZE",
-              "WEIGHT PER EACH",
-              "PRICE"
-            ],
-            [
               "HW-607",
               "¥6\" (Driller)",
               ".10#",
-              "v"
+              "✓"
             ],
             [
               "HW-608",
               "34\" (Driller or Tapper)",
-              "10#",
-              "v"
+              ".10#",
+              "✓"
             ]
           ]
         },
@@ -284,41 +260,29 @@
             441.1
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4"
+            "part",
+            "description",
+            "weight_per_each",
+            "price"
           ],
           "column_labels": [
-            "",
-            "",
-            "",
-            ""
+            "PART #",
+            "DESCRIPTION",
+            "WEIGHT PER EACH",
+            "PRICE"
           ],
           "column_groups": [
-            "",
-            "",
-            "",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
             ""
           ],
           "rows": [
             [
-              "DESCRIPTION",
-              "",
-              "",
-              "PRICED PER EACH"
-            ],
-            [
-              "PART #",
-              "DESCRIPTION",
-              "WEIGHT PER EACH",
-              "PRICE"
-            ],
-            [
               "HW-609",
               "AC Screw Gun",
               "20.00#",
-              "v"
+              "✓"
             ]
           ]
         },
@@ -332,41 +296,29 @@
             630.1
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4"
+            "part",
+            "description",
+            "weight_per_each",
+            "price"
           ],
           "column_labels": [
-            "",
-            "",
-            "",
-            ""
+            "PART #",
+            "DESCRIPTION",
+            "WEIGHT PER EACH",
+            "PRICE"
           ],
           "column_groups": [
-            "",
-            "",
-            "",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
             ""
           ],
           "rows": [
             [
-              "DESCRIPTION",
-              "",
-              "",
-              "PRICED PER EACH"
-            ],
-            [
-              "PART #",
-              "DESCRIPTION",
-              "WEIGHT PER EACH",
-              "PRICE"
-            ],
-            [
               "HW-610",
               "Hand Pop Rivet Gun",
               "5.00#",
-              "v"
+              "✓"
             ]
           ]
         }
@@ -620,7 +572,7 @@
               "Driller",
               "23.00#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -660,7 +612,7 @@
           "rows": [
             [
               "#27",
-              "Shie\"",
+              "S/ie\"",
               "Long Life Driller",
               "23.80#",
               "✓",
@@ -748,7 +700,7 @@
           "rows": [
             [
               "#3A",
-              "S16\"",
+              "5/16\"",
               "Long Life Driller",
               "25.80#",
               "✓",
@@ -813,7 +765,7 @@
               "Long Life Driller",
               "29.70#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -856,7 +808,7 @@
           "rows": [
             [
               "#63B",
-              "3/16\"",
+              "5/16\"",
               "Driller",
               "410 Stainless",
               "11.10#",
@@ -952,12 +904,12 @@
           "rows": [
             [
               "#63A",
-              "S16\"",
+              "5/16\"",
               "Driller",
               "410 Stainless",
               "15.90#",
               "✓",
-              "vt"
+              "vi"
             ]
           ]
         }
@@ -1018,7 +970,7 @@
               "Driller",
               "13.00#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -1058,7 +1010,7 @@
           "rows": [
             [
               "#IA",
-              "3/16\"",
+              "5/16\"",
               "Driller",
               "13.00#",
               "✓",
@@ -1146,7 +1098,7 @@
           "rows": [
             [
               "#60",
-              "S16\"",
+              "5/16\"",
               "Driller",
               "13.00#",
               "✓",
@@ -1211,7 +1163,7 @@
               "Driller",
               "16.50#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -1251,7 +1203,7 @@
           "rows": [
             [
               "#67",
-              "3/16\"",
+              "5/16\"",
               "Driller",
               "16.00#",
               "✓",
@@ -1339,7 +1291,7 @@
           "rows": [
             [
               "#78",
-              "S16\"",
+              "5/16\"",
               "Long Life Driller",
               "24.30#",
               "✓",
@@ -1399,12 +1351,12 @@
           ],
           "rows": [
             [
-              "#06A",
+              "#6A",
               "5/16\"",
               "Driller",
               "30.00#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -1444,7 +1396,7 @@
           "rows": [
             [
               "#55",
-              "3/16\"",
+              "5/16\"",
               "Driller",
               "13.00#",
               "✓",
@@ -1532,7 +1484,7 @@
           "rows": [
             [
               "#1C",
-              "S16\"",
+              "5/16\"",
               "Driller",
               "14.40#",
               "✓",
@@ -1597,7 +1549,7 @@
               "Driller",
               "14.70#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -1637,7 +1589,7 @@
           "rows": [
             [
               "#1D",
-              "3/16\"",
+              "5/16\"",
               "Driller",
               "17.60#",
               "✓",
@@ -1725,7 +1677,7 @@
           "rows": [
             [
               "#1E",
-              "S16\"",
+              "5/16\"",
               "Long Life Driller",
               "19.20#",
               "✓",
@@ -1790,7 +1742,7 @@
               "Driller",
               "17.00#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -1830,7 +1782,7 @@
           "rows": [
             [
               "#142",
-              "3/16\"",
+              "5/16\"",
               "Driller",
               "19.10",
               "✓",
@@ -1918,7 +1870,7 @@
           "rows": [
             [
               "#5",
-              "S/ie\"",
+              "5/16\"",
               "Shoulder",
               "8.80#",
               "✓",
@@ -2111,7 +2063,7 @@
           "rows": [
             [
               "#4",
-              "S16\"",
+              "5/16\"",
               "Long Life Lap",
               "21.70#",
               "✓",
@@ -2220,7 +2172,7 @@
           "rows": [
             [
               "#38",
-              "3/16\"",
+              "5/16\"",
               "Lap",
               "16.00#",
               "✓",
@@ -2311,12 +2263,12 @@
           "rows": [
             [
               "#18D",
-              "S16\"",
+              "5/16\"",
               "AB",
               "304 Stainless",
               "16.50#",
               "✓",
-              "vt"
+              "vi"
             ]
           ]
         }
@@ -2377,7 +2329,7 @@
               "AB",
               "16.40#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -2417,7 +2369,7 @@
           "rows": [
             [
               "#2A",
-              "3/16\"",
+              "5/16\"",
               "Long Life AB",
               "24.10#",
               "✓",
@@ -2513,7 +2465,7 @@
               "304 Stainless",
               "19.30#",
               "✓",
-              "vt"
+              "vi"
             ]
           ]
         }
@@ -2574,7 +2526,7 @@
               "B",
               "17.70#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -2614,7 +2566,7 @@
           "rows": [
             [
               "#46",
-              "3/16\"",
+              "5/16\"",
               "Long Life B",
               "24.00#",
               "✓",
@@ -2767,7 +2719,7 @@
               "A",
               "26.30#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -2807,7 +2759,7 @@
           "rows": [
             [
               "#34",
-              "36\"",
+              "34\"",
               "A",
               "29.90#",
               "✓",
@@ -2960,7 +2912,7 @@
               "Wood Fastener",
               "13.10#",
               "✓",
-              "v t"
+              "vt"
             ]
           ]
         },
@@ -3088,7 +3040,7 @@
           "rows": [
             [
               "#9A",
-              "S16\"",
+              "5/16\"",
               "Long Life Wood Fastener",
               "14.20#",
               "✓",
@@ -3153,7 +3105,7 @@
               "Long Life Wood Fastener",
               "18.30#",
               "✓",
-              "vi"
+              "vt"
             ]
           ]
         },
@@ -3193,7 +3145,7 @@
           "rows": [
             [
               "#9B",
-              "3/16\"",
+              "5/16\"",
               "Long Life Wood Fastener",
               "17.50#",
               "✓",
@@ -3289,7 +3241,7 @@
               "410 Stainless",
               "9.30#",
               "✓",
-              "vt"
+              "vi"
             ]
           ]
         }
@@ -3394,7 +3346,7 @@
           "rows": [
             [
               "#45",
-              "36\"",
+              "34\"",
               "Long Life with Masonary Tapping\nThreds",
               "25.00#",
               "✓",
@@ -3649,47 +3601,33 @@
             718.1
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4",
-            "column_5"
+            "part",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
           ],
           "column_labels": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "PART #",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
           ],
           "column_groups": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
           ],
           "rows": [
-            [
-              "DESCRIPTION",
-              "",
-              "",
-              "PRICED PER THOUSAND",
-              ""
-            ],
-            [
-              "PART #",
-              "TYPE",
-              "WEIGHT PER 1000",
-              "PLATED",
-              "PAINTED"
-            ],
             [
               "#35",
               "Washer",
               "20.00#",
-              "v",
-              "v ft"
+              "✓",
+              "vt"
             ]
           ]
         }
@@ -3764,46 +3702,32 @@
             372.2
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4",
-            "column_5"
+            "part",
+            "material",
+            "weight_per_1000",
+            "plated",
+            "painted"
           ],
           "column_labels": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "PART #",
+            "MATERIAL",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
           ],
           "column_groups": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
           ],
           "rows": [
-            [
-              "DESCRIPTION",
-              "",
-              "",
-              "PRICED PER THOUSAND",
-              ""
-            ],
-            [
-              "PART #",
-              "MATERIAL",
-              "WEIGHT PER 1000",
-              "PLATED",
-              "PAINTED"
-            ],
             [
               "#14A",
               "Stainless Steel",
               "3.00#",
-              "v",
+              "✓",
               "vt"
             ]
           ]
@@ -4037,7 +3961,7 @@
           "rows": [
             [
               "#25",
-              "\"h6e\"",
+              "5/16\"",
               "Stitch",
               "7 OO#",
               "✓",
@@ -4159,46 +4083,32 @@
             368.0
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4",
-            "column_5"
+            "part",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
           ],
           "column_labels": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "PART #",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
           ],
           "column_groups": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
           ],
           "rows": [
-            [
-              "DESCRIPTION",
-              "",
-              "",
-              "PRICED PER THOUSAND",
-              ""
-            ],
-            [
-              "PART #",
-              "TYPE",
-              "WEIGHT PER 1000",
-              "PLATED",
-              "PAINTED"
-            ],
             [
               "#11",
               "Nail Drive",
               "25.00#",
-              "v",
+              "✓",
               "N/A"
             ]
           ]
@@ -4213,46 +4123,32 @@
             530.0
           ],
           "columns": [
-            "column_1",
-            "column_2",
-            "column_3",
-            "column_4",
-            "column_5"
+            "part",
+            "head_size",
+            "weight_per_1000",
+            "plated",
+            "painted"
           ],
           "column_labels": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "PART #",
+            "HEAD SIZE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
           ],
           "column_groups": [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
           ],
           "rows": [
             [
-              "DESCRIPTION",
-              "",
-              "",
-              "PRICED PER THOUSAND",
-              ""
-            ],
-            [
-              "PART #",
-              "HEAD SIZE",
-              "WEIGHT PER 1000",
-              "PLATED",
-              "PAINTED"
-            ],
-            [
               "#23",
-              "5/16\"",
+              "S/i6\"",
               "22.50#",
-              "v",
+              "✓",
               "N/A"
             ]
           ]
