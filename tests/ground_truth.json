@@ -2,42 +2,232 @@
   "note": "Values read by eye off the rendered pages, used to tune and regression-test the OCR settings. Page numbers are 1-based.",
   "cases": [
     {
-      "catalog": "commercial-industrial", "page": 4, "table": 0,
-      "columns": ["gauge", "coverage", "yield_psi", "weight_per_sq", "finish", "price"],
+      "catalog": "commercial-industrial",
+      "page": 4,
+      "table": 0,
+      "columns": [
+        "gauge",
+        "coverage",
+        "yield_psi",
+        "weight_per_sq",
+        "finish",
+        "price"
+      ],
       "rows": [
-        ["29", "36\"", "80,000", "70#", "Galvalume® Plus ¤", "✓"],
-        ["29", "36\"", "80,000", "70#", "Signature® 200", "✓"],
-        ["26", "36\"", "80,000", "87#", "Galvalume® Plus ¤", "✓"],
-        ["26", "36\"", "80,000", "87#", "Signature® 200", "✓"],
-        ["26", "36\"", "80,000", "87#", "Signature® 300", "✓"],
-        ["24", "36\"", "50,000", "109#", "Galvalume® Plus ¤", "✓"],
-        ["24", "36\"", "50,000", "109#", "Signature® 200", "✓"],
-        ["24", "36\"", "50,000", "109#", "Signature® 300", "✓"],
-        ["22", "36\"", "50,000", "139#", "Galvalume® Plus ¤", "✓"],
-        ["22", "36\"", "50,000", "139#", "Signature® 200", "Please Inquire"],
-        [".024\" Alum ††", "36\"", "18,000", "41#", "Signature® 200 - Polar White Only", "✓"]
+        [
+          "29",
+          "36\"",
+          "80,000",
+          "70#",
+          "Galvalume® Plus ¤",
+          "✓"
+        ],
+        [
+          "29",
+          "36\"",
+          "80,000",
+          "70#",
+          "Signature® 200",
+          "✓"
+        ],
+        [
+          "26",
+          "36\"",
+          "80,000",
+          "87#",
+          "Galvalume® Plus ¤",
+          "✓"
+        ],
+        [
+          "26",
+          "36\"",
+          "80,000",
+          "87#",
+          "Signature® 200",
+          "✓"
+        ],
+        [
+          "26",
+          "36\"",
+          "80,000",
+          "87#",
+          "Signature® 300",
+          "✓"
+        ],
+        [
+          "24",
+          "36\"",
+          "50,000",
+          "109#",
+          "Galvalume® Plus ¤",
+          "✓"
+        ],
+        [
+          "24",
+          "36\"",
+          "50,000",
+          "109#",
+          "Signature® 200",
+          "✓"
+        ],
+        [
+          "24",
+          "36\"",
+          "50,000",
+          "109#",
+          "Signature® 300",
+          "✓"
+        ],
+        [
+          "22",
+          "36\"",
+          "50,000",
+          "139#",
+          "Galvalume® Plus ¤",
+          "✓"
+        ],
+        [
+          "22",
+          "36\"",
+          "50,000",
+          "139#",
+          "Signature® 200",
+          "Please Inquire"
+        ],
+        [
+          ".024\" Alum ††",
+          "36\"",
+          "18,000",
+          "41#",
+          "Signature® 200 - Polar White Only",
+          "✓"
+        ]
       ]
     },
     {
-      "catalog": "agricultural", "page": 6, "table": 0,
-      "columns": ["gauge", "coverage", "yield_psi", "weight_per_sq", "finish", "price"],
+      "catalog": "agricultural",
+      "page": 6,
+      "table": 0,
+      "columns": [
+        "gauge",
+        "coverage",
+        "yield_psi",
+        "weight_per_sq",
+        "finish",
+        "price"
+      ],
       "rows": [
-        ["29", "36\"", "80,000", "67#", "Galvalume® Plus ¤", "✓"],
-        ["29", "36\"", "80,000", "71#", "Galvanized", "✓"],
-        ["29", "36\"", "80,000", "67#", "Signature® 200", "✓"],
-        ["26", "36\"", "80,000", "84#", "Galvalume® Plus ¤", "✓"],
-        ["26", "36\"", "80,000", "84#", "Signature® 200", "✓"],
-        [".024 Alum ††", "36\"", "18,000", "41#", "Signature® 200 – Polar White Only", "✓"]
+        [
+          "29",
+          "36\"",
+          "80,000",
+          "67#",
+          "Galvalume® Plus ¤",
+          "✓"
+        ],
+        [
+          "29",
+          "36\"",
+          "80,000",
+          "71#",
+          "Galvanized",
+          "✓"
+        ],
+        [
+          "29",
+          "36\"",
+          "80,000",
+          "67#",
+          "Signature® 200",
+          "✓"
+        ],
+        [
+          "26",
+          "36\"",
+          "80,000",
+          "84#",
+          "Galvalume® Plus ¤",
+          "✓"
+        ],
+        [
+          "26",
+          "36\"",
+          "80,000",
+          "84#",
+          "Signature® 200",
+          "✓"
+        ],
+        [
+          ".024 Alum ††",
+          "36\"",
+          "18,000",
+          "41#",
+          "Signature® 200 – Polar White Only",
+          "✓"
+        ]
       ]
     },
     {
-      "catalog": "fasteners", "page": 4,
-      "columns": ["part", "description", "weight_per_each", "price"],
+      "catalog": "fasteners",
+      "page": 4,
+      "table": 0,
+      "columns": [
+        "part",
+        "size",
+        "weight_per_each",
+        "price"
+      ],
       "rows": [
-        ["HW-607", "⅝\" (Driller)", ".10#", "✓"],
-        ["HW-608", "¾\" (Driller or Tapper)", ".10#", "✓"],
-        ["HW-609", "AC Screw Gun", "20.00#", "✓"],
-        ["HW-610", "Hand Pop Rivet Gun", "5.00#", "✓"]
+        [
+          "HW-607",
+          "⅝\" (Driller)",
+          ".10#",
+          "✓"
+        ],
+        [
+          "HW-608",
+          "¾\" (Driller or Tapper)",
+          ".10#",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "catalog": "fasteners",
+      "page": 4,
+      "table": 1,
+      "columns": [
+        "part",
+        "description",
+        "weight_per_each",
+        "price"
+      ],
+      "rows": [
+        [
+          "HW-609",
+          "AC Screw Gun",
+          "20.00#",
+          "✓"
+        ]
+      ]
+    },
+    {
+      "catalog": "fasteners",
+      "page": 4,
+      "table": 2,
+      "columns": [
+        "part",
+        "description",
+        "weight_per_each",
+        "price"
+      ],
+      "rows": [
+        [
+          "HW-610",
+          "Hand Pop Rivet Gun",
+          "5.00#",
+          "✓"
+        ]
       ]
     }
   ]

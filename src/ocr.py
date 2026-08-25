@@ -159,7 +159,7 @@ def cell_image(page_image, bbox, dpi=DPI):
 # Ink heights to retry a short cell at.  Which height reads a given glyph
 # correctly is not predictable -- "87#" is right at 32 and wrong at 40, "41#"
 # the other way round -- so short cells are read at several and voted on.
-VOTE_INK_HEIGHTS = (26, 40)
+VOTE_INK_HEIGHTS = (22, 26, 40)
 # Longer cells are read correctly at any of these heights, so they get one
 # pass.  Below this length a stray character changes the value's meaning.
 VOTE_MAX_LEN = 12
@@ -203,12 +203,18 @@ def _vote(candidates, preferred):
             tally[text] = tally.get(text, 0) + 1
     if not tally:
         return preferred
-    return max(tally, key=lambda text: (
+    winner = max(tally, key=lambda text: (
         tally[text],
         sum(ch.isalnum() for ch in text),
         len(text),
         text == preferred,
     ))
+    # A leading decimal point is a pixel or two of ink that the larger scales
+    # drop, so it loses a straight vote even though it changes the value by a
+    # factor of a thousand.  OCR does not invent one, so any pass that saw it
+    # is believed.
+    dotted = "." + winner
+    return dotted if dotted in tally else winner
 
 
 def read_cell(page_image, bbox, dpi=DPI, multiline=False, whitelist=None,
@@ -229,7 +235,7 @@ def read_numeric_cell(page_image, bbox, dpi=DPI):
     pass has read a digit as the letter it resembles in this typeface.
     """
     return read_cell(page_image, bbox, dpi, whitelist=NUMERIC_CHARS,
-                     ink_heights=(26, 40, 48))
+                     ink_heights=(22, 26, 34, 40))
 
 
 def read_block(page_image, bbox=None, dpi=DPI, psm=6):

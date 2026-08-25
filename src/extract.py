@@ -40,7 +40,16 @@ NUMERIC_COLUMN_RATIO = 0.6
 # would silently throw its words away.
 NUMERIC_REPAIR_MAX_LEN = 6
 
-NUMERIC_VALUE = re.compile(r'^[\d][\d,]*(\.\d+)?\s*[#"\']?$')
+NUMERIC_VALUE = re.compile(r'^\.?\d[\d,]*(\.\d+)?\s*[#"\']?$')
+# How this typeface's digits come back when OCR misreads them.  Used only to
+# judge whether a *column* is numeric -- never to rewrite a value, which is
+# what the digit-only re-read is for.
+CONFUSABLE = str.maketrans({
+    "O": "0", "o": "0", "Q": "0", "D": "0",
+    "l": "1", "I": "1", "i": "1", "T": "1", "|": "1", "/": "1",
+    "Z": "2", "A": "4", "S": "5", "s": "5", "G": "6", "b": "6", "B": "8",
+    "t": "#", "H": "#", "%": "#", "f": "#",
+})
 # Prices are withheld in these public catalogs: an available product carries a
 # checkmark, which OCR sees as a lone "v" or similar.
 CHECKMARK_OCR = re.compile(r'^[vVyY√✓~+\'"·.,|/\\-]{1,2}$')
@@ -101,11 +110,21 @@ def _group_names(header_rows, column_count, edges):
     return groups
 
 
-def _is_header_band(band, table, index):
+def _is_header_band(band):
     """Header bands are the shaded strips leading a table, plus its span rule."""
-    if index == 0 and len(band.cells) < len(table.bands[-1].cells):
-        return True  # the reconstructed span header
-    return band.dark
+    return band.is_span_header or band.dark
+
+
+def _numeric_shaped(value):
+    """True if `value` is a number, or a number this typeface could misread as.
+
+    The gate below has to work on a column that OCR got *wrong*, so asking
+    how many values are already numeric is circular: a column where most
+    weights came back as words would never qualify for the repair that fixes
+    exactly that.  Asking how many are numeric up to a known confusion does
+    not have that hole.
+    """
+    return bool(NUMERIC_VALUE.match(value.translate(CONFUSABLE)))
 
 
 def _repair_numeric_columns(rows, column_count, page_image):
@@ -121,8 +140,8 @@ def _repair_numeric_columns(rows, column_count, page_image):
                   if index < len(row) and row[index][1] == 1 and row[index][0].text]
         if len(values) < 3:
             continue
-        numeric = [text for _, text in values if NUMERIC_VALUE.match(text)]
-        if len(numeric) < NUMERIC_COLUMN_RATIO * len(values):
+        shaped = [text for _, text in values if _numeric_shaped(text)]
+        if len(shaped) < NUMERIC_COLUMN_RATIO * len(values):
             continue
         for cell, text in values:
             if NUMERIC_VALUE.match(text) or len(text) > NUMERIC_REPAIR_MAX_LEN:
@@ -194,7 +213,7 @@ def extract_page(pdf_path, page_index):
         header_rows, data_rows = [], []
         in_header = True
         for index, (band, row) in enumerate(bands):
-            if in_header and _is_header_band(band, table, index):
+            if in_header and _is_header_band(band):
                 header_rows.append(row)
             else:
                 in_header = False

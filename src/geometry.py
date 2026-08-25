@@ -72,6 +72,12 @@ class Band:
     top: float
     bottom: float
     cells: list = field(default_factory=list)
+    # True for the ruled, un-shaded header rebuilt by _span_header.  It has to
+    # be recorded rather than inferred: it is the one header band with no fill
+    # to recognise it by, and counting its cells does not distinguish it -- a
+    # data row shades only its alternate columns and can land on the same
+    # count.
+    is_span_header: bool = False
 
     @property
     def dark(self):
@@ -240,7 +246,7 @@ def _span_header(bands, rules):
     if not segments:
         return None
     cells = [Cell(s[0], y, s[2], first.top) for s in sorted(segments)]
-    return Band(y, first.top, cells)
+    return Band(y, first.top, cells, is_span_header=True)
 
 
 def tables(page):
