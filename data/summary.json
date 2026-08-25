@@ -1,0 +1,67 @@
+[
+  {
+    "catalog": "agricultural",
+    "source": "d036be56-AgriculturalPricingCatalog.pdf",
+    "pages": 44,
+    "tables": 103,
+    "table_rows": 267,
+    "values": 1456,
+    "repaired_cells": 10,
+    "pages_with_errors": [],
+    "effective_dates": [
+      "JANUARY 7, 2026"
+    ]
+  },
+  {
+    "catalog": "architectural",
+    "source": "fc001095-ArchitecturalPricingCatalog.pdf",
+    "pages": 65,
+    "tables": 161,
+    "table_rows": 477,
+    "values": 3249,
+    "repaired_cells": 24,
+    "pages_with_errors": [],
+    "effective_dates": [
+      "JANUARY 16, 2026"
+    ]
+  },
+  {
+    "catalog": "commercial-industrial",
+    "source": "b95f639b-CommercialIndustriaPricingCatalog.pdf",
+    "pages": 73,
+    "tables": 160,
+    "table_rows": 670,
+    "values": 4229,
+    "repaired_cells": 51,
+    "pages_with_errors": [],
+    "effective_dates": [
+      "JANUARY 6, 2026"
+    ]
+  },
+  {
+    "catalog": "fasteners",
+    "source": "9541471a-FastenerCatalog.pdf",
+    "pages": 25,
+    "tables": 84,
+    "table_rows": 112,
+    "values": 607,
+    "repaired_cells": 0,
+    "pages_with_errors": [],
+    "effective_dates": [
+      "APRIL 2, 2025"
+    ]
+  },
+  {
+    "catalog": "residential",
+    "source": "428f34ec-ResidentialPricingGuideCatalog.pdf",
+    "pages": 26,
+    "tables": 57,
+    "table_rows": 171,
+    "values": 1093,
+    "repaired_cells": 9,
+    "pages_with_errors": [],
+    "effective_dates": [
+      "JANUARY 2, 2026"
+    ]
+  }
+]

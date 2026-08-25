@@ -1,0 +1,622 @@
+catalog,page,section,table,row,column,column_label,column_group,value
+fasteners,3,Drill Bit,0,0,part,PART #,DESCRIPTION,HW-601
+fasteners,3,Drill Bit,0,0,wire_guage,"WIRE
+GUAGE",DESCRIPTION,#30
+fasteners,3,Drill Bit,0,0,decimal_size,"DECIMAL
+SIZE",DESCRIPTION,"1285"""
+fasteners,3,Drill Bit,0,0,use,USE,DESCRIPTION,For Pop Rivets
+fasteners,3,Drill Bit,0,0,carton_qty,"CARTON
+QTy",DESCRIPTION,10/pkg
+fasteners,3,Drill Bit,0,0,weight_per_each,"WEIGHT
+PER EACH",DESCRIPTION,10#
+fasteners,3,Drill Bit,0,0,price,PRICE,,✓
+fasteners,3,Drill Bit,0,1,part,PART #,DESCRIPTION,HW-603
+fasteners,3,Drill Bit,0,1,wire_guage,"WIRE
+GUAGE",DESCRIPTION,#8
+fasteners,3,Drill Bit,0,1,decimal_size,"DECIMAL
+SIZE",DESCRIPTION,"1990"""
+fasteners,3,Drill Bit,0,1,use,USE,DESCRIPTION,"For #14 or %4"" diameter Fastener in 16 to 12 gauge steel"
+fasteners,3,Drill Bit,0,1,carton_qty,"CARTON
+QTy",DESCRIPTION,10/pke
+fasteners,3,Drill Bit,0,1,weight_per_each,"WEIGHT
+PER EACH",DESCRIPTION,10#
+fasteners,3,Drill Bit,0,1,price,PRICE,,✓
+fasteners,3,Drill Bit,0,2,part,PART #,DESCRIPTION,HW-611
+fasteners,3,Drill Bit,0,2,wire_guage,"WIRE
+GUAGE",DESCRIPTION,#1
+fasteners,3,Drill Bit,0,2,decimal_size,"DECIMAL
+SIZE",DESCRIPTION,"2280"""
+fasteners,3,Drill Bit,0,2,use,USE,DESCRIPTION,"For #14 or %"" diameter Fastener in 7/;¢"" to 3%"" thick steel"
+fasteners,3,Drill Bit,0,2,carton_qty,"CARTON
+QTy",DESCRIPTION,10/pkg
+fasteners,3,Drill Bit,0,2,weight_per_each,"WEIGHT
+PER EACH",DESCRIPTION,10#
+fasteners,3,Drill Bit,0,2,price,PRICE,,✓
+fasteners,3,Magnetic Sockets,1,0,column_1,,,DESCRIPTION
+fasteners,3,Magnetic Sockets,1,0,column_4,,,PRICED PER EACH
+fasteners,3,Magnetic Sockets,1,1,column_1,,,PART #
+fasteners,3,Magnetic Sockets,1,1,column_2,,,SIZE
+fasteners,3,Magnetic Sockets,1,1,column_3,,,WEIGHT PER EACH
+fasteners,3,Magnetic Sockets,1,1,column_4,,,PRICE
+fasteners,3,Magnetic Sockets,1,2,column_1,,,HW-604
+fasteners,3,Magnetic Sockets,1,2,column_2,,,"38"" Hex Drive"
+fasteners,3,Magnetic Sockets,1,2,column_3,,,10#
+fasteners,3,Magnetic Sockets,1,2,column_4,,,v
+fasteners,3,Magnetic Sockets,1,3,column_1,,,HW-605
+fasteners,3,Magnetic Sockets,1,3,column_2,,,"5/16"" Hex Drive"
+fasteners,3,Magnetic Sockets,1,3,column_3,,,10#
+fasteners,3,Magnetic Sockets,1,3,column_4,,,v
+fasteners,3,Magnetic Sockets,1,4,column_1,,,HW-606
+fasteners,3,Magnetic Sockets,1,4,column_2,,,"Y%"" Hex Drive"
+fasteners,3,Magnetic Sockets,1,4,column_3,,,10#
+fasteners,3,Magnetic Sockets,1,4,column_4,,,v
+fasteners,3,Magnetic Sockets,1,5,column_1,,,HW-612
+fasteners,3,Magnetic Sockets,1,5,column_2,,,"38"" Hex Drive - For Long Life Fasteners"
+fasteners,3,Magnetic Sockets,1,5,column_3,,,10#
+fasteners,3,Magnetic Sockets,1,5,column_4,,,v
+fasteners,3,Magnetic Sockets,1,6,column_1,,,HW-613
+fasteners,3,Magnetic Sockets,1,6,column_2,,,"5/16"" Hex Drive - For Long Life Fasteners"
+fasteners,3,Magnetic Sockets,1,6,column_3,,,10#
+fasteners,3,Magnetic Sockets,1,6,column_4,,,v
+fasteners,3,Magnetic Sockets,1,7,column_1,,,HW-590
+fasteners,3,Magnetic Sockets,1,7,column_2,,,"6"" Long - %"" Hex Drive"
+fasteners,3,Magnetic Sockets,1,7,column_3,,,12#
+fasteners,3,Magnetic Sockets,1,7,column_4,,,v
+fasteners,3,Magnetic Sockets,1,8,column_1,,,HW-591
+fasteners,3,Magnetic Sockets,1,8,column_2,,,"6"" Long - 5/16"" Hex Drive"
+fasteners,3,Magnetic Sockets,1,8,column_3,,,11#
+fasteners,3,Magnetic Sockets,1,8,column_4,,,v
+fasteners,3,Magnetic Sockets,1,9,column_1,,,HW-592
+fasteners,3,Magnetic Sockets,1,9,column_2,,,"6"" Long - %4"" Hex Drive"
+fasteners,3,Magnetic Sockets,1,9,column_3,,,104
+fasteners,3,Magnetic Sockets,1,9,column_4,,,v
+fasteners,3,Magnetic Sockets,1,10,column_1,,,HW-615
+fasteners,3,Magnetic Sockets,1,10,column_2,,,#2 Philips Insert with Magentic Holder
+fasteners,3,Magnetic Sockets,1,10,column_3,,,10#
+fasteners,3,Magnetic Sockets,1,10,column_4,,,v
+fasteners,3,Magnetic Sockets,1,11,column_1,,,HW-616
+fasteners,3,Magnetic Sockets,1,11,column_2,,,#2 Quadrex Drive
+fasteners,3,Magnetic Sockets,1,11,column_3,,,10#
+fasteners,3,Magnetic Sockets,1,11,column_4,,,v
+fasteners,4,Impact Socket,0,0,column_1,,,DESCRIPTION
+fasteners,4,Impact Socket,0,0,column_4,,,PRICED PER EACH
+fasteners,4,Impact Socket,0,1,column_1,,,PART #
+fasteners,4,Impact Socket,0,1,column_2,,,SIZE
+fasteners,4,Impact Socket,0,1,column_3,,,WEIGHT PER EACH
+fasteners,4,Impact Socket,0,1,column_4,,,PRICE
+fasteners,4,Impact Socket,0,2,column_1,,,HW-607
+fasteners,4,Impact Socket,0,2,column_2,,,"¥6"" (Driller)"
+fasteners,4,Impact Socket,0,2,column_3,,,.10#
+fasteners,4,Impact Socket,0,2,column_4,,,v
+fasteners,4,Impact Socket,0,3,column_1,,,HW-608
+fasteners,4,Impact Socket,0,3,column_2,,,"34"" (Driller or Tapper)"
+fasteners,4,Impact Socket,0,3,column_3,,,10#
+fasteners,4,Impact Socket,0,3,column_4,,,v
+fasteners,4,Screw Gun,1,0,column_1,,,DESCRIPTION
+fasteners,4,Screw Gun,1,0,column_4,,,PRICED PER EACH
+fasteners,4,Screw Gun,1,1,column_1,,,PART #
+fasteners,4,Screw Gun,1,1,column_2,,,DESCRIPTION
+fasteners,4,Screw Gun,1,1,column_3,,,WEIGHT PER EACH
+fasteners,4,Screw Gun,1,1,column_4,,,PRICE
+fasteners,4,Screw Gun,1,2,column_1,,,HW-609
+fasteners,4,Screw Gun,1,2,column_2,,,AC Screw Gun
+fasteners,4,Screw Gun,1,2,column_3,,,20.00#
+fasteners,4,Screw Gun,1,2,column_4,,,v
+fasteners,4,Pop Rivet Gun,2,0,column_1,,,DESCRIPTION
+fasteners,4,Pop Rivet Gun,2,0,column_4,,,PRICED PER EACH
+fasteners,4,Pop Rivet Gun,2,1,column_1,,,PART #
+fasteners,4,Pop Rivet Gun,2,1,column_2,,,DESCRIPTION
+fasteners,4,Pop Rivet Gun,2,1,column_3,,,WEIGHT PER EACH
+fasteners,4,Pop Rivet Gun,2,1,column_4,,,PRICE
+fasteners,4,Pop Rivet Gun,2,2,column_1,,,HW-610
+fasteners,4,Pop Rivet Gun,2,2,column_2,,,Hand Pop Rivet Gun
+fasteners,4,Pop Rivet Gun,2,2,column_3,,,5.00#
+fasteners,4,Pop Rivet Gun,2,2,column_4,,,v
+fasteners,5,Fastener #17C,0,0,part,PART #,DESCRIPTION,#17C
+fasteners,5,Fastener #17C,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,5,Fastener #17C,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,5,Fastener #17C,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,11.90#
+fasteners,5,Fastener #17C,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,5,Fastener #17C,0,0,painted,PAINTED,PRICED PER THOUSAND,vi
+fasteners,5,Fastener #17,1,0,part,PART #,DESCRIPTION,#17
+fasteners,5,Fastener #17,1,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,5,Fastener #17,1,0,type,TYPE,DESCRIPTION,Driller
+fasteners,5,Fastener #17,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,13.00#
+fasteners,5,Fastener #17,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,5,Fastener #17,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,5,Fastener #17A,2,0,part,PART #,DESCRIPTION,#17A
+fasteners,5,Fastener #17A,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,5,Fastener #17A,2,0,type,TYPE,DESCRIPTION,Driller
+fasteners,5,Fastener #17A,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,15.50#
+fasteners,5,Fastener #17A,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,5,Fastener #17A,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,5,Fastener #17B,3,0,part,PART #,DESCRIPTION,#17B
+fasteners,5,Fastener #17B,3,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,5,Fastener #17B,3,0,type,TYPE,DESCRIPTION,Driller
+fasteners,5,Fastener #17B,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,17.00#
+fasteners,5,Fastener #17B,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,5,Fastener #17B,3,0,painted,PAINTED,PRICED PER THOUSAND,vi
+fasteners,6,Fastener #28,0,0,part,PART #,DESCRIPTION,#28
+fasteners,6,Fastener #28,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,6,Fastener #28,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,6,Fastener #28,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,23.00#
+fasteners,6,Fastener #28,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,6,Fastener #28,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,6,Fastener #27,1,0,part,PART #,DESCRIPTION,#27
+fasteners,6,Fastener #27,1,0,head_size,HEAD SIZE,DESCRIPTION,"Shie"""
+fasteners,6,Fastener #27,1,0,type,TYPE,DESCRIPTION,Long Life Driller
+fasteners,6,Fastener #27,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,23.80#
+fasteners,6,Fastener #27,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,6,Fastener #27,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,6,Fastener #3,2,0,part,PART #,DESCRIPTION,#3
+fasteners,6,Fastener #3,2,0,head_size,HEAD SIZE,DESCRIPTION,"S/i6"""
+fasteners,6,Fastener #3,2,0,type,TYPE,DESCRIPTION,Long Life Driller
+fasteners,6,Fastener #3,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,21.50#
+fasteners,6,Fastener #3,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,6,Fastener #3,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,6,Fastener #3A,3,0,part,PART #,DESCRIPTION,#3A
+fasteners,6,Fastener #3A,3,0,head_size,HEAD SIZE,DESCRIPTION,"S16"""
+fasteners,6,Fastener #3A,3,0,type,TYPE,DESCRIPTION,Long Life Driller
+fasteners,6,Fastener #3A,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,25.80#
+fasteners,6,Fastener #3A,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,6,Fastener #3A,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,7,Fastener #58,0,0,part,PART #,DESCRIPTION,#58
+fasteners,7,Fastener #58,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,7,Fastener #58,0,0,type,TYPE,DESCRIPTION,Long Life Driller
+fasteners,7,Fastener #58,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,29.70#
+fasteners,7,Fastener #58,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,7,Fastener #58,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,7,Fastener #63B,1,0,part,PART #,DESCRIPTION,#63B
+fasteners,7,Fastener #63B,1,0,head_size,HEAD SIZE,DESCRIPTION,"3/16"""
+fasteners,7,Fastener #63B,1,0,type,TYPE,DESCRIPTION,Driller
+fasteners,7,Fastener #63B,1,0,material,MATERIAL,DESCRIPTION,410 Stainless
+fasteners,7,Fastener #63B,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,11.10#
+fasteners,7,Fastener #63B,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,7,Fastener #63B,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,7,Fastener #63,2,0,part,PART #,DESCRIPTION,#63
+fasteners,7,Fastener #63,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,7,Fastener #63,2,0,type,TYPE,DESCRIPTION,Driller
+fasteners,7,Fastener #63,2,0,material,MATERIAL,DESCRIPTION,410 Stainless
+fasteners,7,Fastener #63,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,12.00#
+fasteners,7,Fastener #63,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,7,Fastener #63,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,7,Fastener #63A,3,0,part,PART #,DESCRIPTION,#63A
+fasteners,7,Fastener #63A,3,0,head_size,HEAD SIZE,DESCRIPTION,"S16"""
+fasteners,7,Fastener #63A,3,0,type,TYPE,DESCRIPTION,Driller
+fasteners,7,Fastener #63A,3,0,material,MATERIAL,DESCRIPTION,410 Stainless
+fasteners,7,Fastener #63A,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,15.90#
+fasteners,7,Fastener #63A,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,7,Fastener #63A,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,8,Fastener #29,0,0,part,PART #,DESCRIPTION,#29
+fasteners,8,Fastener #29,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,8,Fastener #29,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,8,Fastener #29,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,13.00#
+fasteners,8,Fastener #29,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,8,Fastener #29,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,8,Fastener #1A,1,0,part,PART #,DESCRIPTION,#IA
+fasteners,8,Fastener #1A,1,0,head_size,HEAD SIZE,DESCRIPTION,"3/16"""
+fasteners,8,Fastener #1A,1,0,type,TYPE,DESCRIPTION,Driller
+fasteners,8,Fastener #1A,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,13.00#
+fasteners,8,Fastener #1A,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,8,Fastener #1A,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,8,Fastener #61,2,0,part,PART #,DESCRIPTION,#61
+fasteners,8,Fastener #61,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,8,Fastener #61,2,0,type,TYPE,DESCRIPTION,Driller
+fasteners,8,Fastener #61,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,11.80#
+fasteners,8,Fastener #61,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,8,Fastener #61,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,8,Fastener #60,3,0,part,PART #,DESCRIPTION,#60
+fasteners,8,Fastener #60,3,0,head_size,HEAD SIZE,DESCRIPTION,"S16"""
+fasteners,8,Fastener #60,3,0,type,TYPE,DESCRIPTION,Driller
+fasteners,8,Fastener #60,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,13.00#
+fasteners,8,Fastener #60,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,8,Fastener #60,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,9,Fastener #6,0,0,part,PART #,DESCRIPTION,#6
+fasteners,9,Fastener #6,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,9,Fastener #6,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,9,Fastener #6,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,16.50#
+fasteners,9,Fastener #6,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,9,Fastener #6,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,9,Fastener #67,1,0,part,PART #,DESCRIPTION,#67
+fasteners,9,Fastener #67,1,0,head_size,HEAD SIZE,DESCRIPTION,"3/16"""
+fasteners,9,Fastener #67,1,0,type,TYPE,DESCRIPTION,Driller
+fasteners,9,Fastener #67,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,16.00#
+fasteners,9,Fastener #67,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,9,Fastener #67,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,9,Fastener #69,2,0,part,PART #,DESCRIPTION,#69
+fasteners,9,Fastener #69,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,9,Fastener #69,2,0,type,TYPE,DESCRIPTION,Driller
+fasteners,9,Fastener #69,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,16.80#
+fasteners,9,Fastener #69,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,9,Fastener #69,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,9,Fastener #78,3,0,part,PART #,DESCRIPTION,#78
+fasteners,9,Fastener #78,3,0,head_size,HEAD SIZE,DESCRIPTION,"S16"""
+fasteners,9,Fastener #78,3,0,type,TYPE,DESCRIPTION,Long Life Driller
+fasteners,9,Fastener #78,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,24.30#
+fasteners,9,Fastener #78,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,9,Fastener #78,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,10,Fastener #6A,0,0,part,PART #,DESCRIPTION,#06A
+fasteners,10,Fastener #6A,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,10,Fastener #6A,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,10,Fastener #6A,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,30.00#
+fasteners,10,Fastener #6A,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,10,Fastener #6A,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,10,Fastener #55,1,0,part,PART #,DESCRIPTION,#55
+fasteners,10,Fastener #55,1,0,head_size,HEAD SIZE,DESCRIPTION,"3/16"""
+fasteners,10,Fastener #55,1,0,type,TYPE,DESCRIPTION,Driller
+fasteners,10,Fastener #55,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,13.00#
+fasteners,10,Fastener #55,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,10,Fastener #55,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,10,Fastener #70,2,0,part,PART #,DESCRIPTION,#70
+fasteners,10,Fastener #70,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,10,Fastener #70,2,0,type,TYPE,DESCRIPTION,Driller
+fasteners,10,Fastener #70,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,15.00#
+fasteners,10,Fastener #70,2,0,plated,PLATED,PRICED PER EACH,✓
+fasteners,10,Fastener #70,2,0,painted,PAINTED,PRICED PER EACH,vt
+fasteners,10,Fastener #1C,3,0,part,PART #,DESCRIPTION,#1C
+fasteners,10,Fastener #1C,3,0,head_size,HEAD SIZE,DESCRIPTION,"S16"""
+fasteners,10,Fastener #1C,3,0,type,TYPE,DESCRIPTION,Driller
+fasteners,10,Fastener #1C,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,14.40#
+fasteners,10,Fastener #1C,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,10,Fastener #1C,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,11,Fastener #1,0,0,part,PART #,DESCRIPTION,#1
+fasteners,11,Fastener #1,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,11,Fastener #1,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,11,Fastener #1,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,14.70#
+fasteners,11,Fastener #1,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,11,Fastener #1,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,11,Fastener #1D,1,0,part,PART #,DESCRIPTION,#1D
+fasteners,11,Fastener #1D,1,0,head_size,HEAD SIZE,DESCRIPTION,"3/16"""
+fasteners,11,Fastener #1D,1,0,type,TYPE,DESCRIPTION,Driller
+fasteners,11,Fastener #1D,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,17.60#
+fasteners,11,Fastener #1D,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,11,Fastener #1D,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,11,Fastener #1F,2,0,part,PART #,DESCRIPTION,#1F
+fasteners,11,Fastener #1F,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,11,Fastener #1F,2,0,type,TYPE,DESCRIPTION,Driller
+fasteners,11,Fastener #1F,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,23.00#
+fasteners,11,Fastener #1F,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,11,Fastener #1F,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,11,Fastener #1E,3,0,part,PART #,DESCRIPTION,#1E
+fasteners,11,Fastener #1E,3,0,head_size,HEAD SIZE,DESCRIPTION,"S16"""
+fasteners,11,Fastener #1E,3,0,type,TYPE,DESCRIPTION,Long Life Driller
+fasteners,11,Fastener #1E,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,19.20#
+fasteners,11,Fastener #1E,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,11,Fastener #1E,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,12,Fastener #1B,0,0,part,PART #,DESCRIPTION,#1B
+fasteners,12,Fastener #1B,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,12,Fastener #1B,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,12,Fastener #1B,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,17.00#
+fasteners,12,Fastener #1B,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,12,Fastener #1B,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,12,Fastener #142,1,0,part,PART #,DESCRIPTION,#142
+fasteners,12,Fastener #142,1,0,head_size,HEAD SIZE,DESCRIPTION,"3/16"""
+fasteners,12,Fastener #142,1,0,type,TYPE,DESCRIPTION,Driller
+fasteners,12,Fastener #142,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,19.10
+fasteners,12,Fastener #142,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,12,Fastener #142,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,12,Fastener #1616,2,0,part,PART #,DESCRIPTION,#1616
+fasteners,12,Fastener #1616,2,0,head_size,HEAD SIZE,DESCRIPTION,"2/16"""
+fasteners,12,Fastener #1616,2,0,type,TYPE,DESCRIPTION,Driller
+fasteners,12,Fastener #1616,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,O2#
+fasteners,12,Fastener #1616,2,0,plated,PLATED,PRICED PER EACH,✓
+fasteners,12,Fastener #1616,2,0,painted,PAINTED,PRICED PER EACH,N/A
+fasteners,12,Fastener #5,3,0,part,PART #,DESCRIPTION,#5
+fasteners,12,Fastener #5,3,0,head_size,HEAD SIZE,DESCRIPTION,"S/ie"""
+fasteners,12,Fastener #5,3,0,type,TYPE,DESCRIPTION,Shoulder
+fasteners,12,Fastener #5,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,8.80#
+fasteners,12,Fastener #5,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,12,Fastener #5,3,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,13,Fastener #43L,0,0,part,PART #,DESCRIPTION,#43L
+fasteners,13,Fastener #43L,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,13,Fastener #43L,0,0,type,TYPE,DESCRIPTION,Long Life Driller
+fasteners,13,Fastener #43L,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,61.00#
+fasteners,13,Fastener #43L,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,13,Fastener #43L,0,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,13,Fastener #44L,1,0,part,PART #,DESCRIPTION,#44L
+fasteners,13,Fastener #44L,1,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,13,Fastener #44L,1,0,type,TYPE,DESCRIPTION,Long Life Lap
+fasteners,13,Fastener #44L,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,20.20#
+fasteners,13,Fastener #44L,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,13,Fastener #44L,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,13,Fastener #4A,2,0,part,PART #,DESCRIPTION,#4A
+fasteners,13,Fastener #4A,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,13,Fastener #4A,2,0,type,TYPE,DESCRIPTION,Lap
+fasteners,13,Fastener #4A,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,16.00#
+fasteners,13,Fastener #4A,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,13,Fastener #4A,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,13,Fastener #4,3,0,part,PART #,DESCRIPTION,#4
+fasteners,13,Fastener #4,3,0,head_size,HEAD SIZE,DESCRIPTION,"S16"""
+fasteners,13,Fastener #4,3,0,type,TYPE,DESCRIPTION,Long Life Lap
+fasteners,13,Fastener #4,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,21.70#
+fasteners,13,Fastener #4,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,13,Fastener #4,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,14,Fastener #64,0,0,part,PART #,DESCRIPTION,#64
+fasteners,14,Fastener #64,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,14,Fastener #64,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,14,Fastener #64,0,0,material,MATERIAL,DESCRIPTION,410 Stainless
+fasteners,14,Fastener #64,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,12.10#
+fasteners,14,Fastener #64,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,14,Fastener #64,0,0,painted,PAINTED,PRICED PER THOUSAND,v tf
+fasteners,14,Fastener #38,1,0,part,PART #,DESCRIPTION,#38
+fasteners,14,Fastener #38,1,0,head_size,HEAD SIZE,DESCRIPTION,"3/16"""
+fasteners,14,Fastener #38,1,0,type,TYPE,DESCRIPTION,Lap
+fasteners,14,Fastener #38,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,16.00#
+fasteners,14,Fastener #38,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,14,Fastener #38,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,14,Fastener #32,2,0,part,PART #,DESCRIPTION,#32
+fasteners,14,Fastener #32,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,14,Fastener #32,2,0,type,TYPE,DESCRIPTION,Long Life AB
+fasteners,14,Fastener #32,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,28.20#
+fasteners,14,Fastener #32,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,14,Fastener #32,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,14,Fastener #18D,3,0,part,PART #,DESCRIPTION,#18D
+fasteners,14,Fastener #18D,3,0,head_size,HEAD SIZE,DESCRIPTION,"S16"""
+fasteners,14,Fastener #18D,3,0,type,TYPE,DESCRIPTION,AB
+fasteners,14,Fastener #18D,3,0,material,MATERIAL,DESCRIPTION,304 Stainless
+fasteners,14,Fastener #18D,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,16.50#
+fasteners,14,Fastener #18D,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,14,Fastener #18D,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,15,Fastener #19A,0,0,part,PART #,DESCRIPTION,#19A
+fasteners,15,Fastener #19A,0,0,head_size,HEAD SIZE,DESCRIPTION,"3p"""
+fasteners,15,Fastener #19A,0,0,type,TYPE,DESCRIPTION,AB
+fasteners,15,Fastener #19A,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,16.40#
+fasteners,15,Fastener #19A,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,15,Fastener #19A,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,15,Fastener #2A,1,0,part,PART #,DESCRIPTION,#2A
+fasteners,15,Fastener #2A,1,0,head_size,HEAD SIZE,DESCRIPTION,"3/16"""
+fasteners,15,Fastener #2A,1,0,type,TYPE,DESCRIPTION,Long Life AB
+fasteners,15,Fastener #2A,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,24.10#
+fasteners,15,Fastener #2A,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,15,Fastener #2A,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,15,Fastener #2B,2,0,part,PART #,DESCRIPTION,#2B
+fasteners,15,Fastener #2B,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,15,Fastener #2B,2,0,type,TYPE,DESCRIPTION,Long Life AB
+fasteners,15,Fastener #2B,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,O2#
+fasteners,15,Fastener #2B,2,0,plated,PLATED,PRICED PER EACH,✓
+fasteners,15,Fastener #2B,2,0,painted,PAINTED,PRICED PER EACH,✓
+fasteners,15,Fastener #203,3,0,part,PART #,DESCRIPTION,#203
+fasteners,15,Fastener #203,3,0,head_size,HEAD SIZE,DESCRIPTION,"34"""
+fasteners,15,Fastener #203,3,0,type,TYPE,DESCRIPTION,Driller
+fasteners,15,Fastener #203,3,0,material,MATERIAL,DESCRIPTION,304 Stainless
+fasteners,15,Fastener #203,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,19.30#
+fasteners,15,Fastener #203,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,15,Fastener #203,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,16,Fastener #10,0,0,part,PART #,DESCRIPTION,#10
+fasteners,16,Fastener #10,0,0,head_size,HEAD SIZE,DESCRIPTION,"3/gl"""
+fasteners,16,Fastener #10,0,0,type,TYPE,DESCRIPTION,B
+fasteners,16,Fastener #10,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,17.70#
+fasteners,16,Fastener #10,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,16,Fastener #10,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,16,Fastener #46,1,0,part,PART #,DESCRIPTION,#46
+fasteners,16,Fastener #46,1,0,head_size,HEAD SIZE,DESCRIPTION,"3/16"""
+fasteners,16,Fastener #46,1,0,type,TYPE,DESCRIPTION,Long Life B
+fasteners,16,Fastener #46,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,24.00#
+fasteners,16,Fastener #46,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,16,Fastener #46,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,16,Fastener #18,2,0,part,PART #,DESCRIPTION,#18
+fasteners,16,Fastener #18,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,16,Fastener #18,2,0,type,TYPE,DESCRIPTION,A
+fasteners,16,Fastener #18,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,16.50#
+fasteners,16,Fastener #18,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,16,Fastener #18,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,16,Fastener #18B,3,0,part,PART #,DESCRIPTION,#18B
+fasteners,16,Fastener #18B,3,0,head_size,HEAD SIZE,DESCRIPTION,"34"""
+fasteners,16,Fastener #18B,3,0,type,TYPE,DESCRIPTION,A
+fasteners,16,Fastener #18B,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,21.00#
+fasteners,16,Fastener #18B,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,16,Fastener #18B,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,17,Fastener #18C,0,0,part,PART #,DESCRIPTION,#18C
+fasteners,17,Fastener #18C,0,0,head_size,HEAD SIZE,DESCRIPTION,"3p"""
+fasteners,17,Fastener #18C,0,0,type,TYPE,DESCRIPTION,A
+fasteners,17,Fastener #18C,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,26.30#
+fasteners,17,Fastener #18C,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,17,Fastener #18C,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,17,Fastener #34,1,0,part,PART #,DESCRIPTION,#34
+fasteners,17,Fastener #34,1,0,head_size,HEAD SIZE,DESCRIPTION,"36"""
+fasteners,17,Fastener #34,1,0,type,TYPE,DESCRIPTION,A
+fasteners,17,Fastener #34,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,29.90#
+fasteners,17,Fastener #34,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,17,Fastener #34,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,17,Fastener #8A,2,0,part,PART #,DESCRIPTION,#8A
+fasteners,17,Fastener #8A,2,0,head_size,HEAD SIZE,DESCRIPTION,"YA"""
+fasteners,17,Fastener #8A,2,0,type,TYPE,DESCRIPTION,Wood Fastener
+fasteners,17,Fastener #8A,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,8./0#
+fasteners,17,Fastener #8A,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,17,Fastener #8A,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,17,Fastener #8,3,0,part,PART #,DESCRIPTION,#8
+fasteners,17,Fastener #8,3,0,head_size,HEAD SIZE,DESCRIPTION,"Vy"""
+fasteners,17,Fastener #8,3,0,type,TYPE,DESCRIPTION,Wood Fastener
+fasteners,17,Fastener #8,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,10.80#
+fasteners,17,Fastener #8,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,17,Fastener #8,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,18,Fastener #8B,0,0,part,PART #,DESCRIPTION,#8B
+fasteners,18,Fastener #8B,0,0,head_size,HEAD SIZE,DESCRIPTION,"Vy"""
+fasteners,18,Fastener #8B,0,0,type,TYPE,DESCRIPTION,Wood Fastener
+fasteners,18,Fastener #8B,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,13.10#
+fasteners,18,Fastener #8B,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,18,Fastener #8B,0,0,painted,PAINTED,PRICED PER THOUSAND,v t
+fasteners,18,Fastener #8C,1,0,part,PART #,DESCRIPTION,#8C
+fasteners,18,Fastener #8C,1,0,head_size,HEAD SIZE,DESCRIPTION,"YY,"""
+fasteners,18,Fastener #8C,1,0,type,TYPE,DESCRIPTION,Wood Fastener
+fasteners,18,Fastener #8C,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,15.40#
+fasteners,18,Fastener #8C,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,18,Fastener #8C,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,18,Fastener #9D,2,0,part,PART #,DESCRIPTION,#9D
+fasteners,18,Fastener #9D,2,0,head_size,HEAD SIZE,DESCRIPTION,"YA"""
+fasteners,18,Fastener #9D,2,0,type,TYPE,DESCRIPTION,Wood Fastener
+fasteners,18,Fastener #9D,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,17.60#
+fasteners,18,Fastener #9D,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,18,Fastener #9D,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,18,Fastener #9A,3,0,part,PART #,DESCRIPTION,#9A
+fasteners,18,Fastener #9A,3,0,head_size,HEAD SIZE,DESCRIPTION,"S16"""
+fasteners,18,Fastener #9A,3,0,type,TYPE,DESCRIPTION,Long Life Wood Fastener
+fasteners,18,Fastener #9A,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,14.20#
+fasteners,18,Fastener #9A,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,18,Fastener #9A,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,19,Fastener #9,0,0,part,PART #,DESCRIPTION,#9
+fasteners,19,Fastener #9,0,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,19,Fastener #9,0,0,type,TYPE,DESCRIPTION,Long Life Wood Fastener
+fasteners,19,Fastener #9,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,18.30#
+fasteners,19,Fastener #9,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,19,Fastener #9,0,0,painted,PAINTED,PRICED PER THOUSAND,vi
+fasteners,19,Fastener #9B,1,0,part,PART #,DESCRIPTION,#9B
+fasteners,19,Fastener #9B,1,0,head_size,HEAD SIZE,DESCRIPTION,"3/16"""
+fasteners,19,Fastener #9B,1,0,type,TYPE,DESCRIPTION,Long Life Wood Fastener
+fasteners,19,Fastener #9B,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,17.50#
+fasteners,19,Fastener #9B,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,19,Fastener #9B,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,19,Fastener #9C,2,0,part,PART #,DESCRIPTION,#9C
+fasteners,19,Fastener #9C,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
+fasteners,19,Fastener #9C,2,0,type,TYPE,DESCRIPTION,Long Life Wood Fastener
+fasteners,19,Fastener #9C,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,20.00#
+fasteners,19,Fastener #9C,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,19,Fastener #9C,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,19,Fastener #108,3,0,part,PART #,DESCRIPTION,#108
+fasteners,19,Fastener #108,3,0,head_size,HEAD SIZE,DESCRIPTION,"Vy"""
+fasteners,19,Fastener #108,3,0,type,TYPE,DESCRIPTION,Wood
+fasteners,19,Fastener #108,3,0,material,MATERIAL,DESCRIPTION,410 Stainless
+fasteners,19,Fastener #108,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,9.30#
+fasteners,19,Fastener #108,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,19,Fastener #108,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,20,Fastener #205,0,0,part,PART #,DESCRIPTION,#205
+fasteners,20,Fastener #205,0,0,head_size,HEAD SIZE,DESCRIPTION,"Vy"""
+fasteners,20,Fastener #205,0,0,type,TYPE,DESCRIPTION,Wood
+fasteners,20,Fastener #205,0,0,material,MATERIAL,DESCRIPTION,410 Stainless
+fasteners,20,Fastener #205,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,9.50#
+fasteners,20,Fastener #205,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,20,Fastener #205,0,0,painted,PAINTED,PRICED PER THOUSAND,v tf
+fasteners,20,Fastener #45,1,0,part,PART #,DESCRIPTION,#45
+fasteners,20,Fastener #45,1,0,head_size,HEAD SIZE,DESCRIPTION,"36"""
+fasteners,20,Fastener #45,1,0,type,TYPE,DESCRIPTION,Long Life with Masonary Tapping Threds
+fasteners,20,Fastener #45,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,25.00#
+fasteners,20,Fastener #45,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,20,Fastener #45,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,20,Fastener #16,2,0,part,PART #,DESCRIPTION,#16
+fasteners,20,Fastener #16,2,0,head_size,HEAD SIZE,DESCRIPTION,#2 Quadrex Drive
+fasteners,20,Fastener #16,2,0,type,TYPE,DESCRIPTION,Driller
+fasteners,20,Fastener #16,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,12.00#
+fasteners,20,Fastener #16,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,20,Fastener #16,2,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,20,Fastener #12,3,0,part,PART #,DESCRIPTION,#12
+fasteners,20,Fastener #12,3,0,head_size,HEAD SIZE,DESCRIPTION,#2 Phillips
+fasteners,20,Fastener #12,3,0,type,TYPE,DESCRIPTION,Driller
+fasteners,20,Fastener #12,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,7 OO#
+fasteners,20,Fastener #12,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,20,Fastener #12,3,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,21,Fastener #12A,0,0,part,PART #,DESCRIPTION,#12A
+fasteners,21,Fastener #12A,0,0,head_size,HEAD SIZE,DESCRIPTION,#2 Quadrex Drive
+fasteners,21,Fastener #12A,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,21,Fastener #12A,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,7 OO#
+fasteners,21,Fastener #12A,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,21,Fastener #12A,0,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,21,Fastener #13,1,0,part,PART #,DESCRIPTION,#13
+fasteners,21,Fastener #13,1,0,head_size,HEAD SIZE,DESCRIPTION,#2 Phillips
+fasteners,21,Fastener #13,1,0,type,TYPE,DESCRIPTION,A
+fasteners,21,Fastener #13,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,7.10#
+fasteners,21,Fastener #13,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,21,Fastener #13,1,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,21,Fastener #13A,2,0,part,PART #,DESCRIPTION,#13A
+fasteners,21,Fastener #13A,2,0,head_size,HEAD SIZE,DESCRIPTION,#2 Quadrex Drive
+fasteners,21,Fastener #13A,2,0,type,TYPE,DESCRIPTION,A
+fasteners,21,Fastener #13A,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,6.30#
+fasteners,21,Fastener #13A,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,21,Fastener #13A,2,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,21,Fastener #35,3,0,column_1,,,DESCRIPTION
+fasteners,21,Fastener #35,3,0,column_4,,,PRICED PER THOUSAND
+fasteners,21,Fastener #35,3,1,column_1,,,PART #
+fasteners,21,Fastener #35,3,1,column_2,,,TYPE
+fasteners,21,Fastener #35,3,1,column_3,,,WEIGHT PER 1000
+fasteners,21,Fastener #35,3,1,column_4,,,PLATED
+fasteners,21,Fastener #35,3,1,column_5,,,PAINTED
+fasteners,21,Fastener #35,3,2,column_1,,,#35
+fasteners,21,Fastener #35,3,2,column_2,,,Washer
+fasteners,21,Fastener #35,3,2,column_3,,,20.00#
+fasteners,21,Fastener #35,3,2,column_4,,,v
+fasteners,21,Fastener #35,3,2,column_5,,,v ft
+fasteners,22,Fastener #14,0,0,part,PART #,DESCRIPTION,#14
+fasteners,22,Fastener #14,0,0,material,MATERIAL,DESCRIPTION,Stainless Steel
+fasteners,22,Fastener #14,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,2.90#
+fasteners,22,Fastener #14,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,22,Fastener #14,0,0,painted_standard_color,"PAINTED
+STANDARD COLOR",PRICED PER THOUSAND,vt
+fasteners,22,Fastener #14,0,0,painted_special_color,"PAINTED
+SPECIAL COLOR",PRICED PER THOUSAND,vt
+fasteners,22,Fastener #14A,1,0,column_1,,,DESCRIPTION
+fasteners,22,Fastener #14A,1,0,column_4,,,PRICED PER THOUSAND
+fasteners,22,Fastener #14A,1,1,column_1,,,PART #
+fasteners,22,Fastener #14A,1,1,column_2,,,MATERIAL
+fasteners,22,Fastener #14A,1,1,column_3,,,WEIGHT PER 1000
+fasteners,22,Fastener #14A,1,1,column_4,,,PLATED
+fasteners,22,Fastener #14A,1,1,column_5,,,PAINTED
+fasteners,22,Fastener #14A,1,2,column_1,,,#14A
+fasteners,22,Fastener #14A,1,2,column_2,,,Stainless Steel
+fasteners,22,Fastener #14A,1,2,column_3,,,3.00#
+fasteners,22,Fastener #14A,1,2,column_4,,,v
+fasteners,22,Fastener #14A,1,2,column_5,,,vt
+fasteners,22,Fastener #209,2,0,part,PART #,DESCRIPTION,#209
+fasteners,22,Fastener #209,2,0,head_size,HEAD SIZE,DESCRIPTION,#3 Phillips
+fasteners,22,Fastener #209,2,0,type,TYPE,DESCRIPTION,Driller
+fasteners,22,Fastener #209,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,28.00#
+fasteners,22,Fastener #209,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,22,Fastener #209,2,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,22,Fastener #210,3,0,part,PART #,DESCRIPTION,#210
+fasteners,22,Fastener #210,3,0,head_size,HEAD SIZE,DESCRIPTION,#3 Phillips
+fasteners,22,Fastener #210,3,0,type,TYPE,DESCRIPTION,Driller
+fasteners,22,Fastener #210,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,24.00#
+fasteners,22,Fastener #210,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,22,Fastener #210,3,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,23,Fastener #211,0,0,part,PART #,DESCRIPTION,#211
+fasteners,23,Fastener #211,0,0,head_size,HEAD SIZE,DESCRIPTION,#3 Phillips
+fasteners,23,Fastener #211,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,23,Fastener #211,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,30.00#
+fasteners,23,Fastener #211,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,23,Fastener #211,0,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,23,Fastener #15D,1,0,part,PART #,DESCRIPTION,#15D
+fasteners,23,Fastener #15D,1,0,head_size,HEAD SIZE,DESCRIPTION,#3 Phillips
+fasteners,23,Fastener #15D,1,0,type,TYPE,DESCRIPTION,Driller
+fasteners,23,Fastener #15D,1,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,43.00#
+fasteners,23,Fastener #15D,1,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,23,Fastener #15D,1,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,23,Fastener #25,2,0,part,PART #,DESCRIPTION,#25
+fasteners,23,Fastener #25,2,0,head_size,HEAD SIZE,DESCRIPTION,"""h6e"""
+fasteners,23,Fastener #25,2,0,type,TYPE,DESCRIPTION,Stitch
+fasteners,23,Fastener #25,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,7 OO#
+fasteners,23,Fastener #25,2,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,23,Fastener #25,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,23,Fastener #24,3,0,part,PART #,DESCRIPTION,#24
+fasteners,23,Fastener #24,3,0,head_size,HEAD SIZE,DESCRIPTION,"YW"""
+fasteners,23,Fastener #24,3,0,type,TYPE,DESCRIPTION,Driller
+fasteners,23,Fastener #24,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,4.00#
+fasteners,23,Fastener #24,3,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,23,Fastener #24,3,0,painted,PAINTED,PRICED PER THOUSAND,vt
+fasteners,24,Fastener #21,0,0,part,PART #,DESCRIPTION,#21
+fasteners,24,Fastener #21,0,0,head_size,HEAD SIZE,DESCRIPTION,#2 Phillips
+fasteners,24,Fastener #21,0,0,type,TYPE,DESCRIPTION,Driller
+fasteners,24,Fastener #21,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,13.20#
+fasteners,24,Fastener #21,0,0,plated,PLATED,PRICED PER THOUSAND,✓
+fasteners,24,Fastener #21,0,0,painted,PAINTED,PRICED PER THOUSAND,N/A
+fasteners,24,Fastener #11,1,0,column_1,,,DESCRIPTION
+fasteners,24,Fastener #11,1,0,column_4,,,PRICED PER THOUSAND
+fasteners,24,Fastener #11,1,1,column_1,,,PART #
+fasteners,24,Fastener #11,1,1,column_2,,,TYPE
+fasteners,24,Fastener #11,1,1,column_3,,,WEIGHT PER 1000
+fasteners,24,Fastener #11,1,1,column_4,,,PLATED
+fasteners,24,Fastener #11,1,1,column_5,,,PAINTED
+fasteners,24,Fastener #11,1,2,column_1,,,#11
+fasteners,24,Fastener #11,1,2,column_2,,,Nail Drive
+fasteners,24,Fastener #11,1,2,column_3,,,25.00#
+fasteners,24,Fastener #11,1,2,column_4,,,v
+fasteners,24,Fastener #11,1,2,column_5,,,N/A
+fasteners,24,Fastener #23,2,0,column_1,,,DESCRIPTION
+fasteners,24,Fastener #23,2,0,column_4,,,PRICED PER THOUSAND
+fasteners,24,Fastener #23,2,1,column_1,,,PART #
+fasteners,24,Fastener #23,2,1,column_2,,,HEAD SIZE
+fasteners,24,Fastener #23,2,1,column_3,,,WEIGHT PER 1000
+fasteners,24,Fastener #23,2,1,column_4,,,PLATED
+fasteners,24,Fastener #23,2,1,column_5,,,PAINTED
+fasteners,24,Fastener #23,2,2,column_1,,,#23
+fasteners,24,Fastener #23,2,2,column_2,,,"5/16"""
+fasteners,24,Fastener #23,2,2,column_3,,,22.50#
+fasteners,24,Fastener #23,2,2,column_4,,,v
+fasteners,24,Fastener #23,2,2,column_5,,,N/A

@@ -1,0 +1,1131 @@
+catalog,page,section,table,row,column,column_label,column_group,value
+residential,4,5V Crimp,0,0,gauge,GAUGE,DESCRIPTION,29
+residential,4,5V Crimp,0,0,panel_coverage,PANEL COVERAGE,DESCRIPTION,"24"""
+residential,4,5V Crimp,0,0,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+residential,4,5V Crimp,0,0,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,71#
+residential,4,5V Crimp,0,0,finish,FINISH*,DESCRIPTION,Galvalume' Plus &
+residential,4,5V Crimp,0,0,price,PRICE,,✓
+residential,4,5V Crimp,0,1,gauge,GAUGE,DESCRIPTION,26
+residential,4,5V Crimp,0,1,panel_coverage,PANEL COVERAGE,DESCRIPTION,"24"""
+residential,4,5V Crimp,0,1,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+residential,4,5V Crimp,0,1,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,82#
+residential,4,5V Crimp,0,1,finish,FINISH*,DESCRIPTION,Galvalume' Plus &
+residential,4,5V Crimp,0,1,price,PRICE,,✓
+residential,4,5V Crimp,0,2,gauge,GAUGE,DESCRIPTION,26
+residential,4,5V Crimp,0,2,panel_coverage,PANEL COVERAGE,DESCRIPTION,"24"""
+residential,4,5V Crimp,0,2,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+residential,4,5V Crimp,0,2,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,82#
+residential,4,5V Crimp,0,2,finish,FINISH*,DESCRIPTION,"Signature"" 200"
+residential,4,5V Crimp,0,2,price,PRICE,,Please Inquire
+residential,6,Slimline',0,0,gauge,GAUGE,DESCRIPTION,29
+residential,6,Slimline',0,0,panel_coverage,PANEL COVERAGE,DESCRIPTION,"16"""
+residential,6,Slimline',0,0,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
+residential,6,Slimline',0,0,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,7O#
+residential,6,Slimline',0,0,finish,FINISH*,DESCRIPTION,Galvalume' Plus &
+residential,6,Slimline',0,0,price,PRICE,,✓
+residential,6,Slimline',0,1,gauge,GAUGE,DESCRIPTION,29
+residential,6,Slimline',0,1,panel_coverage,PANEL COVERAGE,DESCRIPTION,"16"""
+residential,6,Slimline',0,1,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
+residential,6,Slimline',0,1,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,7O#
+residential,6,Slimline',0,1,finish,FINISH*,DESCRIPTION,Signature°® 200
+residential,6,Slimline',0,1,price,PRICE,,✓
+residential,6,Slimline',0,2,gauge,GAUGE,DESCRIPTION,26
+residential,6,Slimline',0,2,panel_coverage,PANEL COVERAGE,DESCRIPTION,"16"""
+residential,6,Slimline',0,2,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
+residential,6,Slimline',0,2,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,99#
+residential,6,Slimline',0,2,finish,FINISH*,DESCRIPTION,Galvalume' Plus &
+residential,6,Slimline',0,2,price,PRICE,,✓
+residential,6,Slimline',0,3,gauge,GAUGE,DESCRIPTION,26
+residential,6,Slimline',0,3,panel_coverage,PANEL COVERAGE,DESCRIPTION,"16"""
+residential,6,Slimline',0,3,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
+residential,6,Slimline',0,3,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,99#
+residential,6,Slimline',0,3,finish,FINISH*,DESCRIPTION,Signature' 200
+residential,6,Slimline',0,3,price,PRICE,,✓
+residential,7,Flat Sheet Selection Chart,0,0,column_1,,,Width
+residential,7,Flat Sheet Selection Chart,0,0,column_2,,,"40 -7/8"""
+residential,7,Flat Sheet Selection Chart,0,0,column_3,,,"42-3/4"""
+residential,7,Flat Sheet Selection Chart,0,0,column_4,,,"48 - 3/8"""
+residential,7,Flat Sheet Selection Chart,0,1,column_1,,,Gauge
+residential,7,Flat Sheet Selection Chart,0,1,column_2,,,29 GA
+residential,7,Flat Sheet Selection Chart,0,1,column_3,,,26 GA
+residential,7,Flat Sheet Selection Chart,0,1,column_4,,,24 GA
+residential,7,Flat Sheet Selection Chart,0,2,column_1,,,Weight per LF
+residential,7,Flat Sheet Selection Chart,0,2,column_2,,,2.00#
+residential,7,Flat Sheet Selection Chart,0,2,column_3,,,3.324
+residential,7,Flat Sheet Selection Chart,0,2,column_4,,,3.75#
+residential,7,Flat Sheet Selection Chart,0,3,column_1,,,Signature® 200 (Polyester)
+residential,7,Flat Sheet Selection Chart,1,0,column_1,,,Polar White
+residential,7,Flat Sheet Selection Chart,1,1,column_1,,,Signature® 200
+residential,7,Flat Sheet Selection Chart,2,0,column_1,,,Wine Red
+residential,7,Flat Sheet Selection Chart,2,0,column_3,,,7
+residential,7,Flat Sheet Selection Chart,2,0,column_4,,,>
+residential,7,Flat Sheet Selection Chart,2,1,column_1,,,Signature® 300
+residential,7,Flat Sheet Selection Chart,3,0,column_1,,,Tundra
+residential,7,Flat Sheet Selection Chart,3,0,column_2,,,a
+residential,7,Flat Sheet Selection Chart,3,0,column_3,,,0)
+residential,7,Flat Sheet Selection Chart,3,1,column_1,,,Signature® 300 Metallic
+residential,7,Flat Sheet Selection Chart,4,0,column_1,,,Copper Metallic
+residential,7,Flat Sheet Selection Chart,4,0,column_2,,,=a
+residential,7,Flat Sheet Selection Chart,4,0,column_3,,,0)
+residential,7,Flat Sheet Selection Chart,4,1,column_1,,,Unpainted
+residential,8,V-Groove Soffit,0,0,part,PART #,DESCRIPTION,LG-140
+residential,8,V-Groove Soffit,0,0,material,MATERIAL,DESCRIPTION,29 Gauge Steel
+residential,8,V-Groove Soffit,0,0,length,LENGTH,DESCRIPTION,"12'-6"""
+residential,8,V-Groove Soffit,0,0,girth,GIRTH,DESCRIPTION,"13%"""
+residential,8,V-Groove Soffit,0,0,weight_each,WEIGHT EACH,DESCRIPTION,8.854
+residential,8,V-Groove Soffit,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,N/A
+residential,8,V-Groove Soffit,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,vt
+residential,8,Vented V-Groove Soffit,1,0,part,PART #,DESCRIPTION,LG-142
+residential,8,Vented V-Groove Soffit,1,0,material,MATERIAL,DESCRIPTION,29 Gauge Steel
+residential,8,Vented V-Groove Soffit,1,0,length,LENGTH,DESCRIPTION,"12'-6"""
+residential,8,Vented V-Groove Soffit,1,0,girth,GIRTH,DESCRIPTION,"13%"""
+residential,8,Vented V-Groove Soffit,1,0,weight_each,WEIGHT EACH,DESCRIPTION,8.834
+residential,8,Vented V-Groove Soffit,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,N/A
+residential,8,Vented V-Groove Soffit,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,vt
+residential,8,Ridge Cap - 5V Crimp,2,0,part,PART #,DESCRIPTION,HW-1110
+residential,8,Ridge Cap - 5V Crimp,2,0,roof_slope,ROOF SLOPE,DESCRIPTION,3:12 - 9:12
+residential,8,Ridge Cap - 5V Crimp,2,0,length,LENGTH,DESCRIPTION,"1-2"""
+residential,8,Ridge Cap - 5V Crimp,2,0,gauge,GAUGE,DESCRIPTION,29
+residential,8,Ridge Cap - 5V Crimp,2,0,weight_each,WEIGHT EACH,DESCRIPTION,1.80#
+residential,8,Ridge Cap - 5V Crimp,2,0,galvalume_plus,GALVALUME' PLUS,PRICED PER EACH,✓
+residential,8,Ridge Cap - 5V Crimp,2,0,signature_200,SIGNATURE' 200,PRICED PER EACH,N/A
+residential,8,Ridge Cap - 5V Crimp,2,1,part,PART #,DESCRIPTION,HW-1110
+residential,8,Ridge Cap - 5V Crimp,2,1,roof_slope,ROOF SLOPE,DESCRIPTION,3:12 - 9:12
+residential,8,Ridge Cap - 5V Crimp,2,1,length,LENGTH,DESCRIPTION,"y-2"""
+residential,8,Ridge Cap - 5V Crimp,2,1,gauge,GAUGE,DESCRIPTION,26
+residential,8,Ridge Cap - 5V Crimp,2,1,weight_each,WEIGHT EACH,DESCRIPTION,215#
+residential,8,Ridge Cap - 5V Crimp,2,1,galvalume_plus,GALVALUME' PLUS,PRICED PER EACH,✓
+residential,8,Ridge Cap - 5V Crimp,2,1,signature_200,SIGNATURE' 200,PRICED PER EACH,vt
+residential,9,Rubber Roof Jack,0,0,part,PART #,DESCRIPTION,HW-1000
+residential,9,Rubber Roof Jack,0,0,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+residential,9,Rubber Roof Jack,0,0,pipe_size,PIPE SIZE,DESCRIPTION,"Yall = Ws"""
+residential,9,Rubber Roof Jack,0,0,base_dim,BASE DIM.,DESCRIPTION,4
+residential,9,Rubber Roof Jack,0,0,weight_each,WEIGHT EACH,DESCRIPTION,A7#
+residential,9,Rubber Roof Jack,0,0,price,PRICE,,✓
+residential,9,Rubber Roof Jack,0,1,part,PART #,DESCRIPTION,HW-1001
+residential,9,Rubber Roof Jack,0,1,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+residential,9,Rubber Roof Jack,0,1,pipe_size,PIPE SIZE,DESCRIPTION,Wal - 4
+residential,9,Rubber Roof Jack,0,1,base_dim,BASE DIM.,DESCRIPTION,"8"""
+residential,9,Rubber Roof Jack,0,1,weight_each,WEIGHT EACH,DESCRIPTION,SOF
+residential,9,Rubber Roof Jack,0,1,price,PRICE,,✓
+residential,9,Rubber Roof Jack,0,2,part,PART #,DESCRIPTION,HW-1002
+residential,9,Rubber Roof Jack,0,2,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+residential,9,Rubber Roof Jack,0,2,pipe_size,PIPE SIZE,DESCRIPTION,"AY"" _ 6"""
+residential,9,Rubber Roof Jack,0,2,base_dim,BASE DIM.,DESCRIPTION,11
+residential,9,Rubber Roof Jack,0,2,weight_each,WEIGHT EACH,DESCRIPTION,.95#
+residential,9,Rubber Roof Jack,0,2,price,PRICE,,✓
+residential,9,Rubber Roof Jack,0,3,part,PART #,DESCRIPTION,HW-1003
+residential,9,Rubber Roof Jack,0,3,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+residential,9,Rubber Roof Jack,0,3,pipe_size,PIPE SIZE,DESCRIPTION,"6"" _ 11"""
+residential,9,Rubber Roof Jack,0,3,base_dim,BASE DIM.,DESCRIPTION,"14"""
+residential,9,Rubber Roof Jack,0,3,weight_each,WEIGHT EACH,DESCRIPTION,1.55#
+residential,9,Rubber Roof Jack,0,3,price,PRICE,,✓
+residential,9,Rubber Roof Jack,0,4,part,PART #,DESCRIPTION,HW-1004
+residential,9,Rubber Roof Jack,0,4,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+residential,9,Rubber Roof Jack,0,4,pipe_size,PIPE SIZE,DESCRIPTION,"7"" _ 13"""
+residential,9,Rubber Roof Jack,0,4,base_dim,BASE DIM.,DESCRIPTION,"7"""
+residential,9,Rubber Roof Jack,0,4,weight_each,WEIGHT EACH,DESCRIPTION,2.56#
+residential,9,Rubber Roof Jack,0,4,price,PRICE,,✓
+residential,9,Rubber Roof Jack,1,0,column_2,,,HIGH TEMPERATURI
+residential,9,Rubber Roof Jack,1,0,column_3,,,7
+residential,9,Rubber Roof Jack,1,1,column_1,,,-100°F to +437°F
+residential,9,Rubber Roof Jack,1,1,column_2,,,"YW,"" _ A"""
+residential,9,Rubber Roof Jack,1,1,column_3,,,8
+residential,9,Rubber Roof Jack,1,1,column_4,,,SO#
+residential,9,Rubber Roof Jack,1,1,column_5,,,v
+residential,9,Rubber Roof Jack,1,2,column_1,,,"""100°F to +437°F"
+residential,9,Rubber Roof Jack,1,2,column_2,,,"Avy! - 7"""
+residential,9,Rubber Roof Jack,1,2,column_3,,,"1"""
+residential,9,Rubber Roof Jack,1,2,column_4,,,I5#
+residential,9,Rubber Roof Jack,1,2,column_5,,,v
+residential,9,Rubber Roof Jack,1,3,column_1,,,"""100°F to +437°F"
+residential,9,Rubber Roof Jack,1,3,column_2,,,"7"" _ 13"""
+residential,9,Rubber Roof Jack,1,3,column_3,,,"7"""
+residential,9,Rubber Roof Jack,1,3,column_4,,,2.56#
+residential,9,Rubber Roof Jack,1,3,column_5,,,v
+residential,9,Rubber Roof Jack,1,4,column_1,,,-1O00°F to +437°F
+residential,9,Rubber Roof Jack,1,4,column_2,,,"10"" _ 18"""
+residential,9,Rubber Roof Jack,1,4,column_3,,,"25"""
+residential,9,Rubber Roof Jack,1,4,column_4,,,3.860#
+residential,9,Rubber Roof Jack,1,4,column_5,,,v
+residential,9,Retrofit Rubber Roof Jack,2,0,part,PART #,DESCRIPTION,HW-1005
+residential,9,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+residential,9,Retrofit Rubber Roof Jack,2,0,pipe_size,PIPE SIZE,DESCRIPTION,"Va"" . 4"""
+residential,9,Retrofit Rubber Roof Jack,2,0,base_dim,BASE DIM.,DESCRIPTION,"83/16"""
+residential,9,Retrofit Rubber Roof Jack,2,0,weight_each,WEIGHT EACH,DESCRIPTION,4#
+residential,9,Retrofit Rubber Roof Jack,2,0,price,PRICE,,✓
+residential,9,Retrofit Rubber Roof Jack,2,1,part,PART #,DESCRIPTION,HW-1006
+residential,9,Retrofit Rubber Roof Jack,2,1,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+residential,9,Retrofit Rubber Roof Jack,2,1,pipe_size,PIPE SIZE,DESCRIPTION,"4A"" _ oy,"""
+residential,9,Retrofit Rubber Roof Jack,2,1,base_dim,BASE DIM.,DESCRIPTION,"14%"""
+residential,9,Retrofit Rubber Roof Jack,2,1,weight_each,WEIGHT EACH,DESCRIPTION,2.20#
+residential,9,Retrofit Rubber Roof Jack,2,1,price,PRICE,,✓
+residential,9,Retrofit Rubber Roof Jack,2,2,part,PART #,DESCRIPTION,HW-1007
+residential,9,Retrofit Rubber Roof Jack,2,2,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+residential,9,Retrofit Rubber Roof Jack,2,2,pipe_size,PIPE SIZE,DESCRIPTION,"9%"" - 16%"""
+residential,9,Retrofit Rubber Roof Jack,2,2,base_dim,BASE DIM.,DESCRIPTION,"21"""
+residential,9,Retrofit Rubber Roof Jack,2,2,weight_each,WEIGHT EACH,DESCRIPTION,3.78#
+residential,9,Retrofit Rubber Roof Jack,2,2,price,PRICE,,✓
+residential,9,Retrofit Rubber Roof Jack,3,0,column_2,,,HIGH TEMPERATURI
+residential,9,Retrofit Rubber Roof Jack,3,0,column_3,,,7
+residential,9,Retrofit Rubber Roof Jack,3,1,column_1,,,-100°F to +437°F
+residential,9,Retrofit Rubber Roof Jack,3,1,column_2,,,"Yo"" _ 4"""
+residential,9,Retrofit Rubber Roof Jack,3,1,column_3,,,"88/16"""
+residential,9,Retrofit Rubber Roof Jack,3,1,column_4,,,74H
+residential,9,Retrofit Rubber Roof Jack,3,1,column_5,,,v
+residential,9,Retrofit Rubber Roof Jack,3,2,column_1,,,-100°F to +437°F
+residential,9,Retrofit Rubber Roof Jack,3,2,column_2,,,"4"" - gyyl"
+residential,9,Retrofit Rubber Roof Jack,3,2,column_3,,,"14%"""
+residential,9,Retrofit Rubber Roof Jack,3,2,column_4,,,2.20#
+residential,9,Retrofit Rubber Roof Jack,3,2,column_5,,,v
+residential,9,Retrofit Rubber Roof Jack,3,3,column_1,,,"""100°F to +437°F"
+residential,9,Retrofit Rubber Roof Jack,3,3,column_2,,,"9%"" - 16%"""
+residential,9,Retrofit Rubber Roof Jack,3,3,column_3,,,"212"""
+residential,9,Retrofit Rubber Roof Jack,3,3,column_4,,,3./8#
+residential,9,Retrofit Rubber Roof Jack,3,3,column_5,,,v
+residential,10,Touch-Up Paint,0,0,part,PART #,DESCRIPTION,HW-304
+residential,10,Touch-Up Paint,0,0,finish,FINISH,DESCRIPTION,Signature® 200
+residential,10,Touch-Up Paint,0,0,size,SIZE,DESCRIPTION,2 ounce
+residential,10,Touch-Up Paint,0,0,color,COLOR,DESCRIPTION,See Color Chart
+residential,10,Touch-Up Paint,0,0,weight_each,WEIGHT EACH,DESCRIPTION,SO#
+residential,10,Touch-Up Paint,0,0,price,PRICE,,✓
+residential,10,Reflective Insulation,1,0,part,PART #,DESCRIPTION,HW-3925
+residential,10,Reflective Insulation,1,0,type,TYPE,DESCRIPTION,SolarGuard
+residential,10,Reflective Insulation,1,0,width,WIDTH,DESCRIPTION,"4A'-Q"""
+residential,10,Reflective Insulation,1,0,length,LENGTH,DESCRIPTION,"]125'-O"""
+residential,10,Reflective Insulation,1,0,roll_weight,ROLL WEIGHT,DESCRIPTION,31.00#
+residential,10,Reflective Insulation,1,0,price,PRICE,,✓
+residential,10,Reflective Insulation,1,1,part,PART #,DESCRIPTION,HW-3926
+residential,10,Reflective Insulation,1,1,type,TYPE,DESCRIPTION,SolarGuard
+residential,10,Reflective Insulation,1,1,width,WIDTH,DESCRIPTION,"6'-O"""
+residential,10,Reflective Insulation,1,1,length,LENGTH,DESCRIPTION,"125'-0"""
+residential,10,Reflective Insulation,1,1,roll_weight,ROLL WEIGHT,DESCRIPTION,46.50#
+residential,10,Reflective Insulation,1,1,price,PRICE,,✓
+residential,10,Scrimless Aluminum Tape,2,0,column_1,,,DESCRIPTION
+residential,10,Scrimless Aluminum Tape,2,0,column_5,,,PRICED PER EACH
+residential,10,Scrimless Aluminum Tape,2,1,column_1,,,PART #
+residential,10,Scrimless Aluminum Tape,2,1,column_2,,,WIDTH
+residential,10,Scrimless Aluminum Tape,2,1,column_3,,,LENGTH
+residential,10,Scrimless Aluminum Tape,2,1,column_4,,,ROLL WEIGHT
+residential,10,Scrimless Aluminum Tape,2,1,column_5,,,PRICE
+residential,10,Scrimless Aluminum Tape,2,2,column_1,,,HW-514
+residential,10,Scrimless Aluminum Tape,2,2,column_2,,,"3"""
+residential,10,Scrimless Aluminum Tape,2,2,column_3,,,"150'-O"""
+residential,10,Scrimless Aluminum Tape,2,2,column_4,,,1.50#
+residential,10,Scrimless Aluminum Tape,2,2,column_5,,,v
+residential,10,Slimline' Rib Cover,3,0,part,PART #,DESCRIPTION,CF-119
+residential,10,Slimline' Rib Cover,3,0,length,LENGTH,DESCRIPTION,"Ave"""
+residential,10,Slimline' Rib Cover,3,0,gauge,GAUGE,DESCRIPTION,29
+residential,10,Slimline' Rib Cover,3,0,weight_each,WEIGHT EACH,DESCRIPTION,J2#
+residential,10,Slimline' Rib Cover,3,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,10,Slimline' Rib Cover,3,0,signature_200,SIGNATURE® 200,PRICED PER EACH,vt
+residential,10,Slimline' Rib Cover,3,1,part,PART #,DESCRIPTION,CF-119
+residential,10,Slimline' Rib Cover,3,1,length,LENGTH,DESCRIPTION,"AV"""
+residential,10,Slimline' Rib Cover,3,1,gauge,GAUGE,DESCRIPTION,26
+residential,10,Slimline' Rib Cover,3,1,weight_each,WEIGHT EACH,DESCRIPTION,J4#
+residential,10,Slimline' Rib Cover,3,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,10,Slimline' Rib Cover,3,1,signature_200,SIGNATURE® 200,PRICED PER EACH,vt
+residential,11,Closure Strip - 5V Crimp,0,0,part,PART #,DESCRIPTION,HW-450
+residential,11,Closure Strip - 5V Crimp,0,0,type,TYPE,DESCRIPTION,Inside
+residential,11,Closure Strip - 5V Crimp,0,0,adhesive,ADHESIVE,DESCRIPTION,No
+residential,11,Closure Strip - 5V Crimp,0,0,size,SIZE,DESCRIPTION,"1"" x 24"""
+residential,11,Closure Strip - 5V Crimp,0,0,weight_each,WEIGHT EACH,DESCRIPTION,O4#
+residential,11,Closure Strip - 5V Crimp,0,0,price,PRICE,,✓
+residential,11,Closure Strip - 5V Crimp,0,1,part,PART #,DESCRIPTION,HW-452
+residential,11,Closure Strip - 5V Crimp,0,1,type,TYPE,DESCRIPTION,Outside
+residential,11,Closure Strip - 5V Crimp,0,1,adhesive,ADHESIVE,DESCRIPTION,Yes
+residential,11,Closure Strip - 5V Crimp,0,1,size,SIZE,DESCRIPTION,"""x 24"""
+residential,11,Closure Strip - 5V Crimp,0,1,weight_each,WEIGHT EACH,DESCRIPTION,OS#
+residential,11,Closure Strip - 5V Crimp,0,1,price,PRICE,,✓
+residential,11,Tube Sealant,1,0,part,PART #,DESCRIPTION,HW-548
+residential,11,Tube Sealant,1,0,type,TYPE,DESCRIPTION,Acrylic
+residential,11,Tube Sealant,1,0,color,COLOR,DESCRIPTION,White
+residential,11,Tube Sealant,1,0,tube_size,TUBE SIZE,DESCRIPTION,Tl ounce
+residential,11,Tube Sealant,1,0,tube_weight,TUBE WEIGHT,DESCRIPTION,SSH
+residential,11,Tube Sealant,1,0,price,PRICE,,✓
+residential,11,Tube Sealant,1,1,part,PART #,DESCRIPTION,HW-550
+residential,11,Tube Sealant,1,1,type,TYPE,DESCRIPTION,Acrylic
+residential,11,Tube Sealant,1,1,color,COLOR,DESCRIPTION,Gray
+residential,11,Tube Sealant,1,1,tube_size,TUBE SIZE,DESCRIPTION,Tl ounce
+residential,11,Tube Sealant,1,1,tube_weight,TUBE WEIGHT,DESCRIPTION,5H
+residential,11,Tube Sealant,1,1,price,PRICE,,✓
+residential,11,Tube Sealant,1,2,part,PART #,DESCRIPTION,HW-540
+residential,11,Tube Sealant,1,2,type,TYPE,DESCRIPTION,Urethane
+residential,11,Tube Sealant,1,2,color,COLOR,DESCRIPTION,White
+residential,11,Tube Sealant,1,2,tube_size,TUBE SIZE,DESCRIPTION,Tl ounce
+residential,11,Tube Sealant,1,2,tube_weight,TUBE WEIGHT,DESCRIPTION,85H
+residential,11,Tube Sealant,1,2,price,PRICE,,✓
+residential,11,Tube Sealant,1,3,part,PART #,DESCRIPTION,HW-541
+residential,11,Tube Sealant,1,3,type,TYPE,DESCRIPTION,Urethane
+residential,11,Tube Sealant,1,3,color,COLOR,DESCRIPTION,Gray
+residential,11,Tube Sealant,1,3,tube_size,TUBE SIZE,DESCRIPTION,Tl ounce
+residential,11,Tube Sealant,1,3,tube_weight,TUBE WEIGHT,DESCRIPTION,85St
+residential,11,Tube Sealant,1,3,price,PRICE,,✓
+residential,11,Tube Sealant,1,4,part,PART #,DESCRIPTION,HW-542
+residential,11,Tube Sealant,1,4,type,TYPE,DESCRIPTION,Urethane
+residential,11,Tube Sealant,1,4,color,COLOR,DESCRIPTION,Bronze
+residential,11,Tube Sealant,1,4,tube_size,TUBE SIZE,DESCRIPTION,Tl ounce
+residential,11,Tube Sealant,1,4,tube_weight,TUBE WEIGHT,DESCRIPTION,S85
+residential,11,Tube Sealant,1,4,price,PRICE,,✓
+residential,11,Tube Sealant,1,5,part,PART #,DESCRIPTION,HW-544
+residential,11,Tube Sealant,1,5,type,TYPE,DESCRIPTION,Urethane
+residential,11,Tube Sealant,1,5,color,COLOR,DESCRIPTION,Almond
+residential,11,Tube Sealant,1,5,tube_size,TUBE SIZE,DESCRIPTION,Tl ounce
+residential,11,Tube Sealant,1,5,tube_weight,TUBE WEIGHT,DESCRIPTION,SBSH
+residential,11,Tube Sealant,1,5,price,PRICE,,✓
+residential,11,Tube Sealant,1,6,part,PART #,DESCRIPTION,HW-549
+residential,11,Tube Sealant,1,6,type,TYPE,DESCRIPTION,Non-Skinning Butyl
+residential,11,Tube Sealant,1,6,color,COLOR,DESCRIPTION,White
+residential,11,Tube Sealant,1,6,tube_size,TUBE SIZE,DESCRIPTION,10 ounce
+residential,11,Tube Sealant,1,6,tube_weight,TUBE WEIGHT,DESCRIPTION,1.00#
+residential,11,Tube Sealant,1,6,price,PRICE,,✓
+residential,12,Ridge/Hip Flash,0,0,part,PART #,DESCRIPTION,AG-202
+residential,12,Ridge/Hip Flash,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,12,Ridge/Hip Flash,0,0,girth,GIRTH,DESCRIPTION,"13"""
+residential,12,Ridge/Hip Flash,0,0,gauge,GAUGE,DESCRIPTION,29
+residential,12,Ridge/Hip Flash,0,0,weight_each,WEIGHT EACH,DESCRIPTION,6.44#
+residential,12,Ridge/Hip Flash,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,12,Ridge/Hip Flash,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,12,Ridge/Hip Flash,0,1,part,PART #,DESCRIPTION,AG-202
+residential,12,Ridge/Hip Flash,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,12,Ridge/Hip Flash,0,1,girth,GIRTH,DESCRIPTION,"13"""
+residential,12,Ridge/Hip Flash,0,1,gauge,GAUGE,DESCRIPTION,26
+residential,12,Ridge/Hip Flash,0,1,weight_each,WEIGHT EACH,DESCRIPTION,8.37#
+residential,12,Ridge/Hip Flash,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,12,Ridge/Hip Flash,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,12,Ridge/Hip Flash,0,2,part,PART #,DESCRIPTION,AG-203
+residential,12,Ridge/Hip Flash,0,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,12,Ridge/Hip Flash,0,2,girth,GIRTH,DESCRIPTION,"13"""
+residential,12,Ridge/Hip Flash,0,2,gauge,GAUGE,DESCRIPTION,29
+residential,12,Ridge/Hip Flash,0,2,weight_each,WEIGHT EACH,DESCRIPTION,12.88#
+residential,12,Ridge/Hip Flash,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,12,Ridge/Hip Flash,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,12,Ridge/Hip Flash,0,3,part,PART #,DESCRIPTION,AG-203
+residential,12,Ridge/Hip Flash,0,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,12,Ridge/Hip Flash,0,3,girth,GIRTH,DESCRIPTION,"13"""
+residential,12,Ridge/Hip Flash,0,3,gauge,GAUGE,DESCRIPTION,26
+residential,12,Ridge/Hip Flash,0,3,weight_each,WEIGHT EACH,DESCRIPTION,16.744
+residential,12,Ridge/Hip Flash,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,12,Ridge/Hip Flash,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,12,Vented Ridge Flash,1,0,part,PART #,DESCRIPTION,AG-207
+residential,12,Vented Ridge Flash,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,12,Vented Ridge Flash,1,0,girth,GIRTH,DESCRIPTION,"212"""
+residential,12,Vented Ridge Flash,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,12,Vented Ridge Flash,1,0,weight_each,WEIGHT EACH,DESCRIPTION,10.62#
+residential,12,Vented Ridge Flash,1,0,galvalume_plus,GALVALUME*® PLUS,PRICED PER EACH,✓
+residential,12,Vented Ridge Flash,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,12,Vented Ridge Flash,1,1,part,PART #,DESCRIPTION,AG-207
+residential,12,Vented Ridge Flash,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,12,Vented Ridge Flash,1,1,girth,GIRTH,DESCRIPTION,21
+residential,12,Vented Ridge Flash,1,1,gauge,GAUGE,DESCRIPTION,26
+residential,12,Vented Ridge Flash,1,1,weight_each,WEIGHT EACH,DESCRIPTION,13.84#
+residential,12,Vented Ridge Flash,1,1,galvalume_plus,GALVALUME*® PLUS,PRICED PER EACH,✓
+residential,12,Vented Ridge Flash,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,12,Vented Ridge Flash,1,2,part,PART #,DESCRIPTION,AG-208
+residential,12,Vented Ridge Flash,1,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,12,Vented Ridge Flash,1,2,girth,GIRTH,DESCRIPTION,"212"""
+residential,12,Vented Ridge Flash,1,2,gauge,GAUGE,DESCRIPTION,29
+residential,12,Vented Ridge Flash,1,2,weight_each,WEIGHT EACH,DESCRIPTION,21.244
+residential,12,Vented Ridge Flash,1,2,galvalume_plus,GALVALUME*® PLUS,PRICED PER EACH,✓
+residential,12,Vented Ridge Flash,1,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,12,Vented Ridge Flash,1,3,part,PART #,DESCRIPTION,AG-208
+residential,12,Vented Ridge Flash,1,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,12,Vented Ridge Flash,1,3,girth,GIRTH,DESCRIPTION,"212"""
+residential,12,Vented Ridge Flash,1,3,gauge,GAUGE,DESCRIPTION,26
+residential,12,Vented Ridge Flash,1,3,weight_each,WEIGHT EACH,DESCRIPTION,27.68#
+residential,12,Vented Ridge Flash,1,3,galvalume_plus,GALVALUME*® PLUS,PRICED PER EACH,✓
+residential,12,Vented Ridge Flash,1,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Peak Cap,0,0,part,PART #,DESCRIPTION,AG-233
+residential,13,Peak Cap,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,13,Peak Cap,0,0,girth,GIRTH,DESCRIPTION,"TY"""
+residential,13,Peak Cap,0,0,gauge,GAUGE,DESCRIPTION,29
+residential,13,Peak Cap,0,0,weight_each,WEIGHT EACH,DESCRIPTION,5.76#
+residential,13,Peak Cap,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Peak Cap,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Peak Cap,0,1,part,PART #,DESCRIPTION,AG-233
+residential,13,Peak Cap,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,13,Peak Cap,0,1,girth,GIRTH,DESCRIPTION,"nye"""
+residential,13,Peak Cap,0,1,gauge,GAUGE,DESCRIPTION,26
+residential,13,Peak Cap,0,1,weight_each,WEIGHT EACH,DESCRIPTION,748#
+residential,13,Peak Cap,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Peak Cap,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Peak Cap,0,2,part,PART #,DESCRIPTION,AG-234
+residential,13,Peak Cap,0,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,13,Peak Cap,0,2,girth,GIRTH,DESCRIPTION,"1%"""
+residential,13,Peak Cap,0,2,gauge,GAUGE,DESCRIPTION,29
+residential,13,Peak Cap,0,2,weight_each,WEIGHT EACH,DESCRIPTION,11.524
+residential,13,Peak Cap,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Peak Cap,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Peak Cap,0,3,part,PART #,DESCRIPTION,AG-234
+residential,13,Peak Cap,0,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,13,Peak Cap,0,3,girth,GIRTH,DESCRIPTION,"1%"""
+residential,13,Peak Cap,0,3,gauge,GAUGE,DESCRIPTION,26
+residential,13,Peak Cap,0,3,weight_each,WEIGHT EACH,DESCRIPTION,14.96#
+residential,13,Peak Cap,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Peak Cap,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Standard Valley,1,0,part,PART #,DESCRIPTION,AG-237
+residential,13,Standard Valley,1,0,dim_a,"DIM ""A""",DESCRIPTION,"Oy,"""
+residential,13,Standard Valley,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,13,Standard Valley,1,0,girth,GIRTH,DESCRIPTION,"2072"""
+residential,13,Standard Valley,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,13,Standard Valley,1,0,weight_each,"WEIGHT
+EACH",DESCRIPTION,10.88#
+residential,13,Standard Valley,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Standard Valley,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Standard Valley,1,1,part,PART #,DESCRIPTION,AG-237
+residential,13,Standard Valley,1,1,dim_a,"DIM ""A""",DESCRIPTION,"OM qq"""
+residential,13,Standard Valley,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,13,Standard Valley,1,1,girth,GIRTH,DESCRIPTION,"21%"""
+residential,13,Standard Valley,1,1,gauge,GAUGE,DESCRIPTION,26
+residential,13,Standard Valley,1,1,weight_each,"WEIGHT
+EACH",DESCRIPTION,14.16#
+residential,13,Standard Valley,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Standard Valley,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Standard Valley,1,2,part,PART #,DESCRIPTION,AG-238
+residential,13,Standard Valley,1,2,dim_a,"DIM ""A""",DESCRIPTION,"oy,"""
+residential,13,Standard Valley,1,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,13,Standard Valley,1,2,girth,GIRTH,DESCRIPTION,"2072"""
+residential,13,Standard Valley,1,2,gauge,GAUGE,DESCRIPTION,29
+residential,13,Standard Valley,1,2,weight_each,"WEIGHT
+EACH",DESCRIPTION,21.76#
+residential,13,Standard Valley,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Standard Valley,1,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Standard Valley,1,3,part,PART #,DESCRIPTION,AG-238
+residential,13,Standard Valley,1,3,dim_a,"DIM ""A""",DESCRIPTION,"OMe"""
+residential,13,Standard Valley,1,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,13,Standard Valley,1,3,girth,GIRTH,DESCRIPTION,"21%"""
+residential,13,Standard Valley,1,3,gauge,GAUGE,DESCRIPTION,26
+residential,13,Standard Valley,1,3,weight_each,"WEIGHT
+EACH",DESCRIPTION,28.3524
+residential,13,Standard Valley,1,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Standard Valley,1,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Extended Valley,2,0,part,PART #,DESCRIPTION,AG-239
+residential,13,Extended Valley,2,0,dim_a,"DIM ""A""",DESCRIPTION,"197/16"""
+residential,13,Extended Valley,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,13,Extended Valley,2,0,girth,GIRTH,DESCRIPTION,"407%"""
+residential,13,Extended Valley,2,0,gauge,GAUGE,DESCRIPTION,29
+residential,13,Extended Valley,2,0,weight_each,"WEIGHT
+EACH",DESCRIPTION,21.73#
+residential,13,Extended Valley,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Extended Valley,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Extended Valley,2,1,part,PART #,DESCRIPTION,AG-239
+residential,13,Extended Valley,2,1,dim_a,"DIM ""A""",DESCRIPTION,"20%"""
+residential,13,Extended Valley,2,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,13,Extended Valley,2,1,girth,GIRTH,DESCRIPTION,"4254"""
+residential,13,Extended Valley,2,1,gauge,GAUGE,DESCRIPTION,26
+residential,13,Extended Valley,2,1,weight_each,"WEIGHT
+EACH",DESCRIPTION,28.29#
+residential,13,Extended Valley,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Extended Valley,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Extended Valley,2,2,part,PART #,DESCRIPTION,AG-240
+residential,13,Extended Valley,2,2,dim_a,"DIM ""A""",DESCRIPTION,"197/16"""
+residential,13,Extended Valley,2,2,length,LENGTH,DESCRIPTION,"14'-O"""
+residential,13,Extended Valley,2,2,girth,GIRTH,DESCRIPTION,"407s"""
+residential,13,Extended Valley,2,2,gauge,GAUGE,DESCRIPTION,29
+residential,13,Extended Valley,2,2,weight_each,"WEIGHT
+EACH",DESCRIPTION,28.1#
+residential,13,Extended Valley,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Extended Valley,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,13,Extended Valley,2,3,part,PART #,DESCRIPTION,AG-240
+residential,13,Extended Valley,2,3,dim_a,"DIM ""A""",DESCRIPTION,"20%"""
+residential,13,Extended Valley,2,3,length,LENGTH,DESCRIPTION,"14'-O"""
+residential,13,Extended Valley,2,3,girth,GIRTH,DESCRIPTION,"42%"""
+residential,13,Extended Valley,2,3,gauge,GAUGE,DESCRIPTION,26
+residential,13,Extended Valley,2,3,weight_each,"WEIGHT
+EACH",DESCRIPTION,38.82#
+residential,13,Extended Valley,2,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,13,Extended Valley,2,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,14,Box Gutter,0,0,part,PART #,DESCRIPTION,AG-242
+residential,14,Box Gutter,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,14,Box Gutter,0,0,girth,GIRTH,DESCRIPTION,"17%"""
+residential,14,Box Gutter,0,0,gauge,GAUGE,DESCRIPTION,29
+residential,14,Box Gutter,0,0,weight_each,WEIGHT EACH,DESCRIPTION,8.224
+residential,14,Box Gutter,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,14,Box Gutter,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,14,Box Gutter,0,1,part,PART #,DESCRIPTION,AG-242
+residential,14,Box Gutter,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,14,Box Gutter,0,1,girth,GIRTH,DESCRIPTION,"17%"""
+residential,14,Box Gutter,0,1,gauge,GAUGE,DESCRIPTION,26
+residential,14,Box Gutter,0,1,weight_each,WEIGHT EACH,DESCRIPTION,10.71#
+residential,14,Box Gutter,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,14,Box Gutter,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,14,Box Gutter,0,2,part,PART #,DESCRIPTION,AG-243
+residential,14,Box Gutter,0,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,14,Box Gutter,0,2,girth,GIRTH,DESCRIPTION,"17%"""
+residential,14,Box Gutter,0,2,gauge,GAUGE,DESCRIPTION,29
+residential,14,Box Gutter,0,2,weight_each,WEIGHT EACH,DESCRIPTION,16.44#
+residential,14,Box Gutter,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,14,Box Gutter,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,14,Box Gutter,0,3,part,PART #,DESCRIPTION,AG-243
+residential,14,Box Gutter,0,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,14,Box Gutter,0,3,girth,GIRTH,DESCRIPTION,"17%"""
+residential,14,Box Gutter,0,3,gauge,GAUGE,DESCRIPTION,26
+residential,14,Box Gutter,0,3,weight_each,WEIGHT EACH,DESCRIPTION,21.424
+residential,14,Box Gutter,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,14,Box Gutter,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,14,5K Gutter,1,0,part,PART #,DESCRIPTION,LG-161
+residential,14,5K Gutter,1,0,length,LENGTH,DESCRIPTION,"16'-O"""
+residential,14,5K Gutter,1,0,girth,GIRTH,DESCRIPTION,"12%"""
+residential,14,5K Gutter,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,14,5K Gutter,1,0,weight_each,WEIGHT EACH,DESCRIPTION,9.86#
+residential,14,5K Gutter,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,N/A
+residential,14,5K Gutter,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,14,Residential Gutter,2,0,part,PART #,DESCRIPTION,FL-1000
+residential,14,Residential Gutter,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,14,Residential Gutter,2,0,girth,GIRTH,DESCRIPTION,"128/16"""
+residential,14,Residential Gutter,2,0,gauge,GAUGE,DESCRIPTION,29
+residential,14,Residential Gutter,2,0,weight_each,WEIGHT EACH,DESCRIPTION,6.41#
+residential,14,Residential Gutter,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,14,Residential Gutter,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,15,Gutter Ends,0,0,part,PART #,DESCRIPTION,AG-245
+residential,15,Gutter Ends,0,0,type,TYPE,DESCRIPTION,Box
+residential,15,Gutter Ends,0,0,gauge,GAUGE,DESCRIPTION,29
+residential,15,Gutter Ends,0,0,weight_each,WEIGHT EACH,DESCRIPTION,IS#
+residential,15,Gutter Ends,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,15,Gutter Ends,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,15,Gutter Ends,0,1,part,PART #,DESCRIPTION,AG-245
+residential,15,Gutter Ends,0,1,type,TYPE,DESCRIPTION,Box
+residential,15,Gutter Ends,0,1,gauge,GAUGE,DESCRIPTION,26
+residential,15,Gutter Ends,0,1,weight_each,WEIGHT EACH,DESCRIPTION,J9#
+residential,15,Gutter Ends,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,15,Gutter Ends,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,15,Gutter Ends,0,2,part,PART #,DESCRIPTION,FL-1001
+residential,15,Gutter Ends,0,2,type,TYPE,DESCRIPTION,Box
+residential,15,Gutter Ends,0,2,gauge,GAUGE,DESCRIPTION,29
+residential,15,Gutter Ends,0,2,weight_each,WEIGHT EACH,DESCRIPTION,O8#
+residential,15,Gutter Ends,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,15,Gutter Ends,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,15,Gutter Ends,0,3,part,PART #,DESCRIPTION,FL-1001
+residential,15,Gutter Ends,0,3,type,TYPE,DESCRIPTION,Box
+residential,15,Gutter Ends,0,3,gauge,GAUGE,DESCRIPTION,26
+residential,15,Gutter Ends,0,3,weight_each,WEIGHT EACH,DESCRIPTION,JO#
+residential,15,Gutter Ends,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,15,Gutter Ends,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,15,Gutter Ends,0,4,part,PART #,DESCRIPTION,LG-167A
+residential,15,Gutter Ends,0,4,type,TYPE,DESCRIPTION,5K (Left)
+residential,15,Gutter Ends,0,4,gauge,GAUGE,DESCRIPTION,29
+residential,15,Gutter Ends,0,4,weight_each,WEIGHT EACH,DESCRIPTION,JO#
+residential,15,Gutter Ends,0,4,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,N/A
+residential,15,Gutter Ends,0,4,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,15,Gutter Ends,0,5,part,PART #,DESCRIPTION,LG-167B
+residential,15,Gutter Ends,0,5,type,TYPE,DESCRIPTION,5K (Right)
+residential,15,Gutter Ends,0,5,gauge,GAUGE,DESCRIPTION,29
+residential,15,Gutter Ends,0,5,weight_each,WEIGHT EACH,DESCRIPTION,JO#
+residential,15,Gutter Ends,0,5,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,N/A
+residential,15,Gutter Ends,0,5,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,15,Gutter Strap,1,0,part,PART #,DESCRIPTION,AG-244
+residential,15,Gutter Strap,1,0,length,LENGTH,DESCRIPTION,"g"""
+residential,15,Gutter Strap,1,0,girth,GIRTH,DESCRIPTION,"2"""
+residential,15,Gutter Strap,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,15,Gutter Strap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,O8#
+residential,15,Gutter Strap,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,15,Gutter Strap,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,15,Gutter Strap,1,1,part,PART #,DESCRIPTION,AG-244
+residential,15,Gutter Strap,1,1,length,LENGTH,DESCRIPTION,"g"""
+residential,15,Gutter Strap,1,1,girth,GIRTH,DESCRIPTION,Qn
+residential,15,Gutter Strap,1,1,gauge,GAUGE,DESCRIPTION,26
+residential,15,Gutter Strap,1,1,weight_each,WEIGHT EACH,DESCRIPTION,O9#
+residential,15,Gutter Strap,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,15,Gutter Strap,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,15,Gutter Apron,2,0,part,PART #,DESCRIPTION,LG-149
+residential,15,Gutter Apron,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,15,Gutter Apron,2,0,girth,GIRTH,DESCRIPTION,"5"""
+residential,15,Gutter Apron,2,0,gauge,GAUGE,DESCRIPTION,29
+residential,15,Gutter Apron,2,0,weight_each,WEIGHT EACH,DESCRIPTION,2.754
+residential,15,Gutter Apron,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,15,Gutter Apron,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,15,Gutter Apron,2,1,part,PART #,DESCRIPTION,LG-149
+residential,15,Gutter Apron,2,1,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,15,Gutter Apron,2,1,girth,GIRTH,DESCRIPTION,"5"""
+residential,15,Gutter Apron,2,1,gauge,GAUGE,DESCRIPTION,26
+residential,15,Gutter Apron,2,1,weight_each,WEIGHT EACH,DESCRIPTION,3.40#
+residential,15,Gutter Apron,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,15,Gutter Apron,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,16,"3"" Oval Outlet",0,0,column_1,,,DESCRIPTION
+residential,16,"3"" Oval Outlet",0,0,column_3,,,PRICED PER EACH
+residential,16,"3"" Oval Outlet",0,1,column_1,,,PART #
+residential,16,"3"" Oval Outlet",0,1,column_2,,,WEIGHT EACH
+residential,16,"3"" Oval Outlet",0,1,column_3,,,GALVANIZED
+residential,16,"3"" Oval Outlet",0,2,column_1,,,HW-1328
+residential,16,"3"" Oval Outlet",0,2,column_2,,,244
+residential,16,"3"" Oval Outlet",0,2,column_3,,,v
+residential,16,Box Downspout - Straight,1,0,part,PART #,DESCRIPTION,FL-31
+residential,16,Box Downspout - Straight,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,16,Box Downspout - Straight,1,0,girth,GIRTH,DESCRIPTION,"167%"""
+residential,16,Box Downspout - Straight,1,0,gauge,GAUGE,DESCRIPTION,26
+residential,16,Box Downspout - Straight,1,0,weight_each,WEIGHT EACH,DESCRIPTION,Nl2#
+residential,16,Box Downspout - Straight,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,16,Box Downspout - Straight,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,16,Box Downspout - Straight,1,1,part,PART #,DESCRIPTION,FL-31B
+residential,16,Box Downspout - Straight,1,1,length,LENGTH,DESCRIPTION,"14'-0"""
+residential,16,Box Downspout - Straight,1,1,girth,GIRTH,DESCRIPTION,"1678"""
+residential,16,Box Downspout - Straight,1,1,gauge,GAUGE,DESCRIPTION,26
+residential,16,Box Downspout - Straight,1,1,weight_each,WEIGHT EACH,DESCRIPTION,15.324
+residential,16,Box Downspout - Straight,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,16,Box Downspout - Straight,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,16,Box Downspout With 45° Elbow,2,0,part,PART #,DESCRIPTION,FL-31IA
+residential,16,Box Downspout With 45° Elbow,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,16,Box Downspout With 45° Elbow,2,0,girth,GIRTH,DESCRIPTION,"167%"""
+residential,16,Box Downspout With 45° Elbow,2,0,gauge,GAUGE,DESCRIPTION,26
+residential,16,Box Downspout With 45° Elbow,2,0,weight_each,WEIGHT EACH,DESCRIPTION,T12#
+residential,16,Box Downspout With 45° Elbow,2,0,galvalume_plus,GALVALUME*® PLUS,PRICED PER EACH,✓
+residential,16,Box Downspout With 45° Elbow,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,16,Box Downspout With 45° Elbow,2,1,part,PART #,DESCRIPTION,FL-31E
+residential,16,Box Downspout With 45° Elbow,2,1,length,LENGTH,DESCRIPTION,"14'-O"""
+residential,16,Box Downspout With 45° Elbow,2,1,girth,GIRTH,DESCRIPTION,"167%"""
+residential,16,Box Downspout With 45° Elbow,2,1,gauge,GAUGE,DESCRIPTION,26
+residential,16,Box Downspout With 45° Elbow,2,1,weight_each,WEIGHT EACH,DESCRIPTION,15.32#
+residential,16,Box Downspout With 45° Elbow,2,1,galvalume_plus,GALVALUME*® PLUS,PRICED PER EACH,✓
+residential,16,Box Downspout With 45° Elbow,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,17,Box Downspout Elbow,0,0,part,PART #,DESCRIPTION,FL-32
+residential,17,Box Downspout Elbow,0,0,elbow_angle,ELBOW ANGLE,DESCRIPTION,45°
+residential,17,Box Downspout Elbow,0,0,length,LENGTH,DESCRIPTION,"7"""
+residential,17,Box Downspout Elbow,0,0,girth,GIRTH,DESCRIPTION,"1678"""
+residential,17,Box Downspout Elbow,0,0,girth_2,GIRTH,DESCRIPTION,26
+residential,17,Box Downspout Elbow,0,0,gauge,GAUGE,DESCRIPTION,1.324
+residential,17,Box Downspout Elbow,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,17,Box Downspout Elbow,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,17,Box Downspout Elbow,0,1,part,PART #,DESCRIPTION,FL-33
+residential,17,Box Downspout Elbow,0,1,elbow_angle,ELBOW ANGLE,DESCRIPTION,90°
+residential,17,Box Downspout Elbow,0,1,length,LENGTH,DESCRIPTION,"7"""
+residential,17,Box Downspout Elbow,0,1,girth,GIRTH,DESCRIPTION,"1678"""
+residential,17,Box Downspout Elbow,0,1,girth_2,GIRTH,DESCRIPTION,26
+residential,17,Box Downspout Elbow,0,1,gauge,GAUGE,DESCRIPTION,1.28#
+residential,17,Box Downspout Elbow,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,17,Box Downspout Elbow,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,17,Eave Trim,1,0,part,PART #,DESCRIPTION,AG-246
+residential,17,Eave Trim,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,17,Eave Trim,1,0,girth,GIRTH,DESCRIPTION,"7 Ve"""
+residential,17,Eave Trim,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,17,Eave Trim,1,0,weight_each,WEIGHT EACH,DESCRIPTION,3.48#
+residential,17,Eave Trim,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,17,Eave Trim,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,17,Eave Trim,1,1,part,PART #,DESCRIPTION,AG-246
+residential,17,Eave Trim,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,17,Eave Trim,1,1,girth,GIRTH,DESCRIPTION,"7 Xe"""
+residential,17,Eave Trim,1,1,gauge,GAUGE,DESCRIPTION,26
+residential,17,Eave Trim,1,1,weight_each,WEIGHT EACH,DESCRIPTION,4.51#
+residential,17,Eave Trim,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,17,Eave Trim,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,17,Eave Trim,1,2,part,PART #,DESCRIPTION,AG-247
+residential,17,Eave Trim,1,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,17,Eave Trim,1,2,girth,GIRTH,DESCRIPTION,"79"""
+residential,17,Eave Trim,1,2,gauge,GAUGE,DESCRIPTION,29
+residential,17,Eave Trim,1,2,weight_each,WEIGHT EACH,DESCRIPTION,6.96#
+residential,17,Eave Trim,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,17,Eave Trim,1,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,17,Eave Trim,1,3,part,PART #,DESCRIPTION,AG-247
+residential,17,Eave Trim,1,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,17,Eave Trim,1,3,girth,GIRTH,DESCRIPTION,"7%"""
+residential,17,Eave Trim,1,3,gauge,GAUGE,DESCRIPTION,26
+residential,17,Eave Trim,1,3,weight_each,WEIGHT EACH,DESCRIPTION,9.02#
+residential,17,Eave Trim,1,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,17,Eave Trim,1,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,17,Fascia Angle,2,0,part,PART #,DESCRIPTION,AG-252
+residential,17,Fascia Angle,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,17,Fascia Angle,2,0,girth,GIRTH,DESCRIPTION,"8"""
+residential,17,Fascia Angle,2,0,gauge,GAUGE,DESCRIPTION,29
+residential,17,Fascia Angle,2,0,weight_each,WEIGHT EACH,DESCRIPTION,3.98#
+residential,17,Fascia Angle,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,17,Fascia Angle,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,17,Fascia Angle,2,1,part,PART #,DESCRIPTION,AG-252
+residential,17,Fascia Angle,2,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,17,Fascia Angle,2,1,girth,GIRTH,DESCRIPTION,"8"""
+residential,17,Fascia Angle,2,1,gauge,GAUGE,DESCRIPTION,26
+residential,17,Fascia Angle,2,1,weight_each,WEIGHT EACH,DESCRIPTION,5.16#
+residential,17,Fascia Angle,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,17,Fascia Angle,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,17,Fascia Angle,2,2,part,PART #,DESCRIPTION,AG-253
+residential,17,Fascia Angle,2,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,17,Fascia Angle,2,2,girth,GIRTH,DESCRIPTION,"8"""
+residential,17,Fascia Angle,2,2,gauge,GAUGE,DESCRIPTION,29
+residential,17,Fascia Angle,2,2,weight_each,WEIGHT EACH,DESCRIPTION,7.960#
+residential,17,Fascia Angle,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,17,Fascia Angle,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,17,Fascia Angle,2,3,part,PART #,DESCRIPTION,AG-253
+residential,17,Fascia Angle,2,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,17,Fascia Angle,2,3,girth,GIRTH,DESCRIPTION,"8"""
+residential,17,Fascia Angle,2,3,gauge,GAUGE,DESCRIPTION,26
+residential,17,Fascia Angle,2,3,weight_each,WEIGHT EACH,DESCRIPTION,10.324
+residential,17,Fascia Angle,2,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,17,Fascia Angle,2,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,18,Soffit Angle,0,0,part,PART #,DESCRIPTION,AG-258
+residential,18,Soffit Angle,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,18,Soffit Angle,0,0,girth,GIRTH,DESCRIPTION,"QVs"""
+residential,18,Soffit Angle,0,0,gauge,GAUGE,DESCRIPTION,29
+residential,18,Soffit Angle,0,0,weight_each,WEIGHT EACH,DESCRIPTION,1.244
+residential,18,Soffit Angle,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,18,Soffit Angle,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,18,Soffit Angle,0,1,part,PART #,DESCRIPTION,AG-258
+residential,18,Soffit Angle,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,18,Soffit Angle,0,1,girth,GIRTH,DESCRIPTION,"QV"""
+residential,18,Soffit Angle,0,1,gauge,GAUGE,DESCRIPTION,26
+residential,18,Soffit Angle,0,1,weight_each,WEIGHT EACH,DESCRIPTION,1.62#
+residential,18,Soffit Angle,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,18,Soffit Angle,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,18,Sidewall Flashing,1,0,part,PART #,DESCRIPTION,LG-109
+residential,18,Sidewall Flashing,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,18,Sidewall Flashing,1,0,girth,GIRTH,DESCRIPTION,"gy,"""
+residential,18,Sidewall Flashing,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,18,Sidewall Flashing,1,0,weight_each,WEIGHT EACH,DESCRIPTION,4.50#
+residential,18,Sidewall Flashing,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,18,Sidewall Flashing,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,18,Sidewall Flashing,1,1,part,PART #,DESCRIPTION,LG-109
+residential,18,Sidewall Flashing,1,1,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,18,Sidewall Flashing,1,1,girth,GIRTH,DESCRIPTION,"By,"""
+residential,18,Sidewall Flashing,1,1,gauge,GAUGE,DESCRIPTION,26
+residential,18,Sidewall Flashing,1,1,weight_each,WEIGHT EACH,DESCRIPTION,5.62#
+residential,18,Sidewall Flashing,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,18,Sidewall Flashing,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,18,Endwall Flashing,2,0,part,PART #,DESCRIPTION,LG-107
+residential,18,Endwall Flashing,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,18,Endwall Flashing,2,0,girth,GIRTH,DESCRIPTION,"934"""
+residential,18,Endwall Flashing,2,0,gauge,GAUGE,DESCRIPTION,29
+residential,18,Endwall Flashing,2,0,weight_each,WEIGHT EACH,DESCRIPTION,5.524
+residential,18,Endwall Flashing,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,18,Endwall Flashing,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,19,Concealed Rake,0,0,part,PART #,DESCRIPTION,CF-301
+residential,19,Concealed Rake,0,0,dim_a,"DIM ""A""",DESCRIPTION,"3"""
+residential,19,Concealed Rake,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,19,Concealed Rake,0,0,girth,GIRTH,DESCRIPTION,"Ry,"""
+residential,19,Concealed Rake,0,0,gauge,GAUGE,DESCRIPTION,29
+residential,19,Concealed Rake,0,0,weight_each,WEIGHT EACH,DESCRIPTION,4.444
+residential,19,Concealed Rake,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,Concealed Rake,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,19,Concealed Rake,0,1,part,PART #,DESCRIPTION,CF-3O01A
+residential,19,Concealed Rake,0,1,dim_a,"DIM ""A""",DESCRIPTION,"6"""
+residential,19,Concealed Rake,0,1,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,19,Concealed Rake,0,1,girth,GIRTH,DESCRIPTION,"Wy"""
+residential,19,Concealed Rake,0,1,gauge,GAUGE,DESCRIPTION,29
+residential,19,Concealed Rake,0,1,weight_each,WEIGHT EACH,DESCRIPTION,6.07#
+residential,19,Concealed Rake,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,Concealed Rake,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,0,part,PART #,DESCRIPTION,FL-1020
+residential,19,5V Crimp Rake Trim,1,0,dim_a,"DIM ""A""",DESCRIPTION,"28 /ig"""
+residential,19,5V Crimp Rake Trim,1,0,roof_slope,ROOF SLOPE,DESCRIPTION,3-4:12
+residential,19,5V Crimp Rake Trim,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,19,5V Crimp Rake Trim,1,0,girth,GIRTH,DESCRIPTION,"87/16"""
+residential,19,5V Crimp Rake Trim,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,19,5V Crimp Rake Trim,1,0,weight_each,"WEIGHT
+EACH",DESCRIPTION,4.31#
+residential,19,5V Crimp Rake Trim,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,0,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,1,part,PART #,DESCRIPTION,FL-1020
+residential,19,5V Crimp Rake Trim,1,1,dim_a,"DIM ""A""",DESCRIPTION,"28 /ig"""
+residential,19,5V Crimp Rake Trim,1,1,roof_slope,ROOF SLOPE,DESCRIPTION,$-4:12
+residential,19,5V Crimp Rake Trim,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,19,5V Crimp Rake Trim,1,1,girth,GIRTH,DESCRIPTION,"87/16"""
+residential,19,5V Crimp Rake Trim,1,1,gauge,GAUGE,DESCRIPTION,26
+residential,19,5V Crimp Rake Trim,1,1,weight_each,"WEIGHT
+EACH",DESCRIPTION,5.57#
+residential,19,5V Crimp Rake Trim,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,1,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,2,part,PART #,DESCRIPTION,FL-1021
+residential,19,5V Crimp Rake Trim,1,2,dim_a,"DIM ""A""",DESCRIPTION,"28/16"""
+residential,19,5V Crimp Rake Trim,1,2,roof_slope,ROOF SLOPE,DESCRIPTION,5-6:12
+residential,19,5V Crimp Rake Trim,1,2,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,19,5V Crimp Rake Trim,1,2,girth,GIRTH,DESCRIPTION,"88/16"""
+residential,19,5V Crimp Rake Trim,1,2,gauge,GAUGE,DESCRIPTION,29
+residential,19,5V Crimp Rake Trim,1,2,weight_each,"WEIGHT
+EACH",DESCRIPTION,4.244
+residential,19,5V Crimp Rake Trim,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,2,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,3,part,PART #,DESCRIPTION,FL-1021
+residential,19,5V Crimp Rake Trim,1,3,dim_a,"DIM ""A""",DESCRIPTION,"28/6"""
+residential,19,5V Crimp Rake Trim,1,3,roof_slope,ROOF SLOPE,DESCRIPTION,5-6:12
+residential,19,5V Crimp Rake Trim,1,3,length,LENGTH,DESCRIPTION,"JO'-2"""
+residential,19,5V Crimp Rake Trim,1,3,girth,GIRTH,DESCRIPTION,"85/16"""
+residential,19,5V Crimp Rake Trim,1,3,gauge,GAUGE,DESCRIPTION,26
+residential,19,5V Crimp Rake Trim,1,3,weight_each,"WEIGHT
+EACH",DESCRIPTION,5.49#
+residential,19,5V Crimp Rake Trim,1,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,3,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,4,part,PART #,DESCRIPTION,FL-1022
+residential,19,5V Crimp Rake Trim,1,4,dim_a,"DIM ""A""",DESCRIPTION,"2/6"""
+residential,19,5V Crimp Rake Trim,1,4,roof_slope,ROOF SLOPE,DESCRIPTION,712
+residential,19,5V Crimp Rake Trim,1,4,length,LENGTH,DESCRIPTION,"10°-2"""
+residential,19,5V Crimp Rake Trim,1,4,girth,GIRTH,DESCRIPTION,"88/16"""
+residential,19,5V Crimp Rake Trim,1,4,gauge,GAUGE,DESCRIPTION,29
+residential,19,5V Crimp Rake Trim,1,4,weight_each,"WEIGHT
+EACH",DESCRIPTION,4184
+residential,19,5V Crimp Rake Trim,1,4,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,4,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,5,part,PART #,DESCRIPTION,FL-1022
+residential,19,5V Crimp Rake Trim,1,5,dim_a,"DIM ""A""",DESCRIPTION,"21/16"""
+residential,19,5V Crimp Rake Trim,1,5,roof_slope,ROOF SLOPE,DESCRIPTION,7112
+residential,19,5V Crimp Rake Trim,1,5,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,19,5V Crimp Rake Trim,1,5,girth,GIRTH,DESCRIPTION,"83/16"""
+residential,19,5V Crimp Rake Trim,1,5,gauge,GAUGE,DESCRIPTION,26
+residential,19,5V Crimp Rake Trim,1,5,weight_each,"WEIGHT
+EACH",DESCRIPTION,5.40#
+residential,19,5V Crimp Rake Trim,1,5,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,5,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,6,part,PART #,DESCRIPTION,FL-1023
+residential,19,5V Crimp Rake Trim,1,6,dim_a,"DIM ""A""",DESCRIPTION,"22/16"""
+residential,19,5V Crimp Rake Trim,1,6,roof_slope,ROOF SLOPE,DESCRIPTION,8-9:12
+residential,19,5V Crimp Rake Trim,1,6,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,19,5V Crimp Rake Trim,1,6,girth,GIRTH,DESCRIPTION,"87/16"""
+residential,19,5V Crimp Rake Trim,1,6,gauge,GAUGE,DESCRIPTION,29
+residential,19,5V Crimp Rake Trim,1,6,weight_each,"WEIGHT
+EACH",DESCRIPTION,4124
+residential,19,5V Crimp Rake Trim,1,6,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,6,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,7,part,PART #,DESCRIPTION,FL-1023
+residential,19,5V Crimp Rake Trim,1,7,dim_a,"DIM ""A""",DESCRIPTION,"22/16"""
+residential,19,5V Crimp Rake Trim,1,7,roof_slope,ROOF SLOPE,DESCRIPTION,8-9:12
+residential,19,5V Crimp Rake Trim,1,7,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,19,5V Crimp Rake Trim,1,7,girth,GIRTH,DESCRIPTION,"8/16"""
+residential,19,5V Crimp Rake Trim,1,7,gauge,GAUGE,DESCRIPTION,26
+residential,19,5V Crimp Rake Trim,1,7,weight_each,"WEIGHT
+EACH",DESCRIPTION,5.32#
+residential,19,5V Crimp Rake Trim,1,7,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,7,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,8,part,PART #,DESCRIPTION,FL-1024
+residential,19,5V Crimp Rake Trim,1,8,dim_a,"DIM ""A""",DESCRIPTION,"27/6"""
+residential,19,5V Crimp Rake Trim,1,8,roof_slope,ROOF SLOPE,DESCRIPTION,10:12
+residential,19,5V Crimp Rake Trim,1,8,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,19,5V Crimp Rake Trim,1,8,girth,GIRTH,DESCRIPTION,"78/6"""
+residential,19,5V Crimp Rake Trim,1,8,gauge,GAUGE,DESCRIPTION,29
+residential,19,5V Crimp Rake Trim,1,8,weight_each,"WEIGHT
+EACH",DESCRIPTION,4.05#
+residential,19,5V Crimp Rake Trim,1,8,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,8,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,9,part,PART #,DESCRIPTION,FL-1024
+residential,19,5V Crimp Rake Trim,1,9,dim_a,"DIM ""A""",DESCRIPTION,"27/16"""
+residential,19,5V Crimp Rake Trim,1,9,roof_slope,ROOF SLOPE,DESCRIPTION,10:12
+residential,19,5V Crimp Rake Trim,1,9,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,19,5V Crimp Rake Trim,1,9,girth,GIRTH,DESCRIPTION,"78/16"""
+residential,19,5V Crimp Rake Trim,1,9,gauge,GAUGE,DESCRIPTION,26
+residential,19,5V Crimp Rake Trim,1,9,weight_each,"WEIGHT
+EACH",DESCRIPTION,5.24#
+residential,19,5V Crimp Rake Trim,1,9,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,19,5V Crimp Rake Trim,1,9,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,0,part,PART #,DESCRIPTION,FL-1030
+residential,20,Slimline' Rake Trim,0,0,dim_a,"DIM ""A""",DESCRIPTION,"37/16"""
+residential,20,Slimline' Rake Trim,0,0,roof_slope,ROOF SLOPE,DESCRIPTION,3-412
+residential,20,Slimline' Rake Trim,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,20,Slimline' Rake Trim,0,0,girth,GIRTH,DESCRIPTION,"BB /i6"""
+residential,20,Slimline' Rake Trim,0,0,gauge,GAUGE,DESCRIPTION,29
+residential,20,Slimline' Rake Trim,0,0,weight_each,"WEIGHT
+EACH",DESCRIPTION,4.50#
+residential,20,Slimline' Rake Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,1,part,PART #,DESCRIPTION,FL-1030
+residential,20,Slimline' Rake Trim,0,1,dim_a,"DIM ""A""",DESCRIPTION,"37/16"""
+residential,20,Slimline' Rake Trim,0,1,roof_slope,ROOF SLOPE,DESCRIPTION,$-4:12
+residential,20,Slimline' Rake Trim,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,20,Slimline' Rake Trim,0,1,girth,GIRTH,DESCRIPTION,"8°3/16"""
+residential,20,Slimline' Rake Trim,0,1,gauge,GAUGE,DESCRIPTION,26
+residential,20,Slimline' Rake Trim,0,1,weight_each,"WEIGHT
+EACH",DESCRIPTION,5.82#
+residential,20,Slimline' Rake Trim,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,2,part,PART #,DESCRIPTION,FL-1031]
+residential,20,Slimline' Rake Trim,0,2,dim_a,"DIM ""A""",DESCRIPTION,"35/6"""
+residential,20,Slimline' Rake Trim,0,2,roof_slope,ROOF SLOPE,DESCRIPTION,5-6:12
+residential,20,Slimline' Rake Trim,0,2,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,20,Slimline' Rake Trim,0,2,girth,GIRTH,DESCRIPTION,"8/15"""
+residential,20,Slimline' Rake Trim,0,2,gauge,GAUGE,DESCRIPTION,29
+residential,20,Slimline' Rake Trim,0,2,weight_each,"WEIGHT
+EACH",DESCRIPTION,4.444
+residential,20,Slimline' Rake Trim,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,3,part,PART #,DESCRIPTION,FL-1031
+residential,20,Slimline' Rake Trim,0,3,dim_a,"DIM ""A""",DESCRIPTION,"35/16"""
+residential,20,Slimline' Rake Trim,0,3,roof_slope,ROOF SLOPE,DESCRIPTION,5-6:12
+residential,20,Slimline' Rake Trim,0,3,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,20,Slimline' Rake Trim,0,3,girth,GIRTH,DESCRIPTION,"8""/i6"""
+residential,20,Slimline' Rake Trim,0,3,gauge,GAUGE,DESCRIPTION,26
+residential,20,Slimline' Rake Trim,0,3,weight_each,"WEIGHT
+EACH",DESCRIPTION,5.73#
+residential,20,Slimline' Rake Trim,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,4,part,PART #,DESCRIPTION,FL-1032
+residential,20,Slimline' Rake Trim,0,4,dim_a,"DIM ""A""",DESCRIPTION,"3B3/i6"""
+residential,20,Slimline' Rake Trim,0,4,roof_slope,ROOF SLOPE,DESCRIPTION,712
+residential,20,Slimline' Rake Trim,0,4,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,20,Slimline' Rake Trim,0,4,girth,GIRTH,DESCRIPTION,"8/16"""
+residential,20,Slimline' Rake Trim,0,4,gauge,GAUGE,DESCRIPTION,29
+residential,20,Slimline' Rake Trim,0,4,weight_each,"WEIGHT
+EACH",DESCRIPTION,4.37#
+residential,20,Slimline' Rake Trim,0,4,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,4,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,5,part,PART #,DESCRIPTION,FL-1032
+residential,20,Slimline' Rake Trim,0,5,dim_a,"DIM ""A""",DESCRIPTION,"33/16"""
+residential,20,Slimline' Rake Trim,0,5,roof_slope,ROOF SLOPE,DESCRIPTION,7:12
+residential,20,Slimline' Rake Trim,0,5,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,20,Slimline' Rake Trim,0,5,girth,GIRTH,DESCRIPTION,"8/16"""
+residential,20,Slimline' Rake Trim,0,5,gauge,GAUGE,DESCRIPTION,26
+residential,20,Slimline' Rake Trim,0,5,weight_each,"WEIGHT
+EACH",DESCRIPTION,5.65#
+residential,20,Slimline' Rake Trim,0,5,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,5,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,6,part,PART #,DESCRIPTION,FL-1033
+residential,20,Slimline' Rake Trim,0,6,dim_a,"DIM ""A""",DESCRIPTION,"36"""
+residential,20,Slimline' Rake Trim,0,6,roof_slope,ROOF SLOPE,DESCRIPTION,8-9:12
+residential,20,Slimline' Rake Trim,0,6,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,20,Slimline' Rake Trim,0,6,girth,GIRTH,DESCRIPTION,"87/6"""
+residential,20,Slimline' Rake Trim,0,6,gauge,GAUGE,DESCRIPTION,29
+residential,20,Slimline' Rake Trim,0,6,weight_each,"WEIGHT
+EACH",DESCRIPTION,4.31#
+residential,20,Slimline' Rake Trim,0,6,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,6,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,7,part,PART #,DESCRIPTION,FL-1033
+residential,20,Slimline' Rake Trim,0,7,dim_a,"DIM ""A""",DESCRIPTION,"3Vi6"""
+residential,20,Slimline' Rake Trim,0,7,roof_slope,ROOF SLOPE,DESCRIPTION,8-9:12
+residential,20,Slimline' Rake Trim,0,7,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,20,Slimline' Rake Trim,0,7,girth,GIRTH,DESCRIPTION,"87/16"""
+residential,20,Slimline' Rake Trim,0,7,gauge,GAUGE,DESCRIPTION,26
+residential,20,Slimline' Rake Trim,0,7,weight_each,"WEIGHT
+EACH",DESCRIPTION,5.57#
+residential,20,Slimline' Rake Trim,0,7,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,7,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,8,part,PART #,DESCRIPTION,FL-1034
+residential,20,Slimline' Rake Trim,0,8,dim_a,"DIM ""A""",DESCRIPTION,"28/16"""
+residential,20,Slimline' Rake Trim,0,8,roof_slope,ROOF SLOPE,DESCRIPTION,10:12
+residential,20,Slimline' Rake Trim,0,8,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,20,Slimline' Rake Trim,0,8,girth,GIRTH,DESCRIPTION,"85/16"""
+residential,20,Slimline' Rake Trim,0,8,gauge,GAUGE,DESCRIPTION,29
+residential,20,Slimline' Rake Trim,0,8,weight_each,"WEIGHT
+EACH",DESCRIPTION,4.244
+residential,20,Slimline' Rake Trim,0,8,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,8,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,9,part,PART #,DESCRIPTION,FL-1034
+residential,20,Slimline' Rake Trim,0,9,dim_a,"DIM ""A""",DESCRIPTION,"28/16"""
+residential,20,Slimline' Rake Trim,0,9,roof_slope,ROOF SLOPE,DESCRIPTION,10:12
+residential,20,Slimline' Rake Trim,0,9,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,20,Slimline' Rake Trim,0,9,girth,GIRTH,DESCRIPTION,"85/16"""
+residential,20,Slimline' Rake Trim,0,9,gauge,GAUGE,DESCRIPTION,26
+residential,20,Slimline' Rake Trim,0,9,weight_each,"WEIGHT
+EACH",DESCRIPTION,5.49#
+residential,20,Slimline' Rake Trim,0,9,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,0,9,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,1,0,part,PART #,DESCRIPTION,AG-454
+residential,20,Slimline' Rake Trim,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,20,Slimline' Rake Trim,1,0,girth,GIRTH,DESCRIPTION,"8%"""
+residential,20,Slimline' Rake Trim,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,20,Slimline' Rake Trim,1,0,weight_each,WEIGHT EACH,DESCRIPTION,4.31#
+residential,20,Slimline' Rake Trim,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,1,1,part,PART #,DESCRIPTION,AG-456
+residential,20,Slimline' Rake Trim,1,1,length,LENGTH,DESCRIPTION,"20°-2"""
+residential,20,Slimline' Rake Trim,1,1,girth,GIRTH,DESCRIPTION,"8%"""
+residential,20,Slimline' Rake Trim,1,1,gauge,GAUGE,DESCRIPTION,29
+residential,20,Slimline' Rake Trim,1,1,weight_each,WEIGHT EACH,DESCRIPTION,"8.62"""
+residential,20,Slimline' Rake Trim,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,20,Slimline' Rake Trim,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,21,5V Crimp Parapet Rake Trim,0,0,part,PART #,DESCRIPTION,FL-1060
+residential,21,5V Crimp Parapet Rake Trim,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,21,5V Crimp Parapet Rake Trim,0,0,girth,GIRTH,DESCRIPTION,"10%"""
+residential,21,5V Crimp Parapet Rake Trim,0,0,gauge,GAUGE,DESCRIPTION,29
+residential,21,5V Crimp Parapet Rake Trim,0,0,weight_each,WEIGHT EACH,DESCRIPTION,"5,55#"
+residential,21,5V Crimp Parapet Rake Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,21,5V Crimp Parapet Rake Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,21,5V Crimp Parapet Rake Trim,0,1,part,PART #,DESCRIPTION,FL-1060
+residential,21,5V Crimp Parapet Rake Trim,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,21,5V Crimp Parapet Rake Trim,0,1,girth,GIRTH,DESCRIPTION,"107%"""
+residential,21,5V Crimp Parapet Rake Trim,0,1,gauge,GAUGE,DESCRIPTION,26
+residential,21,5V Crimp Parapet Rake Trim,0,1,weight_each,WEIGHT EACH,DESCRIPTION,7184
+residential,21,5V Crimp Parapet Rake Trim,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,21,5V Crimp Parapet Rake Trim,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,21,Rake Transition,1,0,part,PART #,DESCRIPTION,AG-26]
+residential,21,Rake Transition,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,21,Rake Transition,1,0,girth,GIRTH,DESCRIPTION,"10"""
+residential,21,Rake Transition,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,21,Rake Transition,1,0,weight_each,WEIGHT EACH,DESCRIPTION,5.27#
+residential,21,Rake Transition,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,21,Rake Transition,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,21,Rake Transition,1,1,part,PART #,DESCRIPTION,AG-26]1
+residential,21,Rake Transition,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,21,Rake Transition,1,1,girth,GIRTH,DESCRIPTION,"10"""
+residential,21,Rake Transition,1,1,gauge,GAUGE,DESCRIPTION,26
+residential,21,Rake Transition,1,1,weight_each,WEIGHT EACH,DESCRIPTION,6.45#
+residential,21,Rake Transition,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,21,Rake Transition,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,21,Rake Transition,1,2,part,PART #,DESCRIPTION,AG-262
+residential,21,Rake Transition,1,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,21,Rake Transition,1,2,girth,GIRTH,DESCRIPTION,"10"""
+residential,21,Rake Transition,1,2,gauge,GAUGE,DESCRIPTION,29
+residential,21,Rake Transition,1,2,weight_each,WEIGHT EACH,DESCRIPTION,9.90#
+residential,21,Rake Transition,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,21,Rake Transition,1,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,21,Rake Transition,1,3,part,PART #,DESCRIPTION,AG-262
+residential,21,Rake Transition,1,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,21,Rake Transition,1,3,girth,GIRTH,DESCRIPTION,"10"""
+residential,21,Rake Transition,1,3,gauge,GAUGE,DESCRIPTION,26
+residential,21,Rake Transition,1,3,weight_each,WEIGHT EACH,DESCRIPTION,12.90#
+residential,21,Rake Transition,1,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,21,Rake Transition,1,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,21,High Side Transition,2,0,part,PART #,DESCRIPTION,AG-263
+residential,21,High Side Transition,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,21,High Side Transition,2,0,girth,GIRTH,DESCRIPTION,"ay,"""
+residential,21,High Side Transition,2,0,gauge,GAUGE,DESCRIPTION,29
+residential,21,High Side Transition,2,0,weight_each,WEIGHT EACH,DESCRIPTION,4.214
+residential,21,High Side Transition,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,21,High Side Transition,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,21,High Side Transition,2,1,part,PART #,DESCRIPTION,AG-263
+residential,21,High Side Transition,2,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,21,High Side Transition,2,1,girth,GIRTH,DESCRIPTION,"gy"""
+residential,21,High Side Transition,2,1,gauge,GAUGE,DESCRIPTION,26
+residential,21,High Side Transition,2,1,weight_each,WEIGHT EACH,DESCRIPTION,5.61#
+residential,21,High Side Transition,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,21,High Side Transition,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,21,High Side Transition,2,2,part,PART #,DESCRIPTION,AG-264
+residential,21,High Side Transition,2,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,21,High Side Transition,2,2,girth,GIRTH,DESCRIPTION,"gy"""
+residential,21,High Side Transition,2,2,gauge,GAUGE,DESCRIPTION,29
+residential,21,High Side Transition,2,2,weight_each,WEIGHT EACH,DESCRIPTION,8.42#
+residential,21,High Side Transition,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,21,High Side Transition,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,21,High Side Transition,2,3,part,PART #,DESCRIPTION,AG-264
+residential,21,High Side Transition,2,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,21,High Side Transition,2,3,girth,GIRTH,DESCRIPTION,"ayy"""
+residential,21,High Side Transition,2,3,gauge,GAUGE,DESCRIPTION,26
+residential,21,High Side Transition,2,3,weight_each,WEIGHT EACH,DESCRIPTION,10.96#
+residential,21,High Side Transition,2,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,21,High Side Transition,2,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,22,Continuous Cleat,0,0,part,PART #,DESCRIPTION,FL-338
+residential,22,Continuous Cleat,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,22,Continuous Cleat,0,0,girth,GIRTH,DESCRIPTION,"a"""
+residential,22,Continuous Cleat,0,0,gauge,GAUGE,DESCRIPTION,24
+residential,22,Continuous Cleat,0,0,weight_each,WEIGHT EACH,DESCRIPTION,2.45#
+residential,22,Continuous Cleat,0,0,assorted_colors,ASSORTED COLORS,,v
+residential,22,Offset Cleat,1,0,part,PART #,DESCRIPTION,FL-337
+residential,22,Offset Cleat,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,22,Offset Cleat,1,0,girth,GIRTH,DESCRIPTION,"Sy"""
+residential,22,Offset Cleat,1,0,gauge,GAUGE,DESCRIPTION,24
+residential,22,Offset Cleat,1,0,weight_each,WEIGHT EACH,DESCRIPTION,2.45#
+residential,22,Offset Cleat,1,0,assorted_colors,ASSORTED COLORS,,v
+residential,22,Fascia/Soffit Trim,2,0,part,PART #,DESCRIPTION,AG-458
+residential,22,Fascia/Soffit Trim,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,22,Fascia/Soffit Trim,2,0,girth,GIRTH,DESCRIPTION,"8 5/16"""
+residential,22,Fascia/Soffit Trim,2,0,gauge,GAUGE,DESCRIPTION,29
+residential,22,Fascia/Soffit Trim,2,0,weight_each,WEIGHT EACH,DESCRIPTION,415#
+residential,22,Fascia/Soffit Trim,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,22,Fascia/Soffit Trim,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,22,Fascia/Soffit Trim,2,1,part,PART #,DESCRIPTION,AG-458
+residential,22,Fascia/Soffit Trim,2,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,22,Fascia/Soffit Trim,2,1,girth,GIRTH,DESCRIPTION,"8 5/16"""
+residential,22,Fascia/Soffit Trim,2,1,gauge,GAUGE,DESCRIPTION,26
+residential,22,Fascia/Soffit Trim,2,1,weight_each,WEIGHT EACH,DESCRIPTION,5.37#
+residential,22,Fascia/Soffit Trim,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,22,Fascia/Soffit Trim,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,22,Fascia/Soffit Trim,2,2,part,PART #,DESCRIPTION,AG-460
+residential,22,Fascia/Soffit Trim,2,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,22,Fascia/Soffit Trim,2,2,girth,GIRTH,DESCRIPTION,"8 5/16"""
+residential,22,Fascia/Soffit Trim,2,2,gauge,GAUGE,DESCRIPTION,29
+residential,22,Fascia/Soffit Trim,2,2,weight_each,WEIGHT EACH,DESCRIPTION,8.30#
+residential,22,Fascia/Soffit Trim,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,22,Fascia/Soffit Trim,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,22,Fascia/Soffit Trim,2,3,part,PART #,DESCRIPTION,AG-460
+residential,22,Fascia/Soffit Trim,2,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,22,Fascia/Soffit Trim,2,3,girth,GIRTH,DESCRIPTION,"8 5/16"""
+residential,22,Fascia/Soffit Trim,2,3,gauge,GAUGE,DESCRIPTION,26
+residential,22,Fascia/Soffit Trim,2,3,weight_each,WEIGHT EACH,DESCRIPTION,10.74#
+residential,22,Fascia/Soffit Trim,2,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,22,Fascia/Soffit Trim,2,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,23,Fascia Trim,0,0,part,PART #,DESCRIPTION,AG-462
+residential,23,Fascia Trim,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,23,Fascia Trim,0,0,girth,GIRTH,DESCRIPTION,"7%"""
+residential,23,Fascia Trim,0,0,gauge,GAUGE,DESCRIPTION,29
+residential,23,Fascia Trim,0,0,weight_each,WEIGHT EACH,DESCRIPTION,3.61#
+residential,23,Fascia Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,23,Fascia Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,23,Fascia Trim,0,1,part,PART #,DESCRIPTION,AG-462
+residential,23,Fascia Trim,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,23,Fascia Trim,0,1,girth,GIRTH,DESCRIPTION,"7 343"""
+residential,23,Fascia Trim,0,1,gauge,GAUGE,DESCRIPTION,26
+residential,23,Fascia Trim,0,1,weight_each,WEIGHT EACH,DESCRIPTION,4.69#
+residential,23,Fascia Trim,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,23,Fascia Trim,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,23,Fascia Trim,0,2,part,PART #,DESCRIPTION,AG-464
+residential,23,Fascia Trim,0,2,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,23,Fascia Trim,0,2,girth,GIRTH,DESCRIPTION,"7 343"""
+residential,23,Fascia Trim,0,2,gauge,GAUGE,DESCRIPTION,29
+residential,23,Fascia Trim,0,2,weight_each,WEIGHT EACH,DESCRIPTION,7.224
+residential,23,Fascia Trim,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,23,Fascia Trim,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,23,Fascia Trim,0,3,part,PART #,DESCRIPTION,AG-464
+residential,23,Fascia Trim,0,3,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,23,Fascia Trim,0,3,girth,GIRTH,DESCRIPTION,"7 343"""
+residential,23,Fascia Trim,0,3,gauge,GAUGE,DESCRIPTION,26
+residential,23,Fascia Trim,0,3,weight_each,WEIGHT EACH,DESCRIPTION,9.384
+residential,23,Fascia Trim,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,23,Fascia Trim,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,23,Panel Cap,1,0,part,PART #,DESCRIPTION,AG-450
+residential,23,Panel Cap,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,23,Panel Cap,1,0,girth,GIRTH,DESCRIPTION,"58/16"""
+residential,23,Panel Cap,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,23,Panel Cap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,2.90#
+residential,23,Panel Cap,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,23,Panel Cap,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,23,Panel Cap,1,1,part,PART #,DESCRIPTION,AG-452
+residential,23,Panel Cap,1,1,length,LENGTH,DESCRIPTION,"20'-2"""
+residential,23,Panel Cap,1,1,girth,GIRTH,DESCRIPTION,"59/16"""
+residential,23,Panel Cap,1,1,gauge,GAUGE,DESCRIPTION,29
+residential,23,Panel Cap,1,1,weight_each,WEIGHT EACH,DESCRIPTION,5.80#
+residential,23,Panel Cap,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,23,Panel Cap,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,23,Slimline' Z Closure,2,0,part,PART #,DESCRIPTION,AG-470
+residential,23,Slimline' Z Closure,2,0,dim_a,"DIM ""A""",DESCRIPTION,"1"""
+residential,23,Slimline' Z Closure,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,23,Slimline' Z Closure,2,0,girth,GIRTH,DESCRIPTION,"3"""
+residential,23,Slimline' Z Closure,2,0,gauge,GAUGE,DESCRIPTION,29
+residential,23,Slimline' Z Closure,2,0,weight_each,"WEIGHT
+EACH",DESCRIPTION,1.65#
+residential,23,Slimline' Z Closure,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,23,Slimline' Z Closure,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,24,5V Crimp Z Closure,0,0,part,PART #,DESCRIPTION,AG-274
+residential,24,5V Crimp Z Closure,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,24,5V Crimp Z Closure,0,0,girth,GIRTH,DESCRIPTION,"Dy"""
+residential,24,5V Crimp Z Closure,0,0,gauge,GAUGE,DESCRIPTION,26
+residential,24,5V Crimp Z Closure,0,0,weight_each,WEIGHT EACH,DESCRIPTION,1.784
+residential,24,5V Crimp Z Closure,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,24,5V Crimp Z Closure,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,24,Eave Trim with Drip Edge,1,0,part,PART #,DESCRIPTION,AG-279
+residential,24,Eave Trim with Drip Edge,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,24,Eave Trim with Drip Edge,1,0,girth,GIRTH,DESCRIPTION,"Q54"""
+residential,24,Eave Trim with Drip Edge,1,0,gauge,GAUGE,DESCRIPTION,29
+residential,24,Eave Trim with Drip Edge,1,0,weight_each,WEIGHT EACH,DESCRIPTION,4.77#
+residential,24,Eave Trim with Drip Edge,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,24,Eave Trim with Drip Edge,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,24,Eave Trim with Drip Edge,1,1,part,PART #,DESCRIPTION,AG-279
+residential,24,Eave Trim with Drip Edge,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,24,Eave Trim with Drip Edge,1,1,girth,GIRTH,DESCRIPTION,"9%"""
+residential,24,Eave Trim with Drip Edge,1,1,gauge,GAUGE,DESCRIPTION,26
+residential,24,Eave Trim with Drip Edge,1,1,weight_each,WEIGHT EACH,DESCRIPTION,6.18#
+residential,24,Eave Trim with Drip Edge,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,24,Eave Trim with Drip Edge,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,24,Metal Drip Edge,2,0,part,PART #,DESCRIPTION,AG-283
+residential,24,Metal Drip Edge,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+residential,24,Metal Drip Edge,2,0,girth,GIRTH,DESCRIPTION,"4"""
+residential,24,Metal Drip Edge,2,0,gauge,GAUGE,DESCRIPTION,29
+residential,24,Metal Drip Edge,2,0,weight_each,WEIGHT EACH,DESCRIPTION,2.02#
+residential,24,Metal Drip Edge,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,24,Metal Drip Edge,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,24,Metal Drip Edge,2,1,part,PART #,DESCRIPTION,AG-283
+residential,24,Metal Drip Edge,2,1,length,LENGTH,DESCRIPTION,"10'-2"""
+residential,24,Metal Drip Edge,2,1,girth,GIRTH,DESCRIPTION,"4"""
+residential,24,Metal Drip Edge,2,1,gauge,GAUGE,DESCRIPTION,26
+residential,24,Metal Drip Edge,2,1,weight_each,WEIGHT EACH,DESCRIPTION,2.644
+residential,24,Metal Drip Edge,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+residential,24,Metal Drip Edge,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+residential,25,,0,0,column_1,,,DESCRIPTION
+residential,25,,0,0,column_2,,,PRICED PER SQUARE FOOT
+residential,25,,0,1,column_1,,,GAUGE
+residential,25,,0,1,column_2,,,GALVALUME® PLUS
+residential,25,,0,1,column_3,,,SIGNATURE® 200
+residential,25,,0,2,column_1,,,29
+residential,25,,0,2,column_2,,,v
+residential,25,,0,2,column_3,,,v
+residential,25,,0,3,column_1,,,26
+residential,25,,0,3,column_2,,,v
+residential,25,,0,3,column_3,,,v

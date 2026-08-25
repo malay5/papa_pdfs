@@ -1,0 +1,4278 @@
+{
+  "catalog": "fasteners",
+  "page_count": 25,
+  "effective_dates": [
+    "APRIL 2, 2025"
+  ],
+  "pages": [
+    {
+      "page": 1,
+      "title": "",
+      "category": "",
+      "sections": [],
+      "tables": [],
+      "text": "Fasteners Pricing Guide",
+      "repaired_cells": 0,
+      "effective_date": "",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 2,
+      "title": "Fasteners Pricing",
+      "category": "TABLE OF CONTENTS",
+      "sections": [],
+      "tables": [],
+      "text": "Fasteners Pricing TABLE OF CONTENTS\nAccessories\nDrill Bits 3\nSockets 3\nScrew and Pop Rivet Guns 4\n#12 DiameterFasteners 5\n%\" Diameter Fasteners 10\n#10 Diameter Fasteners 17\nSpecial Fasteners 20\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 2\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 3,
+      "title": "",
+      "category": "",
+      "sections": [
+        "Drill Bit",
+        "Magnetic Sockets"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Drill Bit",
+          "bbox": [
+            41.4,
+            227.3,
+            566.4,
+            315.5
+          ],
+          "columns": [
+            "part",
+            "wire_guage",
+            "decimal_size",
+            "use",
+            "carton_qty",
+            "weight_per_each",
+            "price"
+          ],
+          "column_labels": [
+            "PART #",
+            "WIRE\nGUAGE",
+            "DECIMAL\nSIZE",
+            "USE",
+            "CARTON\nQTy",
+            "WEIGHT\nPER EACH",
+            "PRICE"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            ""
+          ],
+          "rows": [
+            [
+              "HW-601",
+              "#30",
+              "1285\"",
+              "For Pop Rivets",
+              "10/pkg",
+              "10#",
+              "✓"
+            ],
+            [
+              "HW-603",
+              "#8",
+              "1990\"",
+              "For #14 or %4\" diameter Fastener in 16 to 12 gauge steel",
+              "10/pke",
+              "10#",
+              "✓"
+            ],
+            [
+              "HW-611",
+              "#1",
+              "2280\"",
+              "For #14 or %\" diameter Fastener in 7/;¢\" to 3%\" thick steel",
+              "10/pkg",
+              "10#",
+              "✓"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Magnetic Sockets",
+          "bbox": [
+            41.4,
+            448.6,
+            566.4,
+            611.9
+          ],
+          "columns": [
+            "column_1",
+            "column_2",
+            "column_3",
+            "column_4"
+          ],
+          "column_labels": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_groups": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "DESCRIPTION",
+              "",
+              "",
+              "PRICED PER EACH"
+            ],
+            [
+              "PART #",
+              "SIZE",
+              "WEIGHT PER EACH",
+              "PRICE"
+            ],
+            [
+              "HW-604",
+              "38\" Hex Drive",
+              "10#",
+              "v"
+            ],
+            [
+              "HW-605",
+              "5/16\" Hex Drive",
+              "10#",
+              "v"
+            ],
+            [
+              "HW-606",
+              "Y%\" Hex Drive",
+              "10#",
+              "v"
+            ],
+            [
+              "HW-612",
+              "38\" Hex Drive - For Long Life Fasteners",
+              "10#",
+              "v"
+            ],
+            [
+              "HW-613",
+              "5/16\" Hex Drive - For Long Life Fasteners",
+              "10#",
+              "v"
+            ],
+            [
+              "HW-590",
+              "6\" Long - %\" Hex Drive",
+              "12#",
+              "v"
+            ],
+            [
+              "HW-591",
+              "6\" Long - 5/16\" Hex Drive",
+              "11#",
+              "v"
+            ],
+            [
+              "HW-592",
+              "6\" Long - %4\" Hex Drive",
+              "104",
+              "v"
+            ],
+            [
+              "HW-615",
+              "#2 Philips Insert with Magentic Holder",
+              "10#",
+              "v"
+            ],
+            [
+              "HW-616",
+              "#2 Quadrex Drive",
+              "10#",
+              "v"
+            ]
+          ]
+        }
+      ],
+      "text": "ACCESSORIES\n—\nSEZ\nDrill Bit\nPRICED PER\nDESCRIPTION EACH\nWIRE DECIMAL CARTON WEIGHT\nPART# GUAGE SIZE QTY PEREACH PRICE\nHW-601 #30 1285\" For Pop Rivets 10/pkg 10# v\nHW-603 #8 .1990\" For #14 or %\" diameter Fastener in 16 to 12 gauge steel — 10/pkg 10# v\nHW-611 #1 .2280\" For #14 or %4\" diameter Fastener in 7/;6\" to 36\" thick steel 10/pkg 10# v\nMagnetic Sockets\nDESCRIPTION PRICED PER EACH\nWEIGHT PER EACH\nHW-604 %\" Hex Drive 10# v\nHW-605 5/16\" Hex Drive 10# v\nHW-606 %a\" Hex Drive 10# v\nHW-612 36\" Hex Drive - For Long Life Fasteners 10# v\nHW-613 5/16\" Hex Drive - For Long Life Fasteners 108 v\nHW-590 6\" Long - 3%\" Hex Drive 12# v\nHW-591 6\" Long - °/16\" Hex Drive 1# v\nHW-592 6\" Long - 4\" Hex Drive 10# v\nHW-615 #2 Philips Insert with Magentic Holder 10# v\nHW-616 #2 Quadrex Drive 10 v\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 3\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 4,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Impact Socket",
+        "Screw Gun",
+        "Pop Rivet Gun"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Impact Socket",
+          "bbox": [
+            41.4,
+            182.3,
+            566.4,
+            248.3
+          ],
+          "columns": [
+            "column_1",
+            "column_2",
+            "column_3",
+            "column_4"
+          ],
+          "column_labels": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_groups": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "DESCRIPTION",
+              "",
+              "",
+              "PRICED PER EACH"
+            ],
+            [
+              "PART #",
+              "SIZE",
+              "WEIGHT PER EACH",
+              "PRICE"
+            ],
+            [
+              "HW-607",
+              "¥6\" (Driller)",
+              ".10#",
+              "v"
+            ],
+            [
+              "HW-608",
+              "34\" (Driller or Tapper)",
+              "10#",
+              "v"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Screw Gun",
+          "bbox": [
+            41.4,
+            387.1,
+            566.4,
+            441.1
+          ],
+          "columns": [
+            "column_1",
+            "column_2",
+            "column_3",
+            "column_4"
+          ],
+          "column_labels": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_groups": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "DESCRIPTION",
+              "",
+              "",
+              "PRICED PER EACH"
+            ],
+            [
+              "PART #",
+              "DESCRIPTION",
+              "WEIGHT PER EACH",
+              "PRICE"
+            ],
+            [
+              "HW-609",
+              "AC Screw Gun",
+              "20.00#",
+              "v"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Pop Rivet Gun",
+          "bbox": [
+            41.4,
+            576.2,
+            566.4,
+            630.1
+          ],
+          "columns": [
+            "column_1",
+            "column_2",
+            "column_3",
+            "column_4"
+          ],
+          "column_labels": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_groups": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "DESCRIPTION",
+              "",
+              "",
+              "PRICED PER EACH"
+            ],
+            [
+              "PART #",
+              "DESCRIPTION",
+              "WEIGHT PER EACH",
+              "PRICE"
+            ],
+            [
+              "HW-610",
+              "Hand Pop Rivet Gun",
+              "5.00#",
+              "v"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nImpact Socket\nSN\nN@\nDESCRIPTION PRICED PER EACH\nPART # SIZE WEIGHT PER EACH PRICE\nHW-607 5\" (Driller) 10# v\nHW-608 34\" (Driller or Tapper) 10# v\nScrew Gun\nDESCRIPTION PRICED PER EACH\nPART # DESCRIPTION WEIGHT PER EACH PRICE\nHW-609 AC Screw Gun 20.00# v\nPop Rivet Gun\nDESCRIPTION PRICED PER EACH\nPART # DESCRIPTION WEIGHT PER EACH PRICE\nHW-610 Hand Pop Rivet Gun 5.00# v\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 4\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 5,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #17C",
+        "Fastener #17",
+        "Fastener #17A",
+        "Fastener #17B"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #17C",
+          "bbox": [
+            41.4,
+            159.2,
+            566.4,
+            213.1
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#17C",
+              "5/16\"",
+              "Driller",
+              "11.90#",
+              "✓",
+              "vi"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #17",
+          "bbox": [
+            41.4,
+            328.3,
+            566.4,
+            382.1
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#17",
+              "5/16\"",
+              "Driller",
+              "13.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #17A",
+          "bbox": [
+            41.4,
+            497.4,
+            566.4,
+            551.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#17A",
+              "5/16\"",
+              "Driller",
+              "15.50#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #17B",
+          "bbox": [
+            41.4,
+            666.5,
+            566.4,
+            720.1
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#17B",
+              "5/16\"",
+              "Driller",
+              "17.00#",
+              "✓",
+              "vi"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #1 7C\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic, and special\ncolors. Please inquire.\n12-14 x %\" Driller\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#17C 5/6\" Driller 11.90# v vt\nFastener #17\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic, and special\ncolors. Please inquire.\n12-14 x 1\" Driller + Use: Fastener is used at the ridge and high eave closures.\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\nShe\" Driller 13.00# v vt\nFastener #1 7A\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic, and special\ncolors. Please inquire.\n12-14 x 1%\" Driller\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#17A She\" Driller 15.504 v v¢t\nFastener #17B\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-14 x 1%\" Driller\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#17B 5/6\" Driller 17.00# v vi\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 5\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 6,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #28",
+        "Fastener #27",
+        "Fastener #3",
+        "Fastener #3A"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #28",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#28",
+              "5/16\"",
+              "Driller",
+              "23.00#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #27",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#27",
+              "Shie\"",
+              "Long Life Driller",
+              "23.80#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #3",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#3",
+              "S/i6\"",
+              "Long Life Driller",
+              "21.50#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #3A",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#3A",
+              "S16\"",
+              "Long Life Driller",
+              "25.80#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #28\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-14 x 2\" with #2 Drill Point\n5/16\" Hex Washer Head with EDPM Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#28 She\" Driller 23.00# v vt\nFastener #27\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for paint colors. Please inquire.\n12-14 x 1\" Long Life with #3 Drill Point\n5/16\" Hex Washer Head with EDPM Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#27 She\" Long Life Driller 23.80# v vi\nFastener #3\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-14 x 1%\" Long Life Driller\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#3 She\" Long Life Driller 21.50# v vt\nFastener #3A\na\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-14 x 1%\" Long Life Driller\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#3A 5/16\" Long Life Driller 25.80# v vi\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 6\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 7,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #58",
+        "Fastener #63B",
+        "Fastener #63",
+        "Fastener #63A"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #58",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#58",
+              "5/16\"",
+              "Long Life Driller",
+              "29.70#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #63B",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "material",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "MATERIAL",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#63B",
+              "3/16\"",
+              "Driller",
+              "410 Stainless",
+              "11.10#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #63",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "material",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "MATERIAL",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#63",
+              "5/16\"",
+              "Driller",
+              "410 Stainless",
+              "12.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #63A",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "material",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "MATERIAL",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#63A",
+              "S16\"",
+              "Driller",
+              "410 Stainless",
+              "15.90#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #58\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-14 x 2\" Long Life with #3 Drill Point\n5/16\" Hex Washer Head with EDPM Washer\nDESCRIPTION PRICED PER THOUSAND\n43 WEIGHT PER 1000 PLATED PAINTED\n#58 5/6\" Long Life Driller 29.70# v vi\nFastener #63B\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-14 x 1\" Stainless with #3 Drill Point\n5/16\" Hex Washer Head w/ °/:5\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE MATERIAL WEIGHT PER 1000 PLATED PAINTED\n#63B Sie\" Driller 410 Stainless 11.10# v vt\nFastener #63\nNote:\ns + Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-14 x 1%\" Stainless with #3 Drill Point\n5/16\" Hex Washer Head w/ °/:.\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE MATERIAL WEIGHT PER 1000 PLATED PAINTED\n#63 5/16\" Driller 410 Stainless 12.00# v vt\nFastener #63A\nNote:\n+ Fasteners sold in quantities of 250 only\nTN re\n12-14 x 1%\" Stainless with #3 Drill Point\n5/16\" Hex Washer Head w/ °/:5\" Bonded Washer\n+ Set up fee required for paint colors. Please inquire.\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE MATERIAL WEIGHT PER 1000 PLATED PAINTED\n#63A 5/16\" Driller 410 Stainless 15.90# v vt\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 7\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 8,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #29",
+        "Fastener #1A",
+        "Fastener #61",
+        "Fastener #60"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #29",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#29",
+              "5/16\"",
+              "Driller",
+              "13.00#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #1A",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#IA",
+              "3/16\"",
+              "Driller",
+              "13.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #61",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#61",
+              "5/16\"",
+              "Driller",
+              "11.80#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #60",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#60",
+              "S16\"",
+              "Driller",
+              "13.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #29\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12 x %4\" Driller with #3 Drill Point\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#29 She\" Driller 13.00# v vt\nFastener #1A\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-14 x 1\" Driller\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#1A She\" Driller 13.00# v vt\nFastener #61\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12 x 1%\" Driller with #2 Drill Point\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#61 She\" Driller 11.80# v vt\nFastener #60\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12 x 1%\" Driller with #3 Drill Point\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#60 Sire\" Driller 13.00# v vi\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 8\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 9,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #6",
+        "Fastener #67",
+        "Fastener #69",
+        "Fastener #78"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #6",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#6",
+              "5/16\"",
+              "Driller",
+              "16.50#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #67",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#67",
+              "3/16\"",
+              "Driller",
+              "16.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #69",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#69",
+              "5/16\"",
+              "Driller",
+              "16.80#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #78",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#78",
+              "S16\"",
+              "Long Life Driller",
+              "24.30#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-24 x 1%\" TEK 4.5\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#6 She\" Driller 16.50# v vt\nFastener #67\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-24 x 1%\" with #5 Drill Point\n5/16\" Hex Washer Head w/ °/:s\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#67 She\" Driller 16.00# v vt\nFastener #69\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-24 x 1%\" with #5 Drill Point\n5/16\" Hex Washer Head w/ °/:.\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#69 She\" Driller 16.80# v vt\nFastener #78\n7\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-24 x 1%\" Long Life with #5 Drill Point\n5/16\" Hex Washer Head w/EDPM Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#78 5/16\" Long Life Driller 24.30# v vi\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 9\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 10,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #6A",
+        "Fastener #55",
+        "Fastener #70",
+        "Fastener #1C"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #6A",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#06A",
+              "5/16\"",
+              "Driller",
+              "30.00#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #55",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#55",
+              "3/16\"",
+              "Driller",
+              "13.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #70",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER EACH",
+            "PRICED PER EACH"
+          ],
+          "rows": [
+            [
+              "#70",
+              "5/16\"",
+              "Driller",
+              "15.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #1C",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#1C",
+              "S16\"",
+              "Driller",
+              "14.40#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nMiG\n+ Fasteners sold in quantities of 250 only\nas,\n12-24 x 1%\" TEK 4.5\n5/16\" Hex Washer Head\n+ Set up fee required for paint colors. Please inquire.\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\nShe\" Driller 30.00#\nFastener #55\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-24 x 1%\" with #5 Drill Point\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\nShe\" Driller 13.00#\nFastener #70\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n12-24 x 1%\" with #5 Drill Point\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER EACH\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n5/6\" Driller 15.00#\nFastener #1C\nNote:\nA + Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x %\" Driller\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#1C Sire\" Driller 14.40# v vi\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 10\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 11,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #1",
+        "Fastener #1D",
+        "Fastener #1F",
+        "Fastener #1E"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #1",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#1",
+              "5/16\"",
+              "Driller",
+              "14.70#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #1D",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#1D",
+              "3/16\"",
+              "Driller",
+              "17.60#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #1F",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#1F",
+              "5/16\"",
+              "Driller",
+              "23.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #1E",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#1E",
+              "S16\"",
+              "Long Life Driller",
+              "19.20#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x 1\" Driller\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#1 She\" Driller 14.70# v vt\nFastener #1D\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x 1%\" with #3 Drill Point\n5/16\" Hex Washer Head w/EDPM Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#1D Sire\" Driller 17.60# v vi\nFastener #1F\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x 1%\" Driller\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#1F Sire\" Driller 23.00# v vi\nFastener #1E\nNote:\nG + Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x 1%\" Long Life Driller\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#1E 5/16\" Long Life Driller 19.20# v vi\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 1\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 12,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #1B",
+        "Fastener #142",
+        "Fastener #1616",
+        "Fastener #5"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #1B",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#1B",
+              "5/16\"",
+              "Driller",
+              "17.00#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #142",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#142",
+              "3/16\"",
+              "Driller",
+              "19.10",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #1616",
+          "bbox": [
+            41.4,
+            472.0,
+            566.4,
+            527.2
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER EACH",
+            "PRICED PER EACH"
+          ],
+          "rows": [
+            [
+              "#1616",
+              "2/16\"",
+              "Driller",
+              "O2#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #5",
+          "bbox": [
+            41.4,
+            633.8,
+            566.4,
+            688.1
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#5",
+              "S/ie\"",
+              "Shoulder",
+              "8.80#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #1B\nNote:\n+ SuperLok Clip Fastener\n+ Fasteners sold in quantities of 250 only\nYa\"-14 x 1%\" Driller\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\nShe\" Driller 17.00# v vt\nFastener #142\nNote:\n+ SuperLok Clip Fastener\n+ Fasteners sold in quantities of 250 only\n%\"-14 x 1%\" with #3 Drill Point\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#142 Sire\" Driller 19.10 v vi\nFastener #1616\n+ This Fastener can be purchased in any quantity - Increments of 250\nare not required\n%\"-14 x 2\" with #3 Drill Point\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER EACH\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#1616 She\" Driller\nFastener #5\nNote:\nal IANA fos + Fasteners sold in quantities of 250 only\nWAX 1\" Shoulder TEK 2\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#5 Sie\" Shoulder 8.80# v N/A\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 12\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 13,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #43L",
+        "Fastener #44L",
+        "Fastener #4A",
+        "Fastener #4"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #43L",
+          "bbox": [
+            41.4,
+            170.0,
+            566.4,
+            224.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#43L",
+              "5/16\"",
+              "Long Life Driller",
+              "61.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #44L",
+          "bbox": [
+            41.4,
+            331.9,
+            566.4,
+            386.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#44L",
+              "5/16\"",
+              "Long Life Lap",
+              "20.20#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #4A",
+          "bbox": [
+            41.4,
+            493.8,
+            566.4,
+            548.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#4A",
+              "5/16\"",
+              "Lap",
+              "16.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #4",
+          "bbox": [
+            41.4,
+            655.7,
+            566.4,
+            710.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#4",
+              "S16\"",
+              "Long Life Lap",
+              "21.70#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #43L\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x %\" Long Life Driller\n5/16\" Hex Washer Head w/ 1%\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#43L 5/16\" Long Life Driller 61.00# v vi\nFastener #44L\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for paint colors. Please inquire.\n%\"-14 x 7\" Long Life Lap TEK\n5/16\" Hex Washer Head w/ 1%\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#44L 5/6\" Long Life Lap 20.20# v vt\nFastener #4A\nNote:\ns + Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic,\n\"14 x %\" Lap TEK and special colors. Please inquire.\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#4A 5/6\" Lap 16.00# v vt\nFastener #4\nNote:\nA + Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic,\n\"14 x %e\" Long Life Lap TEK and special colors. Please inquire.\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#4 5/16\" Long Life Lap 21.70# v vi\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 13\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 14,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #64",
+        "Fastener #38",
+        "Fastener #32",
+        "Fastener #18D"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #64",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "material",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "MATERIAL",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#64",
+              "5/16\"",
+              "Driller",
+              "410 Stainless",
+              "12.10#",
+              "✓",
+              "v tf"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #38",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#38",
+              "3/16\"",
+              "Lap",
+              "16.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #32",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#32",
+              "5/16\"",
+              "Long Life AB",
+              "28.20#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #18D",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "material",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "MATERIAL",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#18D",
+              "S16\"",
+              "AB",
+              "304 Stainless",
+              "16.50#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #64\nNote:\na + Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x %\" Stainless Lap\n5/16\" Hex Washer Head w/ °/:5\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE MATERIAL WEIGHT PER 1000 PLATED PAINTED\n5/6\" Driller 410 Stainless 12.10# v vt\nFastener #38\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic,\n\"14 x 7\" Lap Tek and special colors. Please inquire.\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\nShe! 16.00# v vit\nFastener #32\nNote:\nA + Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x 1%\" Long Life AB\n5/16\" Hex Washer Head w/EDPM Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\nShe\" Long Life AB 28.20# v vt\nFastener #18D\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14\" x 1\" Type AB 304 Stainless\n5/16\" Hex Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE MATERIAL WEIGHT PER 1000 PLATED PAINTED\n#18D Sire\" AB 304 Stainless 16.50# v vit\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 14\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 15,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #19A",
+        "Fastener #2A",
+        "Fastener #2B",
+        "Fastener #203"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #19A",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#19A",
+              "3p\"",
+              "AB",
+              "16.40#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #2A",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#2A",
+              "3/16\"",
+              "Long Life AB",
+              "24.10#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #2B",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER EACH",
+            "PRICED PER EACH"
+          ],
+          "rows": [
+            [
+              "#2B",
+              "5/16\"",
+              "Long Life AB",
+              "O2#",
+              "✓",
+              "✓"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #203",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "material",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "MATERIAL",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#203",
+              "34\"",
+              "Driller",
+              "304 Stainless",
+              "19.30#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #19A\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n17x 1\" Type AB\n5/16\" Hex Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#19A He AB 16.40# v vi\nFastener #2A\nrT Note:\nA + Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n17-14 x 1\" Long Life AB\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#2A She\" Long Life AB 24.10# v vt\nFastener #2B\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x 1\" Long Life AB\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER EACH\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#2B She\" Long Life AB 02# v v\nFastener #203\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n17-14 x 1\" AB 304 Stainless\n%\" Hex Washer Head w/Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE MATERIAL WEIGHT PER 1000 PLATED PAINTED\n#203 %\" Driller 304 Stainless 19.30# v vt\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 15\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 16,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #10",
+        "Fastener #46",
+        "Fastener #18",
+        "Fastener #18B"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #10",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#10",
+              "3/gl\"",
+              "B",
+              "17.70#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #46",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#46",
+              "3/16\"",
+              "Long Life B",
+              "24.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #18",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#18",
+              "5/16\"",
+              "A",
+              "16.50#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #18B",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#18B",
+              "34\"",
+              "A",
+              "21.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #10\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x 1\" Type B\n%\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#10 3/3\" B 17.70# v vt\nFastener #46\nNote:\n+ Use on all SSR systems with endlaps over solid substrate\n+ Fasteners sold in quantities of 250 only\n%\"-14 x 9\" Long Life Type B + #Set up fee required for paint colors. Please inquire.\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#46 She\" Long Life B 24.00# v vt\nFastener #18\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n14x 1\"TypeA\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#18 She\" A 16.504 v vt\nFastener #18B\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic,\n14x 1%\" Type A and special colors. Please inquire.\n%\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#18B \" A 21.00# v vi\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 16\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 17,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #18C",
+        "Fastener #34",
+        "Fastener #8A",
+        "Fastener #8"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #18C",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#18C",
+              "3p\"",
+              "A",
+              "26.30#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #34",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#34",
+              "36\"",
+              "A",
+              "29.90#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #8A",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#8A",
+              "YA\"",
+              "Wood Fastener",
+              "8./0#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #8",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#8",
+              "Vy\"",
+              "Wood Fastener",
+              "10.80#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #18C\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n14x 2\" TypeA\n%\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#18C ¥\" A 26.30# v vt\nFastener #34\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n14-10 x 2%\" Type A\n%\" Hex Washer Head w/ °/16\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#34 ¥\" A 29.90# v vt\nFastener #8A\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic,\n10 x 1\" Wood Fastener and special colors. Please inquire.\n%\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#8A %\" Wood Fastener 8.70# v vt\nFastener #8\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic,\nand special colors. Please inquire.\n10 x 1%\" Wood Fastener\n%\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#8 wa\" Wood Fastener 10.80# v vt\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 17\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 18,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #8B",
+        "Fastener #8C",
+        "Fastener #9D",
+        "Fastener #9A"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #8B",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#8B",
+              "Vy\"",
+              "Wood Fastener",
+              "13.10#",
+              "✓",
+              "v t"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #8C",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#8C",
+              "YY,\"",
+              "Wood Fastener",
+              "15.40#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #9D",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#9D",
+              "YA\"",
+              "Wood Fastener",
+              "17.60#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #9A",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#9A",
+              "S16\"",
+              "Long Life Wood Fastener",
+              "14.20#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #8B\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n10 x 2\" Wood Fastener\n%\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\n43 WEIGHT PER 1000 PLATED PAINTED\n#8B %\" Wood Fastener 13.10# v vi\nFastener #8C\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n10 x 2%\" Wood Fastener\n%\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#8C %\" Wood Fastener 15.40# v vi\nFastener #9D\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n10 x 3\" Wood Fastener\n%\" Hex Washer Head w/ %\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#9D %\" Wood Fastener 17.60# v vt\nFastener #9A\n7 Note:\nA + Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n10 x 1\" Long Life Wood Fastener\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#9A 5/16\" Long Life Wood Fastener 14.20# v vt\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 18\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 19,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #9",
+        "Fastener #9B",
+        "Fastener #9C",
+        "Fastener #108"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #9",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#9",
+              "5/16\"",
+              "Long Life Wood Fastener",
+              "18.30#",
+              "✓",
+              "vi"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #9B",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#9B",
+              "3/16\"",
+              "Long Life Wood Fastener",
+              "17.50#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #9C",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#9C",
+              "5/16\"",
+              "Long Life Wood Fastener",
+              "20.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #108",
+          "bbox": [
+            41.4,
+            637.7,
+            566.4,
+            692.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "material",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "MATERIAL",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#108",
+              "Vy\"",
+              "Wood",
+              "410 Stainless",
+              "9.30#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n10 x 1%\" Long Life Wood Fastener\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#9 5/16\" Long Life Wood Fastener 18.30# v vt\nFastener #9B\nNote:\nA + Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n10 x 2\" Long Life Wood Fastener\n5/16\" Hex Washer Head w/ %\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#9B 5/16\" Long Life Wood Fastener 17.50# v vt\nFastener #9C\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n10 x 2%\" Long Life Wood Fastener\n5/16\" Hex Washer Head w/ 2\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#9C 5/16\" Long Life Wood Fastener 20.00# v vt\nFastener #108\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n10 x 1\" Wood Fastener Stainless\n%\" Hex Washer Head w/ %\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE MATERIAL WEIGHT PER 1000 PLATED PAINTED\n#108 va\" Wood 410 Stainless 9.30# v vt\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 19\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 20,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #205",
+        "Fastener #45",
+        "Fastener #16",
+        "Fastener #12"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #205",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "material",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "MATERIAL",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#205",
+              "Vy\"",
+              "Wood",
+              "410 Stainless",
+              "9.50#",
+              "✓",
+              "v tf"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #45",
+          "bbox": [
+            41.4,
+            313.9,
+            566.8,
+            380.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#45",
+              "36\"",
+              "Long Life with Masonary Tapping\nThreds",
+              "25.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #16",
+          "bbox": [
+            41.4,
+            507.8,
+            566.4,
+            562.1
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#16",
+              "#2 Quadrex Drive",
+              "Driller",
+              "12.00#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #12",
+          "bbox": [
+            41.4,
+            687.7,
+            566.4,
+            742.1
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#12",
+              "#2 Phillips",
+              "Driller",
+              "7 OO#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #205\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n10-14 x 1%\" Wood Fastener Stainless\n%\" Hex Washer Head w/ %\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE MATERIAL WEIGHT PER 1000 PLATED PAINTED\n#205 Ya\" Wood 410 Stainless 9.50# v vt\nFastener #45\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n14 x 1%\" Long Life Masonry Fastener\n%\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE WEIGHT PER 1000 PLATED PAINTED\nLong Life with Masonary Tapping\n#45 7d Threds\n25.00# v vi\nFastener #16\nl\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Special driver required for this fastener (HW-616 #2 Quadrex Drive)\n12-24 x 1%\" Pancake Head\n#2 Quadrex Drive Pancake Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#16 #2 Quadrex Drive Driller 12.00# v N/A\nFastener #12\nNote:\n+ Fasteners sold in quantities of 250 only\n10x 1\" Pancake Head Driller\n#2 Philips Pancake Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#12 #2 Phillips Driller 7.O0# v N/A\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 20\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 21,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #12A",
+        "Fastener #13",
+        "Fastener #13A",
+        "Fastener #35"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #12A",
+          "bbox": [
+            41.4,
+            170.0,
+            566.4,
+            224.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#12A",
+              "#2 Quadrex Drive",
+              "Driller",
+              "7 OO#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #13",
+          "bbox": [
+            41.4,
+            349.9,
+            566.4,
+            404.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#13",
+              "#2 Phillips",
+              "A",
+              "7.10#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #13A",
+          "bbox": [
+            41.4,
+            529.8,
+            566.4,
+            584.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#13A",
+              "#2 Quadrex Drive",
+              "A",
+              "6.30#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #35",
+          "bbox": [
+            41.4,
+            663.7,
+            566.4,
+            718.1
+          ],
+          "columns": [
+            "column_1",
+            "column_2",
+            "column_3",
+            "column_4",
+            "column_5"
+          ],
+          "column_labels": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_groups": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "DESCRIPTION",
+              "",
+              "",
+              "PRICED PER THOUSAND",
+              ""
+            ],
+            [
+              "PART #",
+              "TYPE",
+              "WEIGHT PER 1000",
+              "PLATED",
+              "PAINTED"
+            ],
+            [
+              "#35",
+              "Washer",
+              "20.00#",
+              "v",
+              "v ft"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #12A\nNote:\n+ Fasteners sold in quantities of 250 only\n(+) + Special driver required for this fastener (HW-616 #2 Quadrex Drive)\n12 x 1\" Pancake Head Driller\n#2 Quadrex Drive Pancake Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#12A #2 Quadrex Drive Driller 7.00# v N/A\nFastener #13\nNote:\n+ Fasteners sold in quantities of 250 only\n10 x 1\" Pancake Head Type A\n#2 Phillips Pancake Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#13 #2 Phillips A 7.10# v N/A\nFastener #13A\nNote:\n+ Fasteners sold in quantities of 250 only\n(+) + Special driver required for this fastener (HW-616 #2 Quadrex Drive)\n12 x 1\" Pancake Head Type A\n#2 Quadrex Drive Pancake Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#13A #2 Quadrex Drive A 6.30# v N/A\nFastener #35\n—SSSSSST\nee\n+ Washers sold in quantities of 250 only\n14x 1 ¥%\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nWEIGHT PER 1000 PAINTED\n#35 Washer 20.00# v vit\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 21\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 22,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #14",
+        "Fastener #14A",
+        "Fastener #209",
+        "Fastener #210"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #14",
+          "bbox": [
+            41.4,
+            153.4,
+            566.4,
+            212.0
+          ],
+          "columns": [
+            "part",
+            "material",
+            "weight_per_1000",
+            "plated",
+            "painted_standard_color",
+            "painted_special_color"
+          ],
+          "column_labels": [
+            "PART #",
+            "MATERIAL",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED\nSTANDARD COLOR",
+            "PAINTED\nSPECIAL COLOR"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#14",
+              "Stainless Steel",
+              "2.90#",
+              "✓",
+              "vt",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #14A",
+          "bbox": [
+            41.4,
+            318.2,
+            566.4,
+            372.2
+          ],
+          "columns": [
+            "column_1",
+            "column_2",
+            "column_3",
+            "column_4",
+            "column_5"
+          ],
+          "column_labels": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_groups": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "DESCRIPTION",
+              "",
+              "",
+              "PRICED PER THOUSAND",
+              ""
+            ],
+            [
+              "PART #",
+              "MATERIAL",
+              "WEIGHT PER 1000",
+              "PLATED",
+              "PAINTED"
+            ],
+            [
+              "#14A",
+              "Stainless Steel",
+              "3.00#",
+              "v",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #209",
+          "bbox": [
+            41.4,
+            480.1,
+            566.4,
+            534.2
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#209",
+              "#3 Phillips",
+              "Driller",
+              "28.00#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #210",
+          "bbox": [
+            41.4,
+            642.0,
+            566.4,
+            696.2
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#210",
+              "#3 Phillips",
+              "Driller",
+              "24.00#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #14\nNote:\n+ Fasteners sold in quantities of 250 only\n» —| + ¥%\" diameter x #/:6\" grip range\n4%\" x 0.337\" Pop Rivet +See Commercial/Industrial Color Chart, Sig. 200, for standard colors\n#Set up fee required for Sig 300, Sig 300 Metallic, and special colors. Please inquire.\nDESCRIPTION PRICED PER THOUSAND.\nPAINTED PAINTED\nTEE LCE CO STANDARD COLOR SPECIAL COLOR\n#14 Stainless Steel 2.90# v vt vt\nFastener #14A\nNote:\n+ Fasteners sold in quantities of 250 only\n—-+__ + ¥%\" diameter x ?/;6\" grip range\n¥%\" x 0.525\" Pop Rivet + See Commercial/Industrial Color Chart, Sig. 200, for standard colors\n+ Set up fee required for Sig 300, Sig 300 Metallic, and special colors. Please inquire.\nDESCRIPTION PRICED PER THOUSAND\nMATERIAL WEIGHT PER 1000 PAINTED\n#14A Stainless Steel 3.00# v vt\nFastener #209\nNote:\n+ Black Finish only\n+ Fasteners sold in quantities of 250 only\n+ 18 gauge maximum drilling thickness\n14 x 2\" Deck Screw\n#3 Phillips Truss Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#209 #3 Phillips Driller 28.00# v N/A\nFastener #210\nNote:\n* Black Finish only\n+ Fasteners sold in quantities of 250 only\n+ 18 gauge maximum drilling thickness\n14 x 3\" Deck Screw\n#3 Phillips Truss Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#210 #3 Phillips Driller 24.00# v N/A\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 22\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 23,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #211",
+        "Fastener #15D",
+        "Fastener #25",
+        "Fastener #24"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #211",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#211",
+              "#3 Phillips",
+              "Driller",
+              "30.00#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #15D",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#15D",
+              "#3 Phillips",
+              "Driller",
+              "43.00#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #25",
+          "bbox": [
+            41.4,
+            493.8,
+            566.4,
+            548.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#25",
+              "\"h6e\"",
+              "Stitch",
+              "7 OO#",
+              "✓",
+              "vt"
+            ]
+          ]
+        },
+        {
+          "index": 3,
+          "section": "Fastener #24",
+          "bbox": [
+            41.4,
+            655.7,
+            566.4,
+            710.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#24",
+              "YW\"",
+              "Driller",
+              "4.00#",
+              "✓",
+              "vt"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #211\nNote:\n* Black Finish only\n+ Fasteners sold in quantities of 250 only\n+ 18 gauge maximum drilling thickness\n14 x 4\" Deck Screw\n#3 Phillips Truss Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#211 #3 Phillips Driller 30.00#\nFastener #15D\nNote:\n* Black Finish only\n+ Fasteners sold in quantities of 250 only\n+ 18 gauge maximum drilling thickness\n14 x 6\" Deck Screw\n#3 Phillips Truss Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#15D #3 Phillips Driller 43.00#\nFastener #25\nNote:\n+ Fasteners sold in quantities of 250 only\n10 x %\" Stitch\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\nS/ie\" Stitch 7.00#\nFastener #24\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n8 x %\" Nibbed Driller\n%\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#24 Ya\" Driller 4.00# v vi\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 23\nSee MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 24,
+      "title": "Fasteners Pricing",
+      "category": "ACCESSORIES",
+      "sections": [
+        "Fastener #21",
+        "Fastener #11",
+        "Fastener #23"
+      ],
+      "tables": [
+        {
+          "index": 0,
+          "section": "Fastener #21",
+          "bbox": [
+            41.4,
+            152.0,
+            566.4,
+            206.0
+          ],
+          "columns": [
+            "part",
+            "head_size",
+            "type",
+            "weight_per_1000",
+            "plated",
+            "painted"
+          ],
+          "column_labels": [
+            "PART #",
+            "HEAD SIZE",
+            "TYPE",
+            "WEIGHT PER 1000",
+            "PLATED",
+            "PAINTED"
+          ],
+          "column_groups": [
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "DESCRIPTION",
+            "PRICED PER THOUSAND",
+            "PRICED PER THOUSAND"
+          ],
+          "rows": [
+            [
+              "#21",
+              "#2 Phillips",
+              "Driller",
+              "13.20#",
+              "✓",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "index": 1,
+          "section": "Fastener #11",
+          "bbox": [
+            41.4,
+            313.9,
+            566.4,
+            368.0
+          ],
+          "columns": [
+            "column_1",
+            "column_2",
+            "column_3",
+            "column_4",
+            "column_5"
+          ],
+          "column_labels": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_groups": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "DESCRIPTION",
+              "",
+              "",
+              "PRICED PER THOUSAND",
+              ""
+            ],
+            [
+              "PART #",
+              "TYPE",
+              "WEIGHT PER 1000",
+              "PLATED",
+              "PAINTED"
+            ],
+            [
+              "#11",
+              "Nail Drive",
+              "25.00#",
+              "v",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "index": 2,
+          "section": "Fastener #23",
+          "bbox": [
+            41.4,
+            475.8,
+            566.4,
+            530.0
+          ],
+          "columns": [
+            "column_1",
+            "column_2",
+            "column_3",
+            "column_4",
+            "column_5"
+          ],
+          "column_labels": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "column_groups": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "rows": [
+            [
+              "DESCRIPTION",
+              "",
+              "",
+              "PRICED PER THOUSAND",
+              ""
+            ],
+            [
+              "PART #",
+              "HEAD SIZE",
+              "WEIGHT PER 1000",
+              "PLATED",
+              "PAINTED"
+            ],
+            [
+              "#23",
+              "5/16\"",
+              "22.50#",
+              "v",
+              "N/A"
+            ]
+          ]
+        }
+      ],
+      "text": "Fasteners Pricing ACCESSORIES\nFastener #21\nNote:\n+ Fasteners sold in quantities of 250 only\n10-24 x 17/16\" Plymetal with #3 Drill Point\n#2 Phillips Bugle Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#21 #2 Phillips Driller 13.20# v N/A\nFastener #11\nNote:\n+ Sold in boxes of 100\nMa\" x 1%\"\nNail Drive Masonry Anchor\nDESCRIPTION PRICED PER THOUSAND\nWEIGHT PER 1000 PAINTED\n#11 Nail Drive 25.00# v N/A\nFastener #23\nNote:\n+ Fasteners sold in quantities of 250 only\nFab-Loc Compression Fastener\n5/16\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#23 She\" 22.50# v N/A\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 24\n» See MBCI.COM for current information.",
+      "repaired_cells": 0,
+      "effective_date": "APRIL 2, 2025",
+      "catalog": "fasteners"
+    },
+    {
+      "page": 25,
+      "title": "",
+      "category": "",
+      "sections": [],
+      "tables": [],
+      "text": "mbci.com\n© 2025 MBCI, part of Cornerstone Building Brands, Inc. ALL RIGHTS RESERVED.\n0704259991101/MS/RevA/0425",
+      "repaired_cells": 0,
+      "effective_date": "",
+      "catalog": "fasteners"
+    }
+  ]
+}

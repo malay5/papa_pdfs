@@ -1,0 +1,22 @@
+Residential Pricing
+Note:
+* Specify roof slope or angle indicated on drawing.
+* Specify use for Ridge or Hip.
+DESCRIPTION PRICED PER EACH
+AG-202 10'-6" 13" 2) 6.44# v v
+AG-202 10'-2" 13" 26 8.37# v v
+AG-203 20'-2" 13" 28) 12.88# v v
+AG-203 20'-2" 13" 26 16.74# v v
+Vented Ridge Flash
+COLOR Note:
+* Specify roof slope or angle indicated on drawing.
+4 yn
++
+SPECIFY ANGLE
+DESCRIPTION PRICED PER EACH
+AG-207 10'-6" 210A" 2) 10.62# v v
+AG-207 10'-2" 21" 26 13.844 v v
+AG-208 20'-2" 21%" 28) 21.24# v v
+AG-208 20'-2" 21" 26 27.68# v v
+—a Subject to change without notice.
+MBE. sce MBCI.COM for current information. EFFECTIVE JANUARY 2, 2026 12

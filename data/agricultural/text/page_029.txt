@@ -1,0 +1,43 @@
+Agricultural Pricing
+COLOR
+9+
+a
+Note:
+* Specify roof slope.
+DESCRIPTION PRICED PER EACH
+LENGTH GAUGE WEIGHT EACH GALVALUME® PLUS SIGNATURE® 200
+AG-474 10'-6" 10%" 29 5.73# v v
+AG-476 12'-6" 10%" 29 6.58# v v
+Eave Trim
+xX Note:
+COL
+3
++ Specify roof slope.
+aye
+L X ays
+x
+te
+DESCRIPTION PRICED PER EACH
+PART # LENGTH GAUGE WEIGHT EACH GALVALUME® PLUS SIGNATURE® 200
+LG-119 10-6" 97%" 29 5.19# v v
+Peak Trim
+Note:
+Pp 4 COLOR
+Tt
+4"
+xs
++ Specify roof slope.
+DESCRIPTION
+LENGTH
+LG-103 10'-6" 1196"
+PRICED PER EACH
+GAUGE
+29 6.01# v v
+WEIGHT EACH
+GALVALUME® PLUS
+SIGNATURE® 200
+Subject to change without notice.
+See MBCI.COM for current information.
+Fis mid
+EFFECTIVE JANUARY 7, 2026
+29

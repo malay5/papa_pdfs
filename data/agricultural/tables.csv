@@ -1,0 +1,1465 @@
+catalog,page,section,table,row,column,column_label,column_group,value
+agricultural,4,Ameri-Drain®,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,4,Ameri-Drain®,0,0,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,4,Ameri-Drain®,0,0,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,4,Ameri-Drain®,0,0,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,O8#
+agricultural,4,Ameri-Drain®,0,0,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
+agricultural,4,Ameri-Drain®,0,0,price,PRICE,,✓
+agricultural,4,Ameri-Drain®,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,4,Ameri-Drain®,0,1,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,4,Ameri-Drain®,0,1,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,4,Ameri-Drain®,0,1,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,O8#
+agricultural,4,Ameri-Drain®,0,1,finish,FINISH*,DESCRIPTION,Signature® 200
+agricultural,4,Ameri-Drain®,0,1,price,PRICE,,✓
+agricultural,4,Ameri-Drain®,0,2,gauge,GAUGE,DESCRIPTION,26
+agricultural,4,Ameri-Drain®,0,2,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,4,Ameri-Drain®,0,2,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,4,Ameri-Drain®,0,2,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,85#
+agricultural,4,Ameri-Drain®,0,2,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
+agricultural,4,Ameri-Drain®,0,2,price,PRICE,,✓
+agricultural,4,Ameri-Drain®,0,3,gauge,GAUGE,DESCRIPTION,26
+agricultural,4,Ameri-Drain®,0,3,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,4,Ameri-Drain®,0,3,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,4,Ameri-Drain®,0,3,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,85#
+agricultural,4,Ameri-Drain®,0,3,finish,FINISH*,DESCRIPTION,Signature® 200
+agricultural,4,Ameri-Drain®,0,3,price,PRICE,,✓
+agricultural,4,Ameri-Drain®,0,4,gauge,GAUGE,DESCRIPTION,.024 Alum tt
+agricultural,4,Ameri-Drain®,0,4,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,4,Ameri-Drain®,0,4,yield_psi,YIELD (PSI),DESCRIPTION,"18,000"
+agricultural,4,Ameri-Drain®,0,4,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,Al#
+agricultural,4,Ameri-Drain®,0,4,finish,FINISH*,DESCRIPTION,Signature® 200 - Polar White Only
+agricultural,4,Ameri-Drain®,0,4,price,PRICE,,✓
+agricultural,6,Perma-Clad® and MasterRib®,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,6,Perma-Clad® and MasterRib®,0,0,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,6,Perma-Clad® and MasterRib®,0,0,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,6,Perma-Clad® and MasterRib®,0,0,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,O7#
+agricultural,6,Perma-Clad® and MasterRib®,0,0,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
+agricultural,6,Perma-Clad® and MasterRib®,0,0,price,PRICE,,✓
+agricultural,6,Perma-Clad® and MasterRib®,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,6,Perma-Clad® and MasterRib®,0,1,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,6,Perma-Clad® and MasterRib®,0,1,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,6,Perma-Clad® and MasterRib®,0,1,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,71#
+agricultural,6,Perma-Clad® and MasterRib®,0,1,finish,FINISH*,DESCRIPTION,Galvanized
+agricultural,6,Perma-Clad® and MasterRib®,0,1,price,PRICE,,✓
+agricultural,6,Perma-Clad® and MasterRib®,0,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,6,Perma-Clad® and MasterRib®,0,2,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,6,Perma-Clad® and MasterRib®,0,2,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,6,Perma-Clad® and MasterRib®,0,2,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,O7#
+agricultural,6,Perma-Clad® and MasterRib®,0,2,finish,FINISH*,DESCRIPTION,Signature® 200
+agricultural,6,Perma-Clad® and MasterRib®,0,2,price,PRICE,,✓
+agricultural,6,Perma-Clad® and MasterRib®,0,3,gauge,GAUGE,DESCRIPTION,26
+agricultural,6,Perma-Clad® and MasterRib®,0,3,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,6,Perma-Clad® and MasterRib®,0,3,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,6,Perma-Clad® and MasterRib®,0,3,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,844
+agricultural,6,Perma-Clad® and MasterRib®,0,3,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
+agricultural,6,Perma-Clad® and MasterRib®,0,3,price,PRICE,,✓
+agricultural,6,Perma-Clad® and MasterRib®,0,4,gauge,GAUGE,DESCRIPTION,26
+agricultural,6,Perma-Clad® and MasterRib®,0,4,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,6,Perma-Clad® and MasterRib®,0,4,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,6,Perma-Clad® and MasterRib®,0,4,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,S44
+agricultural,6,Perma-Clad® and MasterRib®,0,4,finish,FINISH*,DESCRIPTION,Signature® 200
+agricultural,6,Perma-Clad® and MasterRib®,0,4,price,PRICE,,✓
+agricultural,6,Perma-Clad® and MasterRib®,0,5,gauge,GAUGE,DESCRIPTION,.024 Alum tt
+agricultural,6,Perma-Clad® and MasterRib®,0,5,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,6,Perma-Clad® and MasterRib®,0,5,yield_psi,YIELD (PSI),DESCRIPTION,"18,000"
+agricultural,6,Perma-Clad® and MasterRib®,0,5,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,Alt
+agricultural,6,Perma-Clad® and MasterRib®,0,5,finish,FINISH*,DESCRIPTION,Signature® 200 - Polar White Only
+agricultural,6,Perma-Clad® and MasterRib®,0,5,price,PRICE,,✓
+agricultural,7,MasterRib® with Drip Stop,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,7,MasterRib® with Drip Stop,0,0,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,7,MasterRib® with Drip Stop,0,0,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,7,MasterRib® with Drip Stop,0,0,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,7#
+agricultural,7,MasterRib® with Drip Stop,0,0,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
+agricultural,7,MasterRib® with Drip Stop,0,0,price,PRICE,,✓
+agricultural,7,MasterRib® with Drip Stop,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,7,MasterRib® with Drip Stop,0,1,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,7,MasterRib® with Drip Stop,0,1,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,7,MasterRib® with Drip Stop,0,1,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,71#
+agricultural,7,MasterRib® with Drip Stop,0,1,finish,FINISH*,DESCRIPTION,Galvanized
+agricultural,7,MasterRib® with Drip Stop,0,1,price,PRICE,,✓
+agricultural,7,MasterRib® with Drip Stop,0,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,7,MasterRib® with Drip Stop,0,2,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,7,MasterRib® with Drip Stop,0,2,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,7,MasterRib® with Drip Stop,0,2,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,67#
+agricultural,7,MasterRib® with Drip Stop,0,2,finish,FINISH*,DESCRIPTION,Signature® 200
+agricultural,7,MasterRib® with Drip Stop,0,2,price,PRICE,,✓
+agricultural,7,MasterRib® with Drip Stop,0,3,gauge,GAUGE,DESCRIPTION,26
+agricultural,7,MasterRib® with Drip Stop,0,3,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,7,MasterRib® with Drip Stop,0,3,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,7,MasterRib® with Drip Stop,0,3,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,84#
+agricultural,7,MasterRib® with Drip Stop,0,3,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
+agricultural,7,MasterRib® with Drip Stop,0,3,price,PRICE,,✓
+agricultural,7,MasterRib® with Drip Stop,0,4,gauge,GAUGE,DESCRIPTION,26
+agricultural,7,MasterRib® with Drip Stop,0,4,coverage,COVERAGE,DESCRIPTION,"36"""
+agricultural,7,MasterRib® with Drip Stop,0,4,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,7,MasterRib® with Drip Stop,0,4,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,844
+agricultural,7,MasterRib® with Drip Stop,0,4,finish,FINISH*,DESCRIPTION,Signature® 200
+agricultural,7,MasterRib® with Drip Stop,0,4,price,PRICE,,✓
+agricultural,9,"2%"" Corrugated",0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,9,"2%"" Corrugated",0,0,coverage,COVERAGE,DESCRIPTION,"24"""
+agricultural,9,"2%"" Corrugated",0,0,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,9,"2%"" Corrugated",0,0,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,66#
+agricultural,9,"2%"" Corrugated",0,0,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
+agricultural,9,"2%"" Corrugated",0,0,price,PRICE,,✓
+agricultural,9,"2%"" Corrugated",0,1,gauge,GAUGE,DESCRIPTION,26
+agricultural,9,"2%"" Corrugated",0,1,coverage,COVERAGE,DESCRIPTION,"24"""
+agricultural,9,"2%"" Corrugated",0,1,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,9,"2%"" Corrugated",0,1,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,82#
+agricultural,9,"2%"" Corrugated",0,1,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
+agricultural,9,"2%"" Corrugated",0,1,price,PRICE,,✓
+agricultural,9,"2%"" Corrugated",0,2,gauge,GAUGE,DESCRIPTION,26
+agricultural,9,"2%"" Corrugated",0,2,coverage,COVERAGE,DESCRIPTION,"24"""
+agricultural,9,"2%"" Corrugated",0,2,yield_psi,YIELD (PSI),DESCRIPTION,"80,000"
+agricultural,9,"2%"" Corrugated",0,2,weight_per_sq,WEIGHT PER SQ,DESCRIPTION,82#
+agricultural,9,"2%"" Corrugated",0,2,finish,FINISH*,DESCRIPTION,Signature® 200
+agricultural,9,"2%"" Corrugated",0,2,price,PRICE,,Please Inquire
+agricultural,10,Flat Sheets,0,0,column_1,,,Width
+agricultural,10,Flat Sheets,0,0,column_2,,,"40-7/8"""
+agricultural,10,Flat Sheets,0,0,column_3,,,"42-3/4"""
+agricultural,10,Flat Sheets,0,0,column_4,,,"48 - 3/8"""
+agricultural,10,Flat Sheets,0,1,column_1,,,Gauge
+agricultural,10,Flat Sheets,0,1,column_2,,,29 ga
+agricultural,10,Flat Sheets,0,1,column_3,,,26 ga
+agricultural,10,Flat Sheets,0,1,column_4,,,24 ga
+agricultural,10,Flat Sheets,0,2,column_1,,,Weight per LF
+agricultural,10,Flat Sheets,0,2,column_2,,,2.00#
+agricultural,10,Flat Sheets,0,2,column_3,,,3.324
+agricultural,10,Flat Sheets,0,2,column_4,,,3.754
+agricultural,10,Flat Sheets,0,3,column_1,,,Signature® 200 (Polyester)
+agricultural,10,Flat Sheets,1,0,column_1,,,Polar White
+agricultural,10,Flat Sheets,1,1,column_1,,,Signature® 200
+agricultural,10,Flat Sheets,2,0,column_1,,,Wine Red
+agricultural,10,Flat Sheets,2,0,column_3,,,>
+agricultural,10,Flat Sheets,2,0,column_4,,,>
+agricultural,10,Flat Sheets,2,1,column_1,,,Signature® 300
+agricultural,10,Flat Sheets,3,0,column_1,,,Tundra
+agricultural,10,Flat Sheets,3,0,column_2,,,a
+agricultural,10,Flat Sheets,3,0,column_3,,,>
+agricultural,10,Flat Sheets,3,1,column_1,,,Signature® 300 Metallic
+agricultural,10,Flat Sheets,4,0,column_1,,,Copper Metallic
+agricultural,10,Flat Sheets,4,0,column_2,,,=a
+agricultural,10,Flat Sheets,4,0,column_3,,,0
+agricultural,10,Flat Sheets,4,1,column_1,,,Unpainted
+agricultural,11,Rubber Roof Jack,0,0,part,PART #,DESCRIPTION,HW-1000
+agricultural,11,Rubber Roof Jack,0,0,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+agricultural,11,Rubber Roof Jack,0,0,pipe_size,PIPE SIZE,DESCRIPTION,"Vy"" — 15"""
+agricultural,11,Rubber Roof Jack,0,0,base_dim,BASE DIM.,DESCRIPTION,42
+agricultural,11,Rubber Roof Jack,0,0,weight_each,WEIGHT EACH,DESCRIPTION,17#
+agricultural,11,Rubber Roof Jack,0,0,price,PRICE,,✓
+agricultural,11,Rubber Roof Jack,0,1,part,PART #,DESCRIPTION,HW-1001
+agricultural,11,Rubber Roof Jack,0,1,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+agricultural,11,Rubber Roof Jack,0,1,pipe_size,PIPE SIZE,DESCRIPTION,"1%"" - 4"""
+agricultural,11,Rubber Roof Jack,0,1,base_dim,BASE DIM.,DESCRIPTION,8
+agricultural,11,Rubber Roof Jack,0,1,weight_each,WEIGHT EACH,DESCRIPTION,0#
+agricultural,11,Rubber Roof Jack,0,1,price,PRICE,,✓
+agricultural,11,Rubber Roof Jack,0,2,part,PART #,DESCRIPTION,HW-1002
+agricultural,11,Rubber Roof Jack,0,2,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+agricultural,11,Rubber Roof Jack,0,2,pipe_size,PIPE SIZE,DESCRIPTION,"AY,"" _ 6"""
+agricultural,11,Rubber Roof Jack,0,2,base_dim,BASE DIM.,DESCRIPTION,"41"""
+agricultural,11,Rubber Roof Jack,0,2,weight_each,WEIGHT EACH,DESCRIPTION,5#
+agricultural,11,Rubber Roof Jack,0,2,price,PRICE,,✓
+agricultural,11,Rubber Roof Jack,0,3,part,PART #,DESCRIPTION,HW-1003
+agricultural,11,Rubber Roof Jack,0,3,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+agricultural,11,Rubber Roof Jack,0,3,pipe_size,PIPE SIZE,DESCRIPTION,"6""-411"""
+agricultural,11,Rubber Roof Jack,0,3,base_dim,BASE DIM.,DESCRIPTION,"14"""
+agricultural,11,Rubber Roof Jack,0,3,weight_each,WEIGHT EACH,DESCRIPTION,1.55#
+agricultural,11,Rubber Roof Jack,0,3,price,PRICE,,✓
+agricultural,11,Rubber Roof Jack,0,4,part,PART #,DESCRIPTION,HW-1004
+agricultural,11,Rubber Roof Jack,0,4,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+agricultural,11,Rubber Roof Jack,0,4,pipe_size,PIPE SIZE,DESCRIPTION,"7"" . 1 3"""
+agricultural,11,Rubber Roof Jack,0,4,base_dim,BASE DIM.,DESCRIPTION,"17"""
+agricultural,11,Rubber Roof Jack,0,4,weight_each,WEIGHT EACH,DESCRIPTION,2.564
+agricultural,11,Rubber Roof Jack,0,4,price,PRICE,,✓
+agricultural,11,Rubber Roof Jack,1,0,column_2,,,HIGH TEMPERATUF
+agricultural,11,Rubber Roof Jack,1,0,column_3,,,E
+agricultural,11,Rubber Roof Jack,1,1,column_1,,,-100°F to +437°F
+agricultural,11,Rubber Roof Jack,1,1,column_2,,,"wy"" 4"""
+agricultural,11,Rubber Roof Jack,1,1,column_3,,,gn
+agricultural,11,Rubber Roof Jack,1,1,column_4,,,SOF
+agricultural,11,Rubber Roof Jack,1,1,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,2,column_1,,,-100°F to +437°F
+agricultural,11,Rubber Roof Jack,1,2,column_2,,,"AM"" . 7"""
+agricultural,11,Rubber Roof Jack,1,2,column_3,,,"qq"""
+agricultural,11,Rubber Roof Jack,1,2,column_4,,,5H
+agricultural,11,Rubber Roof Jack,1,2,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,3,column_1,,,-100°F to +437°F
+agricultural,11,Rubber Roof Jack,1,3,column_2,,,"7"" . 43"""
+agricultural,11,Rubber Roof Jack,1,3,column_3,,,"17"""
+agricultural,11,Rubber Roof Jack,1,3,column_4,,,2.56#
+agricultural,11,Rubber Roof Jack,1,3,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,4,column_1,,,-100°F to +437°F
+agricultural,11,Rubber Roof Jack,1,4,column_2,,,"10"" _ 19"""
+agricultural,11,Rubber Roof Jack,1,4,column_3,,,"25"""
+agricultural,11,Rubber Roof Jack,1,4,column_4,,,3.86#
+agricultural,11,Rubber Roof Jack,1,4,column_5,,,v
+agricultural,11,Retrofit Rubber Roof Jack,2,0,part,PART #,DESCRIPTION,HW-1005
+agricultural,11,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+agricultural,11,Retrofit Rubber Roof Jack,2,0,pipe_size,PIPE SIZE,DESCRIPTION,"Y,"" . 4A"""
+agricultural,11,Retrofit Rubber Roof Jack,2,0,base_dim,BASE DIM.,DESCRIPTION,"8 3/16"""
+agricultural,11,Retrofit Rubber Roof Jack,2,0,weight_each,WEIGHT EACH,DESCRIPTION,14#
+agricultural,11,Retrofit Rubber Roof Jack,2,0,price,PRICE,,✓
+agricultural,11,Retrofit Rubber Roof Jack,2,1,part,PART #,DESCRIPTION,HW-1006
+agricultural,11,Retrofit Rubber Roof Jack,2,1,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+agricultural,11,Retrofit Rubber Roof Jack,2,1,pipe_size,PIPE SIZE,DESCRIPTION,"4"" _ OY"""
+agricultural,11,Retrofit Rubber Roof Jack,2,1,base_dim,BASE DIM.,DESCRIPTION,"14%"""
+agricultural,11,Retrofit Rubber Roof Jack,2,1,weight_each,WEIGHT EACH,DESCRIPTION,2.20#
+agricultural,11,Retrofit Rubber Roof Jack,2,1,price,PRICE,,✓
+agricultural,11,Retrofit Rubber Roof Jack,2,2,part,PART #,DESCRIPTION,HW-1007
+agricultural,11,Retrofit Rubber Roof Jack,2,2,temperature_range,"TEMPERATURE
+RANGE",DESCRIPTION,-65°F to +212°F
+agricultural,11,Retrofit Rubber Roof Jack,2,2,pipe_size,PIPE SIZE,DESCRIPTION,"9%"" - 16%"""
+agricultural,11,Retrofit Rubber Roof Jack,2,2,base_dim,BASE DIM.,DESCRIPTION,"21%2"""
+agricultural,11,Retrofit Rubber Roof Jack,2,2,weight_each,WEIGHT EACH,DESCRIPTION,3.78#
+agricultural,11,Retrofit Rubber Roof Jack,2,2,price,PRICE,,✓
+agricultural,11,Retrofit Rubber Roof Jack,3,0,column_2,,,HIGH TEMPERATUF
+agricultural,11,Retrofit Rubber Roof Jack,3,0,column_3,,,E
+agricultural,11,Retrofit Rubber Roof Jack,3,1,column_1,,,-100°F to +437°F
+agricultural,11,Retrofit Rubber Roof Jack,3,1,column_2,,,"YQ"" _ A"""
+agricultural,11,Retrofit Rubber Roof Jack,3,1,column_3,,,"8 3/16"""
+agricultural,11,Retrofit Rubber Roof Jack,3,1,column_4,,,144
+agricultural,11,Retrofit Rubber Roof Jack,3,1,column_5,,,v
+agricultural,11,Retrofit Rubber Roof Jack,3,2,column_1,,,-100°F to +437°F
+agricultural,11,Retrofit Rubber Roof Jack,3,2,column_2,,,"4"" _ 9 YY"""
+agricultural,11,Retrofit Rubber Roof Jack,3,2,column_3,,,"14%"""
+agricultural,11,Retrofit Rubber Roof Jack,3,2,column_4,,,2.20#
+agricultural,11,Retrofit Rubber Roof Jack,3,2,column_5,,,v
+agricultural,11,Retrofit Rubber Roof Jack,3,3,column_1,,,-100°F to +437°F
+agricultural,11,Retrofit Rubber Roof Jack,3,3,column_2,,,"9%"" - 16%"""
+agricultural,11,Retrofit Rubber Roof Jack,3,3,column_3,,,"21%"""
+agricultural,11,Retrofit Rubber Roof Jack,3,3,column_4,,,3.78#
+agricultural,11,Retrofit Rubber Roof Jack,3,3,column_5,,,v
+agricultural,12,Continuous Vent,0,0,part,PART #,DESCRIPTION,HW-702
+agricultural,12,Continuous Vent,0,0,size,SIZE,DESCRIPTION,"Qo"" x 10'-O"""
+agricultural,12,Continuous Vent,0,0,gauge,GAUGE,DESCRIPTION,26
+agricultural,12,Continuous Vent,0,0,weight_each,WEIGHT EACH,DESCRIPTION,115.00#
+agricultural,12,Continuous Vent,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,12,Continuous Vent,0,0,white,WHITE,PRICED PER EACH,✓
+agricultural,12,Continuous Vent,0,1,part,PART #,DESCRIPTION,HW-704
+agricultural,12,Continuous Vent,0,1,size,SIZE,DESCRIPTION,"12"" x 10'-0"""
+agricultural,12,Continuous Vent,0,1,gauge,GAUGE,DESCRIPTION,26
+agricultural,12,Continuous Vent,0,1,weight_each,WEIGHT EACH,DESCRIPTION,150.00#
+agricultural,12,Continuous Vent,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,12,Continuous Vent,0,1,white,WHITE,PRICED PER EACH,✓
+agricultural,12,Vent Damper Operator Parts,1,0,column_1,,,DESCRIPTION
+agricultural,12,Vent Damper Operator Parts,1,0,column_5,,,PRICED PER EACH
+agricultural,12,Vent Damper Operator Parts,1,1,column_1,,,PART #
+agricultural,12,Vent Damper Operator Parts,1,1,column_2,,,DESCIRPTION
+agricultural,12,Vent Damper Operator Parts,1,1,column_3,,,PRICED BY
+agricultural,12,Vent Damper Operator Parts,1,1,column_4,,,WEIGHT EACH
+agricultural,12,Vent Damper Operator Parts,1,1,column_5,,,PRICE
+agricultural,12,Vent Damper Operator Parts,1,2,column_1,,,HW-705
+agricultural,12,Vent Damper Operator Parts,1,2,column_2,,,"Vent Cable 3/16"")"
+agricultural,12,Vent Damper Operator Parts,1,2,column_3,,,Foot
+agricultural,12,Vent Damper Operator Parts,1,2,column_4,,,10#
+agricultural,12,Vent Damper Operator Parts,1,2,column_5,,,v
+agricultural,12,Vent Damper Operator Parts,1,3,column_1,,,HW-706
+agricultural,12,Vent Damper Operator Parts,1,3,column_2,,,Vent Pulley
+agricultural,12,Vent Damper Operator Parts,1,3,column_3,,,Each
+agricultural,12,Vent Damper Operator Parts,1,3,column_4,,,25H
+agricultural,12,Vent Damper Operator Parts,1,3,column_5,,,v
+agricultural,12,Vent Damper Operator Parts,1,4,column_1,,,HW-708
+agricultural,12,Vent Damper Operator Parts,1,4,column_2,,,Vent Cable Clamp
+agricultural,12,Vent Damper Operator Parts,1,4,column_3,,,Each
+agricultural,12,Vent Damper Operator Parts,1,4,column_4,,,10#
+agricultural,12,Vent Damper Operator Parts,1,4,column_5,,,v
+agricultural,12,Vent Damper Operator Parts,1,5,column_1,,,HW-710
+agricultural,12,Vent Damper Operator Parts,1,5,column_2,,,"Vent Eve Bolt (4"" x 2"")"
+agricultural,12,Vent Damper Operator Parts,1,5,column_3,,,Each
+agricultural,12,Vent Damper Operator Parts,1,5,column_4,,,.10#
+agricultural,12,Vent Damper Operator Parts,1,5,column_5,,,v
+agricultural,12,Vent Damper Operator Parts,1,6,column_1,,,HW-712
+agricultural,12,Vent Damper Operator Parts,1,6,column_2,,,Vent Pull Chain with Handle
+agricultural,12,Vent Damper Operator Parts,1,6,column_3,,,"3'-0"" section"
+agricultural,12,Vent Damper Operator Parts,1,6,column_4,,,1.00#
+agricultural,12,Vent Damper Operator Parts,1,6,column_5,,,v
+agricultural,12,Vent Damper Operator Parts,1,7,column_1,,,HW-714
+agricultural,12,Vent Damper Operator Parts,1,7,column_2,,,"Vent ""S"" Hook (1%2"")"
+agricultural,12,Vent Damper Operator Parts,1,7,column_3,,,Each
+agricultural,12,Vent Damper Operator Parts,1,7,column_4,,,O1#
+agricultural,12,Vent Damper Operator Parts,1,7,column_5,,,v
+agricultural,12,Perma-Clad® Light Transmitting Panel,2,0,part,PART #,DESCRIPTION,HW-1564
+agricultural,12,Perma-Clad® Light Transmitting Panel,2,0,length,LENGTH,DESCRIPTION,"12'-Q"""
+agricultural,12,Perma-Clad® Light Transmitting Panel,2,0,color,COLOR,DESCRIPTION,White
+agricultural,12,Perma-Clad® Light Transmitting Panel,2,0,type,TYPE,DESCRIPTION,1
+agricultural,12,Perma-Clad® Light Transmitting Panel,2,0,weight_sq_ft,WEIGHT / SQ FT,DESCRIPTION,5 ounce
+agricultural,12,Perma-Clad® Light Transmitting Panel,2,0,weight_each,WEIGHT EACH,DESCRIPTION,11.30#
+agricultural,12,Perma-Clad® Light Transmitting Panel,2,0,price,PRICE,,✓
+agricultural,13,MasterRib® Light Transmitting Panel,0,0,part,PART #,DESCRIPTION,HW-1566A
+agricultural,13,MasterRib® Light Transmitting Panel,0,0,length,LENGTH,DESCRIPTION,"10'-0"""
+agricultural,13,MasterRib® Light Transmitting Panel,0,0,color,COLOR,DESCRIPTION,White
+agricultural,13,MasterRib® Light Transmitting Panel,0,0,type,TYPE,DESCRIPTION,1
+agricultural,13,MasterRib® Light Transmitting Panel,0,0,weight_sq_ft,WEIGHT / SQ FT,DESCRIPTION,5 ounce
+agricultural,13,MasterRib® Light Transmitting Panel,0,0,weight_each,WEIGHT EACH,DESCRIPTION,12.81#
+agricultural,13,MasterRib® Light Transmitting Panel,0,0,price,PRICE,,✓
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,0,part,PART #,DESCRIPTION,HW-1568
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,0,length,LENGTH,DESCRIPTION,"8'-0"""
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,0,color,COLOR,DESCRIPTION,White
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,0,type,TYPE,DESCRIPTION,1
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,0,weight_sq_ft,WEIGHT / SQ FT,DESCRIPTION,5 ounce
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,0,weight_each,WEIGHT EACH,DESCRIPTION,8.70#
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,0,price,PRICE,,✓
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,1,part,PART #,DESCRIPTION,HW-1570
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,1,length,LENGTH,DESCRIPTION,"10'-0"""
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,1,color,COLOR,DESCRIPTION,White
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,1,type,TYPE,DESCRIPTION,1
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,1,weight_sq_ft,WEIGHT / SQ FT,DESCRIPTION,5 ounce
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,1,weight_each,WEIGHT EACH,DESCRIPTION,10.85#
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,1,price,PRICE,,✓
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,2,part,PART #,DESCRIPTION,HW-1572
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,2,length,LENGTH,DESCRIPTION,"42'-0"""
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,2,color,COLOR,DESCRIPTION,White
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,2,type,TYPE,DESCRIPTION,1
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,2,weight_sq_ft,WEIGHT / SQ FT,DESCRIPTION,5 ounce
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,2,weight_each,WEIGHT EACH,DESCRIPTION,13.00#
+agricultural,13,"2%"" Corrugated Light Transmitting Panel",1,2,price,PRICE,,✓
+agricultural,14,"Y%"" Rubber Grommet",0,0,part,PART #,DESCRIPTION,HW-399
+agricultural,14,"Y%"" Rubber Grommet",0,0,head_size,HEAD SIZE,DESCRIPTION,"Y,"""
+agricultural,14,"Y%"" Rubber Grommet",0,0,type,TYPE,DESCRIPTION,Aluminum
+agricultural,14,"Y%"" Rubber Grommet",0,0,color,COLOR,DESCRIPTION,Polar White
+agricultural,14,"Y%"" Rubber Grommet",0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,O1#
+agricultural,14,"Y%"" Rubber Grommet",0,0,price,PRICE,,✓
+agricultural,14,Perma-Clad® Closure Strip,1,0,part,PART #,DESCRIPTION,HW-470
+agricultural,14,Perma-Clad® Closure Strip,1,0,type,TYPE,DESCRIPTION,Inside
+agricultural,14,Perma-Clad® Closure Strip,1,0,adhesive,ADHESIVE?,DESCRIPTION,No
+agricultural,14,Perma-Clad® Closure Strip,1,0,size,SIZE,DESCRIPTION,"1 "" x 36"""
+agricultural,14,Perma-Clad® Closure Strip,1,0,weight_each,WEIGHT EACH,DESCRIPTION,034
+agricultural,14,Perma-Clad® Closure Strip,1,0,price,PRICE,,✓
+agricultural,14,Perma-Clad® Closure Strip,1,1,part,PART #,DESCRIPTION,HW-471
+agricultural,14,Perma-Clad® Closure Strip,1,1,type,TYPE,DESCRIPTION,Outside
+agricultural,14,Perma-Clad® Closure Strip,1,1,adhesive,ADHESIVE?,DESCRIPTION,Yes
+agricultural,14,Perma-Clad® Closure Strip,1,1,size,SIZE,DESCRIPTION,"1 W xX 36"""
+agricultural,14,Perma-Clad® Closure Strip,1,1,weight_each,WEIGHT EACH,DESCRIPTION,O6#
+agricultural,14,Perma-Clad® Closure Strip,1,1,price,PRICE,,✓
+agricultural,14,MasterRib® Closure Strip,2,0,part,PART #,DESCRIPTION,HW-472
+agricultural,14,MasterRib® Closure Strip,2,0,type,TYPE,DESCRIPTION,Inside
+agricultural,14,MasterRib® Closure Strip,2,0,adhesive,ADHESIVE?,DESCRIPTION,No
+agricultural,14,MasterRib® Closure Strip,2,0,size,SIZE,DESCRIPTION,"1 W 4 36"""
+agricultural,14,MasterRib® Closure Strip,2,0,weight_each,WEIGHT EACH,DESCRIPTION,O3#
+agricultural,14,MasterRib® Closure Strip,2,0,price,PRICE,,✓
+agricultural,14,MasterRib® Closure Strip,2,1,part,PART #,DESCRIPTION,HW-473
+agricultural,14,MasterRib® Closure Strip,2,1,type,TYPE,DESCRIPTION,Outside
+agricultural,14,MasterRib® Closure Strip,2,1,adhesive,ADHESIVE?,DESCRIPTION,Yes
+agricultural,14,MasterRib® Closure Strip,2,1,size,SIZE,DESCRIPTION,"4 "" xX 36"""
+agricultural,14,MasterRib® Closure Strip,2,1,weight_each,WEIGHT EACH,DESCRIPTION,O6#
+agricultural,14,MasterRib® Closure Strip,2,1,price,PRICE,,✓
+agricultural,15,Ameri-Drain® Closure Strip,0,0,part,PART #,DESCRIPTION,HW-476
+agricultural,15,Ameri-Drain® Closure Strip,0,0,type,TYPE,DESCRIPTION,Inside
+agricultural,15,Ameri-Drain® Closure Strip,0,0,adhesive,ADHESIVE?,DESCRIPTION,No
+agricultural,15,Ameri-Drain® Closure Strip,0,0,size,SIZE,DESCRIPTION,"4 "" x 36"""
+agricultural,15,Ameri-Drain® Closure Strip,0,0,weight_each,WEIGHT EACH,DESCRIPTION,O3#
+agricultural,15,Ameri-Drain® Closure Strip,0,0,price,PRICE,,✓
+agricultural,15,Ameri-Drain® Closure Strip,0,1,part,PART #,DESCRIPTION,HW-477
+agricultural,15,Ameri-Drain® Closure Strip,0,1,type,TYPE,DESCRIPTION,Outside
+agricultural,15,Ameri-Drain® Closure Strip,0,1,adhesive,ADHESIVE?,DESCRIPTION,Yes
+agricultural,15,Ameri-Drain® Closure Strip,0,1,size,SIZE,DESCRIPTION,"1 W 4 36"""
+agricultural,15,Ameri-Drain® Closure Strip,0,1,weight_each,WEIGHT EACH,DESCRIPTION,O6#
+agricultural,15,Ameri-Drain® Closure Strip,0,1,price,PRICE,,✓
+agricultural,15,"2¥"" Corrugated Closure Strip",1,0,part,PART #,DESCRIPTION,HW-478
+agricultural,15,"2¥"" Corrugated Closure Strip",1,0,type,TYPE,DESCRIPTION,Inside or Outside
+agricultural,15,"2¥"" Corrugated Closure Strip",1,0,adhesive,ADHESIVE?,DESCRIPTION,No
+agricultural,15,"2¥"" Corrugated Closure Strip",1,0,size,SIZE,DESCRIPTION,"1"" x 24"""
+agricultural,15,"2¥"" Corrugated Closure Strip",1,0,weight_each,WEIGHT EACH,DESCRIPTION,03#
+agricultural,15,"2¥"" Corrugated Closure Strip",1,0,price,PRICE,,✓
+agricultural,15,Walk Doors,2,0,part,PART #,DESCRIPTION,HW-9200
+agricultural,15,Walk Doors,2,0,size,SIZE,DESCRIPTION,3070
+agricultural,15,Walk Doors,2,0,type,TYPE,DESCRIPTION,M
+agricultural,15,Walk Doors,2,0,color,COLOR,DESCRIPTION,White
+agricultural,15,Walk Doors,2,0,weight_each,WEIGHT EACH,DESCRIPTION,162.00#
+agricultural,15,Walk Doors,2,0,price,PRICE,,✓
+agricultural,15,Walk Doors,2,1,part,PART #,DESCRIPTION,HW-9204
+agricultural,15,Walk Doors,2,1,size,SIZE,DESCRIPTION,4070
+agricultural,15,Walk Doors,2,1,type,TYPE,DESCRIPTION,M
+agricultural,15,Walk Doors,2,1,color,COLOR,DESCRIPTION,White
+agricultural,15,Walk Doors,2,1,weight_each,WEIGHT EACH,DESCRIPTION,218.00#
+agricultural,15,Walk Doors,2,1,price,PRICE,,✓
+agricultural,16,Tape Sealer - Flat,0,0,part,PART #,DESCRIPTION,HW-505
+agricultural,16,Tape Sealer - Flat,0,0,type,TYPE,DESCRIPTION,Butyl
+agricultural,16,Tape Sealer - Flat,0,0,width,WIDTH,DESCRIPTION,"34"""
+agricultural,16,Tape Sealer - Flat,0,0,thickness,THICKNESS,DESCRIPTION,"3/32"""
+agricultural,16,Tape Sealer - Flat,0,0,length,LENGTH,DESCRIPTION,"A5'-Q"""
+agricultural,16,Tape Sealer - Flat,0,0,roll_weight,ROLL WEIGHT,DESCRIPTION,1.20#
+agricultural,16,Tape Sealer - Flat,0,0,price,PRICE,,✓
+agricultural,16,Tape Sealer - Flat,0,1,part,PART #,DESCRIPTION,HW-506
+agricultural,16,Tape Sealer - Flat,0,1,type,TYPE,DESCRIPTION,Butyl
+agricultural,16,Tape Sealer - Flat,0,1,width,WIDTH,DESCRIPTION,"4q"""
+agricultural,16,Tape Sealer - Flat,0,1,thickness,THICKNESS,DESCRIPTION,"3/32"""
+agricultural,16,Tape Sealer - Flat,0,1,length,LENGTH,DESCRIPTION,"A5'-Q"""
+agricultural,16,Tape Sealer - Flat,0,1,roll_weight,ROLL WEIGHT,DESCRIPTION,2.85#
+agricultural,16,Tape Sealer - Flat,0,1,price,PRICE,,✓
+agricultural,16,Tape Sealer - Flat,0,2,part,PART #,DESCRIPTION,HW-507
+agricultural,16,Tape Sealer - Flat,0,2,type,TYPE,DESCRIPTION,Butyl
+agricultural,16,Tape Sealer - Flat,0,2,width,WIDTH,DESCRIPTION,"YQ"""
+agricultural,16,Tape Sealer - Flat,0,2,thickness,THICKNESS,DESCRIPTION,"3/32"""
+agricultural,16,Tape Sealer - Flat,0,2,length,LENGTH,DESCRIPTION,"50O'-0"""
+agricultural,16,Tape Sealer - Flat,0,2,roll_weight,ROLL WEIGHT,DESCRIPTION,1.60#
+agricultural,16,Tape Sealer - Flat,0,2,price,PRICE,,✓
+agricultural,16,Tape Sealer - Triple Bead,1,0,part,PART #,DESCRIPTION,HW-502
+agricultural,16,Tape Sealer - Triple Bead,1,0,type,TYPE,DESCRIPTION,Butyl
+agricultural,16,Tape Sealer - Triple Bead,1,0,width,WIDTH,DESCRIPTION,"292"""
+agricultural,16,Tape Sealer - Triple Bead,1,0,thickness,THICKNESS,DESCRIPTION,"3/16"""
+agricultural,16,Tape Sealer - Triple Bead,1,0,length,LENGTH,DESCRIPTION,"20'-0"""
+agricultural,16,Tape Sealer - Triple Bead,1,0,carton_weight,CARTON WEIGHT,DESCRIPTION,23.00#
+agricultural,16,Tape Sealer - Triple Bead,1,0,price,PRICE,,✓
+agricultural,16,Tape Sealer - Tri-Bead,2,0,part,PART #,DESCRIPTION,HW-504
+agricultural,16,Tape Sealer - Tri-Bead,2,0,type,TYPE,DESCRIPTION,Butyl
+agricultural,16,Tape Sealer - Tri-Bead,2,0,width,WIDTH,DESCRIPTION,"Ip"""
+agricultural,16,Tape Sealer - Tri-Bead,2,0,thickness,THICKNESS,DESCRIPTION,"hie"""
+agricultural,16,Tape Sealer - Tri-Bead,2,0,length,LENGTH,DESCRIPTION,"251-0"""
+agricultural,16,Tape Sealer - Tri-Bead,2,0,carton_weight,CARTON WEIGHT,DESCRIPTION,20.00#
+agricultural,16,Tape Sealer - Tri-Bead,2,0,price,PRICE,,✓
+agricultural,16,Tube Sealant,3,0,part,PART #,DESCRIPTION,HW-548
+agricultural,16,Tube Sealant,3,0,type,TYPE,DESCRIPTION,Acrylic
+agricultural,16,Tube Sealant,3,0,color,COLOR,DESCRIPTION,White
+agricultural,16,Tube Sealant,3,0,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
+agricultural,16,Tube Sealant,3,0,tube_weight,TUBE WEIGHT,DESCRIPTION,1 OF
+agricultural,16,Tube Sealant,3,0,price,PRICE,,✓
+agricultural,16,Tube Sealant,3,1,part,PART #,DESCRIPTION,HW-550
+agricultural,16,Tube Sealant,3,1,type,TYPE,DESCRIPTION,Acrylic
+agricultural,16,Tube Sealant,3,1,color,COLOR,DESCRIPTION,Gray
+agricultural,16,Tube Sealant,3,1,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
+agricultural,16,Tube Sealant,3,1,tube_weight,TUBE WEIGHT,DESCRIPTION,whet
+agricultural,16,Tube Sealant,3,1,price,PRICE,,✓
+agricultural,16,Tube Sealant,3,2,part,PART #,DESCRIPTION,HW-540
+agricultural,16,Tube Sealant,3,2,type,TYPE,DESCRIPTION,Urethane
+agricultural,16,Tube Sealant,3,2,color,COLOR,DESCRIPTION,White
+agricultural,16,Tube Sealant,3,2,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
+agricultural,16,Tube Sealant,3,2,tube_weight,TUBE WEIGHT,DESCRIPTION,OOF
+agricultural,16,Tube Sealant,3,2,price,PRICE,,✓
+agricultural,16,Tube Sealant,3,3,part,PART #,DESCRIPTION,HW-541
+agricultural,16,Tube Sealant,3,3,type,TYPE,DESCRIPTION,Urethane
+agricultural,16,Tube Sealant,3,3,color,COLOR,DESCRIPTION,Gray
+agricultural,16,Tube Sealant,3,3,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
+agricultural,16,Tube Sealant,3,3,tube_weight,TUBE WEIGHT,DESCRIPTION,OSH
+agricultural,16,Tube Sealant,3,3,price,PRICE,,✓
+agricultural,16,Tube Sealant,3,4,part,PART #,DESCRIPTION,HW-542
+agricultural,16,Tube Sealant,3,4,type,TYPE,DESCRIPTION,Urethane
+agricultural,16,Tube Sealant,3,4,color,COLOR,DESCRIPTION,Bronze
+agricultural,16,Tube Sealant,3,4,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
+agricultural,16,Tube Sealant,3,4,tube_weight,TUBE WEIGHT,DESCRIPTION,O5#
+agricultural,16,Tube Sealant,3,4,price,PRICE,,✓
+agricultural,16,Tube Sealant,3,5,part,PART #,DESCRIPTION,HW-544
+agricultural,16,Tube Sealant,3,5,type,TYPE,DESCRIPTION,Urethane
+agricultural,16,Tube Sealant,3,5,color,COLOR,DESCRIPTION,Almond
+agricultural,16,Tube Sealant,3,5,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
+agricultural,16,Tube Sealant,3,5,tube_weight,TUBE WEIGHT,DESCRIPTION,85H
+agricultural,16,Tube Sealant,3,5,price,PRICE,,✓
+agricultural,16,Tube Sealant,3,6,part,PART #,DESCRIPTION,HW-549
+agricultural,16,Tube Sealant,3,6,type,TYPE,DESCRIPTION,Non-Skinning Butyl
+agricultural,16,Tube Sealant,3,6,color,COLOR,DESCRIPTION,White
+agricultural,16,Tube Sealant,3,6,tube_size,TUBE SIZE,DESCRIPTION,10 ounce
+agricultural,16,Tube Sealant,3,6,tube_weight,TUBE WEIGHT,DESCRIPTION,1.00#
+agricultural,16,Tube Sealant,3,6,price,PRICE,,✓
+agricultural,17,Touch-Up Paint,0,0,part,PART #,DESCRIPTION,HW-304
+agricultural,17,Touch-Up Paint,0,0,finish,FINISH,DESCRIPTION,Signature® 200
+agricultural,17,Touch-Up Paint,0,0,size,SIZE,DESCRIPTION,2 ounce
+agricultural,17,Touch-Up Paint,0,0,color,COLOR,DESCRIPTION,See color chart
+agricultural,17,Touch-Up Paint,0,0,weight_each,WEIGHT EACH,DESCRIPTION,SOF
+agricultural,17,Touch-Up Paint,0,0,price,PRICE,,✓
+agricultural,17,Blanket Insulation,1,0,part,PART #,DESCRIPTION,HW-3927
+agricultural,17,Blanket Insulation,1,0,type,TYPE,DESCRIPTION,VRR+
+agricultural,17,Blanket Insulation,1,0,width,WIDTH,DESCRIPTION,"6'-0"""
+agricultural,17,Blanket Insulation,1,0,length,LENGTH,DESCRIPTION,"104'-0"""
+agricultural,17,Blanket Insulation,1,0,column_5,,ROLL WEIGHT,11€
+agricultural,17,Blanket Insulation,1,0,price,PRICE,ROLL WEIGHT,6O9#
+agricultural,17,Blanket Insulation,1,0,column_7,,PRICED PER ROLL,✓
+agricultural,17,Vinyl Patch Tape,2,0,column_1,,,DESCRIPTION
+agricultural,17,Vinyl Patch Tape,2,0,column_5,,,PRICED PER ROLL
+agricultural,17,Vinyl Patch Tape,2,1,column_1,,,PART #
+agricultural,17,Vinyl Patch Tape,2,1,column_2,,,WIDTH
+agricultural,17,Vinyl Patch Tape,2,1,column_3,,,LENGTH
+agricultural,17,Vinyl Patch Tape,2,1,column_4,,,ROLL WEIGHT
+agricultural,17,Vinyl Patch Tape,2,1,column_5,,,PRICE
+agricultural,17,Vinyl Patch Tape,2,2,column_1,,,HW-5211
+agricultural,17,Vinyl Patch Tape,2,2,column_2,,,"3"""
+agricultural,17,Vinyl Patch Tape,2,2,column_3,,,"150'-0"""
+agricultural,17,Vinyl Patch Tape,2,2,column_4,,,1.98#
+agricultural,17,Vinyl Patch Tape,2,2,column_5,,,v
+agricultural,17,Double Faced Tape,3,0,column_1,,,DESCRIPTION
+agricultural,17,Double Faced Tape,3,0,column_5,,,PRICED PER ROLL
+agricultural,17,Double Faced Tape,3,1,column_1,,,PART #
+agricultural,17,Double Faced Tape,3,1,column_2,,,WIDTH
+agricultural,17,Double Faced Tape,3,1,column_3,,,LENGTH
+agricultural,17,Double Faced Tape,3,1,column_4,,,ROLL WEIGHT
+agricultural,17,Double Faced Tape,3,1,column_5,,,PRICE
+agricultural,17,Double Faced Tape,3,2,column_1,,,HW-522
+agricultural,17,Double Faced Tape,3,2,column_2,,,"1%2"""
+agricultural,17,Double Faced Tape,3,2,column_3,,,"180'-0"""
+agricultural,17,Double Faced Tape,3,2,column_4,,,1.00#
+agricultural,17,Double Faced Tape,3,2,column_5,,,v
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,0,part,PART #,DESCRIPTION,HW-985
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,0,gauge,GAUGE,DESCRIPTION,14
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,0,finish,FINISH,DESCRIPTION,Galvanized
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,0,length,LENGTH,DESCRIPTION,"31-9"""
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,0,weight_each,WEIGHT EACH,DESCRIPTION,17.60#
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,0,price,PRICE,,✓
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,1,part,PART #,DESCRIPTION,HW-986
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,1,gauge,GAUGE,DESCRIPTION,14
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,1,finish,FINISH,DESCRIPTION,Galvanized
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,1,length,LENGTH,DESCRIPTION,"10'-0"""
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,1,weight_each,WEIGHT EACH,DESCRIPTION,22.00#
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,1,price,PRICE,,✓
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,2,part,PART #,DESCRIPTION,HW-987
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,2,gauge,GAUGE,DESCRIPTION,14
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,2,finish,FINISH,DESCRIPTION,Galvanized
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,2,length,LENGTH,DESCRIPTION,"12'-Q"""
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,2,weight_each,WEIGHT EACH,DESCRIPTION,26.40#
+agricultural,18,14 Gauge Track with Side Mount Brackets,0,2,price,PRICE,,✓
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,0,part,PART #,DESCRIPTION,HW-988
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,0,gauge,GAUGE,DESCRIPTION,14
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,0,finish,FINISH,DESCRIPTION,Galvanized
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,0,length,LENGTH,DESCRIPTION,"31.0"""
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,0,weight_each,WEIGHT EACH,DESCRIPTION,17.60#
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,0,price,PRICE,,✓
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,1,part,PART #,DESCRIPTION,HW-989
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,1,gauge,GAUGE,DESCRIPTION,14
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,1,finish,FINISH,DESCRIPTION,Galvanized
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,1,length,LENGTH,DESCRIPTION,"10'-0"""
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,1,weight_each,WEIGHT EACH,DESCRIPTION,22.00#
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,1,price,PRICE,,✓
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,part,PART #,DESCRIPTION,HW-990
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,gauge,GAUGE,DESCRIPTION,14
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,finish,FINISH,DESCRIPTION,Galvanized
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,length,LENGTH,DESCRIPTION,"12'-O"""
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,weight_each,WEIGHT EACH,DESCRIPTION,26.40#
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,price,PRICE,,✓
+agricultural,18,Double Track Side Mount Bracket,2,0,column_1,,,DESCRIPTION
+agricultural,18,Double Track Side Mount Bracket,2,0,column_4,,,PRICED PER EACH
+agricultural,18,Double Track Side Mount Bracket,2,1,column_1,,,PART #
+agricultural,18,Double Track Side Mount Bracket,2,1,column_2,,,FINISH
+agricultural,18,Double Track Side Mount Bracket,2,1,column_3,,,WEIGHT EACH
+agricultural,18,Double Track Side Mount Bracket,2,1,column_4,,,PRICE
+agricultural,18,Double Track Side Mount Bracket,2,2,column_1,,,HW-976
+agricultural,18,Double Track Side Mount Bracket,2,2,column_2,,,Galvanized
+agricultural,18,Double Track Side Mount Bracket,2,2,column_3,,,80#
+agricultural,18,Double Track Side Mount Bracket,2,2,column_4,,,v
+agricultural,19,Splice Collar,0,0,column_1,,,DESCRIPTION
+agricultural,19,Splice Collar,0,0,column_4,,,PRICED PER EACH
+agricultural,19,Splice Collar,0,1,column_1,,,PART #
+agricultural,19,Splice Collar,0,1,column_2,,,FINISH
+agricultural,19,Splice Collar,0,1,column_3,,,WEIGHT EACH
+agricultural,19,Splice Collar,0,1,column_4,,,PRICE
+agricultural,19,Splice Collar,0,2,column_1,,,HW-977
+agricultural,19,Splice Collar,0,2,column_2,,,Galvanized
+agricultural,19,Splice Collar,0,2,column_3,,,SOF
+agricultural,19,Splice Collar,0,2,column_4,,,v
+agricultural,19,Track End Plug,1,0,column_1,,,DESCRIPTION
+agricultural,19,Track End Plug,1,0,column_4,,,PRICED PER EACH
+agricultural,19,Track End Plug,1,1,column_1,,,PART #
+agricultural,19,Track End Plug,1,1,column_2,,,FINISH
+agricultural,19,Track End Plug,1,1,column_3,,,WEIGHT EACH
+agricultural,19,Track End Plug,1,1,column_4,,,PRICE
+agricultural,19,Track End Plug,1,2,column_1,,,HW-978
+agricultural,19,Track End Plug,1,2,column_2,,,Galvanized
+agricultural,19,Track End Plug,1,2,column_3,,,20#
+agricultural,19,Track End Plug,1,2,column_4,,,v
+agricultural,19,Offset-Bolt Trolley Hanger,2,0,column_1,,,DESCRIPTION
+agricultural,19,Offset-Bolt Trolley Hanger,2,0,column_5,,,PRICED PER EACH
+agricultural,19,Offset-Bolt Trolley Hanger,2,1,column_1,,,PART #
+agricultural,19,Offset-Bolt Trolley Hanger,2,1,column_2,,,BOLT LENGTH
+agricultural,19,Offset-Bolt Trolley Hanger,2,1,column_3,,,FINISH
+agricultural,19,Offset-Bolt Trolley Hanger,2,1,column_4,,,WEIGHT EACH
+agricultural,19,Offset-Bolt Trolley Hanger,2,1,column_5,,,PRICE
+agricultural,19,Offset-Bolt Trolley Hanger,2,2,column_1,,,HW-979
+agricultural,19,Offset-Bolt Trolley Hanger,2,2,column_2,,,"9 ¥2"""
+agricultural,19,Offset-Bolt Trolley Hanger,2,2,column_3,,,Galvanized
+agricultural,19,Offset-Bolt Trolley Hanger,2,2,column_4,,,2.30#
+agricultural,19,Offset-Bolt Trolley Hanger,2,2,column_5,,,v
+agricultural,19,Offset-Bolt Trolley Hanger,2,3,column_1,,,HW-980
+agricultural,19,Offset-Bolt Trolley Hanger,2,3,column_2,,,"6 Y2"""
+agricultural,19,Offset-Bolt Trolley Hanger,2,3,column_3,,,Galvanized
+agricultural,19,Offset-Bolt Trolley Hanger,2,3,column_4,,,2.20#
+agricultural,19,Offset-Bolt Trolley Hanger,2,3,column_5,,,v
+agricultural,20,Straight-Bolt Trolley Hanger,0,0,column_1,,,DESCRIPTION
+agricultural,20,Straight-Bolt Trolley Hanger,0,0,column_4,,,PRICED PER EACH
+agricultural,20,Straight-Bolt Trolley Hanger,0,1,column_1,,,PART #
+agricultural,20,Straight-Bolt Trolley Hanger,0,1,column_2,,,FINISH
+agricultural,20,Straight-Bolt Trolley Hanger,0,1,column_3,,,WEIGHT EACH
+agricultural,20,Straight-Bolt Trolley Hanger,0,1,column_4,,,PRICE
+agricultural,20,Straight-Bolt Trolley Hanger,0,2,column_1,,,HW-981
+agricultural,20,Straight-Bolt Trolley Hanger,0,2,column_2,,,Galvanized
+agricultural,20,Straight-Bolt Trolley Hanger,0,2,column_3,,,2.00#
+agricultural,20,Straight-Bolt Trolley Hanger,0,2,column_4,,,v
+agricultural,20,Wood Frame Door Trolley Hanger,1,0,column_1,,,DESCRIPTION
+agricultural,20,Wood Frame Door Trolley Hanger,1,0,column_4,,,PRICED PER PAIR
+agricultural,20,Wood Frame Door Trolley Hanger,1,1,column_1,,,PART #
+agricultural,20,Wood Frame Door Trolley Hanger,1,1,column_2,,,FINISH
+agricultural,20,Wood Frame Door Trolley Hanger,1,1,column_3,,,WEIGHT EACH
+agricultural,20,Wood Frame Door Trolley Hanger,1,1,column_4,,,PRICE
+agricultural,20,Wood Frame Door Trolley Hanger,1,2,column_1,,,HW-982
+agricultural,20,Wood Frame Door Trolley Hanger,1,2,column_2,,,Galvanized
+agricultural,20,Wood Frame Door Trolley Hanger,1,2,column_3,,,6.80#
+agricultural,20,Wood Frame Door Trolley Hanger,1,2,column_4,,,v
+agricultural,20,Bolt Type Door Latch,2,0,column_1,,,DESCRIPTION
+agricultural,20,Bolt Type Door Latch,2,0,column_4,,,PRICED PER EACH
+agricultural,20,Bolt Type Door Latch,2,1,column_1,,,PART #
+agricultural,20,Bolt Type Door Latch,2,1,column_2,,,FINISH
+agricultural,20,Bolt Type Door Latch,2,1,column_3,,,WEIGHT EACH
+agricultural,20,Bolt Type Door Latch,2,1,column_4,,,PRICE
+agricultural,20,Bolt Type Door Latch,2,2,column_1,,,HW-983
+agricultural,20,Bolt Type Door Latch,2,2,column_2,,,Galvanized
+agricultural,20,Bolt Type Door Latch,2,2,column_3,,,SOF
+agricultural,20,Bolt Type Door Latch,2,2,column_4,,,v
+agricultural,21,Center Latch,0,0,column_1,,,DESCRIPTION
+agricultural,21,Center Latch,0,0,column_5,,,PRICED PER EACH
+agricultural,21,Center Latch,0,1,column_1,,,PART #
+agricultural,21,Center Latch,0,1,column_2,,,LENGTH
+agricultural,21,Center Latch,0,1,column_3,,,FINISH
+agricultural,21,Center Latch,0,1,column_4,,,WEIGHT EACH
+agricultural,21,Center Latch,0,1,column_5,,,PRICE
+agricultural,21,Center Latch,0,2,column_1,,,HW-940
+agricultural,21,Center Latch,0,2,column_2,,,"43"""
+agricultural,21,Center Latch,0,2,column_3,,,Galvanized
+agricultural,21,Center Latch,0,2,column_4,,,2.80#
+agricultural,21,Center Latch,0,2,column_5,,,v
+agricultural,21,Center Latch,0,3,column_1,,,HW-941
+agricultural,21,Center Latch,0,3,column_2,,,"17"""
+agricultural,21,Center Latch,0,3,column_3,,,Galvanized
+agricultural,21,Center Latch,0,3,column_4,,,3.00#
+agricultural,21,Center Latch,0,3,column_5,,,v
+agricultural,21,Steel Door Pull,1,0,column_1,,,DESCRIPTION
+agricultural,21,Steel Door Pull,1,0,column_4,,,PRICED PER EACH
+agricultural,21,Steel Door Pull,1,1,column_1,,,PART #
+agricultural,21,Steel Door Pull,1,1,column_2,,,FINISH
+agricultural,21,Steel Door Pull,1,1,column_3,,,WEIGHT EACH
+agricultural,21,Steel Door Pull,1,1,column_4,,,PRICE
+agricultural,21,Steel Door Pull,1,2,column_1,,,HW-942
+agricultural,21,Steel Door Pull,1,2,column_2,,,White
+agricultural,21,Steel Door Pull,1,2,column_3,,,A0#
+agricultural,21,Steel Door Pull,1,2,column_4,,,v
+agricultural,21,Standard Track Cover Bracket,2,0,column_1,,,DESCRIPTION
+agricultural,21,Standard Track Cover Bracket,2,0,column_4,,,PRICED PER EACH
+agricultural,21,Standard Track Cover Bracket,2,1,column_1,,,PART #
+agricultural,21,Standard Track Cover Bracket,2,1,column_2,,,FINISH
+agricultural,21,Standard Track Cover Bracket,2,1,column_3,,,WEIGHT EACH
+agricultural,21,Standard Track Cover Bracket,2,1,column_4,,,PRICE
+agricultural,21,Standard Track Cover Bracket,2,2,column_1,,,HW-943
+agricultural,21,Standard Track Cover Bracket,2,2,column_2,,,Galvanized
+agricultural,21,Standard Track Cover Bracket,2,2,column_3,,,20#
+agricultural,21,Standard Track Cover Bracket,2,2,column_4,,,v
+agricultural,21,Snap-Up Track Cover Bracket,3,0,column_1,,,DESCRIPTION
+agricultural,21,Snap-Up Track Cover Bracket,3,0,column_4,,,PRICED PER EACH
+agricultural,21,Snap-Up Track Cover Bracket,3,1,column_1,,,PART #
+agricultural,21,Snap-Up Track Cover Bracket,3,1,column_2,,,FINISH
+agricultural,21,Snap-Up Track Cover Bracket,3,1,column_3,,,WEIGHT EACH
+agricultural,21,Snap-Up Track Cover Bracket,3,1,column_4,,,PRICE
+agricultural,21,Snap-Up Track Cover Bracket,3,2,column_1,,,HW-944
+agricultural,21,Snap-Up Track Cover Bracket,3,2,column_2,,,Galvanized
+agricultural,21,Snap-Up Track Cover Bracket,3,2,column_3,,,20#
+agricultural,21,Snap-Up Track Cover Bracket,3,2,column_4,,,v
+agricultural,22,Adjustable Offset Stay Roller,0,0,column_1,,,DESCRIPTION
+agricultural,22,Adjustable Offset Stay Roller,0,0,column_4,,,PRICED PER EACH
+agricultural,22,Adjustable Offset Stay Roller,0,1,column_1,,,PART #
+agricultural,22,Adjustable Offset Stay Roller,0,1,column_2,,,FINISH
+agricultural,22,Adjustable Offset Stay Roller,0,1,column_3,,,WEIGHT EACH
+agricultural,22,Adjustable Offset Stay Roller,0,1,column_4,,,PRICE
+agricultural,22,Adjustable Offset Stay Roller,0,2,column_1,,,HW-945
+agricultural,22,Adjustable Offset Stay Roller,0,2,column_2,,,Galvanized
+agricultural,22,Adjustable Offset Stay Roller,0,2,column_3,,,1.90#
+agricultural,22,Adjustable Offset Stay Roller,0,2,column_4,,,v
+agricultural,22,Adjustable Door Guide and Stop,1,0,column_1,,,DESCRIPTION
+agricultural,22,Adjustable Door Guide and Stop,1,0,column_4,,,PRICED PER EACH
+agricultural,22,Adjustable Door Guide and Stop,1,1,column_1,,,PART #
+agricultural,22,Adjustable Door Guide and Stop,1,1,column_2,,,FINISH
+agricultural,22,Adjustable Door Guide and Stop,1,1,column_3,,,WEIGHT EACH
+agricultural,22,Adjustable Door Guide and Stop,1,1,column_4,,,PRICE
+agricultural,22,Adjustable Door Guide and Stop,1,2,column_1,,,HW-946
+agricultural,22,Adjustable Door Guide and Stop,1,2,column_2,,,White
+agricultural,22,Adjustable Door Guide and Stop,1,2,column_3,,,3.00#
+agricultural,22,Adjustable Door Guide and Stop,1,2,column_4,,,v
+agricultural,22,Complete Cover Bracket,2,0,column_1,,,DESCRIPTION
+agricultural,22,Complete Cover Bracket,2,0,column_4,,,PRICED PER EACH
+agricultural,22,Complete Cover Bracket,2,1,column_1,,,PART #
+agricultural,22,Complete Cover Bracket,2,1,column_2,,,FINISH
+agricultural,22,Complete Cover Bracket,2,1,column_3,,,WEIGHT EACH
+agricultural,22,Complete Cover Bracket,2,1,column_4,,,PRICE
+agricultural,22,Complete Cover Bracket,2,2,column_1,,,HW-947
+agricultural,22,Complete Cover Bracket,2,2,column_2,,,Galvanized
+agricultural,22,Complete Cover Bracket,2,2,column_3,,,1.00#
+agricultural,22,Complete Cover Bracket,2,2,column_4,,,v
+agricultural,23,Square Track,0,0,part,PART #,DESCRIPTION,HW-966
+agricultural,23,Square Track,0,0,gauge,GAUGE,DESCRIPTION,16
+agricultural,23,Square Track,0,0,length,LENGTH,DESCRIPTION,"12'-0"""
+agricultural,23,Square Track,0,0,finish,FINISH,DESCRIPTION,Galvanized
+agricultural,23,Square Track,0,0,weight_each,WEIGHT EACH,DESCRIPTION,21.00#
+agricultural,23,Square Track,0,0,price,PRICE,,✓
+agricultural,23,Square Track,0,1,part,PART #,DESCRIPTION,HW-967
+agricultural,23,Square Track,0,1,gauge,GAUGE,DESCRIPTION,16
+agricultural,23,Square Track,0,1,length,LENGTH,DESCRIPTION,"1 4'-0"""
+agricultural,23,Square Track,0,1,finish,FINISH,DESCRIPTION,Galvanized
+agricultural,23,Square Track,0,1,weight_each,WEIGHT EACH,DESCRIPTION,25.00#
+agricultural,23,Square Track,0,1,price,PRICE,,✓
+agricultural,23,Square Track,0,2,part,PART #,DESCRIPTION,HW-968
+agricultural,23,Square Track,0,2,gauge,GAUGE,DESCRIPTION,16
+agricultural,23,Square Track,0,2,length,LENGTH,DESCRIPTION,"20'-0"""
+agricultural,23,Square Track,0,2,finish,FINISH,DESCRIPTION,Galvanized
+agricultural,23,Square Track,0,2,weight_each,WEIGHT EACH,DESCRIPTION,35.00#
+agricultural,23,Square Track,0,2,price,PRICE,,✓
+agricultural,23,Rail Hanger and Bracket,1,0,column_1,,,DESCRIPTION
+agricultural,23,Rail Hanger and Bracket,1,0,column_4,,,PRICED PER EACH
+agricultural,23,Rail Hanger and Bracket,1,1,column_1,,,PART #
+agricultural,23,Rail Hanger and Bracket,1,1,column_2,,,FINISH
+agricultural,23,Rail Hanger and Bracket,1,1,column_3,,,WEIGHT EACH
+agricultural,23,Rail Hanger and Bracket,1,1,column_4,,,PRICE
+agricultural,23,Rail Hanger and Bracket,1,2,column_1,,,HW-971
+agricultural,23,Rail Hanger and Bracket,1,2,column_2,,,Galvanized
+agricultural,23,Rail Hanger and Bracket,1,2,column_3,,,3.00#
+agricultural,23,Rail Hanger and Bracket,1,2,column_4,,,v
+agricultural,23,Hanger Angle,2,0,column_1,,,DESCRIPTION
+agricultural,23,Hanger Angle,2,0,column_4,,,PRICED PER EACH
+agricultural,23,Hanger Angle,2,1,column_1,,,PART #
+agricultural,23,Hanger Angle,2,1,column_2,,,FINISH
+agricultural,23,Hanger Angle,2,1,column_3,,,WEIGHT EACH
+agricultural,23,Hanger Angle,2,1,column_4,,,PRICE
+agricultural,23,Hanger Angle,2,2,column_1,,,HW-975
+agricultural,23,Hanger Angle,2,2,column_2,,,Galvanized
+agricultural,23,Hanger Angle,2,2,column_3,,,1.00#
+agricultural,23,Hanger Angle,2,2,column_4,,,v
+agricultural,24,Steel Door Pull,0,0,column_1,,,DESCRIPTION
+agricultural,24,Steel Door Pull,0,0,column_4,,,PRICED PER EACH
+agricultural,24,Steel Door Pull,0,1,column_1,,,PART #
+agricultural,24,Steel Door Pull,0,1,column_2,,,FINISH
+agricultural,24,Steel Door Pull,0,1,column_3,,,WEIGHT EACH
+agricultural,24,Steel Door Pull,0,1,column_4,,,PRICE
+agricultural,24,Steel Door Pull,0,2,column_1,,,HW-973
+agricultural,24,Steel Door Pull,0,2,column_2,,,Galvanized
+agricultural,24,Steel Door Pull,0,2,column_3,,,I0#
+agricultural,24,Steel Door Pull,0,2,column_4,,,v
+agricultural,24,"Trolleys - 2"" diameter wheel",1,0,column_1,,,DESCRIPTION
+agricultural,24,"Trolleys - 2"" diameter wheel",1,0,column_4,,,PRICED PER EACH
+agricultural,24,"Trolleys - 2"" diameter wheel",1,1,column_1,,,PART #
+agricultural,24,"Trolleys - 2"" diameter wheel",1,1,column_2,,,FINISH
+agricultural,24,"Trolleys - 2"" diameter wheel",1,1,column_3,,,WEIGHT EACH
+agricultural,24,"Trolleys - 2"" diameter wheel",1,1,column_4,,,PRICE
+agricultural,24,"Trolleys - 2"" diameter wheel",1,2,column_1,,,HW-969
+agricultural,24,"Trolleys - 2"" diameter wheel",1,2,column_2,,,Galvanized
+agricultural,24,"Trolleys - 2"" diameter wheel",1,2,column_3,,,1.00#
+agricultural,24,"Trolleys - 2"" diameter wheel",1,2,column_4,,,v
+agricultural,24,Cam Lock Jamb Latch,2,0,column_1,,,DESCRIPTION
+agricultural,24,Cam Lock Jamb Latch,2,0,column_4,,,PRICED PER EACH
+agricultural,24,Cam Lock Jamb Latch,2,1,column_1,,,PART #
+agricultural,24,Cam Lock Jamb Latch,2,1,column_2,,,FINISH
+agricultural,24,Cam Lock Jamb Latch,2,1,column_3,,,WEIGHT EACH
+agricultural,24,Cam Lock Jamb Latch,2,1,column_4,,,PRICE
+agricultural,24,Cam Lock Jamb Latch,2,2,column_1,,,HW-972
+agricultural,24,Cam Lock Jamb Latch,2,2,column_2,,,Galvanized
+agricultural,24,Cam Lock Jamb Latch,2,2,column_3,,,2.00#
+agricultural,24,Cam Lock Jamb Latch,2,2,column_4,,,v
+agricultural,25,Splice Bracket,0,0,column_1,,,DESCRIPTION
+agricultural,25,Splice Bracket,0,0,column_4,,,PRICED PER EACH
+agricultural,25,Splice Bracket,0,1,column_1,,,PART #
+agricultural,25,Splice Bracket,0,1,column_2,,,FINISH
+agricultural,25,Splice Bracket,0,1,column_3,,,WEIGHT EACH
+agricultural,25,Splice Bracket,0,1,column_4,,,PRICE
+agricultural,25,Splice Bracket,0,2,column_1,,,HW-970
+agricultural,25,Splice Bracket,0,2,column_2,,,Galvanized
+agricultural,25,Splice Bracket,0,2,column_3,,,1.00#
+agricultural,25,Splice Bracket,0,2,column_4,,,v
+agricultural,26,Ridge Flash,0,0,part,PART #,DESCRIPTION,AG-200
+agricultural,26,Ridge Flash,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,26,Ridge Flash,0,0,girth,GIRTH,DESCRIPTION,"12%"""
+agricultural,26,Ridge Flash,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,26,Ridge Flash,0,0,weight_each,WEIGHT EACH,DESCRIPTION,6.96#
+agricultural,26,Ridge Flash,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,26,Ridge Flash,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,26,Ridge Cap,1,0,part,PART #,DESCRIPTION,LG-101
+agricultural,26,Ridge Cap,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,26,Ridge Cap,1,0,girth,GIRTH,DESCRIPTION,"45"""
+agricultural,26,Ridge Cap,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,26,Ridge Cap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,7 924
+agricultural,26,Ridge Cap,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,26,Ridge Cap,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,26,Corner Trim,2,0,part,PART #,DESCRIPTION,LG-114
+agricultural,26,Corner Trim,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,26,Corner Trim,2,0,girth,GIRTH,DESCRIPTION,"1034"""
+agricultural,26,Corner Trim,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,26,Corner Trim,2,0,weight_each,WEIGHT EACH,DESCRIPTION,5.46#
+agricultural,26,Corner Trim,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,26,Corner Trim,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,27,Corner Trim,0,0,part,PART #,DESCRIPTION,LG-113
+agricultural,27,Corner Trim,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,27,Corner Trim,0,0,girth,GIRTH,DESCRIPTION,"13%"""
+agricultural,27,Corner Trim,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,27,Corner Trim,0,0,weight_each,WEIGHT EACH,DESCRIPTION,6.744
+agricultural,27,Corner Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,27,Corner Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,27,Corner Trim,0,1,part,PART #,DESCRIPTION,LG-113A
+agricultural,27,Corner Trim,0,1,length,LENGTH,DESCRIPTION,"12'-6"""
+agricultural,27,Corner Trim,0,1,girth,GIRTH,DESCRIPTION,"13%"""
+agricultural,27,Corner Trim,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,27,Corner Trim,0,1,weight_each,WEIGHT EACH,DESCRIPTION,8.02#
+agricultural,27,Corner Trim,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,27,Corner Trim,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,27,Corner Trim,0,2,part,PART #,DESCRIPTION,LG-113B
+agricultural,27,Corner Trim,0,2,length,LENGTH,DESCRIPTION,"14'-6"""
+agricultural,27,Corner Trim,0,2,girth,GIRTH,DESCRIPTION,"13%"""
+agricultural,27,Corner Trim,0,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,27,Corner Trim,0,2,weight_each,WEIGHT EACH,DESCRIPTION,9.31#
+agricultural,27,Corner Trim,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,27,Corner Trim,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,27,Rake Trim,1,0,part,PART #,DESCRIPTION,LG-117
+agricultural,27,Rake Trim,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,27,Rake Trim,1,0,girth,GIRTH,DESCRIPTION,"15%"""
+agricultural,27,Rake Trim,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,27,Rake Trim,1,0,weight_each,WEIGHT EACH,DESCRIPTION,7 82#
+agricultural,27,Rake Trim,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,27,Rake Trim,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,27,Rake Trim,1,1,part,PART #,DESCRIPTION,LG-117A
+agricultural,27,Rake Trim,1,1,length,LENGTH,DESCRIPTION,"16'-0"""
+agricultural,27,Rake Trim,1,1,girth,GIRTH,DESCRIPTION,"15%"""
+agricultural,27,Rake Trim,1,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,27,Rake Trim,1,1,weight_each,WEIGHT EACH,DESCRIPTION,11.91#
+agricultural,27,Rake Trim,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,27,Rake Trim,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,0,part,PART #,DESCRIPTION,FL-1002
+agricultural,28,Rake Trim,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,28,Rake Trim,0,0,dim_a,"DIM ""A""",DESCRIPTION,"33/16"""
+agricultural,28,Rake Trim,0,0,roof_slope,ROOF SLOPE,DESCRIPTION,3-4:12
+agricultural,28,Rake Trim,0,0,girth,GIRTH,DESCRIPTION,"81/16"""
+agricultural,28,Rake Trim,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,28,Rake Trim,0,0,weight_each,WEIGHT EACH,DESCRIPTION,4.434
+agricultural,28,Rake Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,1,part,PART #,DESCRIPTION,FL-1002
+agricultural,28,Rake Trim,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,28,Rake Trim,0,1,dim_a,"DIM ""A""",DESCRIPTION,"33/16"""
+agricultural,28,Rake Trim,0,1,roof_slope,ROOF SLOPE,DESCRIPTION,3-4:12
+agricultural,28,Rake Trim,0,1,girth,GIRTH,DESCRIPTION,"8/16"""
+agricultural,28,Rake Trim,0,1,gauge,GAUGE,DESCRIPTION,26
+agricultural,28,Rake Trim,0,1,weight_each,WEIGHT EACH,DESCRIPTION,5.73#
+agricultural,28,Rake Trim,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,2,part,PART #,DESCRIPTION,FL-1003
+agricultural,28,Rake Trim,0,2,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,28,Rake Trim,0,2,dim_a,"DIM ""A""",DESCRIPTION,"31/16"""
+agricultural,28,Rake Trim,0,2,roof_slope,ROOF SLOPE,DESCRIPTION,5-6:12
+agricultural,28,Rake Trim,0,2,girth,GIRTH,DESCRIPTION,"8/16"""
+agricultural,28,Rake Trim,0,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,28,Rake Trim,0,2,weight_each,WEIGHT EACH,DESCRIPTION,4.37#
+agricultural,28,Rake Trim,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,3,part,PART #,DESCRIPTION,FL-1003
+agricultural,28,Rake Trim,0,3,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,28,Rake Trim,0,3,dim_a,"DIM ""A""",DESCRIPTION,"31/16"""
+agricultural,28,Rake Trim,0,3,roof_slope,ROOF SLOPE,DESCRIPTION,5-6:12
+agricultural,28,Rake Trim,0,3,girth,GIRTH,DESCRIPTION,"8/16"""
+agricultural,28,Rake Trim,0,3,gauge,GAUGE,DESCRIPTION,26
+agricultural,28,Rake Trim,0,3,weight_each,WEIGHT EACH,DESCRIPTION,5.65#
+agricultural,28,Rake Trim,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,4,part,PART #,DESCRIPTION,FL-1004
+agricultural,28,Rake Trim,0,4,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,28,Rake Trim,0,4,dim_a,"DIM ""A""",DESCRIPTION,"213/16"""
+agricultural,28,Rake Trim,0,4,roof_slope,ROOF SLOPE,DESCRIPTION,7:12
+agricultural,28,Rake Trim,0,4,girth,GIRTH,DESCRIPTION,"87/16"""
+agricultural,28,Rake Trim,0,4,gauge,GAUGE,DESCRIPTION,29
+agricultural,28,Rake Trim,0,4,weight_each,WEIGHT EACH,DESCRIPTION,4.30#
+agricultural,28,Rake Trim,0,4,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,4,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,5,part,PART #,DESCRIPTION,FL-1004
+agricultural,28,Rake Trim,0,5,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,28,Rake Trim,0,5,dim_a,"DIM ""A""",DESCRIPTION,"21/16"""
+agricultural,28,Rake Trim,0,5,roof_slope,ROOF SLOPE,DESCRIPTION,7:12
+agricultural,28,Rake Trim,0,5,girth,GIRTH,DESCRIPTION,"87/16"""
+agricultural,28,Rake Trim,0,5,gauge,GAUGE,DESCRIPTION,26
+agricultural,28,Rake Trim,0,5,weight_each,WEIGHT EACH,DESCRIPTION,5.56#
+agricultural,28,Rake Trim,0,5,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,5,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,6,part,PART #,DESCRIPTION,FL-1005
+agricultural,28,Rake Trim,0,6,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,28,Rake Trim,0,6,dim_a,"DIM ""A""",DESCRIPTION,"2 13/16"""
+agricultural,28,Rake Trim,0,6,roof_slope,ROOF SLOPE,DESCRIPTION,8-9:12
+agricultural,28,Rake Trim,0,6,girth,GIRTH,DESCRIPTION,"85/16"""
+agricultural,28,Rake Trim,0,6,gauge,GAUGE,DESCRIPTION,29
+agricultural,28,Rake Trim,0,6,weight_each,WEIGHT EACH,DESCRIPTION,4.244
+agricultural,28,Rake Trim,0,6,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,6,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,7,part,PART #,DESCRIPTION,FL-1005
+agricultural,28,Rake Trim,0,7,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,28,Rake Trim,0,7,dim_a,"DIM ""A""",DESCRIPTION,"2 ""3/16"""
+agricultural,28,Rake Trim,0,7,roof_slope,ROOF SLOPE,DESCRIPTION,8-9:12
+agricultural,28,Rake Trim,0,7,girth,GIRTH,DESCRIPTION,"85/16"""
+agricultural,28,Rake Trim,0,7,gauge,GAUGE,DESCRIPTION,26
+agricultural,28,Rake Trim,0,7,weight_each,WEIGHT EACH,DESCRIPTION,5.48#
+agricultural,28,Rake Trim,0,7,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,7,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,8,part,PART #,DESCRIPTION,FL-1006
+agricultural,28,Rake Trim,0,8,length,LENGTH,DESCRIPTION,"1Q0'-2"""
+agricultural,28,Rake Trim,0,8,dim_a,"DIM ""A""",DESCRIPTION,"2 """"/16"""
+agricultural,28,Rake Trim,0,8,roof_slope,ROOF SLOPE,DESCRIPTION,10:12
+agricultural,28,Rake Trim,0,8,girth,GIRTH,DESCRIPTION,"83/16"""
+agricultural,28,Rake Trim,0,8,gauge,GAUGE,DESCRIPTION,29
+agricultural,28,Rake Trim,0,8,weight_each,WEIGHT EACH,DESCRIPTION,4.18#
+agricultural,28,Rake Trim,0,8,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,8,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,9,part,PART #,DESCRIPTION,FL-1006
+agricultural,28,Rake Trim,0,9,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,28,Rake Trim,0,9,dim_a,"DIM ""A""",DESCRIPTION,"2 ""S16"""
+agricultural,28,Rake Trim,0,9,roof_slope,ROOF SLOPE,DESCRIPTION,10:12
+agricultural,28,Rake Trim,0,9,girth,GIRTH,DESCRIPTION,"83/16"""
+agricultural,28,Rake Trim,0,9,gauge,GAUGE,DESCRIPTION,26
+agricultural,28,Rake Trim,0,9,weight_each,WEIGHT EACH,DESCRIPTION,5.48#
+agricultural,28,Rake Trim,0,9,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Rake Trim,0,9,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Inside Corner,1,0,part,PART #,DESCRIPTION,LG-115
+agricultural,28,Inside Corner,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,28,Inside Corner,1,0,girth,GIRTH,DESCRIPTION,"13%"""
+agricultural,28,Inside Corner,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,28,Inside Corner,1,0,weight_each,WEIGHT EACH,DESCRIPTION,6.744
+agricultural,28,Inside Corner,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Inside Corner,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,28,Eave Trim,2,0,part,PART #,DESCRIPTION,LG-120
+agricultural,28,Eave Trim,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,28,Eave Trim,2,0,girth,GIRTH,DESCRIPTION,"6 52"""
+agricultural,28,Eave Trim,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,28,Eave Trim,2,0,weight_each,WEIGHT EACH,DESCRIPTION,3.41#
+agricultural,28,Eave Trim,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,28,Eave Trim,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,29,Eave Trim,0,0,part,PART #,DESCRIPTION,AG-474
+agricultural,29,Eave Trim,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,29,Eave Trim,0,0,girth,GIRTH,DESCRIPTION,"10%"""
+agricultural,29,Eave Trim,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,29,Eave Trim,0,0,weight_each,WEIGHT EACH,DESCRIPTION,5.734
+agricultural,29,Eave Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,29,Eave Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,29,Eave Trim,0,1,part,PART #,DESCRIPTION,AG-476
+agricultural,29,Eave Trim,0,1,length,LENGTH,DESCRIPTION,"12'-6"""
+agricultural,29,Eave Trim,0,1,girth,GIRTH,DESCRIPTION,"10%"""
+agricultural,29,Eave Trim,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,29,Eave Trim,0,1,weight_each,WEIGHT EACH,DESCRIPTION,6.58#
+agricultural,29,Eave Trim,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,29,Eave Trim,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,29,Eave Trim,1,0,part,PART #,DESCRIPTION,LG-119
+agricultural,29,Eave Trim,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,29,Eave Trim,1,0,girth,GIRTH,DESCRIPTION,"9 7%"""
+agricultural,29,Eave Trim,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,29,Eave Trim,1,0,weight_each,WEIGHT EACH,DESCRIPTION,5.19#
+agricultural,29,Eave Trim,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,29,Eave Trim,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,29,Peak Trim,2,0,part,PART #,DESCRIPTION,LG-103
+agricultural,29,Peak Trim,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,29,Peak Trim,2,0,girth,GIRTH,DESCRIPTION,"11%"""
+agricultural,29,Peak Trim,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,29,Peak Trim,2,0,weight_each,WEIGHT EACH,DESCRIPTION,6.01#
+agricultural,29,Peak Trim,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,29,Peak Trim,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,30,Valley Trim,0,0,part,PART #,DESCRIPTION,LG-138
+agricultural,30,Valley Trim,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,30,Valley Trim,0,0,girth,GIRTH,DESCRIPTION,"20%"""
+agricultural,30,Valley Trim,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,30,Valley Trim,0,0,weight_each,WEIGHT EACH,DESCRIPTION,11.02#
+agricultural,30,Valley Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,30,Valley Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,30,Base Trim,1,0,part,PART #,DESCRIPTION,LG-110A
+agricultural,30,Base Trim,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,30,Base Trim,1,0,girth,GIRTH,DESCRIPTION,"5 34"""
+agricultural,30,Base Trim,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,30,Base Trim,1,0,weight_each,WEIGHT EACH,DESCRIPTION,3.144
+agricultural,30,Base Trim,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,30,Base Trim,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,30,Jamb Trim,2,0,part,PART #,DESCRIPTION,AG-490
+agricultural,30,Jamb Trim,2,0,length,LENGTH,DESCRIPTION,"71.3"""
+agricultural,30,Jamb Trim,2,0,girth,GIRTH,DESCRIPTION,"5"""
+agricultural,30,Jamb Trim,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,30,Jamb Trim,2,0,weight_each,WEIGHT EACH,DESCRIPTION,1.89#
+agricultural,30,Jamb Trim,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,30,Jamb Trim,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,30,Jamb Trim,2,1,part,PART #,DESCRIPTION,AG-491
+agricultural,30,Jamb Trim,2,1,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,30,Jamb Trim,2,1,girth,GIRTH,DESCRIPTION,"5"""
+agricultural,30,Jamb Trim,2,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,30,Jamb Trim,2,1,weight_each,WEIGHT EACH,DESCRIPTION,2.63#
+agricultural,30,Jamb Trim,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,30,Jamb Trim,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,30,Jamb Trim,2,2,part,PART #,DESCRIPTION,AG-492
+agricultural,30,Jamb Trim,2,2,length,LENGTH,DESCRIPTION,"12'-O"""
+agricultural,30,Jamb Trim,2,2,girth,GIRTH,DESCRIPTION,"5"""
+agricultural,30,Jamb Trim,2,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,30,Jamb Trim,2,2,weight_each,WEIGHT EACH,DESCRIPTION,3.01#
+agricultural,30,Jamb Trim,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,30,Jamb Trim,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,30,Jamb Trim,2,3,part,PART #,DESCRIPTION,AG-493
+agricultural,30,Jamb Trim,2,3,length,LENGTH,DESCRIPTION,"1 4'-0"""
+agricultural,30,Jamb Trim,2,3,girth,GIRTH,DESCRIPTION,"5"""
+agricultural,30,Jamb Trim,2,3,gauge,GAUGE,DESCRIPTION,29
+agricultural,30,Jamb Trim,2,3,weight_each,WEIGHT EACH,DESCRIPTION,3.51#
+agricultural,30,Jamb Trim,2,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,30,Jamb Trim,2,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,31,Head Trim,0,0,part,PART #,DESCRIPTION,LG-124
+agricultural,31,Head Trim,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,31,Head Trim,0,0,girth,GIRTH,DESCRIPTION,"4"""
+agricultural,31,Head Trim,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,31,Head Trim,0,0,weight_each,WEIGHT EACH,DESCRIPTION,2.18#
+agricultural,31,Head Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,31,Head Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,31,Head Trim,0,1,part,PART #,DESCRIPTION,LG-124A
+agricultural,31,Head Trim,0,1,length,LENGTH,DESCRIPTION,"1 4'-0"""
+agricultural,31,Head Trim,0,1,girth,GIRTH,DESCRIPTION,"4"""
+agricultural,31,Head Trim,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,31,Head Trim,0,1,weight_each,WEIGHT EACH,DESCRIPTION,3.334
+agricultural,31,Head Trim,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,31,Head Trim,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,31,J-Trim,1,0,part,PART #,DESCRIPTION,LG-123
+agricultural,31,J-Trim,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,31,J-Trim,1,0,girth,GIRTH,DESCRIPTION,"3%"""
+agricultural,31,J-Trim,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,31,J-Trim,1,0,weight_each,WEIGHT EACH,DESCRIPTION,2.12#
+agricultural,31,J-Trim,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,31,J-Trim,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,31,J-Trim,1,1,part,PART #,DESCRIPTION,LG-123A
+agricultural,31,J-Trim,1,1,length,LENGTH,DESCRIPTION,"16'-0"""
+agricultural,31,J-Trim,1,1,girth,GIRTH,DESCRIPTION,"3%"""
+agricultural,31,J-Trim,1,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,31,J-Trim,1,1,weight_each,WEIGHT EACH,DESCRIPTION,3.22#
+agricultural,31,J-Trim,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,31,J-Trim,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,31,Door Header,2,0,part,PART #,DESCRIPTION,AG-485
+agricultural,31,Door Header,2,0,length,LENGTH,DESCRIPTION,"3'-6"""
+agricultural,31,Door Header,2,0,girth,GIRTH,DESCRIPTION,"5"""
+agricultural,31,Door Header,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,31,Door Header,2,0,weight_each,WEIGHT EACH,DESCRIPTION,1
+agricultural,31,Door Header,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,31,Door Header,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,31,Door Header,2,1,part,PART #,DESCRIPTION,AG-486
+agricultural,31,Door Header,2,1,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,31,Door Header,2,1,girth,GIRTH,DESCRIPTION,"5"""
+agricultural,31,Door Header,2,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,31,Door Header,2,1,weight_each,WEIGHT EACH,DESCRIPTION,2.3#
+agricultural,31,Door Header,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,31,Door Header,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,31,Door Header,2,2,part,PART #,DESCRIPTION,AG-487
+agricultural,31,Door Header,2,2,length,LENGTH,DESCRIPTION,"12'-O"""
+agricultural,31,Door Header,2,2,girth,GIRTH,DESCRIPTION,"5"""
+agricultural,31,Door Header,2,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,31,Door Header,2,2,weight_each,WEIGHT EACH,DESCRIPTION,3.12#
+agricultural,31,Door Header,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,31,Door Header,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,31,Door Header,2,3,part,PART #,DESCRIPTION,AG-488
+agricultural,31,Door Header,2,3,length,LENGTH,DESCRIPTION,"14'-0"""
+agricultural,31,Door Header,2,3,girth,GIRTH,DESCRIPTION,"5"""
+agricultural,31,Door Header,2,3,gauge,GAUGE,DESCRIPTION,29
+agricultural,31,Door Header,2,3,weight_each,WEIGHT EACH,DESCRIPTION,3.93#
+agricultural,31,Door Header,2,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,31,Door Header,2,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,32,Drip Cap,0,0,part,PART #,DESCRIPTION,LG-129
+agricultural,32,Drip Cap,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,32,Drip Cap,0,0,girth,GIRTH,DESCRIPTION,"3%"""
+agricultural,32,Drip Cap,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,32,Drip Cap,0,0,weight_each,WEIGHT EACH,DESCRIPTION,1.77#
+agricultural,32,Drip Cap,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,32,Drip Cap,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,32,Endplate,1,0,part,PART #,DESCRIPTION,AG-225
+agricultural,32,Endplate,1,0,length,LENGTH,DESCRIPTION,"2'-O"""
+agricultural,32,Endplate,1,0,girth,GIRTH,DESCRIPTION,"6 3"""
+agricultural,32,Endplate,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,32,Endplate,1,0,weight_each,WEIGHT EACH,DESCRIPTION,O44
+agricultural,32,Endplate,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,32,Endplate,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,32,Endplate,1,1,part,PART #,DESCRIPTION,AG-226
+agricultural,32,Endplate,1,1,length,LENGTH,DESCRIPTION,"2'-0"""
+agricultural,32,Endplate,1,1,girth,GIRTH,DESCRIPTION,"21,"""
+agricultural,32,Endplate,1,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,32,Endplate,1,1,weight_each,WEIGHT EACH,DESCRIPTION,85H
+agricultural,32,Endplate,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,32,Endplate,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,32,Inside Angle,2,0,part,PART #,DESCRIPTION,AG-260
+agricultural,32,Inside Angle,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,32,Inside Angle,2,0,girth,GIRTH,DESCRIPTION,"4"""
+agricultural,32,Inside Angle,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,32,Inside Angle,2,0,weight_each,WEIGHT EACH,DESCRIPTION,2.18#
+agricultural,32,Inside Angle,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,32,Inside Angle,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,33,Single Angle,0,0,part,PART #,DESCRIPTION,AG-265
+agricultural,33,Single Angle,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,33,Single Angle,0,0,girth,GIRTH,DESCRIPTION,"3"""
+agricultural,33,Single Angle,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,33,Single Angle,0,0,weight_each,WEIGHT EACH,DESCRIPTION,1.044
+agricultural,33,Single Angle,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,33,Single Angle,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,33,Single Angle,0,1,part,PART #,DESCRIPTION,AG-266
+agricultural,33,Single Angle,0,1,length,LENGTH,DESCRIPTION,"1 2'-O"""
+agricultural,33,Single Angle,0,1,girth,GIRTH,DESCRIPTION,"3"""
+agricultural,33,Single Angle,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,33,Single Angle,0,1,weight_each,WEIGHT EACH,DESCRIPTION,1.87#
+agricultural,33,Single Angle,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,33,Single Angle,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,33,Single Angle,0,2,part,PART #,DESCRIPTION,AG-267
+agricultural,33,Single Angle,0,2,length,LENGTH,DESCRIPTION,"14'-0"""
+agricultural,33,Single Angle,0,2,girth,GIRTH,DESCRIPTION,"3"""
+agricultural,33,Single Angle,0,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,33,Single Angle,0,2,weight_each,WEIGHT EACH,DESCRIPTION,2.18#
+agricultural,33,Single Angle,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,33,Single Angle,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,33,Door Post Trim,1,0,part,PART #,DESCRIPTION,LG-126
+agricultural,33,Door Post Trim,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,33,Door Post Trim,1,0,girth,GIRTH,DESCRIPTION,"545"""
+agricultural,33,Door Post Trim,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,33,Door Post Trim,1,0,weight_each,WEIGHT EACH,DESCRIPTION,3.00#
+agricultural,33,Door Post Trim,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,33,Door Post Trim,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,33,Door Post Trim,1,1,part,PART #,DESCRIPTION,LG-126C
+agricultural,33,Door Post Trim,1,1,length,LENGTH,DESCRIPTION,"16'-0"""
+agricultural,33,Door Post Trim,1,1,girth,GIRTH,DESCRIPTION,"5 ¥2"""
+agricultural,33,Door Post Trim,1,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,33,Door Post Trim,1,1,weight_each,WEIGHT EACH,DESCRIPTION,4.58#
+agricultural,33,Door Post Trim,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,33,Door Post Trim,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,33,Door Post Trim,2,0,part,PART #,DESCRIPTION,LG-126A
+agricultural,33,Door Post Trim,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,33,Door Post Trim,2,0,girth,GIRTH,DESCRIPTION,"7 Y2"""
+agricultural,33,Door Post Trim,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,33,Door Post Trim,2,0,weight_each,WEIGHT EACH,DESCRIPTION,4.10#
+agricultural,33,Door Post Trim,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,33,Door Post Trim,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,33,Door Post Trim,2,1,part,PART #,DESCRIPTION,LG-126D
+agricultural,33,Door Post Trim,2,1,length,LENGTH,DESCRIPTION,"16'-0"""
+agricultural,33,Door Post Trim,2,1,girth,GIRTH,DESCRIPTION,"7 Y2"""
+agricultural,33,Door Post Trim,2,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,33,Door Post Trim,2,1,weight_each,WEIGHT EACH,DESCRIPTION,6.244
+agricultural,33,Door Post Trim,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,33,Door Post Trim,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,34,Door Post Trim,0,0,part,PART #,DESCRIPTION,LG-126B
+agricultural,34,Door Post Trim,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,34,Door Post Trim,0,0,girth,GIRTH,DESCRIPTION,"91%"""
+agricultural,34,Door Post Trim,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,34,Door Post Trim,0,0,weight_each,WEIGHT EACH,DESCRIPTION,5.05#
+agricultural,34,Door Post Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,34,Door Post Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,34,Door Post Trim,0,1,part,PART #,DESCRIPTION,LG-126E
+agricultural,34,Door Post Trim,0,1,length,LENGTH,DESCRIPTION,"16'-O"""
+agricultural,34,Door Post Trim,0,1,girth,GIRTH,DESCRIPTION,"9 ¥%4"""
+agricultural,34,Door Post Trim,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,34,Door Post Trim,0,1,weight_each,WEIGHT EACH,DESCRIPTION,7104
+agricultural,34,Door Post Trim,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,34,Door Post Trim,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,34,Double Angle,1,0,part,PART #,DESCRIPTION,AG-285
+agricultural,34,Double Angle,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,34,Double Angle,1,0,girth,GIRTH,DESCRIPTION,"3"""
+agricultural,34,Double Angle,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,34,Double Angle,1,0,weight_each,WEIGHT EACH,DESCRIPTION,1.644
+agricultural,34,Double Angle,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,34,Double Angle,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,34,Double Angle,2,0,part,PART #,DESCRIPTION,AG-290
+agricultural,34,Double Angle,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,34,Double Angle,2,0,girth,GIRTH,DESCRIPTION,"3%"""
+agricultural,34,Double Angle,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,34,Double Angle,2,0,weight_each,WEIGHT EACH,DESCRIPTION,1.91#
+agricultural,34,Double Angle,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,34,Double Angle,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,35,Double Angle,0,0,part,PART #,DESCRIPTION,DBLA
+agricultural,35,Double Angle,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,35,Double Angle,0,0,girth,GIRTH,DESCRIPTION,"3"""
+agricultural,35,Double Angle,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,35,Double Angle,0,0,weight_each,WEIGHT EACH,DESCRIPTION,1.044
+agricultural,35,Double Angle,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,35,Double Angle,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,35,Z-Flashing,1,0,part,PART #,DESCRIPTION,LG-122
+agricultural,35,Z-Flashing,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,35,Z-Flashing,1,0,girth,GIRTH,DESCRIPTION,"4%"""
+agricultural,35,Z-Flashing,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,35,Z-Flashing,1,0,weight_each,WEIGHT EACH,DESCRIPTION,2.32#
+agricultural,35,Z-Flashing,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,35,Z-Flashing,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,35,Door and Edge Cap,2,0,part,PART #,DESCRIPTION,LG-112
+agricultural,35,Door and Edge Cap,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,35,Door and Edge Cap,2,0,girth,GIRTH,DESCRIPTION,"6%"""
+agricultural,35,Door and Edge Cap,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,35,Door and Edge Cap,2,0,weight_each,WEIGHT EACH,DESCRIPTION,3.55#
+agricultural,35,Door and Edge Cap,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,35,Door and Edge Cap,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,36,Snap-Up Track Cover,0,0,part,PART #,DESCRIPTION,AG-340
+agricultural,36,Snap-Up Track Cover,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,36,Snap-Up Track Cover,0,0,girth,GIRTH,DESCRIPTION,"10%"""
+agricultural,36,Snap-Up Track Cover,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,36,Snap-Up Track Cover,0,0,weight_each,WEIGHT EACH,DESCRIPTION,5.534
+agricultural,36,Snap-Up Track Cover,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,36,Snap-Up Track Cover,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,36,Snap-Up Track Cover,0,1,part,PART #,DESCRIPTION,AG-341
+agricultural,36,Snap-Up Track Cover,0,1,length,LENGTH,DESCRIPTION,"1 2'-O"""
+agricultural,36,Snap-Up Track Cover,0,1,girth,GIRTH,DESCRIPTION,"10%"""
+agricultural,36,Snap-Up Track Cover,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,36,Snap-Up Track Cover,0,1,weight_each,WEIGHT EACH,DESCRIPTION,6.32#
+agricultural,36,Snap-Up Track Cover,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,36,Snap-Up Track Cover,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,36,Snap-Up Track Cover,0,2,part,PART #,DESCRIPTION,AG-342
+agricultural,36,Snap-Up Track Cover,0,2,length,LENGTH,DESCRIPTION,"14'-0"""
+agricultural,36,Snap-Up Track Cover,0,2,girth,GIRTH,DESCRIPTION,"10%"""
+agricultural,36,Snap-Up Track Cover,0,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,36,Snap-Up Track Cover,0,2,weight_each,WEIGHT EACH,DESCRIPTION,7374
+agricultural,36,Snap-Up Track Cover,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,36,Snap-Up Track Cover,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,36,Track Cover End Cap,1,0,column_1,,,DESCRIPTION
+agricultural,36,Track Cover End Cap,1,0,column_4,,,PRICED PER EACH
+agricultural,36,Track Cover End Cap,1,1,column_1,,,PART #
+agricultural,36,Track Cover End Cap,1,1,column_2,,,WEIGHT EACH
+agricultural,36,Track Cover End Cap,1,1,column_3,,,GAUGE
+agricultural,36,Track Cover End Cap,1,1,column_4,,,GALVALUME® PLUS
+agricultural,36,Track Cover End Cap,1,1,column_5,,,SIGNATURE® 200
+agricultural,36,Track Cover End Cap,1,2,column_1,,,AG-343
+agricultural,36,Track Cover End Cap,1,2,column_2,,,11#
+agricultural,36,Track Cover End Cap,1,2,column_3,,,29
+agricultural,36,Track Cover End Cap,1,2,column_4,,,v
+agricultural,36,Track Cover End Cap,1,2,column_5,,,v
+agricultural,36,Track Cover Cap,2,0,part,PART #,DESCRIPTION,AG-344
+agricultural,36,Track Cover Cap,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,36,Track Cover Cap,2,0,girth,GIRTH,DESCRIPTION,"3%"""
+agricultural,36,Track Cover Cap,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,36,Track Cover Cap,2,0,weight_each,WEIGHT EACH,DESCRIPTION,1.91#
+agricultural,36,Track Cover Cap,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,36,Track Cover Cap,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,37,Door Track Cover - Square,0,0,part,PART #,DESCRIPTION,AG-345
+agricultural,37,Door Track Cover - Square,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,37,Door Track Cover - Square,0,0,girth,GIRTH,DESCRIPTION,"8/16"""
+agricultural,37,Door Track Cover - Square,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,37,Door Track Cover - Square,0,0,weight_each,WEIGHT EACH,DESCRIPTION,4.544
+agricultural,37,Door Track Cover - Square,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,37,Door Track Cover - Square,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,37,Door Track Cover - Square,0,1,part,PART #,DESCRIPTION,AG-346
+agricultural,37,Door Track Cover - Square,0,1,length,LENGTH,DESCRIPTION,"12'-0"""
+agricultural,37,Door Track Cover - Square,0,1,girth,GIRTH,DESCRIPTION,"85/16"""
+agricultural,37,Door Track Cover - Square,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,37,Door Track Cover - Square,0,1,weight_each,WEIGHT EACH,DESCRIPTION,5.19#
+agricultural,37,Door Track Cover - Square,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,37,Door Track Cover - Square,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,37,Door Track Cover - Square,0,2,part,PART #,DESCRIPTION,AG-347
+agricultural,37,Door Track Cover - Square,0,2,length,LENGTH,DESCRIPTION,"14'-0"""
+agricultural,37,Door Track Cover - Square,0,2,girth,GIRTH,DESCRIPTION,"85/16"""
+agricultural,37,Door Track Cover - Square,0,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,37,Door Track Cover - Square,0,2,weight_each,WEIGHT EACH,DESCRIPTION,6.05#
+agricultural,37,Door Track Cover - Square,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,37,Door Track Cover - Square,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,37,Door Track Cover - Square,1,0,part,PART #,DESCRIPTION,LG-131
+agricultural,37,Door Track Cover - Square,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,37,Door Track Cover - Square,1,0,girth,GIRTH,DESCRIPTION,"10%"""
+agricultural,37,Door Track Cover - Square,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,37,Door Track Cover - Square,1,0,weight_each,WEIGHT EACH,DESCRIPTION,5.67#
+agricultural,37,Door Track Cover - Square,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,37,Door Track Cover - Square,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,37,Door Track Cover - Square,1,1,part,PART #,DESCRIPTION,LG-131A
+agricultural,37,Door Track Cover - Square,1,1,length,LENGTH,DESCRIPTION,"16'-0"""
+agricultural,37,Door Track Cover - Square,1,1,girth,GIRTH,DESCRIPTION,"1036"""
+agricultural,37,Door Track Cover - Square,1,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,37,Door Track Cover - Square,1,1,weight_each,WEIGHT EACH,DESCRIPTION,8.63#
+agricultural,37,Door Track Cover - Square,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,37,Door Track Cover - Square,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,37,Top Mount Track Cover,2,0,part,PART #,DESCRIPTION,LG-133
+agricultural,37,Top Mount Track Cover,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,37,Top Mount Track Cover,2,0,girth,GIRTH,DESCRIPTION,"10%"""
+agricultural,37,Top Mount Track Cover,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,37,Top Mount Track Cover,2,0,weight_each,WEIGHT EACH,DESCRIPTION,5.944
+agricultural,37,Top Mount Track Cover,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,37,Top Mount Track Cover,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,37,Top Mount Track Cover,2,1,part,PART #,DESCRIPTION,LG-133A
+agricultural,37,Top Mount Track Cover,2,1,length,LENGTH,DESCRIPTION,"16'-0"""
+agricultural,37,Top Mount Track Cover,2,1,girth,GIRTH,DESCRIPTION,"10%"""
+agricultural,37,Top Mount Track Cover,2,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,37,Top Mount Track Cover,2,1,weight_each,WEIGHT EACH,DESCRIPTION,9.05#
+agricultural,37,Top Mount Track Cover,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,37,Top Mount Track Cover,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,38,Door Track Cover - Round,0,0,part,PART #,DESCRIPTION,LG-132
+agricultural,38,Door Track Cover - Round,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,38,Door Track Cover - Round,0,0,girth,GIRTH,DESCRIPTION,"42"""
+agricultural,38,Door Track Cover - Round,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,38,Door Track Cover - Round,0,0,weight_each,WEIGHT EACH,DESCRIPTION,6.55#
+agricultural,38,Door Track Cover - Round,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,38,Door Track Cover - Round,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,38,Door Track Cover - Round,0,1,part,PART #,DESCRIPTION,LG-132A
+agricultural,38,Door Track Cover - Round,0,1,length,LENGTH,DESCRIPTION,"16'-0"""
+agricultural,38,Door Track Cover - Round,0,1,girth,GIRTH,DESCRIPTION,"12"""
+agricultural,38,Door Track Cover - Round,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,38,Door Track Cover - Round,0,1,weight_each,WEIGHT EACH,DESCRIPTION,9.98#
+agricultural,38,Door Track Cover - Round,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,38,Door Track Cover - Round,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,38,Sidewall Flashing,1,0,part,PART #,DESCRIPTION,LG-108
+agricultural,38,Sidewall Flashing,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,38,Sidewall Flashing,1,0,girth,GIRTH,DESCRIPTION,"834"""
+agricultural,38,Sidewall Flashing,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,38,Sidewall Flashing,1,0,weight_each,WEIGHT EACH,DESCRIPTION,4.78#
+agricultural,38,Sidewall Flashing,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,38,Sidewall Flashing,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,38,Endwall Flashing,2,0,part,PART #,DESCRIPTION,LG-107
+agricultural,38,Endwall Flashing,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,38,Endwall Flashing,2,0,girth,GIRTH,DESCRIPTION,"934"""
+agricultural,38,Endwall Flashing,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,38,Endwall Flashing,2,0,weight_each,WEIGHT EACH,DESCRIPTION,5.32#
+agricultural,38,Endwall Flashing,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,38,Endwall Flashing,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,39,Box Gutter,0,0,part,PART #,DESCRIPTION,LG-152
+agricultural,39,Box Gutter,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,39,Box Gutter,0,0,girth,GIRTH,DESCRIPTION,"49"""
+agricultural,39,Box Gutter,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,39,Box Gutter,0,0,weight_each,WEIGHT EACH,DESCRIPTION,10.37#
+agricultural,39,Box Gutter,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,39,Box Gutter,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,39,Box Gutter,0,1,part,PART #,DESCRIPTION,LG-152A
+agricultural,39,Box Gutter,0,1,length,LENGTH,DESCRIPTION,"16'-0"""
+agricultural,39,Box Gutter,0,1,girth,GIRTH,DESCRIPTION,"49"""
+agricultural,39,Box Gutter,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,39,Box Gutter,0,1,weight_each,WEIGHT EACH,DESCRIPTION,15.81#
+agricultural,39,Box Gutter,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,39,Box Gutter,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,39,Residential Gutter,1,0,part,PART #,DESCRIPTION,FL-1000
+agricultural,39,Residential Gutter,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,39,Residential Gutter,1,0,girth,GIRTH,DESCRIPTION,"12°16"""
+agricultural,39,Residential Gutter,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,39,Residential Gutter,1,0,weight_each,WEIGHT EACH,DESCRIPTION,6.044
+agricultural,39,Residential Gutter,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,39,Residential Gutter,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,39,Residential Gutter,1,1,part,PART #,DESCRIPTION,FL-1000
+agricultural,39,Residential Gutter,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
+agricultural,39,Residential Gutter,1,1,girth,GIRTH,DESCRIPTION,"12°16"""
+agricultural,39,Residential Gutter,1,1,gauge,GAUGE,DESCRIPTION,26
+agricultural,39,Residential Gutter,1,1,weight_each,WEIGHT EACH,DESCRIPTION,8.284
+agricultural,39,Residential Gutter,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,39,Residential Gutter,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,39,Gutter Ends,2,0,column_1,,,DESCRIPTION
+agricultural,39,Gutter Ends,2,0,column_4,,,PRICED PER EACH
+agricultural,39,Gutter Ends,2,1,column_1,,,PART #
+agricultural,39,Gutter Ends,2,1,column_2,,,WEIGHT EACH
+agricultural,39,Gutter Ends,2,1,column_3,,,GAUGE
+agricultural,39,Gutter Ends,2,1,column_4,,,GALVALUME® PLUS
+agricultural,39,Gutter Ends,2,1,column_5,,,SIGNATURE® 200
+agricultural,39,Gutter Ends,2,2,column_1,,,AG-382
+agricultural,39,Gutter Ends,2,2,column_2,,,29
+agricultural,39,Gutter Ends,2,2,column_3,,,.16#
+agricultural,39,Gutter Ends,2,2,column_4,,,v
+agricultural,39,Gutter Ends,2,2,column_5,,,v
+agricultural,39,Gutter Ends,2,3,column_1,,,FL-1001
+agricultural,39,Gutter Ends,2,3,column_2,,,29
+agricultural,39,Gutter Ends,2,3,column_3,,,A12#
+agricultural,39,Gutter Ends,2,3,column_4,,,v
+agricultural,39,Gutter Ends,2,3,column_5,,,v
+agricultural,39,Gutter Ends,2,4,column_1,,,FL-1001
+agricultural,39,Gutter Ends,2,4,column_2,,,26
+agricultural,39,Gutter Ends,2,4,column_3,,,14
+agricultural,39,Gutter Ends,2,4,column_4,,,v
+agricultural,39,Gutter Ends,2,4,column_5,,,v
+agricultural,40,Gutter Strap,0,0,part,PART #,DESCRIPTION,FL-893
+agricultural,40,Gutter Strap,0,0,length,LENGTH,DESCRIPTION,"4'-0"""
+agricultural,40,Gutter Strap,0,0,girth,GIRTH,DESCRIPTION,"3"""
+agricultural,40,Gutter Strap,0,0,gauge,GAUGE,DESCRIPTION,26
+agricultural,40,Gutter Strap,0,0,weight_each,WEIGHT EACH,DESCRIPTION,234
+agricultural,40,Gutter Strap,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,N/A
+agricultural,40,Gutter Strap,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,40,Gutter Strap,0,1,part,PART #,DESCRIPTION,FL-893
+agricultural,40,Gutter Strap,0,1,length,LENGTH,DESCRIPTION,"4'-0"""
+agricultural,40,Gutter Strap,0,1,girth,GIRTH,DESCRIPTION,"3"""
+agricultural,40,Gutter Strap,0,1,gauge,GAUGE,DESCRIPTION,24
+agricultural,40,Gutter Strap,0,1,weight_each,WEIGHT EACH,DESCRIPTION,244
+agricultural,40,Gutter Strap,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,40,Gutter Strap,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,41,Rake and Corner,0,0,part,PART #,DESCRIPTION,AG-410
+agricultural,41,Rake and Corner,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,41,Rake and Corner,0,0,girth,GIRTH,DESCRIPTION,"8 y2"""
+agricultural,41,Rake and Corner,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,41,Rake and Corner,0,0,weight_each,WEIGHT EACH,DESCRIPTION,4.04#
+agricultural,41,Rake and Corner,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,41,Rake and Corner,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,41,Rake and Corner,0,1,part,PART #,DESCRIPTION,AG-411
+agricultural,41,Rake and Corner,0,1,length,LENGTH,DESCRIPTION,"42'-Q"""
+agricultural,41,Rake and Corner,0,1,girth,GIRTH,DESCRIPTION,"8 y2"""
+agricultural,41,Rake and Corner,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,41,Rake and Corner,0,1,weight_each,WEIGHT EACH,DESCRIPTION,5.30#
+agricultural,41,Rake and Corner,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,41,Rake and Corner,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,41,Rake and Corner,0,2,part,PART #,DESCRIPTION,AG-412
+agricultural,41,Rake and Corner,0,2,length,LENGTH,DESCRIPTION,"14'-0"""
+agricultural,41,Rake and Corner,0,2,girth,GIRTH,DESCRIPTION,"8 y2"""
+agricultural,41,Rake and Corner,0,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,41,Rake and Corner,0,2,weight_each,WEIGHT EACH,DESCRIPTION,6.19#
+agricultural,41,Rake and Corner,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,41,Rake and Corner,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,0,0,part,PART #,DESCRIPTION,AG-415
+agricultural,42,Rake and Corner,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,42,Rake and Corner,0,0,girth,GIRTH,DESCRIPTION,"13%"""
+agricultural,42,Rake and Corner,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,42,Rake and Corner,0,0,weight_each,WEIGHT EACH,DESCRIPTION,7.37#
+agricultural,42,Rake and Corner,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,0,1,part,PART #,DESCRIPTION,AG-416
+agricultural,42,Rake and Corner,0,1,length,LENGTH,DESCRIPTION,"1 2'-O"""
+agricultural,42,Rake and Corner,0,1,girth,GIRTH,DESCRIPTION,"13%"""
+agricultural,42,Rake and Corner,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,42,Rake and Corner,0,1,weight_each,WEIGHT EACH,DESCRIPTION,8.42#
+agricultural,42,Rake and Corner,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,0,2,part,PART #,DESCRIPTION,AG-417
+agricultural,42,Rake and Corner,0,2,length,LENGTH,DESCRIPTION,"14'-0"""
+agricultural,42,Rake and Corner,0,2,girth,GIRTH,DESCRIPTION,"13%"""
+agricultural,42,Rake and Corner,0,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,42,Rake and Corner,0,2,weight_each,WEIGHT EACH,DESCRIPTION,9.83#
+agricultural,42,Rake and Corner,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,1,0,part,PART #,DESCRIPTION,AG-420
+agricultural,42,Rake and Corner,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,42,Rake and Corner,1,0,girth,GIRTH,DESCRIPTION,"15%"""
+agricultural,42,Rake and Corner,1,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,42,Rake and Corner,1,0,weight_each,WEIGHT EACH,DESCRIPTION,8.46#
+agricultural,42,Rake and Corner,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,1,1,part,PART #,DESCRIPTION,AG-421
+agricultural,42,Rake and Corner,1,1,length,LENGTH,DESCRIPTION,"12'-O"""
+agricultural,42,Rake and Corner,1,1,girth,GIRTH,DESCRIPTION,"15%"""
+agricultural,42,Rake and Corner,1,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,42,Rake and Corner,1,1,weight_each,WEIGHT EACH,DESCRIPTION,9.67#
+agricultural,42,Rake and Corner,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,1,2,part,PART #,DESCRIPTION,AG-422
+agricultural,42,Rake and Corner,1,2,length,LENGTH,DESCRIPTION,"1 4'-0"""
+agricultural,42,Rake and Corner,1,2,girth,GIRTH,DESCRIPTION,"15%"""
+agricultural,42,Rake and Corner,1,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,42,Rake and Corner,1,2,weight_each,WEIGHT EACH,DESCRIPTION,11.284
+agricultural,42,Rake and Corner,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,42,Rake and Corner,1,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,42,Inside Corner,2,0,part,PART #,DESCRIPTION,AG-430
+agricultural,42,Inside Corner,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,42,Inside Corner,2,0,girth,GIRTH,DESCRIPTION,"13%"""
+agricultural,42,Inside Corner,2,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,42,Inside Corner,2,0,weight_each,WEIGHT EACH,DESCRIPTION,7.37#
+agricultural,42,Inside Corner,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,42,Inside Corner,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,42,Inside Corner,2,1,part,PART #,DESCRIPTION,AG-431
+agricultural,42,Inside Corner,2,1,length,LENGTH,DESCRIPTION,"12'-0"""
+agricultural,42,Inside Corner,2,1,girth,GIRTH,DESCRIPTION,"13%"""
+agricultural,42,Inside Corner,2,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,42,Inside Corner,2,1,weight_each,WEIGHT EACH,DESCRIPTION,8.42#
+agricultural,42,Inside Corner,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,42,Inside Corner,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,42,Inside Corner,2,2,part,PART #,DESCRIPTION,AG-432
+agricultural,42,Inside Corner,2,2,length,LENGTH,DESCRIPTION,"14'-0"""
+agricultural,42,Inside Corner,2,2,girth,GIRTH,DESCRIPTION,"13%"""
+agricultural,42,Inside Corner,2,2,gauge,GAUGE,DESCRIPTION,29
+agricultural,42,Inside Corner,2,2,weight_each,WEIGHT EACH,DESCRIPTION,9.83#
+agricultural,42,Inside Corner,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,42,Inside Corner,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,43,Transition Trim,0,0,part,PART #,DESCRIPTION,AG-478
+agricultural,43,Transition Trim,0,0,length,LENGTH,DESCRIPTION,"10'-6"""
+agricultural,43,Transition Trim,0,0,girth,GIRTH,DESCRIPTION,"8 34,"""
+agricultural,43,Transition Trim,0,0,gauge,GAUGE,DESCRIPTION,29
+agricultural,43,Transition Trim,0,0,weight_each,WEIGHT EACH,DESCRIPTION,4.78#
+agricultural,43,Transition Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,43,Transition Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,43,Transition Trim,0,1,part,PART #,DESCRIPTION,AG-480
+agricultural,43,Transition Trim,0,1,length,LENGTH,DESCRIPTION,"12'-6"""
+agricultural,43,Transition Trim,0,1,girth,GIRTH,DESCRIPTION,"334"""
+agricultural,43,Transition Trim,0,1,gauge,GAUGE,DESCRIPTION,29
+agricultural,43,Transition Trim,0,1,weight_each,WEIGHT EACH,DESCRIPTION,5.69#
+agricultural,43,Transition Trim,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
+agricultural,43,Transition Trim,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
+agricultural,43,Transition Trim,1,0,column_1,,,DESCRIPTION
+agricultural,43,Transition Trim,1,0,column_2,,,PRICED PER SQUARE FOOT
+agricultural,43,Transition Trim,1,1,column_1,,,GAUGE
+agricultural,43,Transition Trim,1,1,column_2,,,GALVALUME® PLUS
+agricultural,43,Transition Trim,1,1,column_3,,,SIGNATURE® 200
+agricultural,43,Transition Trim,1,2,column_1,,,29
+agricultural,43,Transition Trim,1,2,column_2,,,v
+agricultural,43,Transition Trim,1,2,column_3,,,v
+agricultural,43,Transition Trim,1,3,column_1,,,26
+agricultural,43,Transition Trim,1,3,column_2,,,v
+agricultural,43,Transition Trim,1,3,column_3,,,v
