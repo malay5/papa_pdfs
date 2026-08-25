@@ -1192,7 +1192,7 @@ ssr,7,"BattenLok' HS 16""",0,4,column_3,,,6.67
 ssr,7,"BattenLok' HS 16""",0,4,w,W,,6.78
 ssr,7,"BattenLok' HS 16""",0,4,2,"2""",,6.89
 ssr,7,"BattenLok' HS 16""",0,4,3,"3""",,7.00
-ssr,7,"BattenLok' HS 16""",0,4,4,"4""",,7
+ssr,7,"BattenLok' HS 16""",0,4,4,"4""",,7.11
 ssr,7,"BattenLok' HS 16""",0,4,5,"5""",,7.22
 ssr,7,"BattenLok' HS 16""",0,4,6,"6""",,7.34
 ssr,7,"BattenLok' HS 16""",0,4,7,7,,7.45
@@ -1231,7 +1231,7 @@ ssr,7,"BattenLok' HS 16""",0,7,column_3,,,10.67
 ssr,7,"BattenLok' HS 16""",0,7,w,W,,10.78
 ssr,7,"BattenLok' HS 16""",0,7,2,"2""",,10.89
 ssr,7,"BattenLok' HS 16""",0,7,3,"3""",,11.00
-ssr,7,"BattenLok' HS 16""",0,7,4,"4""",,1
+ssr,7,"BattenLok' HS 16""",0,7,4,"4""",,11.11
 ssr,7,"BattenLok' HS 16""",0,7,5,"5""",,11.22
 ssr,7,"BattenLok' HS 16""",0,7,6,"6""",,11.34
 ssr,7,"BattenLok' HS 16""",0,7,7,7,,11.45
@@ -1289,7 +1289,7 @@ ssr,7,"BattenLok' HS 16""",0,11,6,"6""",,16.67
 ssr,7,"BattenLok' HS 16""",0,11,7,7,,16.78
 ssr,7,"BattenLok' HS 16""",0,11,8,"8""",,16.89
 ssr,7,"BattenLok' HS 16""",0,11,9,"9""",,17.00
-ssr,7,"BattenLok' HS 16""",0,11,10,"10""",,711
+ssr,7,"BattenLok' HS 16""",0,11,10,"10""",,17.11
 ssr,7,"BattenLok' HS 16""",0,11,column,|,,17.23
 ssr,7,"BattenLok' HS 16""",0,12,column_2,,,13 FT.
 ssr,7,"BattenLok' HS 16""",0,12,column_3,,,17.33
@@ -1523,7 +1523,7 @@ ssr,7,"BattenLok' HS 16""",0,29,6,"6""",,40.67
 ssr,7,"BattenLok' HS 16""",0,29,7,7,,40.78
 ssr,7,"BattenLok' HS 16""",0,29,8,"8""",,40.89
 ssr,7,"BattenLok' HS 16""",0,29,9,"9""",,41.00
-ssr,7,"BattenLok' HS 16""",0,29,10,"10""",,4
+ssr,7,"BattenLok' HS 16""",0,29,10,"10""",,41.11
 ssr,7,"BattenLok' HS 16""",0,29,column,|,,41.23
 ssr,7,"BattenLok' HS 16""",0,30,column_2,,,31 FT.
 ssr,7,"BattenLok' HS 16""",0,30,column_3,,,41.33
@@ -1621,7 +1621,7 @@ ssr,7,"BattenLok' HS 16""",0,37,column_3,,,50.67
 ssr,7,"BattenLok' HS 16""",0,37,w,W,,50.78
 ssr,7,"BattenLok' HS 16""",0,37,2,"2""",,50.89
 ssr,7,"BattenLok' HS 16""",0,37,3,"3""",,51.00
-ssr,7,"BattenLok' HS 16""",0,37,4,"4""",,511
+ssr,7,"BattenLok' HS 16""",0,37,4,"4""",,51.11
 ssr,7,"BattenLok' HS 16""",0,37,5,"5""",,51.22
 ssr,7,"BattenLok' HS 16""",0,37,6,"6""",,51.33
 ssr,7,"BattenLok' HS 16""",0,37,7,7,,51.45
@@ -2248,7 +2248,7 @@ ssr,10,"BattenLok' HS 12""",0,3,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,149#
 ssr,10,"BattenLok' HS 12""",0,3,finish,FINISH*,DESCRIPTION,Signature' 300 Metallic
 ssr,10,"BattenLok' HS 12""",0,3,price,PRICE,,Please Inquire
 ssr,10,"BattenLok' HS 12""",0,4,gauge,| GAUGE,DESCRIPTION,22
-ssr,10,"BattenLok' HS 12""",0,4,coverage,COVERAGE,DESCRIPTION,2
+ssr,10,"BattenLok' HS 12""",0,4,coverage,COVERAGE,DESCRIPTION,"12"""
 ssr,10,"BattenLok' HS 12""",0,4,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
 ssr,10,"BattenLok' HS 12""",0,4,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,189#
 ssr,10,"BattenLok' HS 12""",0,4,finish,FINISH*,DESCRIPTION,Galvalume' Plus &
@@ -2299,7 +2299,7 @@ ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,1,10,"10""",,3.78
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,1,nn,"nN""",,3.89
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,column_1,,,3 FT.
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,o,"o""",,4.00
-ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,1,"1""",,41
+ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,1,"1""",,4.11
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,2,"2""",,4.22
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,3,"3""",,4.33
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,4,"4""",,4.45
@@ -2308,7 +2308,7 @@ ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,6,"6""",,4.67
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,7,"7""",,4.78
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,8,"8""",,4.89
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,9,"9""",,5.00
-ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,10,"10""",,51
+ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,10,"10""",,5.11
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,2,nn,"nN""",,5.23
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,3,column_1,,,4 FT.
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,3,o,"o""",,5.33
@@ -2323,15 +2323,15 @@ ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,3,8,"8""",,6.23
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,3,9,"9""",,6.34
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,3,10,"10""",,6.45
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,3,nn,"nN""",,6.56
-ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,column_1,,,aR eT
+ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,column_1,,,5 FT.
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,o,"o""",,6.67
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,1,"1""",,6.78
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,2,"2""",,6.89
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,3,"3""",,7.00
-ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,4,"4""",,7M
+ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,4,"4""",,7.11
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,5,"5""",,7.22
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,6,"6""",,7.34
-ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,7,"7""",,7AS
+ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,7,"7""",,7.45
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,8,"8""",,7.56
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,9,"9""",,7.67
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,4,10,"10""",,7.78
@@ -2425,7 +2425,7 @@ ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,11,6,"6""",,16.67
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,11,7,"7""",,16.78
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,11,8,"8""",,16.89
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,11,9,"9""",,17.00
-ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,11,10,"10""",,711
+ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,11,10,"10""",,17.11
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,11,nn,"nN""",,17.23
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,12,column_1,,,13 FT.
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,12,o,"o""",,17.33
@@ -2523,7 +2523,7 @@ ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,19,o,"o""",,26.67
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,19,1,"1""",,26.78
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,19,2,"2""",,26.89
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,19,3,"3""",,27.00
-ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,19,4,"4""",,271
+ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,19,4,"4""",,27.11
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,19,5,"5""",,27.22
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,19,6,"6""",,27.33
 ssr,11,"Oo"" aL 2"" 3"" 4"" 5"" 6"" 7"" 8"" 9g"" 10"" 1""",0,19,7,"7""",,27.45
@@ -3384,7 +3384,7 @@ ssr,14,"SuperLok' 12""",0,3,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,154#
 ssr,14,"SuperLok' 12""",0,3,finish,FINISH*,DESCRIPTION,Signature' 300 Metallic
 ssr,14,"SuperLok' 12""",0,3,price,PRICE,,Please Inquire
 ssr,14,"SuperLok' 12""",0,4,gauge,GAUGE,DESCRIPTION,22
-ssr,14,"SuperLok' 12""",0,4,coverage,COVERAGE,DESCRIPTION,2
+ssr,14,"SuperLok' 12""",0,4,coverage,COVERAGE,DESCRIPTION,"12"""
 ssr,14,"SuperLok' 12""",0,4,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
 ssr,14,"SuperLok' 12""",0,4,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,193#
 ssr,14,"SuperLok' 12""",0,4,finish,FINISH*,DESCRIPTION,Galvalume' Plus &
@@ -3459,7 +3459,7 @@ ssr,16,Furring Zee,1,0,part,PART #,DESCRIPTION,HW-3020
 ssr,16,Furring Zee,1,0,dim_a,"DIM ""A""",DESCRIPTION,"1%"""
 ssr,16,Furring Zee,1,0,gauge,GAUGE,DESCRIPTION,22
 ssr,16,Furring Zee,1,0,finish,FINISH,DESCRIPTION,Galvanized
-ssr,16,Furring Zee,1,0,weight_each,WEIGHT EACH,DESCRIPTION,3.334
+ssr,16,Furring Zee,1,0,weight_each,WEIGHT EACH,DESCRIPTION,3.33#
 ssr,16,Furring Zee,1,0,length,LENGTH,DESCRIPTION,"10'-O"""
 ssr,16,Furring Zee,1,0,price,PRICE,,✓
 ssr,16,Furring Zee,1,1,part,PART #,DESCRIPTION,HW-3021
@@ -3693,7 +3693,7 @@ ssr,22,Mid-Slope Fixed Plate - Low,2,0,size,SIZE,DESCRIPTION,"46"" x 3%"" x 74""
 ssr,22,Mid-Slope Fixed Plate - Low,2,0,gauge,GAUGE,DESCRIPTION,14
 ssr,22,Mid-Slope Fixed Plate - Low,2,0,finish,FINISH,DESCRIPTION,"10'-O"""
 ssr,22,Mid-Slope Fixed Plate - Low,2,0,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
-ssr,22,Mid-Slope Fixed Plate - Low,2,0,length,LENGTH,DESCRIPTION,16.284
+ssr,22,Mid-Slope Fixed Plate - Low,2,0,length,LENGTH,DESCRIPTION,16.28#
 ssr,22,Mid-Slope Fixed Plate - Low,2,0,price,PRICE,,✓
 ssr,22,Mid-Slope Fixed Plate - Low,2,1,part,PART #,DESCRIPTION,HW-7630
 ssr,22,Mid-Slope Fixed Plate - Low,2,1,size,SIZE,DESCRIPTION,"46"" x %"" x 17"""
@@ -3749,7 +3749,7 @@ ssr,23,Mid-Slope Fixed Plate - High,0,2,size,SIZE,DESCRIPTION,"A/6"" x PA"" x a"
 ssr,23,Mid-Slope Fixed Plate - High,0,2,gauge,GAUGE,DESCRIPTION,14
 ssr,23,Mid-Slope Fixed Plate - High,0,2,finish,FINISH,DESCRIPTION,"20'-O"""
 ssr,23,Mid-Slope Fixed Plate - High,0,2,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
-ssr,23,Mid-Slope Fixed Plate - High,0,2,length,LENGTH,DESCRIPTION,37.254
+ssr,23,Mid-Slope Fixed Plate - High,0,2,length,LENGTH,DESCRIPTION,37.25#
 ssr,23,Mid-Slope Fixed Plate - High,0,2,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,0,3,part,PART #,DESCRIPTION,HW-7635
 ssr,23,Mid-Slope Fixed Plate - High,0,3,size,SIZE,DESCRIPTION,"4/6"" x PA"" x 1"""
@@ -3838,7 +3838,7 @@ ssr,24,"4"" Floating Eave Plate - Low",1,0,price,PRICE,,✓
 ssr,24,"4"" Floating Eave Plate - High",2,0,part,PART #,DESCRIPTION,HW-7629
 ssr,24,"4"" Floating Eave Plate - High",2,0,size,SIZE,DESCRIPTION,"2%"" x 1"" x 6 6"""
 ssr,24,"4"" Floating Eave Plate - High",2,0,gauge,GAUGE,DESCRIPTION,14
-ssr,24,"4"" Floating Eave Plate - High",2,0,finish,FINISH,DESCRIPTION,"g8'-O"""
+ssr,24,"4"" Floating Eave Plate - High",2,0,finish,FINISH,DESCRIPTION,"8'-0"""
 ssr,24,"4"" Floating Eave Plate - High",2,0,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,24,"4"" Floating Eave Plate - High",2,0,length,LENGTH,DESCRIPTION,18.65#
 ssr,24,"4"" Floating Eave Plate - High",2,0,price,PRICE,,✓
@@ -3970,7 +3970,7 @@ ssr,26,Retro-Fit Eave Angle,2,1,price,PRICE,,✓
 ssr,26,Retro-Fit Eave Angle,2,2,part,PART #,DESCRIPTION,HW-4658
 ssr,26,Retro-Fit Eave Angle,2,2,ssr_system,SSR SYSTEM,DESCRIPTION,DL
 ssr,26,Retro-Fit Eave Angle,2,2,gauge,GAUGE,DESCRIPTION,12
-ssr,26,Retro-Fit Eave Angle,2,2,length,LENGTH,DESCRIPTION,"g8'-O"""
+ssr,26,Retro-Fit Eave Angle,2,2,length,LENGTH,DESCRIPTION,"8'-0"""
 ssr,26,Retro-Fit Eave Angle,2,2,finish,FINISH,DESCRIPTION,Galvanized
 ssr,26,Retro-Fit Eave Angle,2,2,weight_each,WEIGHT EACH,DESCRIPTION,23.324
 ssr,26,Retro-Fit Eave Angle,2,2,price,PRICE,,✓
@@ -4319,7 +4319,7 @@ ssr,35,Thermal Spacers,1,1,weight_each,WEIGHT EACH,DESCRIPTION,.07#
 ssr,35,Thermal Spacers,1,1,price,PRICE,,✓
 ssr,35,Thermal Spacers,1,2,part,PART #,DESCRIPTION,HW-577
 ssr,35,Thermal Spacers,1,2,ssr_system,SSR SYSTEM,DESCRIPTION,UD & DL
-ssr,35,Thermal Spacers,1,2,width,WIDTH,DESCRIPTION,3
+ssr,35,Thermal Spacers,1,2,width,WIDTH,DESCRIPTION,"3"""
 ssr,35,Thermal Spacers,1,2,thickness,THICKNESS,DESCRIPTION,3
 ssr,35,Thermal Spacers,1,2,length,LENGTH,DESCRIPTION,"23 73"""
 ssr,35,Thermal Spacers,1,2,material,MATERIAL,DESCRIPTION,Polystyrene
@@ -4351,7 +4351,7 @@ ssr,35,Thermal Spacers,1,5,weight_each,WEIGHT EACH,DESCRIPTION,.06#
 ssr,35,Thermal Spacers,1,5,price,PRICE,,✓
 ssr,35,Thermal Spacers,1,6,part,PART #,DESCRIPTION,HW-581
 ssr,35,Thermal Spacers,1,6,ssr_system,SSR SYSTEM,DESCRIPTION,BL & SLK
-ssr,35,Thermal Spacers,1,6,width,WIDTH,DESCRIPTION,3
+ssr,35,Thermal Spacers,1,6,width,WIDTH,DESCRIPTION,"3"""
 ssr,35,Thermal Spacers,1,6,thickness,THICKNESS,DESCRIPTION,1
 ssr,35,Thermal Spacers,1,6,length,LENGTH,DESCRIPTION,"15%"""
 ssr,35,Thermal Spacers,1,6,material,MATERIAL,DESCRIPTION,Polystyrene
@@ -4664,7 +4664,7 @@ ssr,44,Vent Damper Operator Parts,0,0,price,PRICE,,✓
 ssr,44,Vent Damper Operator Parts,0,1,part,PART #,DESCRIPTION,HW-706
 ssr,44,Vent Damper Operator Parts,0,1,description,DESCRIPTION,DESCRIPTION,Vent Pully
 ssr,44,Vent Damper Operator Parts,0,1,priced_per,PRICED PER,DESCRIPTION,Each
-ssr,44,Vent Damper Operator Parts,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.254
+ssr,44,Vent Damper Operator Parts,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.25#
 ssr,44,Vent Damper Operator Parts,0,1,price,PRICE,,✓
 ssr,44,Vent Damper Operator Parts,0,2,part,PART #,DESCRIPTION,HW-708
 ssr,44,Vent Damper Operator Parts,0,2,description,DESCRIPTION,DESCRIPTION,Vent Cable Clamp
@@ -5102,7 +5102,7 @@ ssr,49,Ridge Flashing For Metal Vent,1,1,girth,GIRTH,DESCRIPTION,"23 Ya"""
 ssr,49,Ridge Flashing For Metal Vent,1,1,roof_slope,"ROOF
 SLOPE",DESCRIPTION,3iA6-5:12
 ssr,49,Ridge Flashing For Metal Vent,1,1,weight_each,"WEIGHT
-EACH",DESCRIPTION,15.644
+EACH",DESCRIPTION,15.64#
 ssr,49,Ridge Flashing For Metal Vent,1,1,peak_purlin_spacing,"PEAK
 PURLIN
 'SPACING",DESCRIPTION,"18"""
@@ -5222,7 +5222,7 @@ ssr,49,Ridge Flash Metal Vent - Fixed,2,3,girth,GIRTH,DESCRIPTION,"28%"""
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,roof_slope,"ROOF
 SLOPE",DESCRIPTION,36-5:12
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,weight_each,"WEIGHT
-EACH",DESCRIPTION,19.424
+EACH",DESCRIPTION,19.42#
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,peak_purlin_spacing,"PEAK
 PURLIN,
 SPACING",DESCRIPTION,"24"""
@@ -5316,7 +5316,7 @@ ssr,51,Sculptured Gutter - Standard,1,1,girth,GIRTH,DESCRIPTION,"23 \*Ae"""
 ssr,51,Sculptured Gutter - Standard,1,1,roof_slope,"ROOF
 SLOPE",DESCRIPTION,Y-4:12
 ssr,51,Sculptured Gutter - Standard,1,1,weight_each,"WEIGHT
-EACH",DESCRIPTION,31144
+EACH",DESCRIPTION,31.14#
 ssr,51,Sculptured Gutter - Standard,1,1,galvalume_plus,"GALVALUME""
 PLUS",,v
 ssr,51,Sculptured Gutter - Standard,1,1,signature_200,"SIGNATURE'
@@ -5676,7 +5676,7 @@ ssr,56,Rake Slide,0,0,signature_300_metallic,".SIGNATURE®
 ssr,56,Rake Slide,0,1,part,PART #,DESCRIPTION,Rake Slide - High Wind
 ssr,56,Rake Slide,1,0,part,PART #,DESCRIPTION,FL-215
 ssr,56,Rake Slide,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
-ssr,56,Rake Slide,1,0,girth,GIRTH,DESCRIPTION,ce70
+ssr,56,Rake Slide,1,0,girth,GIRTH,DESCRIPTION,"3¾"""
 ssr,56,Rake Slide,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,3.10#
 ssr,56,Rake Slide,1,0,galvalume_plus,"GALVALUME*
@@ -6212,7 +6212,7 @@ ssr,65,Downspout - Straight,0,0,part,PART #,DESCRIPTION,FL-31
 ssr,65,Downspout - Straight,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,65,Downspout - Straight,0,0,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,0,0,weight_each,"WEIGHT
-EACH",DESCRIPTION,12#
+EACH",DESCRIPTION,11.12#
 ssr,65,Downspout - Straight,0,0,galvalume_plus,"GALVALUME*
 PLUS",,v
 ssr,65,Downspout - Straight,0,0,signature_200,"SIGNATURE""
@@ -6300,7 +6300,7 @@ ssr,65,Downspout - Straight,1,1,signature_300,"SIGNATURE""
 300",,v
 ssr,65,Downspout - Straight,1,1,signature_300_metallic,".SIGNATURE""
 300 METALLIC",,v
-ssr,65,Downspout - Straight,1,2,part,PART #,DESCRIPTION,FL-S1E
+ssr,65,Downspout - Straight,1,2,part,PART #,DESCRIPTION,FL-31E
 ssr,65,Downspout - Straight,1,2,length,LENGTH,DESCRIPTION,"14'-Q"""
 ssr,65,Downspout - Straight,1,2,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,1,2,weight_each,"WEIGHT

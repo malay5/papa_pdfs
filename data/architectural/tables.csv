@@ -62,7 +62,7 @@ architectural,3,"LokSeam® Series 12""",0,9,price,PRICE,,Please Inquire
 architectural,3,"LokSeam® Series 16""",1,0,gauge,GAUGE,DESCRIPTION,24
 architectural,3,"LokSeam® Series 16""",1,0,coverage,COVERAGE,DESCRIPTION,"16"""
 architectural,3,"LokSeam® Series 16""",1,0,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,3,"LokSeam® Series 16""",1,0,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1344
+architectural,3,"LokSeam® Series 16""",1,0,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,134#
 architectural,3,"LokSeam® Series 16""",1,0,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
 architectural,3,"LokSeam® Series 16""",1,0,price,PRICE,,✓
 architectural,3,"LokSeam® Series 16""",1,1,gauge,GAUGE,DESCRIPTION,24
@@ -1094,7 +1094,7 @@ architectural,29,"Shadowkib""™ Closures - Outside",4,0,weight_per_each,WEIGHT 
 architectural,29,"Shadowkib""™ Closures - Outside",4,0,price,PRICE,,✓
 architectural,30,Miscellaneous Closures,0,0,part,PART #,DESCRIPTION,HW-414
 architectural,30,Miscellaneous Closures,0,0,profile,PROFILE,DESCRIPTION,"1%"" x 1"" x 48"""
-architectural,30,Miscellaneous Closures,0,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.134
+architectural,30,Miscellaneous Closures,0,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.13#
 architectural,30,Miscellaneous Closures,0,0,price,PRICE,,✓
 architectural,30,Miscellaneous Closures,0,1,part,PART #,DESCRIPTION,HW-416
 architectural,30,Miscellaneous Closures,0,1,profile,PROFILE,DESCRIPTION,"2"" x 1"" x 48"""
@@ -1110,7 +1110,7 @@ architectural,30,Miscellaneous Closures,0,3,weight_per_each,WEIGHT PER EACH,DESC
 architectural,30,Miscellaneous Closures,0,3,price,PRICE,,✓
 architectural,30,Miscellaneous Closures,0,4,part,PART #,DESCRIPTION,HW-422
 architectural,30,Miscellaneous Closures,0,4,profile,PROFILE,DESCRIPTION,"1¥2"" x 1"" x 48"""
-architectural,30,Miscellaneous Closures,0,4,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.134
+architectural,30,Miscellaneous Closures,0,4,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.13#
 architectural,30,Miscellaneous Closures,0,4,price,PRICE,,✓
 architectural,30,NuWall® Closures - Outside,1,0,part,PART #,DESCRIPTION,HW-424
 architectural,30,NuWall® Closures - Outside,1,0,profile,PROFILE,DESCRIPTION,NuWall®
@@ -1159,7 +1159,7 @@ architectural,32,Closure Angle,0,0,signature_300,"SIGNATURE®
 architectural,32,Closure Angle,0,0,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,32,Closure Angle,0,1,part,PART #,DESCRIPTION,T-5006
-architectural,32,Closure Angle,0,1,length,LENGTH,DESCRIPTION,iOze2E
+architectural,32,Closure Angle,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,32,Closure Angle,0,1,girth,GIRTH,DESCRIPTION,"3"""
 architectural,32,Closure Angle,0,1,type,TYPE,DESCRIPTION,Outside
 architectural,32,Closure Angle,0,1,weight_per_each,"WEIGHT PER
@@ -1187,11 +1187,11 @@ architectural,32,Z Closure,1,0,signature_300,"SIGNATURE®
 architectural,32,Z Closure,1,0,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,32,Z Closure,1,1,part,PART #,DESCRIPTION,T-5012
-architectural,32,Z Closure,1,1,dim_a,"DIM ""A""",DESCRIPTION,1
+architectural,32,Z Closure,1,1,dim_a,"DIM ""A""",DESCRIPTION,"1⅛"""
 architectural,32,Z Closure,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,32,Z Closure,1,1,girth,GIRTH,DESCRIPTION,"3%"""
 architectural,32,Z Closure,1,1,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,2.594
+EACH",DESCRIPTION,2.59#
 architectural,32,Z Closure,1,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,32,Z Closure,1,1,signature_200,"SIGNATURE®
@@ -1229,7 +1229,7 @@ architectural,32,Z Closure,1,3,signature_300,"SIGNATURE®
 architectural,32,Z Closure,1,3,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,32,Z Closure,1,4,part,PART #,DESCRIPTION,T-5016
-architectural,32,Z Closure,1,4,dim_a,"DIM ""A""",DESCRIPTION,2
+architectural,32,Z Closure,1,4,dim_a,"DIM ""A""",DESCRIPTION,"2⅛"""
 architectural,32,Z Closure,1,4,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,32,Z Closure,1,4,girth,GIRTH,DESCRIPTION,"4%"""
 architectural,32,Z Closure,1,4,weight_per_each,"WEIGHT PER
@@ -1303,7 +1303,7 @@ architectural,33,C Closure,1,0,dim_a,"DIM ""A""",DESCRIPTION,"1%"""
 architectural,33,C Closure,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,33,C Closure,1,0,girth,GIRTH,DESCRIPTION,"5%"""
 architectural,33,C Closure,1,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,4.244
+EACH",DESCRIPTION,4.24#
 architectural,33,C Closure,1,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,33,C Closure,1,0,signature_200,"SIGNATURE®
@@ -1452,7 +1452,7 @@ architectural,34,Angle Trim,1,1,signature_300,"SIGNATURE®
 architectural,34,Angle Trim,1,1,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,34,Cap Trim,2,0,part,PART #,DESCRIPTION,T-5061
-architectural,34,Cap Trim,2,0,dim_a,"DIM ""A""",DESCRIPTION,1
+architectural,34,Cap Trim,2,0,dim_a,"DIM ""A""",DESCRIPTION,"1⅛"""
 architectural,34,Cap Trim,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,34,Cap Trim,2,0,girth,GIRTH,DESCRIPTION,"5 56"""
 architectural,34,Cap Trim,2,0,weight_per_each,"WEIGHT PER
@@ -1508,7 +1508,7 @@ architectural,34,Cap Trim,2,3,signature_300,"SIGNATURE®
 architectural,34,Cap Trim,2,3,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,34,Cap Trim,2,4,part,PART #,DESCRIPTION,T-5064
-architectural,34,Cap Trim,2,4,dim_a,"DIM ""A""",DESCRIPTION,2
+architectural,34,Cap Trim,2,4,dim_a,"DIM ""A""",DESCRIPTION,"2⅛"""
 architectural,34,Cap Trim,2,4,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,34,Cap Trim,2,4,girth,GIRTH,DESCRIPTION,"6 58"""
 architectural,34,Cap Trim,2,4,weight_per_each,"WEIGHT PER
@@ -1840,7 +1840,7 @@ architectural,37,Peak Cap,0,9,signature_300,"SIGNATURE®
 300",PRICED PER EACH,✓
 architectural,37,Peak Cap,0,9,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
-architectural,37,Valley Trim,2,0,column_1,,,1
+architectural,37,Valley Trim,2,0,column_1,,,"1"""
 architectural,37,Valley Trim,2,0,column_2,,,"11"""
 architectural,37,Valley Trim,2,0,column_3,,,"10'-2"""
 architectural,37,Valley Trim,2,0,column_4,,,"24"""
@@ -1943,9 +1943,9 @@ architectural,38,Perforated Vent Drip,3,0,galvalume_plus,GALVALUME® PLUS,,v
 architectural,39,Eave Trim,0,0,part,PART #,DESCRIPTION,T-5141
 architectural,39,Eave Trim,0,0,dim_a,"DIM ""A""",DESCRIPTION,"4"""
 architectural,39,Eave Trim,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
-architectural,39,Eave Trim,0,0,girth,GIRTH,DESCRIPTION,354
+architectural,39,Eave Trim,0,0,girth,GIRTH,DESCRIPTION,"8⅝"""
 architectural,39,Eave Trim,0,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7144
+EACH",DESCRIPTION,7.14#
 architectural,39,Eave Trim,0,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,39,Eave Trim,0,0,signature_200,"SIGNATURE®
@@ -2120,7 +2120,7 @@ architectural,40,Sill/Head Sash,2,2,dim_a,"DIM ""A""",DESCRIPTION,"2%"""
 architectural,40,Sill/Head Sash,2,2,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,40,Sill/Head Sash,2,2,girth,GIRTH,DESCRIPTION,9
 architectural,40,Sill/Head Sash,2,2,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,745#
+EACH",DESCRIPTION,7.45#
 architectural,40,Sill/Head Sash,2,2,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,40,Sill/Head Sash,2,2,signature_200,"SIGNATURE®
@@ -2224,7 +2224,7 @@ architectural,41,Box Sill with Soffit,1,3,dim_b,"DIM ""B""",DESCRIPTION,"434"""
 architectural,41,Box Sill with Soffit,1,3,length,LENGTH,DESCRIPTION,"20'-2"""
 architectural,41,Box Sill with Soffit,1,3,girth,GIRTH,DESCRIPTION,"43"""
 architectural,41,Box Sill with Soffit,1,3,weight_per_each,"WEIGHT
-PER EACH",DESCRIPTION,21.334
+PER EACH",DESCRIPTION,21.33#
 architectural,41,Box Sill with Soffit,1,3,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,41,Box Sill with Soffit,1,3,signature_200,"SIGNATURE®
@@ -2238,7 +2238,7 @@ architectural,41,Parapet High Side Eave Flash - Fixed,2,0,dim_a,"DIM ""A""",DESC
 architectural,41,Parapet High Side Eave Flash - Fixed,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,41,Parapet High Side Eave Flash - Fixed,2,0,girth,GIRTH,DESCRIPTION,9
 architectural,41,Parapet High Side Eave Flash - Fixed,2,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,74#
+EACH",DESCRIPTION,7.45#
 architectural,41,Parapet High Side Eave Flash - Fixed,2,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,41,Parapet High Side Eave Flash - Fixed,2,0,signature_200,"SIGNATURE®
@@ -2382,7 +2382,7 @@ architectural,43,Counterflash,0,1,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,43,Alternate Counterflash,1,0,part,PART #,DESCRIPTION,T-5221
 architectural,43,Alternate Counterflash,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
-architectural,43,Alternate Counterflash,1,0,girth,GIRTH,DESCRIPTION,"A4Y2"""
+architectural,43,Alternate Counterflash,1,0,girth,GIRTH,DESCRIPTION,"4½"""
 architectural,43,Alternate Counterflash,1,0,weight_per_each,"WEIGHT PER
 EACH",DESCRIPTION,3.72#
 architectural,43,Alternate Counterflash,1,0,galvalume_plus,"GALVALUME®
@@ -2412,7 +2412,7 @@ architectural,43,Box Rake,2,0,dim_b,"DIM ""B""",DESCRIPTION,"3"""
 architectural,43,Box Rake,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,43,Box Rake,2,0,girth,GIRTH,DESCRIPTION,"854"""
 architectural,43,Box Rake,2,0,weight_per_each,"WEIGHT
-PER EACH",DESCRIPTION,7144
+PER EACH",DESCRIPTION,7.14#
 architectural,43,Box Rake,2,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,43,Box Rake,2,0,signature_200,"SIGNATURE®
@@ -2425,7 +2425,7 @@ architectural,43,Box Rake,2,1,part,PART #,DESCRIPTION,T-5232
 architectural,43,Box Rake,2,1,dim_a,"DIM ""A""",DESCRIPTION,"4"""
 architectural,43,Box Rake,2,1,dim_b,"DIM ""B""",DESCRIPTION,"3"""
 architectural,43,Box Rake,2,1,length,LENGTH,DESCRIPTION,"20'-2"""
-architectural,43,Box Rake,2,1,girth,GIRTH,DESCRIPTION,"B54"""
+architectural,43,Box Rake,2,1,girth,GIRTH,DESCRIPTION,"8⅝"""
 architectural,43,Box Rake,2,1,weight_per_each,"WEIGHT
 PER EACH",DESCRIPTION,14.15#
 architectural,43,Box Rake,2,1,galvalume_plus,"GALVALUME®
@@ -2442,7 +2442,7 @@ architectural,43,Box Rake,2,2,dim_b,"DIM ""B""",DESCRIPTION,"3"""
 architectural,43,Box Rake,2,2,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,43,Box Rake,2,2,girth,GIRTH,DESCRIPTION,"954"""
 architectural,43,Box Rake,2,2,weight_per_each,"WEIGHT
-PER EACH",DESCRIPTION,7.904
+PER EACH",DESCRIPTION,7.96#
 architectural,43,Box Rake,2,2,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,43,Box Rake,2,2,signature_200,"SIGNATURE®
@@ -2487,7 +2487,7 @@ architectural,43,Box Rake,2,5,dim_b,"DIM ""B""",DESCRIPTION,"4"""
 architectural,43,Box Rake,2,5,length,LENGTH,DESCRIPTION,"20'-2"""
 architectural,43,Box Rake,2,5,girth,GIRTH,DESCRIPTION,"10%"""
 architectural,43,Box Rake,2,5,weight_per_each,"WEIGHT
-PER EACH",DESCRIPTION,17.434
+PER EACH",DESCRIPTION,17.43#
 architectural,43,Box Rake,2,5,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,43,Box Rake,2,5,signature_200,"SIGNATURE®
@@ -2733,7 +2733,7 @@ architectural,46,Downspout with 45° Kickout,2,0,signature_300_metallic,"SIGNATU
 300 METALLIC",PRICED PER EACH,✓
 architectural,46,Downspout with 45° Kickout,2,1,part,PART #,DESCRIPTION,T-5322
 architectural,46,Downspout with 45° Kickout,2,1,length,LENGTH,DESCRIPTION,"12'-O"""
-architectural,46,Downspout with 45° Kickout,2,1,girth,GIRTH,DESCRIPTION,1634
+architectural,46,Downspout with 45° Kickout,2,1,girth,GIRTH,DESCRIPTION,"16¾"""
 architectural,46,Downspout with 45° Kickout,2,1,weight_per_each,"WEIGHT PER
 EACH",DESCRIPTION,16.46#
 architectural,46,Downspout with 45° Kickout,2,1,galvalume_plus,"GALVALUME®
@@ -2772,7 +2772,7 @@ architectural,46,Downspout with 45° Kickout,2,3,signature_300_metallic,"SIGNATU
 300 METALLIC",PRICED PER EACH,✓
 architectural,46,Downspout with 45° Kickout,2,4,part,PART #,DESCRIPTION,T-5324
 architectural,46,Downspout with 45° Kickout,2,4,length,LENGTH,DESCRIPTION,"20'-2"""
-architectural,46,Downspout with 45° Kickout,2,4,girth,GIRTH,DESCRIPTION,167
+architectural,46,Downspout with 45° Kickout,2,4,girth,GIRTH,DESCRIPTION,"16⅞"""
 architectural,46,Downspout with 45° Kickout,2,4,weight_per_each,"WEIGHT PER
 EACH",DESCRIPTION,27.69#
 architectural,46,Downspout with 45° Kickout,2,4,galvalume_plus,"GALVALUME®
@@ -2815,7 +2815,7 @@ architectural,47,Coping,1,1,dim_a,"DIM ""A""",DESCRIPTION,"10"""
 architectural,47,Coping,1,1,length,LENGTH,DESCRIPTION,"20'-2"""
 architectural,47,Coping,1,1,girth,GIRTH,DESCRIPTION,"18%"""
 architectural,47,Coping,1,1,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,29.744
+EACH",DESCRIPTION,29.74#
 architectural,47,Coping,1,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,47,Coping,1,1,signature_200,"SIGNATURE®
@@ -3048,7 +3048,7 @@ architectural,49,Termination Trim,0,1,signature_300_metallic,"SIGNATURE®
 architectural,49,Termination Trim,0,2,part,PART #,DESCRIPTION,T-5393
 architectural,49,Termination Trim,0,2,dim_a,"DIM ""A""",DESCRIPTION,"1 54"""
 architectural,49,Termination Trim,0,2,length,LENGTH,DESCRIPTION,"10'-2"""
-architectural,49,Termination Trim,0,2,girth,GIRTH,DESCRIPTION,74
+architectural,49,Termination Trim,0,2,girth,GIRTH,DESCRIPTION,"7⅞"""
 architectural,49,Termination Trim,0,2,weight_per_each,"WEIGHT PER
 EACH",DESCRIPTION,6.51#
 architectural,49,Termination Trim,0,2,galvalume_plus,"GALVALUME®
@@ -3064,7 +3064,7 @@ architectural,49,Termination Trim,0,3,dim_a,"DIM ""A""",DESCRIPTION,"2%"""
 architectural,49,Termination Trim,0,3,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,49,Termination Trim,0,3,girth,GIRTH,DESCRIPTION,"334"""
 architectural,49,Termination Trim,0,3,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7244
+EACH",DESCRIPTION,7.24#
 architectural,49,Termination Trim,0,3,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,49,Termination Trim,0,3,signature_200,"SIGNATURE®
@@ -3076,9 +3076,9 @@ architectural,49,Termination Trim,0,3,signature_300_metallic,"SIGNATURE®
 architectural,49,Termination Trim,0,4,part,PART #,DESCRIPTION,T-5395
 architectural,49,Termination Trim,0,4,dim_a,"DIM ""A""",DESCRIPTION,"3"""
 architectural,49,Termination Trim,0,4,length,LENGTH,DESCRIPTION,"10'-2"""
-architectural,49,Termination Trim,0,4,girth,GIRTH,DESCRIPTION,9
+architectural,49,Termination Trim,0,4,girth,GIRTH,DESCRIPTION,"9¼"""
 architectural,49,Termination Trim,0,4,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7054
+EACH",DESCRIPTION,7.65#
 architectural,49,Termination Trim,0,4,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,49,Termination Trim,0,4,signature_200,"SIGNATURE®
@@ -3148,9 +3148,9 @@ architectural,50,MasterLine 16® Door Jamb Cleat,0,0,signature_300,"SIGNATURE®
 architectural,50,MasterLine 16® Door Jamb Cleat,0,0,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,0,part,PART #,DESCRIPTION,T-5541
-architectural,50,MasterLine 16® Two Piece Jamb Trim,1,0,dim_a,"DIM ""A""",DESCRIPTION,1
+architectural,50,MasterLine 16® Two Piece Jamb Trim,1,0,dim_a,"DIM ""A""",DESCRIPTION,"1 ½"""
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,0,sheathing_thickness,"SHEATHING
-THICKNESS,",DESCRIPTION,7
+THICKNESS,",DESCRIPTION,"½"""
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,0,girth,GIRTH,DESCRIPTION,"47%"""
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,0,weight_each,"WEIGHT
@@ -3170,7 +3170,7 @@ THICKNESS,",DESCRIPTION,"34"""
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,1,girth,GIRTH,DESCRIPTION,"5%"""
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,1,weight_each,"WEIGHT
-EACH",DESCRIPTION,4.244
+EACH",DESCRIPTION,4.24#
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,1,signature_200,"SIGNATURE®
@@ -3196,7 +3196,7 @@ architectural,50,MasterLine 16® Two Piece Jamb Trim,1,2,signature_300,"SIGNATUR
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,2,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,3,part,PART #,DESCRIPTION,T-5544
-architectural,50,MasterLine 16® Two Piece Jamb Trim,1,3,dim_a,"DIM ""A""",DESCRIPTION,22
+architectural,50,MasterLine 16® Two Piece Jamb Trim,1,3,dim_a,"DIM ""A""",DESCRIPTION,"2 ½"""
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,3,sheathing_thickness,"SHEATHING
 THICKNESS,",DESCRIPTION,"172"""
 architectural,50,MasterLine 16® Two Piece Jamb Trim,1,3,length,LENGTH,DESCRIPTION,"10'-2"""

@@ -30,6 +30,12 @@ OUTLIER_MIN_AGREEING = 3
 # A slash between two digits is left alone -- these catalogs are full of
 # genuine fractions like 5/16" and 40-7/8".
 SUSPECT_PUNCT = re.compile(r'\d[/\\|]\s*#|^[/\\|]\d|\d[\\|]\d')
+# A flashing part number: letters, a dash, digits, and an optional suffix
+# letter ("FL-31C").  Hundreds of these were flagged as digit/letter confusion
+# and every one checked by eye was correct, which drowned the real misreads.
+# The shape is strict enough that the misreads still show: "FL-S1E" has a
+# letter where a digit belongs and does not match.
+PART_NUMBER = re.compile(r'^[A-Z]{1,3}-\d{1,4}[A-Z]?$')
 NUMERIC_VALUE = re.compile(r'^\.?\d[\d,]*(\.\d+)?\s*[#"\']?$')
 
 
@@ -38,7 +44,31 @@ def load(catalog_dir):
         return json.load(handle)
 
 
-def issues(document):
+def accepted(data_dir, catalog):
+    """Cells already checked against the render and found correct.
+
+    Without this the report keeps raising the same reviewed values and the
+    unreviewed ones are lost among them.
+    """
+    path = os.path.join(data_dir, "corrections.json")
+    if not os.path.exists(path):
+        return set()
+    with open(path) as handle:
+        document = json.load(handle)
+    reviewed = {(e["page"], e["table"], e["row"], e["column"], e["value"])
+                for e in document.get("accepted", [])
+                if e["catalog"] == catalog}
+    # A corrected value has been looked at more closely than an accepted one,
+    # and several are legitimately shaped unlike the rest of their column --
+    # a ".91#" among "4.24#"s is exactly what the outlier test is built to
+    # notice.  Re-raising them would undo the review.
+    reviewed |= {(e["page"], e["table"], e["row"], e["column"], e["to"])
+                 for e in document.get("corrections", [])
+                 if e["catalog"] == catalog}
+    return reviewed
+
+
+def issues(document, reviewed=()):
     """Every value worth a second look, with where to find it."""
     for page in document["pages"]:
         if page.get("error"):
@@ -49,12 +79,19 @@ def issues(document):
             for row_index, row in enumerate(table["rows"]):
                 for index, value in enumerate(row):
                     kind = _classify(value)
+                    name = columns[index] if index < len(columns) else "?"
+                    if (page["page"], table["index"], row_index, name,
+                            value) in reviewed:
+                        continue
                     if kind:
                         yield {"kind": kind, "page": page["page"],
                                "table": table["index"], "row": row_index,
                                "column": columns[index] if index < len(columns) else "?",
                                "value": value}
             for row_index, column, value in _outliers(table):
+                if (page["page"], table["index"], row_index, column,
+                        value) in reviewed:
+                    continue
                 yield {"kind": "column-outlier", "page": page["page"],
                        "table": table["index"], "row": row_index,
                        "column": column, "value": value}
@@ -68,7 +105,7 @@ def _classify(value):
         return None
     if SUSPECT_PUNCT.search(value):
         return "stray-punctuation"
-    if value.startswith("#"):
+    if value.startswith("#") or PART_NUMBER.match(value):
         return None
     if len(value) <= 6 and SUSPECT_MIXED.search(value):
         return "digit-letter-mix"
@@ -131,7 +168,7 @@ def report(data_dir, catalogs, limit):
         if not os.path.isdir(path):
             continue
         document = load(path)
-        found = list(issues(document))
+        found = list(issues(document, accepted(data_dir, slug)))
         cells = sum(len(r) for p in document["pages"]
                     for t in p.get("tables", []) for r in t["rows"])
         values = sum(1 for p in document["pages"] for t in p.get("tables", [])

@@ -141,28 +141,52 @@ rather than folded into the pass rate:
 | `⅝` | `¥6` |
 | `¾` | `34` |
 
-Across the full corpus of 15,883 values `qa.py` flags 1.8% for review:
+These are what the extractor produces. Where such a value was flagged it has
+since been corrected by eye -- see below -- but the recogniser cannot get
+there on its own.
 
-| catalog | pages | values | flagged |
-| --- | ---: | ---: | ---: |
-| agricultural | 44 | 1,276 | 1.02% |
-| architectural | 65 | 3,089 | 1.17% |
-| commercial-industrial | 73 | 4,082 | 4.09% |
-| fasteners | 25 | 555 | 0.00% |
-| residential | 26 | 1,058 | 1.98% |
-| ssr | 70 | 5,823 | 0.79% |
+`qa.py` raised 283 findings. 25 were structural -- a header that did not
+read, a column that came out empty -- leaving 258 flagged values. Every one
+was cropped out of a 300 DPI render and read by eye:
 
-Some of those are false positives -- a column of dimensions legitimately
-containing one different number -- but some are real and unfixed. The
-stubborn ones are weights where the `#` reads as a `4` (`134#` as `1344`) at
-every scale tried, and values where the recogniser dropped a digit as well as
-the decimal point, leaving too little to reconstruct from. They are the reason
-`qa.py` exists: they look like perfectly good numbers, so nothing but the
-column around them says otherwise.
+| | |
+| --- | ---: |
+| read and confirmed correct | 90 |
+| read and corrected | 168 |
 
-Where a value could not be recovered it is left as read and flagged, never
-replaced with a plausible-looking guess. A single-row table has no column to
-argue from, so its odd values stay untouched.
+One further error turned up alongside them (a row label read as `aR eT`),
+for 169 corrections in all. That leaves **no flagged values** across the
+corpus; the 25 structural findings stand.
+
+The corrections are in `data/corrections.json` with the value each replaces,
+and `corrections.py` applies them:
+
+```bash
+python3 src/corrections.py                # re-apply after editing the file
+```
+
+`extract.py` runs it at the end of a run, so a re-extraction does not lose
+them. Each correction is keyed by the value it replaces as well as by where
+it sits, so if a later extraction reads that cell differently the correction
+is reported rather than applied -- overwriting a fresh reading with a stale
+one would be silent and wrong. The cells confirmed correct are recorded too,
+so the report converges on what has not been looked at yet.
+
+### What OCR could not do
+
+Two classes account for nearly all 169 corrections, and neither is a tuning
+problem:
+
+| in the PDF | extracted as | why |
+| --- | --- | --- |
+| `2.56#` | `2.564` | the `#` reads as a `4` at every scale tried |
+| `4½"` | `4` | no output symbol for the glyph, so it is dropped |
+| `8¹⁵⁄₁₆"` | `816` | the fraction is flattened into its digits |
+| `11 x 3½` | `11x3h` | `½` becomes `h`, and the spaces go |
+
+The first is the dangerous one: `2.564` is a perfectly plausible weight, so
+nothing about the value itself says it is wrong. Only the column around it
+does, which is what `qa.py` is for and why every flag was worth opening.
 
 **If you are going to rely on a specific number, check it against the PDF.**
 The `page`, `section` and `table` columns in the CSVs are there to make that

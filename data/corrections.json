@@ -1,0 +1,2249 @@
+{
+ "note": "Values read by eye off a 300 DPI render of each flagged cell, for the cells qa.py flagged that OCR could not resolve.  Applied only where the extracted value still matches 'from', so a re-extraction that reads a cell differently is never silently overwritten.",
+ "corrections": [
+  {
+   "catalog": "agricultural",
+   "page": 11,
+   "table": 0,
+   "row": 0,
+   "column": "base_dim",
+   "from": "4",
+   "to": "4½\""
+  },
+  {
+   "catalog": "agricultural",
+   "page": 11,
+   "table": 0,
+   "row": 1,
+   "column": "base_dim",
+   "from": "8",
+   "to": "8\""
+  },
+  {
+   "catalog": "agricultural",
+   "page": 11,
+   "table": 0,
+   "row": 4,
+   "column": "weight_each",
+   "from": "2.564",
+   "to": "2.56#"
+  },
+  {
+   "catalog": "agricultural",
+   "page": 11,
+   "table": 1,
+   "row": 0,
+   "column": "e",
+   "from": "3",
+   "to": "8\""
+  },
+  {
+   "catalog": "agricultural",
+   "page": 12,
+   "table": 1,
+   "row": 1,
+   "column": "weight_each",
+   "from": ".25",
+   "to": ".25#"
+  },
+  {
+   "catalog": "agricultural",
+   "page": 12,
+   "table": 1,
+   "row": 3,
+   "column": "weight_each",
+   "from": ".104",
+   "to": ".10#"
+  },
+  {
+   "catalog": "agricultural",
+   "page": 28,
+   "table": 0,
+   "row": 0,
+   "column": "weight_each",
+   "from": "4.434",
+   "to": "4.43#"
+  },
+  {
+   "catalog": "agricultural",
+   "page": 28,
+   "table": 0,
+   "row": 6,
+   "column": "weight_each",
+   "from": "4.244",
+   "to": "4.24#"
+  },
+  {
+   "catalog": "agricultural",
+   "page": 31,
+   "table": 2,
+   "row": 0,
+   "column": "weight_each",
+   "from": ".1",
+   "to": ".91#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 3,
+   "table": 1,
+   "row": 0,
+   "column": "weight_per_sq",
+   "from": "1344",
+   "to": "134#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 30,
+   "table": 0,
+   "row": 0,
+   "column": "weight_per_each",
+   "from": ".134",
+   "to": ".13#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 30,
+   "table": 0,
+   "row": 4,
+   "column": "weight_per_each",
+   "from": ".134",
+   "to": ".13#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 32,
+   "table": 0,
+   "row": 1,
+   "column": "length",
+   "from": "iOze2E",
+   "to": "10'-2\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 32,
+   "table": 1,
+   "row": 1,
+   "column": "dim_a",
+   "from": "1",
+   "to": "1⅛\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 32,
+   "table": 1,
+   "row": 4,
+   "column": "dim_a",
+   "from": "2",
+   "to": "2⅛\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 32,
+   "table": 1,
+   "row": 1,
+   "column": "weight_per_each",
+   "from": "2.594",
+   "to": "2.59#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 33,
+   "table": 1,
+   "row": 0,
+   "column": "weight_per_each",
+   "from": "4.244",
+   "to": "4.24#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 34,
+   "table": 2,
+   "row": 0,
+   "column": "dim_a",
+   "from": "1",
+   "to": "1⅛\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 34,
+   "table": 2,
+   "row": 4,
+   "column": "dim_a",
+   "from": "2",
+   "to": "2⅛\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 37,
+   "table": 2,
+   "row": 0,
+   "column": "column_1",
+   "from": "1",
+   "to": "1\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 39,
+   "table": 0,
+   "row": 0,
+   "column": "girth",
+   "from": "354",
+   "to": "8⅝\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 39,
+   "table": 0,
+   "row": 0,
+   "column": "weight_per_each",
+   "from": "7144",
+   "to": "7.14#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 40,
+   "table": 2,
+   "row": 2,
+   "column": "weight_per_each",
+   "from": "745#",
+   "to": "7.45#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 41,
+   "table": 1,
+   "row": 3,
+   "column": "weight_per_each",
+   "from": "21.334",
+   "to": "21.33#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 41,
+   "table": 2,
+   "row": 0,
+   "column": "weight_per_each",
+   "from": "74#",
+   "to": "7.45#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 43,
+   "table": 1,
+   "row": 0,
+   "column": "girth",
+   "from": "A4Y2\"",
+   "to": "4½\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 43,
+   "table": 2,
+   "row": 1,
+   "column": "girth",
+   "from": "B54\"",
+   "to": "8⅝\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 43,
+   "table": 2,
+   "row": 0,
+   "column": "weight_per_each",
+   "from": "7144",
+   "to": "7.14#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 43,
+   "table": 2,
+   "row": 2,
+   "column": "weight_per_each",
+   "from": "7.904",
+   "to": "7.96#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 43,
+   "table": 2,
+   "row": 5,
+   "column": "weight_per_each",
+   "from": "17.434",
+   "to": "17.43#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 46,
+   "table": 2,
+   "row": 1,
+   "column": "girth",
+   "from": "1634",
+   "to": "16¾\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 46,
+   "table": 2,
+   "row": 4,
+   "column": "girth",
+   "from": "167",
+   "to": "16⅞\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 47,
+   "table": 1,
+   "row": 1,
+   "column": "weight_per_each",
+   "from": "29.744",
+   "to": "29.74#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 49,
+   "table": 0,
+   "row": 2,
+   "column": "girth",
+   "from": "74",
+   "to": "7⅞\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 49,
+   "table": 0,
+   "row": 4,
+   "column": "girth",
+   "from": "9",
+   "to": "9¼\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 49,
+   "table": 0,
+   "row": 3,
+   "column": "weight_per_each",
+   "from": "7244",
+   "to": "7.24#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 49,
+   "table": 0,
+   "row": 4,
+   "column": "weight_per_each",
+   "from": "7054",
+   "to": "7.65#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 50,
+   "table": 1,
+   "row": 0,
+   "column": "dim_a",
+   "from": "1",
+   "to": "1 ½\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 50,
+   "table": 1,
+   "row": 3,
+   "column": "dim_a",
+   "from": "22",
+   "to": "2 ½\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 50,
+   "table": 1,
+   "row": 0,
+   "column": "sheathing_thickness",
+   "from": "7",
+   "to": "½\""
+  },
+  {
+   "catalog": "architectural",
+   "page": 50,
+   "table": 1,
+   "row": 1,
+   "column": "weight_each",
+   "from": "4.244",
+   "to": "4.24#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 6,
+   "table": 0,
+   "row": 8,
+   "column": "weight_per_sq",
+   "from": "A1l#",
+   "to": "41#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 15,
+   "table": 0,
+   "row": 3,
+   "column": "weight_per_lf",
+   "from": "2.334",
+   "to": "2.33#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 15,
+   "table": 0,
+   "row": 6,
+   "column": "weight_per_lf",
+   "from": "2.344",
+   "to": "2.34#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 15,
+   "table": 0,
+   "row": 8,
+   "column": "weight_per_lf",
+   "from": "2.544",
+   "to": "2.54#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 15,
+   "table": 0,
+   "row": 9,
+   "column": "weight_per_lf",
+   "from": "3.044",
+   "to": "3.04#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 0,
+   "column": "normal_size",
+   "from": "8x 3h",
+   "to": "8 x 3½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 3,
+   "column": "normal_size",
+   "from": "9x 2h",
+   "to": "9 x 2½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 12,
+   "column": "normal_size",
+   "from": "10x 3h",
+   "to": "10 x 3½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 14,
+   "column": "normal_size",
+   "from": "11x2h",
+   "to": "11 x 2½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 15,
+   "column": "normal_size",
+   "from": "11x2h",
+   "to": "11 x 2½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 16,
+   "column": "normal_size",
+   "from": "11x3h",
+   "to": "11 x 3½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 17,
+   "column": "normal_size",
+   "from": "11x3h",
+   "to": "11 x 3½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 22,
+   "column": "normal_size",
+   "from": "12x3h",
+   "to": "12 x 3½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 0,
+   "column": "weight_per_lf",
+   "from": "3.744",
+   "to": "3.74#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 6,
+   "column": "weight_per_lf",
+   "from": "3.744",
+   "to": "3.74#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 8,
+   "column": "weight_per_lf",
+   "from": "3.744",
+   "to": "3.74#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 16,
+   "table": 0,
+   "row": 13,
+   "column": "weight_per_lf",
+   "from": "6.284",
+   "to": "6.28#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 17,
+   "table": 0,
+   "row": 0,
+   "column": "weight_per_lf",
+   "from": "2.544",
+   "to": "2.54#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 17,
+   "table": 0,
+   "row": 1,
+   "column": "weight_per_lf",
+   "from": "3.044",
+   "to": "3.04#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 17,
+   "table": 0,
+   "row": 3,
+   "column": "weight_per_lf",
+   "from": "4.884",
+   "to": "4.88#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 17,
+   "table": 0,
+   "row": 9,
+   "column": "weight_per_lf",
+   "from": "6.634",
+   "to": "6.63#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 17,
+   "table": 0,
+   "row": 11,
+   "column": "weight_per_lf",
+   "from": "6.284",
+   "to": "6.28#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 17,
+   "table": 0,
+   "row": 13,
+   "column": "weight_per_lf",
+   "from": "7.334",
+   "to": "7.33#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 18,
+   "table": 0,
+   "row": 5,
+   "column": "normal_size",
+   "from": "4x 3h",
+   "to": "4 x 3½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 18,
+   "table": 0,
+   "row": 9,
+   "column": "normal_size",
+   "from": "5x 3h",
+   "to": "5 x 3½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 18,
+   "table": 0,
+   "row": 13,
+   "column": "normal_size",
+   "from": "9x 3h",
+   "to": "9 x 3½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 18,
+   "table": 0,
+   "row": 14,
+   "column": "normal_size",
+   "from": "9x 3h",
+   "to": "9 x 3½"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 18,
+   "table": 0,
+   "row": 4,
+   "column": "weight_per_lf",
+   "from": "2.344",
+   "to": "2.34#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 18,
+   "table": 0,
+   "row": 6,
+   "column": "weight_per_lf",
+   "from": "2.344",
+   "to": "2.34#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 18,
+   "table": 0,
+   "row": 8,
+   "column": "weight_per_lf",
+   "from": "2.544",
+   "to": "2.54#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 18,
+   "table": 0,
+   "row": 9,
+   "column": "weight_per_lf",
+   "from": "3.044",
+   "to": "3.04#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 19,
+   "table": 0,
+   "row": 0,
+   "column": "weight_each_red_oxide",
+   "from": "31.134",
+   "to": "31.13#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 19,
+   "table": 0,
+   "row": 1,
+   "column": "weight_each_red_oxide",
+   "from": "38.924",
+   "to": "38.92#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 19,
+   "table": 0,
+   "row": 0,
+   "column": "weight_each_galvanized",
+   "from": "32.244",
+   "to": "32.24#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 19,
+   "table": 0,
+   "row": 3,
+   "column": "weight_each_galvanized",
+   "from": "47.944",
+   "to": "47.94#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 19,
+   "table": 0,
+   "row": 9,
+   "column": "weight_each_galvanized",
+   "from": "88.744",
+   "to": "88.74#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 19,
+   "table": 0,
+   "row": 13,
+   "column": "weight_each_galvanized",
+   "from": "72.114",
+   "to": "72.11#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 19,
+   "table": 0,
+   "row": 18,
+   "column": "weight_each_galvanized",
+   "from": "67.354",
+   "to": "67.35#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 20,
+   "table": 0,
+   "row": 6,
+   "column": "weight_each",
+   "from": "23.294",
+   "to": "23.29#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 20,
+   "table": 0,
+   "row": 7,
+   "column": "weight_each",
+   "from": "24.124",
+   "to": "24.12#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 21,
+   "table": 0,
+   "row": 8,
+   "column": "column_4",
+   "from": "4.644",
+   "to": "4.64#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 22,
+   "table": 0,
+   "row": 9,
+   "column": "column_4",
+   "from": "7 58H",
+   "to": "7.58#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 23,
+   "table": 0,
+   "row": 0,
+   "column": "girth",
+   "from": "316",
+   "to": "3¹⁵⁄₁₆\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 23,
+   "table": 0,
+   "row": 2,
+   "column": "girth",
+   "from": "516",
+   "to": "5¹⁵⁄₁₆\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 23,
+   "table": 0,
+   "row": 3,
+   "column": "girth",
+   "from": "516",
+   "to": "5¹⁵⁄₁₆\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 23,
+   "table": 0,
+   "row": 6,
+   "column": "girth",
+   "from": "816",
+   "to": "8¹⁵⁄₁₆\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 23,
+   "table": 0,
+   "row": 7,
+   "column": "girth",
+   "from": "816",
+   "to": "8¹⁵⁄₁₆\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 23,
+   "table": 0,
+   "row": 9,
+   "column": "girth",
+   "from": "916",
+   "to": "9¹⁵⁄₁₆\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 25,
+   "table": 0,
+   "row": 0,
+   "column": "coil_weight",
+   "from": "3.334",
+   "to": "3.33#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 25,
+   "table": 0,
+   "row": 4,
+   "column": "coil_weight",
+   "from": "10.544",
+   "to": "10.54#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 26,
+   "table": 1,
+   "row": 1,
+   "column": "weight_each",
+   "from": "17.394",
+   "to": "17.39#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 26,
+   "table": 1,
+   "row": 5,
+   "column": "weight_each",
+   "from": "788#",
+   "to": "7.88#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 29,
+   "table": 2,
+   "row": 1,
+   "column": "weight_each",
+   "from": ".25",
+   "to": ".25#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 31,
+   "table": 0,
+   "row": 0,
+   "column": "base_dim",
+   "from": "4",
+   "to": "4½\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 31,
+   "table": 0,
+   "row": 1,
+   "column": "base_dim",
+   "from": "8",
+   "to": "8\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 31,
+   "table": 1,
+   "row": 0,
+   "column": "e",
+   "from": "8",
+   "to": "8\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 31,
+   "table": 2,
+   "row": 0,
+   "column": "base_dim",
+   "from": "B8%e\"",
+   "to": "8³⁄₁₆\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 37,
+   "table": 0,
+   "row": 2,
+   "column": "tube_weight",
+   "from": ".5",
+   "to": ".85#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 37,
+   "table": 1,
+   "row": 1,
+   "column": "weight_each",
+   "from": ".0#",
+   "to": ".50#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 40,
+   "table": 2,
+   "row": 0,
+   "column": "size",
+   "from": "7",
+   "to": "½\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 40,
+   "table": 2,
+   "row": 3,
+   "column": "size",
+   "from": "7",
+   "to": "⅞\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 40,
+   "table": 2,
+   "row": 5,
+   "column": "size",
+   "from": "7",
+   "to": "½\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 40,
+   "table": 2,
+   "row": 8,
+   "column": "size",
+   "from": "7",
+   "to": "⅞\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 40,
+   "table": 2,
+   "row": 9,
+   "column": "weight_each",
+   "from": "1.284",
+   "to": "1.28#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 41,
+   "table": 0,
+   "row": 3,
+   "column": "column_7",
+   "from": ".39",
+   "to": ".39#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 45,
+   "table": 1,
+   "row": 0,
+   "column": "weight_each",
+   "from": "750#",
+   "to": "7.50#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 45,
+   "table": 1,
+   "row": 2,
+   "column": "weight_each",
+   "from": "10.334",
+   "to": "10.33#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 47,
+   "table": 0,
+   "row": 3,
+   "column": "weight_each",
+   "from": "11.034",
+   "to": "11.03#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 49,
+   "table": 2,
+   "row": 3,
+   "column": "weight_each",
+   "from": "36.234",
+   "to": "36.23#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 50,
+   "table": 1,
+   "row": 0,
+   "column": "weight_each",
+   "from": "15.334",
+   "to": "15.33#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 51,
+   "table": 1,
+   "row": 3,
+   "column": "dim_a",
+   "from": "A434\"",
+   "to": "4¾\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 52,
+   "table": 0,
+   "row": 3,
+   "column": "dim_a",
+   "from": "A434\"",
+   "to": "4¾\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 52,
+   "table": 1,
+   "row": 3,
+   "column": "column_1",
+   "from": "A56\"",
+   "to": "4⅝\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 52,
+   "table": 2,
+   "row": 0,
+   "column": "column_2",
+   "from": "AY2\"",
+   "to": "4½\""
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 53,
+   "table": 2,
+   "row": 0,
+   "column": "weight_each",
+   "from": "4.434",
+   "to": "4.43#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 53,
+   "table": 2,
+   "row": 1,
+   "column": "weight_each",
+   "from": "5.734",
+   "to": "5.73#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 53,
+   "table": 2,
+   "row": 6,
+   "column": "weight_each",
+   "from": "4.244",
+   "to": "4.24#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 54,
+   "table": 0,
+   "row": 3,
+   "column": "weight_each",
+   "from": "705#",
+   "to": "7.05#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 54,
+   "table": 1,
+   "row": 2,
+   "column": "weight_each",
+   "from": ".194",
+   "to": ".19#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 60,
+   "table": 0,
+   "row": 1,
+   "column": "weight_each",
+   "from": "13.134",
+   "to": "13.13#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 60,
+   "table": 1,
+   "row": 0,
+   "column": "weight_each",
+   "from": "11.124",
+   "to": "11.12#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 62,
+   "table": 2,
+   "row": 3,
+   "column": "weight_each",
+   "from": "4.594",
+   "to": "4.59#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 63,
+   "table": 0,
+   "row": 0,
+   "column": "weight_each",
+   "from": "2.354",
+   "to": "2.35#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 65,
+   "table": 1,
+   "row": 1,
+   "column": "weight_each",
+   "from": "2.934",
+   "to": "2.93#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 65,
+   "table": 1,
+   "row": 4,
+   "column": "weight_each",
+   "from": "5.934",
+   "to": "5.93#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 65,
+   "table": 2,
+   "row": 2,
+   "column": "weight_each",
+   "from": "75#",
+   "to": "7.55#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 65,
+   "table": 2,
+   "row": 3,
+   "column": "weight_each",
+   "from": "8.634",
+   "to": "8.63#"
+  },
+  {
+   "catalog": "residential",
+   "page": 9,
+   "table": 0,
+   "row": 0,
+   "column": "base_dim",
+   "from": "4",
+   "to": "4½\""
+  },
+  {
+   "catalog": "residential",
+   "page": 9,
+   "table": 0,
+   "row": 2,
+   "column": "base_dim",
+   "from": "1",
+   "to": "11\""
+  },
+  {
+   "catalog": "residential",
+   "page": 11,
+   "table": 1,
+   "row": 0,
+   "column": "tube_weight",
+   "from": ".5",
+   "to": ".75#"
+  },
+  {
+   "catalog": "residential",
+   "page": 11,
+   "table": 1,
+   "row": 1,
+   "column": "tube_weight",
+   "from": ".5",
+   "to": ".75#"
+  },
+  {
+   "catalog": "residential",
+   "page": 13,
+   "table": 1,
+   "row": 3,
+   "column": "weight_each",
+   "from": "28.324",
+   "to": "28.32#"
+  },
+  {
+   "catalog": "residential",
+   "page": 13,
+   "table": 2,
+   "row": 3,
+   "column": "weight_each",
+   "from": "38.824",
+   "to": "38.82#"
+  },
+  {
+   "catalog": "residential",
+   "page": 19,
+   "table": 1,
+   "row": 2,
+   "column": "weight_each",
+   "from": "4.244",
+   "to": "4.24#"
+  },
+  {
+   "catalog": "residential",
+   "page": 19,
+   "table": 1,
+   "row": 4,
+   "column": "weight_each",
+   "from": "418#",
+   "to": "4.18#"
+  },
+  {
+   "catalog": "residential",
+   "page": 19,
+   "table": 1,
+   "row": 6,
+   "column": "weight_each",
+   "from": "4124",
+   "to": "4.12#"
+  },
+  {
+   "catalog": "residential",
+   "page": 20,
+   "table": 0,
+   "row": 2,
+   "column": "weight_each",
+   "from": "4.444",
+   "to": "4.44#"
+  },
+  {
+   "catalog": "residential",
+   "page": 20,
+   "table": 0,
+   "row": 8,
+   "column": "weight_each",
+   "from": "4.244",
+   "to": "4.24#"
+  },
+  {
+   "catalog": "residential",
+   "page": 22,
+   "table": 2,
+   "row": 0,
+   "column": "weight_each",
+   "from": "415#",
+   "to": "4.15#"
+  },
+  {
+   "catalog": "residential",
+   "page": 24,
+   "table": 1,
+   "row": 0,
+   "column": "girth",
+   "from": "O54\"",
+   "to": "9⅝\""
+  },
+  {
+   "catalog": "ssr",
+   "page": 7,
+   "table": 0,
+   "row": 4,
+   "column": "4",
+   "from": "7",
+   "to": "7.11"
+  },
+  {
+   "catalog": "ssr",
+   "page": 7,
+   "table": 0,
+   "row": 7,
+   "column": "4",
+   "from": "1",
+   "to": "11.11"
+  },
+  {
+   "catalog": "ssr",
+   "page": 7,
+   "table": 0,
+   "row": 37,
+   "column": "4",
+   "from": "511",
+   "to": "51.11"
+  },
+  {
+   "catalog": "ssr",
+   "page": 7,
+   "table": 0,
+   "row": 11,
+   "column": "10",
+   "from": "711",
+   "to": "17.11"
+  },
+  {
+   "catalog": "ssr",
+   "page": 7,
+   "table": 0,
+   "row": 29,
+   "column": "10",
+   "from": "4",
+   "to": "41.11"
+  },
+  {
+   "catalog": "ssr",
+   "page": 10,
+   "table": 0,
+   "row": 4,
+   "column": "coverage",
+   "from": "2",
+   "to": "12\""
+  },
+  {
+   "catalog": "ssr",
+   "page": 14,
+   "table": 0,
+   "row": 4,
+   "column": "coverage",
+   "from": "2",
+   "to": "12\""
+  },
+  {
+   "catalog": "ssr",
+   "page": 16,
+   "table": 1,
+   "row": 0,
+   "column": "weight_each",
+   "from": "3.334",
+   "to": "3.33#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 22,
+   "table": 2,
+   "row": 0,
+   "column": "length",
+   "from": "16.284",
+   "to": "16.28#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 23,
+   "table": 0,
+   "row": 2,
+   "column": "length",
+   "from": "37.254",
+   "to": "37.25#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 24,
+   "table": 2,
+   "row": 0,
+   "column": "finish",
+   "from": "g8'-O\"",
+   "to": "8'-0\""
+  },
+  {
+   "catalog": "ssr",
+   "page": 26,
+   "table": 2,
+   "row": 2,
+   "column": "length",
+   "from": "g8'-O\"",
+   "to": "8'-0\""
+  },
+  {
+   "catalog": "ssr",
+   "page": 35,
+   "table": 1,
+   "row": 2,
+   "column": "width",
+   "from": "3",
+   "to": "3\""
+  },
+  {
+   "catalog": "ssr",
+   "page": 35,
+   "table": 1,
+   "row": 6,
+   "column": "width",
+   "from": "3",
+   "to": "3\""
+  },
+  {
+   "catalog": "ssr",
+   "page": 44,
+   "table": 0,
+   "row": 1,
+   "column": "weight_each",
+   "from": ".254",
+   "to": ".25#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 49,
+   "table": 1,
+   "row": 1,
+   "column": "weight_each",
+   "from": "15.644",
+   "to": "15.64#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 49,
+   "table": 2,
+   "row": 3,
+   "column": "weight_each",
+   "from": "19.424",
+   "to": "19.42#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 51,
+   "table": 1,
+   "row": 1,
+   "column": "weight_each",
+   "from": "31144",
+   "to": "31.14#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 56,
+   "table": 1,
+   "row": 0,
+   "column": "girth",
+   "from": "ce70",
+   "to": "3¾\""
+  },
+  {
+   "catalog": "ssr",
+   "page": 65,
+   "table": 0,
+   "row": 0,
+   "column": "weight_each",
+   "from": "12#",
+   "to": "11.12#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 65,
+   "table": 1,
+   "row": 2,
+   "column": "part",
+   "from": "FL-S1E",
+   "to": "FL-31E"
+  },
+  {
+   "catalog": "ssr",
+   "page": 11,
+   "table": 0,
+   "row": 4,
+   "column": "column_1",
+   "from": "aR eT",
+   "to": "5 FT."
+  },
+  {
+   "catalog": "ssr",
+   "page": 11,
+   "table": 0,
+   "row": 4,
+   "column": "4",
+   "from": "7M",
+   "to": "7.11"
+  },
+  {
+   "catalog": "ssr",
+   "page": 11,
+   "table": 0,
+   "row": 4,
+   "column": "7",
+   "from": "7AS",
+   "to": "7.45"
+  },
+  {
+   "catalog": "ssr",
+   "page": 11,
+   "table": 0,
+   "row": 2,
+   "column": "1",
+   "from": "41",
+   "to": "4.11"
+  },
+  {
+   "catalog": "ssr",
+   "page": 11,
+   "table": 0,
+   "row": 2,
+   "column": "10",
+   "from": "51",
+   "to": "5.11"
+  },
+  {
+   "catalog": "ssr",
+   "page": 11,
+   "table": 0,
+   "row": 11,
+   "column": "10",
+   "from": "711",
+   "to": "17.11"
+  },
+  {
+   "catalog": "ssr",
+   "page": 11,
+   "table": 0,
+   "row": 19,
+   "column": "4",
+   "from": "271",
+   "to": "27.11"
+  }
+ ],
+ "accepted_note": "Cells qa.py flagged that were checked against the render and found correct.  Recorded so the report converges on what has not been looked at yet.",
+ "accepted": [
+  {
+   "catalog": "agricultural",
+   "page": 11,
+   "table": 0,
+   "row": 3,
+   "column": "weight_each",
+   "value": "1.55#"
+  },
+  {
+   "catalog": "agricultural",
+   "page": 12,
+   "table": 1,
+   "row": 4,
+   "column": "weight_each",
+   "value": "1.00#"
+  },
+  {
+   "catalog": "agricultural",
+   "page": 16,
+   "table": 3,
+   "row": 6,
+   "column": "tube_weight",
+   "value": "1.00#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 28,
+   "table": 0,
+   "row": 6,
+   "column": "tube_weight",
+   "value": "1.00#"
+  },
+  {
+   "catalog": "architectural",
+   "page": 29,
+   "table": 1,
+   "row": 0,
+   "column": "profile",
+   "value": "P16"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 29,
+   "table": 2,
+   "row": 4,
+   "column": "weight_each",
+   "value": "1.00#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 30,
+   "table": 0,
+   "row": 1,
+   "column": "weight_each",
+   "value": "8.55#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 30,
+   "table": 1,
+   "row": 0,
+   "column": "part",
+   "value": "FL-53B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 35,
+   "table": 1,
+   "row": 4,
+   "column": "weight_each",
+   "value": "218#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 35,
+   "table": 1,
+   "row": 5,
+   "column": "weight_each",
+   "value": "218#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 35,
+   "table": 1,
+   "row": 6,
+   "column": "weight_each",
+   "value": "280#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 35,
+   "table": 1,
+   "row": 7,
+   "column": "weight_each",
+   "value": "280#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 37,
+   "table": 0,
+   "row": 6,
+   "column": "tube_weight",
+   "value": "1.00#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 37,
+   "table": 1,
+   "row": 0,
+   "column": "weight_each",
+   "value": ".50#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 40,
+   "table": 1,
+   "row": 0,
+   "column": "weight_each",
+   "value": ".60#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 41,
+   "table": 1,
+   "row": 0,
+   "column": "bolt_grade",
+   "value": "A307"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 41,
+   "table": 1,
+   "row": 0,
+   "column": "nut_grade",
+   "value": "A563"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 45,
+   "table": 0,
+   "row": 2,
+   "column": "weight_each",
+   "value": "11.46#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 45,
+   "table": 0,
+   "row": 3,
+   "column": "weight_each",
+   "value": "13.10#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 45,
+   "table": 0,
+   "row": 5,
+   "column": "weight_each",
+   "value": "16.51#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 49,
+   "table": 0,
+   "row": 1,
+   "column": "part",
+   "value": "FL-18B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 49,
+   "table": 0,
+   "row": 2,
+   "column": "part",
+   "value": "FL-18H"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 49,
+   "table": 1,
+   "row": 0,
+   "column": "part",
+   "value": "FL-18C"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 49,
+   "table": 1,
+   "row": 1,
+   "column": "part",
+   "value": "FL-18D"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 49,
+   "table": 1,
+   "row": 2,
+   "column": "part",
+   "value": "FL-18F"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 49,
+   "table": 1,
+   "row": 3,
+   "column": "part",
+   "value": "FL-18G"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 51,
+   "table": 0,
+   "row": 0,
+   "column": "part",
+   "value": "FL-18A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 51,
+   "table": 1,
+   "row": 1,
+   "column": "part",
+   "value": "FL-74A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 51,
+   "table": 1,
+   "row": 2,
+   "column": "part",
+   "value": "FL-74L"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 51,
+   "table": 1,
+   "row": 3,
+   "column": "part",
+   "value": "FL-74F"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 52,
+   "table": 0,
+   "row": 1,
+   "column": "part",
+   "value": "FL-14B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 52,
+   "table": 0,
+   "row": 2,
+   "column": "part",
+   "value": "FL-14F"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 52,
+   "table": 0,
+   "row": 3,
+   "column": "part",
+   "value": "FL-14G"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 53,
+   "table": 0,
+   "row": 0,
+   "column": "part",
+   "value": "FL-14A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 54,
+   "table": 1,
+   "row": 1,
+   "column": "part",
+   "value": "FL-16D"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 54,
+   "table": 1,
+   "row": 2,
+   "column": "part",
+   "value": "FL-16A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 54,
+   "table": 1,
+   "row": 3,
+   "column": "part",
+   "value": "FL-16B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 55,
+   "table": 0,
+   "row": 1,
+   "column": "part",
+   "value": "FL-15D"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 55,
+   "table": 0,
+   "row": 2,
+   "column": "part",
+   "value": "FL-15A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 55,
+   "table": 0,
+   "row": 3,
+   "column": "part",
+   "value": "FL-15C"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 55,
+   "table": 0,
+   "row": 2,
+   "column": "weight_each",
+   "value": ".19#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 55,
+   "table": 1,
+   "row": 2,
+   "column": "weight_each",
+   "value": ".19#"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 55,
+   "table": 2,
+   "row": 1,
+   "column": "part",
+   "value": "FL-13D"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 55,
+   "table": 2,
+   "row": 2,
+   "column": "part",
+   "value": "FL-13A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 55,
+   "table": 2,
+   "row": 3,
+   "column": "part",
+   "value": "FL-13C"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 56,
+   "table": 0,
+   "row": 1,
+   "column": "part",
+   "value": "FL-12D"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 56,
+   "table": 0,
+   "row": 2,
+   "column": "part",
+   "value": "FL-12A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 56,
+   "table": 0,
+   "row": 3,
+   "column": "part",
+   "value": "FL-12C"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 56,
+   "table": 2,
+   "row": 1,
+   "column": "part",
+   "value": "FL-17A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 57,
+   "table": 0,
+   "row": 1,
+   "column": "part",
+   "value": "FL-19A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 60,
+   "table": 0,
+   "row": 1,
+   "column": "part",
+   "value": "FL-31C"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 60,
+   "table": 0,
+   "row": 2,
+   "column": "part",
+   "value": "FL-31B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 60,
+   "table": 0,
+   "row": 4,
+   "column": "part",
+   "value": "FL-31H"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 60,
+   "table": 1,
+   "row": 0,
+   "column": "part",
+   "value": "FL-31A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 60,
+   "table": 1,
+   "row": 1,
+   "column": "part",
+   "value": "FL-31D"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 60,
+   "table": 1,
+   "row": 2,
+   "column": "part",
+   "value": "FL-31E"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 60,
+   "table": 1,
+   "row": 4,
+   "column": "part",
+   "value": "FL-31G"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 62,
+   "table": 2,
+   "row": 2,
+   "column": "part",
+   "value": "FL-23B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 62,
+   "table": 2,
+   "row": 3,
+   "column": "part",
+   "value": "FL-23C"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 63,
+   "table": 0,
+   "row": 2,
+   "column": "part",
+   "value": "FL-21B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 63,
+   "table": 0,
+   "row": 3,
+   "column": "part",
+   "value": "FL-21C"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 63,
+   "table": 2,
+   "row": 2,
+   "column": "part",
+   "value": "FL-48B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 63,
+   "table": 2,
+   "row": 3,
+   "column": "part",
+   "value": "FL-48C"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 64,
+   "table": 1,
+   "row": 3,
+   "column": "part",
+   "value": "FL-26B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 64,
+   "table": 1,
+   "row": 4,
+   "column": "part",
+   "value": "FL-26C"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 65,
+   "table": 2,
+   "row": 1,
+   "column": "part",
+   "value": "FL-46A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 65,
+   "table": 2,
+   "row": 2,
+   "column": "part",
+   "value": "FL-46B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 65,
+   "table": 2,
+   "row": 3,
+   "column": "part",
+   "value": "FL-46C"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 65,
+   "table": 2,
+   "row": 4,
+   "column": "part",
+   "value": "FL-46D"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 69,
+   "table": 0,
+   "row": 1,
+   "column": "part",
+   "value": "FL-38A"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 70,
+   "table": 1,
+   "row": 1,
+   "column": "part",
+   "value": "FL-45B"
+  },
+  {
+   "catalog": "commercial-industrial",
+   "page": 70,
+   "table": 1,
+   "row": 2,
+   "column": "part",
+   "value": "FL-45C"
+  },
+  {
+   "catalog": "residential",
+   "page": 9,
+   "table": 0,
+   "row": 3,
+   "column": "weight_each",
+   "value": "1.55#"
+  },
+  {
+   "catalog": "residential",
+   "page": 9,
+   "table": 0,
+   "row": 4,
+   "column": "weight_each",
+   "value": "2.56#"
+  },
+  {
+   "catalog": "residential",
+   "page": 11,
+   "table": 1,
+   "row": 6,
+   "column": "tube_weight",
+   "value": "1.00#"
+  },
+  {
+   "catalog": "residential",
+   "page": 14,
+   "table": 0,
+   "row": 1,
+   "column": "weight_each",
+   "value": "10.71#"
+  },
+  {
+   "catalog": "residential",
+   "page": 16,
+   "table": 1,
+   "row": 1,
+   "column": "part",
+   "value": "FL-31B"
+  },
+  {
+   "catalog": "residential",
+   "page": 16,
+   "table": 2,
+   "row": 0,
+   "column": "part",
+   "value": "FL-31A"
+  },
+  {
+   "catalog": "residential",
+   "page": 16,
+   "table": 2,
+   "row": 1,
+   "column": "part",
+   "value": "FL-31E"
+  },
+  {
+   "catalog": "ssr",
+   "page": 23,
+   "table": 1,
+   "row": 1,
+   "column": "length",
+   "value": "12.07#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 23,
+   "table": 1,
+   "row": 2,
+   "column": "length",
+   "value": "18.62#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 36,
+   "table": 0,
+   "row": 6,
+   "column": "tube_weight",
+   "value": "1.00#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 44,
+   "table": 0,
+   "row": 4,
+   "column": "weight_each",
+   "value": "1.00#"
+  },
+  {
+   "catalog": "ssr",
+   "page": 65,
+   "table": 0,
+   "row": 1,
+   "column": "part",
+   "value": "FL-31C"
+  },
+  {
+   "catalog": "ssr",
+   "page": 65,
+   "table": 0,
+   "row": 2,
+   "column": "part",
+   "value": "FL-31B"
+  },
+  {
+   "catalog": "ssr",
+   "page": 65,
+   "table": 0,
+   "row": 3,
+   "column": "part",
+   "value": "FL-31J"
+  },
+  {
+   "catalog": "ssr",
+   "page": 65,
+   "table": 0,
+   "row": 4,
+   "column": "part",
+   "value": "FL-31H"
+  },
+  {
+   "catalog": "ssr",
+   "page": 65,
+   "table": 1,
+   "row": 0,
+   "column": "part",
+   "value": "FL-31A"
+  },
+  {
+   "catalog": "ssr",
+   "page": 65,
+   "table": 1,
+   "row": 1,
+   "column": "part",
+   "value": "FL-31D"
+  },
+  {
+   "catalog": "ssr",
+   "page": 65,
+   "table": 1,
+   "row": 4,
+   "column": "part",
+   "value": "FL-31G"
+  }
+ ]
+}

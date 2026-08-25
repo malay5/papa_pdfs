@@ -716,6 +716,15 @@ def main():
 
     summary = _write_corpus(args.out, summary)
 
+    # A fresh extraction reproduces the OCR, including the cells OCR cannot
+    # get right, so the reviewed readings go back on top of it.
+    import corrections
+    _applied, stale, _already = corrections.apply(args.out, wanted)
+    if stale:
+        print(f"{stale} correction(s) no longer match what was read;"
+              f" run corrections.py --catalog <slug> to see them", flush=True)
+    summary = _write_corpus(args.out, [])
+
     for entry in summary:
         print(f"{entry['catalog']:>22}: {entry['pages']:>3} pages, "
               f"{entry['tables']:>4} tables, {entry['table_rows']:>5} rows, "

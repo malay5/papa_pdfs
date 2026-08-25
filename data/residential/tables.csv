@@ -86,7 +86,7 @@ residential,9,Rubber Roof Jack,0,0,part,PART #,DESCRIPTION,HW-1000
 residential,9,Rubber Roof Jack,0,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 residential,9,Rubber Roof Jack,0,0,pipe_size,PIPE SIZE,DESCRIPTION,"Yall = Ws"""
-residential,9,Rubber Roof Jack,0,0,base_dim,BASE DIM.,DESCRIPTION,4
+residential,9,Rubber Roof Jack,0,0,base_dim,BASE DIM.,DESCRIPTION,"4½"""
 residential,9,Rubber Roof Jack,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.7#
 residential,9,Rubber Roof Jack,0,0,price,PRICE,,✓
 residential,9,Rubber Roof Jack,0,1,part,PART #,DESCRIPTION,HW-1001
@@ -100,7 +100,7 @@ residential,9,Rubber Roof Jack,0,2,part,PART #,DESCRIPTION,HW-1002
 residential,9,Rubber Roof Jack,0,2,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 residential,9,Rubber Roof Jack,0,2,pipe_size,PIPE SIZE,DESCRIPTION,"AY"" _ 6"""
-residential,9,Rubber Roof Jack,0,2,base_dim,BASE DIM.,DESCRIPTION,1
+residential,9,Rubber Roof Jack,0,2,base_dim,BASE DIM.,DESCRIPTION,"11"""
 residential,9,Rubber Roof Jack,0,2,weight_each,WEIGHT EACH,DESCRIPTION,.5#
 residential,9,Rubber Roof Jack,0,2,price,PRICE,,✓
 residential,9,Rubber Roof Jack,0,3,part,PART #,DESCRIPTION,HW-1003
@@ -224,13 +224,13 @@ residential,11,Tube Sealant,1,0,part,PART #,DESCRIPTION,HW-548
 residential,11,Tube Sealant,1,0,type,TYPE,DESCRIPTION,Acrylic
 residential,11,Tube Sealant,1,0,color,COLOR,DESCRIPTION,White
 residential,11,Tube Sealant,1,0,tube_size,TUBE SIZE,DESCRIPTION,Tl ounce
-residential,11,Tube Sealant,1,0,tube_weight,TUBE WEIGHT,DESCRIPTION,.5
+residential,11,Tube Sealant,1,0,tube_weight,TUBE WEIGHT,DESCRIPTION,.75#
 residential,11,Tube Sealant,1,0,price,PRICE,,✓
 residential,11,Tube Sealant,1,1,part,PART #,DESCRIPTION,HW-550
 residential,11,Tube Sealant,1,1,type,TYPE,DESCRIPTION,Acrylic
 residential,11,Tube Sealant,1,1,color,COLOR,DESCRIPTION,Gray
 residential,11,Tube Sealant,1,1,tube_size,TUBE SIZE,DESCRIPTION,Tl ounce
-residential,11,Tube Sealant,1,1,tube_weight,TUBE WEIGHT,DESCRIPTION,.5
+residential,11,Tube Sealant,1,1,tube_weight,TUBE WEIGHT,DESCRIPTION,.75#
 residential,11,Tube Sealant,1,1,price,PRICE,,✓
 residential,11,Tube Sealant,1,2,part,PART #,DESCRIPTION,HW-540
 residential,11,Tube Sealant,1,2,type,TYPE,DESCRIPTION,Urethane
@@ -379,7 +379,7 @@ residential,13,Standard Valley,1,3,length,LENGTH,DESCRIPTION,"20'-2"""
 residential,13,Standard Valley,1,3,girth,GIRTH,DESCRIPTION,"21%"""
 residential,13,Standard Valley,1,3,gauge,GAUGE,DESCRIPTION,26
 residential,13,Standard Valley,1,3,weight_each,"WEIGHT
-EACH",DESCRIPTION,28.324
+EACH",DESCRIPTION,28.32#
 residential,13,Standard Valley,1,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 residential,13,Standard Valley,1,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,13,Extended Valley,2,0,part,PART #,DESCRIPTION,AG-239
@@ -415,7 +415,7 @@ residential,13,Extended Valley,2,3,length,LENGTH,DESCRIPTION,"14'-O"""
 residential,13,Extended Valley,2,3,girth,GIRTH,DESCRIPTION,"42%"""
 residential,13,Extended Valley,2,3,gauge,GAUGE,DESCRIPTION,26
 residential,13,Extended Valley,2,3,weight_each,"WEIGHT
-EACH",DESCRIPTION,38.824
+EACH",DESCRIPTION,38.82#
 residential,13,Extended Valley,2,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 residential,13,Extended Valley,2,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,14,Box Gutter,0,0,part,PART #,DESCRIPTION,AG-242
@@ -705,7 +705,7 @@ residential,19,5V Crimp Rake Trim,1,2,length,LENGTH,DESCRIPTION,"10'-2"""
 residential,19,5V Crimp Rake Trim,1,2,girth,GIRTH,DESCRIPTION,8516
 residential,19,5V Crimp Rake Trim,1,2,gauge,GAUGE,DESCRIPTION,29
 residential,19,5V Crimp Rake Trim,1,2,weight_each,"WEIGHT
-EACH",DESCRIPTION,4.244
+EACH",DESCRIPTION,4.24#
 residential,19,5V Crimp Rake Trim,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 residential,19,5V Crimp Rake Trim,1,2,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
 residential,19,5V Crimp Rake Trim,1,3,part,PART #,DESCRIPTION,FL-1021
@@ -725,7 +725,7 @@ residential,19,5V Crimp Rake Trim,1,4,length,LENGTH,DESCRIPTION,"10°-2"""
 residential,19,5V Crimp Rake Trim,1,4,girth,GIRTH,DESCRIPTION,8316
 residential,19,5V Crimp Rake Trim,1,4,gauge,GAUGE,DESCRIPTION,29
 residential,19,5V Crimp Rake Trim,1,4,weight_each,"WEIGHT
-EACH",DESCRIPTION,418#
+EACH",DESCRIPTION,4.18#
 residential,19,5V Crimp Rake Trim,1,4,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 residential,19,5V Crimp Rake Trim,1,4,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
 residential,19,5V Crimp Rake Trim,1,5,part,PART #,DESCRIPTION,FL-1022
@@ -745,7 +745,7 @@ residential,19,5V Crimp Rake Trim,1,6,length,LENGTH,DESCRIPTION,"10'-2"""
 residential,19,5V Crimp Rake Trim,1,6,girth,GIRTH,DESCRIPTION,86
 residential,19,5V Crimp Rake Trim,1,6,gauge,GAUGE,DESCRIPTION,29
 residential,19,5V Crimp Rake Trim,1,6,weight_each,"WEIGHT
-EACH",DESCRIPTION,4124
+EACH",DESCRIPTION,4.12#
 residential,19,5V Crimp Rake Trim,1,6,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 residential,19,5V Crimp Rake Trim,1,6,signature_200,SIGNATURE? 200,PRICED PER EACH,✓
 residential,19,5V Crimp Rake Trim,1,7,part,PART #,DESCRIPTION,FL-1023
@@ -805,7 +805,7 @@ residential,20,Slimline' Rake Trim,0,2,length,LENGTH,DESCRIPTION,"10'-2"""
 residential,20,Slimline' Rake Trim,0,2,girth,GIRTH,DESCRIPTION,816
 residential,20,Slimline' Rake Trim,0,2,gauge,GAUGE,DESCRIPTION,29
 residential,20,Slimline' Rake Trim,0,2,weight_each,"WEIGHT
-EACH",DESCRIPTION,4.444
+EACH",DESCRIPTION,4.44#
 residential,20,Slimline' Rake Trim,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 residential,20,Slimline' Rake Trim,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,20,Slimline' Rake Trim,0,3,part,PART #,DESCRIPTION,FL-1031
@@ -865,7 +865,7 @@ residential,20,Slimline' Rake Trim,0,8,length,LENGTH,DESCRIPTION,"10'-2"""
 residential,20,Slimline' Rake Trim,0,8,girth,GIRTH,DESCRIPTION,8516
 residential,20,Slimline' Rake Trim,0,8,gauge,GAUGE,DESCRIPTION,29
 residential,20,Slimline' Rake Trim,0,8,weight_each,"WEIGHT
-EACH",DESCRIPTION,4.244
+EACH",DESCRIPTION,4.24#
 residential,20,Slimline' Rake Trim,0,8,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 residential,20,Slimline' Rake Trim,0,8,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,20,Slimline' Rake Trim,0,9,part,PART #,DESCRIPTION,FL-1034
@@ -978,7 +978,7 @@ residential,22,Fascia/Soffit Trim,2,0,part,PART #,DESCRIPTION,AG-458
 residential,22,Fascia/Soffit Trim,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
 residential,22,Fascia/Soffit Trim,2,0,girth,GIRTH,DESCRIPTION,"8 5/16"""
 residential,22,Fascia/Soffit Trim,2,0,gauge,GAUGE,DESCRIPTION,29
-residential,22,Fascia/Soffit Trim,2,0,weight_each,WEIGHT EACH,DESCRIPTION,415#
+residential,22,Fascia/Soffit Trim,2,0,weight_each,WEIGHT EACH,DESCRIPTION,4.15#
 residential,22,Fascia/Soffit Trim,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 residential,22,Fascia/Soffit Trim,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,22,Fascia/Soffit Trim,2,1,part,PART #,DESCRIPTION,AG-458
@@ -1062,7 +1062,7 @@ residential,24,5V Crimp Z Closure,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER
 residential,24,5V Crimp Z Closure,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,24,Eave Trim with Drip Edge,1,0,part,PART #,DESCRIPTION,AG-279
 residential,24,Eave Trim with Drip Edge,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
-residential,24,Eave Trim with Drip Edge,1,0,girth,GIRTH,DESCRIPTION,"O54"""
+residential,24,Eave Trim with Drip Edge,1,0,girth,GIRTH,DESCRIPTION,"9⅝"""
 residential,24,Eave Trim with Drip Edge,1,0,gauge,GAUGE,DESCRIPTION,29
 residential,24,Eave Trim with Drip Edge,1,0,weight_each,WEIGHT EACH,DESCRIPTION,4.77#
 residential,24,Eave Trim with Drip Edge,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓

@@ -116,7 +116,7 @@ commercial-industrial,6,AVP Panels,0,7,price,PRICE,,Please Inquire
 commercial-industrial,6,AVP Panels,0,8,gauge,GAUGE,DESCRIPTION,.024 Alum tt
 commercial-industrial,6,AVP Panels,0,8,coverage,COVERAGE,DESCRIPTION,"36"""
 commercial-industrial,6,AVP Panels,0,8,yield_psi,YIELD (PSI),DESCRIPTION,"18,000"
-commercial-industrial,6,AVP Panels,0,8,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,A1l#
+commercial-industrial,6,AVP Panels,0,8,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,41#
 commercial-industrial,6,AVP Panels,0,8,finish,FINISH*,DESCRIPTION,Signature® 200 - Polar White Only
 commercial-industrial,6,AVP Panels,0,8,price,PRICE,,✓
 commercial-industrial,8,PBR Panel with Drip Stop,0,0,gauge,GAUGE,DESCRIPTION,29
@@ -332,7 +332,7 @@ commercial-industrial,15,Cee or Zee,0,2,galvanized,GALVANIZED,PRICED PER 100 LF,
 commercial-industrial,15,Cee or Zee,0,3,normal_size,NORMAL SIZE,DESCRIPTION,4x 2%2
 commercial-industrial,15,Cee or Zee,0,3,actual_size,ACTUAL SIZE *,DESCRIPTION,4x 2% x 2%
 commercial-industrial,15,Cee or Zee,0,3,gauge,GAUGE,DESCRIPTION,14
-commercial-industrial,15,Cee or Zee,0,3,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.334
+commercial-industrial,15,Cee or Zee,0,3,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.33#
 commercial-industrial,15,Cee or Zee,0,3,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,3,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,4,normal_size,NORMAL SIZE,DESCRIPTION,5X 2%
@@ -350,7 +350,7 @@ commercial-industrial,15,Cee or Zee,0,5,galvanized,GALVANIZED,PRICED PER 100 LF,
 commercial-industrial,15,Cee or Zee,0,6,normal_size,NORMAL SIZE,DESCRIPTION,6x2%
 commercial-industrial,15,Cee or Zee,0,6,actual_size,ACTUAL SIZE *,DESCRIPTION,6x 2% x 2%
 commercial-industrial,15,Cee or Zee,0,6,gauge,GAUGE,DESCRIPTION,16
-commercial-industrial,15,Cee or Zee,0,6,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.344
+commercial-industrial,15,Cee or Zee,0,6,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.34#
 commercial-industrial,15,Cee or Zee,0,6,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,6,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,7,normal_size,NORMAL SIZE,DESCRIPTION,6 xX 2Y2
@@ -362,13 +362,13 @@ commercial-industrial,15,Cee or Zee,0,7,galvanized,GALVANIZED,PRICED PER 100 LF,
 commercial-industrial,15,Cee or Zee,0,8,normal_size,NORMAL SIZE,DESCRIPTION,7X 2%
 commercial-industrial,15,Cee or Zee,0,8,actual_size,ACTUAL SIZE *,DESCRIPTION,7X2%X 2%
 commercial-industrial,15,Cee or Zee,0,8,gauge,GAUGE,DESCRIPTION,16
-commercial-industrial,15,Cee or Zee,0,8,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.544
+commercial-industrial,15,Cee or Zee,0,8,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.54#
 commercial-industrial,15,Cee or Zee,0,8,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,8,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,9,normal_size,NORMAL SIZE,DESCRIPTION,7X 2%
 commercial-industrial,15,Cee or Zee,0,9,actual_size,ACTUAL SIZE *,DESCRIPTION,7X 2V8 xX 2%
 commercial-industrial,15,Cee or Zee,0,9,gauge,GAUGE,DESCRIPTION,14
-commercial-industrial,15,Cee or Zee,0,9,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.044
+commercial-industrial,15,Cee or Zee,0,9,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.04#
 commercial-industrial,15,Cee or Zee,0,9,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,9,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,10,normal_size,NORMAL SIZE,DESCRIPTION,7X3
@@ -425,10 +425,10 @@ commercial-industrial,15,Cee or Zee,0,18,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,15,Cee or Zee,0,18,weight_per_lf,WEIGHT PER LF,DESCRIPTION,5.23#
 commercial-industrial,15,Cee or Zee,0,18,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,18,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,16,Cee or Zee (Continued),0,0,normal_size,NORMAL SIZE,DESCRIPTION,8x 3h
+commercial-industrial,16,Cee or Zee (Continued),0,0,normal_size,NORMAL SIZE,DESCRIPTION,8 x 3½
 commercial-industrial,16,Cee or Zee (Continued),0,0,actual_size,ACTUAL SIZE *,DESCRIPTION,8 xX 3% x 3%
 commercial-industrial,16,Cee or Zee (Continued),0,0,gauge,GAUGE,DESCRIPTION,14
-commercial-industrial,16,Cee or Zee (Continued),0,0,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.744
+commercial-industrial,16,Cee or Zee (Continued),0,0,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.74#
 commercial-industrial,16,Cee or Zee (Continued),0,0,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,0,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,1,normal_size,NORMAL SIZE,DESCRIPTION,8x 3%
@@ -443,7 +443,7 @@ commercial-industrial,16,Cee or Zee (Continued),0,2,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,16,Cee or Zee (Continued),0,2,weight_per_lf,WEIGHT PER LF,DESCRIPTION,5.58#
 commercial-industrial,16,Cee or Zee (Continued),0,2,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,2,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,16,Cee or Zee (Continued),0,3,normal_size,NORMAL SIZE,DESCRIPTION,9x 2h
+commercial-industrial,16,Cee or Zee (Continued),0,3,normal_size,NORMAL SIZE,DESCRIPTION,9 x 2½
 commercial-industrial,16,Cee or Zee (Continued),0,3,actual_size,ACTUAL SIZE *,DESCRIPTION,9x 2% x 2%
 commercial-industrial,16,Cee or Zee (Continued),0,3,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,16,Cee or Zee (Continued),0,3,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.93#
@@ -464,7 +464,7 @@ commercial-industrial,16,Cee or Zee (Continued),0,5,galvanized,GALVANIZED,PRICED
 commercial-industrial,16,Cee or Zee (Continued),0,6,normal_size,NORMAL SIZE,DESCRIPTION,9x3
 commercial-industrial,16,Cee or Zee (Continued),0,6,actual_size,ACTUAL SIZE *,DESCRIPTION,9x2%x 2h
 commercial-industrial,16,Cee or Zee (Continued),0,6,gauge,GAUGE,DESCRIPTION,14
-commercial-industrial,16,Cee or Zee (Continued),0,6,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.744
+commercial-industrial,16,Cee or Zee (Continued),0,6,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.74#
 commercial-industrial,16,Cee or Zee (Continued),0,6,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,6,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,7,normal_size,NORMAL SIZE,DESCRIPTION,9x3
@@ -476,7 +476,7 @@ commercial-industrial,16,Cee or Zee (Continued),0,7,galvanized,GALVANIZED,PRICED
 commercial-industrial,16,Cee or Zee (Continued),0,8,normal_size,NORMAL SIZE,DESCRIPTION,10x 2%
 commercial-industrial,16,Cee or Zee (Continued),0,8,actual_size,ACTUAL SIZE *,DESCRIPTION,10x 2% x 2%
 commercial-industrial,16,Cee or Zee (Continued),0,8,gauge,GAUGE,DESCRIPTION,14
-commercial-industrial,16,Cee or Zee (Continued),0,8,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.744
+commercial-industrial,16,Cee or Zee (Continued),0,8,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.74#
 commercial-industrial,16,Cee or Zee (Continued),0,8,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,8,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,9,normal_size,NORMAL SIZE,DESCRIPTION,10x 2%
@@ -497,7 +497,7 @@ commercial-industrial,16,Cee or Zee (Continued),0,11,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,16,Cee or Zee (Continued),0,11,weight_per_lf,WEIGHT PER LF,DESCRIPTION,5.93#
 commercial-industrial,16,Cee or Zee (Continued),0,11,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,11,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,16,Cee or Zee (Continued),0,12,normal_size,NORMAL SIZE,DESCRIPTION,10x 3h
+commercial-industrial,16,Cee or Zee (Continued),0,12,normal_size,NORMAL SIZE,DESCRIPTION,10 x 3½
 commercial-industrial,16,Cee or Zee (Continued),0,12,actual_size,ACTUAL SIZE *,DESCRIPTION,10x 3% x 3%
 commercial-industrial,16,Cee or Zee (Continued),0,12,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,16,Cee or Zee (Continued),0,12,weight_per_lf,WEIGHT PER LF,DESCRIPTION,4.21#
@@ -506,28 +506,28 @@ commercial-industrial,16,Cee or Zee (Continued),0,12,galvanized,GALVANIZED,PRICE
 commercial-industrial,16,Cee or Zee (Continued),0,13,normal_size,NORMAL SIZE,DESCRIPTION,10x3h%
 commercial-industrial,16,Cee or Zee (Continued),0,13,actual_size,ACTUAL SIZE *,DESCRIPTION,10x 3%x 3%
 commercial-industrial,16,Cee or Zee (Continued),0,13,gauge,GAUGE,DESCRIPTION,12
-commercial-industrial,16,Cee or Zee (Continued),0,13,weight_per_lf,WEIGHT PER LF,DESCRIPTION,6.284
+commercial-industrial,16,Cee or Zee (Continued),0,13,weight_per_lf,WEIGHT PER LF,DESCRIPTION,6.28#
 commercial-industrial,16,Cee or Zee (Continued),0,13,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,13,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,16,Cee or Zee (Continued),0,14,normal_size,NORMAL SIZE,DESCRIPTION,11x2h
+commercial-industrial,16,Cee or Zee (Continued),0,14,normal_size,NORMAL SIZE,DESCRIPTION,11 x 2½
 commercial-industrial,16,Cee or Zee (Continued),0,14,actual_size,ACTUAL SIZE *,DESCRIPTION,11x 2%x 2%
 commercial-industrial,16,Cee or Zee (Continued),0,14,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,16,Cee or Zee (Continued),0,14,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.97#
 commercial-industrial,16,Cee or Zee (Continued),0,14,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,14,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,16,Cee or Zee (Continued),0,15,normal_size,NORMAL SIZE,DESCRIPTION,11x2h
+commercial-industrial,16,Cee or Zee (Continued),0,15,normal_size,NORMAL SIZE,DESCRIPTION,11 x 2½
 commercial-industrial,16,Cee or Zee (Continued),0,15,actual_size,ACTUAL SIZE *,DESCRIPTION,11x 2% x 2%
 commercial-industrial,16,Cee or Zee (Continued),0,15,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,16,Cee or Zee (Continued),0,15,weight_per_lf,WEIGHT PER LF,DESCRIPTION,5.93#
 commercial-industrial,16,Cee or Zee (Continued),0,15,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,15,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,16,Cee or Zee (Continued),0,16,normal_size,NORMAL SIZE,DESCRIPTION,11x3h
+commercial-industrial,16,Cee or Zee (Continued),0,16,normal_size,NORMAL SIZE,DESCRIPTION,11 x 3½
 commercial-industrial,16,Cee or Zee (Continued),0,16,actual_size,ACTUAL SIZE *,DESCRIPTION,11x3%x3%
 commercial-industrial,16,Cee or Zee (Continued),0,16,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,16,Cee or Zee (Continued),0,16,weight_per_lf,WEIGHT PER LF,DESCRIPTION,4.44#
 commercial-industrial,16,Cee or Zee (Continued),0,16,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,16,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,16,Cee or Zee (Continued),0,17,normal_size,NORMAL SIZE,DESCRIPTION,11x3h
+commercial-industrial,16,Cee or Zee (Continued),0,17,normal_size,NORMAL SIZE,DESCRIPTION,11 x 3½
 commercial-industrial,16,Cee or Zee (Continued),0,17,actual_size,ACTUAL SIZE *,DESCRIPTION,11xX3%x3%
 commercial-industrial,16,Cee or Zee (Continued),0,17,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,16,Cee or Zee (Continued),0,17,weight_per_lf,WEIGHT PER LF,DESCRIPTION,6.63#
@@ -557,7 +557,7 @@ commercial-industrial,16,Cee or Zee (Continued),0,21,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,16,Cee or Zee (Continued),0,21,weight_per_lf,WEIGHT PER LF,DESCRIPTION,6.63#
 commercial-industrial,16,Cee or Zee (Continued),0,21,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,21,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,16,Cee or Zee (Continued),0,22,normal_size,NORMAL SIZE,DESCRIPTION,12x3h
+commercial-industrial,16,Cee or Zee (Continued),0,22,normal_size,NORMAL SIZE,DESCRIPTION,12 x 3½
 commercial-industrial,16,Cee or Zee (Continued),0,22,actual_size,ACTUAL SIZE *,DESCRIPTION,12x 3% x 3%
 commercial-industrial,16,Cee or Zee (Continued),0,22,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,16,Cee or Zee (Continued),0,22,weight_per_lf,WEIGHT PER LF,DESCRIPTION,4.68#
@@ -571,12 +571,12 @@ commercial-industrial,16,Cee or Zee (Continued),0,23,red_oxide,RED OXIDE,PRICED 
 commercial-industrial,16,Cee or Zee (Continued),0,23,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,0,nominal_size,NOMINAL SIZE,DESCRIPTION,6x3
 commercial-industrial,17,Cee Only,0,0,gauge,GAUGE,DESCRIPTION,16
-commercial-industrial,17,Cee Only,0,0,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.544
+commercial-industrial,17,Cee Only,0,0,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.54#
 commercial-industrial,17,Cee Only,0,0,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,0,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,1,nominal_size,NOMINAL SIZE,DESCRIPTION,6x3
 commercial-industrial,17,Cee Only,0,1,gauge,GAUGE,DESCRIPTION,14
-commercial-industrial,17,Cee Only,0,1,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.044
+commercial-industrial,17,Cee Only,0,1,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.04#
 commercial-industrial,17,Cee Only,0,1,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,1,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,2,nominal_size,NOMINAL SIZE,DESCRIPTION,6x 3%
@@ -586,7 +586,7 @@ commercial-industrial,17,Cee Only,0,2,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,2,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,3,nominal_size,NOMINAL SIZE,DESCRIPTION,6x 3%
 commercial-industrial,17,Cee Only,0,3,gauge,GAUGE,DESCRIPTION,12
-commercial-industrial,17,Cee Only,0,3,weight_per_lf,WEIGHT PER LF,DESCRIPTION,4.884
+commercial-industrial,17,Cee Only,0,3,weight_per_lf,WEIGHT PER LF,DESCRIPTION,4.88#
 commercial-industrial,17,Cee Only,0,3,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,3,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,4,nominal_size,NOMINAL SIZE,DESCRIPTION,6x4
@@ -616,7 +616,7 @@ commercial-industrial,17,Cee Only,0,8,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,8,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,9,nominal_size,NOMINAL SIZE,DESCRIPTION,10x4
 commercial-industrial,17,Cee Only,0,9,gauge,GAUGE,DESCRIPTION,12
-commercial-industrial,17,Cee Only,0,9,weight_per_lf,WEIGHT PER LF,DESCRIPTION,6.634
+commercial-industrial,17,Cee Only,0,9,weight_per_lf,WEIGHT PER LF,DESCRIPTION,6.63#
 commercial-industrial,17,Cee Only,0,9,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,9,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,10,nominal_size,NOMINAL SIZE,DESCRIPTION,11x3
@@ -626,7 +626,7 @@ commercial-industrial,17,Cee Only,0,10,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,10,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,11,nominal_size,NOMINAL SIZE,DESCRIPTION,11x3
 commercial-industrial,17,Cee Only,0,11,gauge,GAUGE,DESCRIPTION,12
-commercial-industrial,17,Cee Only,0,11,weight_per_lf,WEIGHT PER LF,DESCRIPTION,6.284
+commercial-industrial,17,Cee Only,0,11,weight_per_lf,WEIGHT PER LF,DESCRIPTION,6.28#
 commercial-industrial,17,Cee Only,0,11,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,11,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,12,nominal_size,NOMINAL SIZE,DESCRIPTION,12x4
@@ -636,7 +636,7 @@ commercial-industrial,17,Cee Only,0,12,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,12,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,13,nominal_size,NOMINAL SIZE,DESCRIPTION,12x4
 commercial-industrial,17,Cee Only,0,13,gauge,GAUGE,DESCRIPTION,12
-commercial-industrial,17,Cee Only,0,13,weight_per_lf,WEIGHT PER LF,DESCRIPTION,7.334
+commercial-industrial,17,Cee Only,0,13,weight_per_lf,WEIGHT PER LF,DESCRIPTION,7.33#
 commercial-industrial,17,Cee Only,0,13,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,17,Cee Only,0,13,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,0,normal_size,NORMAL SIZE,DESCRIPTION,3% x 1%
@@ -666,10 +666,10 @@ commercial-industrial,18,Zee Only,0,3,galvanized,GALVANIZED,PRICED PER 100 LF,�
 commercial-industrial,18,Zee Only,0,4,normal_size,NORMAL SIZE,DESCRIPTION,4x 3%
 commercial-industrial,18,Zee Only,0,4,actual_size,ACTUAL SIZE,DESCRIPTION,4x 3% x 3%
 commercial-industrial,18,Zee Only,0,4,gauge,GAUGE,DESCRIPTION,16
-commercial-industrial,18,Zee Only,0,4,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.344
+commercial-industrial,18,Zee Only,0,4,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.34#
 commercial-industrial,18,Zee Only,0,4,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,4,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,18,Zee Only,0,5,normal_size,NORMAL SIZE,DESCRIPTION,4x 3h
+commercial-industrial,18,Zee Only,0,5,normal_size,NORMAL SIZE,DESCRIPTION,4 x 3½
 commercial-industrial,18,Zee Only,0,5,actual_size,ACTUAL SIZE,DESCRIPTION,4x 3% x 3%
 commercial-industrial,18,Zee Only,0,5,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,18,Zee Only,0,5,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.80#
@@ -678,7 +678,7 @@ commercial-industrial,18,Zee Only,0,5,galvanized,GALVANIZED,PRICED PER 100 LF,�
 commercial-industrial,18,Zee Only,0,6,normal_size,NORMAL SIZE,DESCRIPTION,5x3
 commercial-industrial,18,Zee Only,0,6,actual_size,ACTUAL SIZE,DESCRIPTION,5x2%x 2h
 commercial-industrial,18,Zee Only,0,6,gauge,GAUGE,DESCRIPTION,16
-commercial-industrial,18,Zee Only,0,6,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.344
+commercial-industrial,18,Zee Only,0,6,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.34#
 commercial-industrial,18,Zee Only,0,6,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,6,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,7,normal_size,NORMAL SIZE,DESCRIPTION,5x3
@@ -690,13 +690,13 @@ commercial-industrial,18,Zee Only,0,7,galvanized,GALVANIZED,PRICED PER 100 LF,�
 commercial-industrial,18,Zee Only,0,8,normal_size,NORMAL SIZE,DESCRIPTION,5x3h%
 commercial-industrial,18,Zee Only,0,8,actual_size,ACTUAL SIZE,DESCRIPTION,5x3%x3%
 commercial-industrial,18,Zee Only,0,8,gauge,GAUGE,DESCRIPTION,16
-commercial-industrial,18,Zee Only,0,8,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.544
+commercial-industrial,18,Zee Only,0,8,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.54#
 commercial-industrial,18,Zee Only,0,8,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,8,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,18,Zee Only,0,9,normal_size,NORMAL SIZE,DESCRIPTION,5x 3h
+commercial-industrial,18,Zee Only,0,9,normal_size,NORMAL SIZE,DESCRIPTION,5 x 3½
 commercial-industrial,18,Zee Only,0,9,actual_size,ACTUAL SIZE,DESCRIPTION,5x 3% x 3%
 commercial-industrial,18,Zee Only,0,9,gauge,GAUGE,DESCRIPTION,14
-commercial-industrial,18,Zee Only,0,9,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.044
+commercial-industrial,18,Zee Only,0,9,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.04#
 commercial-industrial,18,Zee Only,0,9,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,9,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,10,normal_size,NORMAL SIZE,DESCRIPTION,7X 3%
@@ -717,13 +717,13 @@ commercial-industrial,18,Zee Only,0,12,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,18,Zee Only,0,12,weight_per_lf,WEIGHT PER LF,DESCRIPTION,5.23#
 commercial-industrial,18,Zee Only,0,12,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,12,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,18,Zee Only,0,13,normal_size,NORMAL SIZE,DESCRIPTION,9x 3h
+commercial-industrial,18,Zee Only,0,13,normal_size,NORMAL SIZE,DESCRIPTION,9 x 3½
 commercial-industrial,18,Zee Only,0,13,actual_size,ACTUAL SIZE,DESCRIPTION,9x 3% x 3%
 commercial-industrial,18,Zee Only,0,13,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,18,Zee Only,0,13,weight_per_lf,WEIGHT PER LF,DESCRIPTION,3.97#
 commercial-industrial,18,Zee Only,0,13,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,13,galvanized,GALVANIZED,PRICED PER 100 LF,✓
-commercial-industrial,18,Zee Only,0,14,normal_size,NORMAL SIZE,DESCRIPTION,9x 3h
+commercial-industrial,18,Zee Only,0,14,normal_size,NORMAL SIZE,DESCRIPTION,9 x 3½
 commercial-industrial,18,Zee Only,0,14,actual_size,ACTUAL SIZE,DESCRIPTION,9x 3% x 3%
 commercial-industrial,18,Zee Only,0,14,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,18,Zee Only,0,14,weight_per_lf,WEIGHT PER LF,DESCRIPTION,5.93#
@@ -733,9 +733,9 @@ commercial-industrial,19,Channel,0,0,size,SIZE,DESCRIPTION,4% x2
 commercial-industrial,19,Channel,0,0,girth,GIRTH,DESCRIPTION,76
 commercial-industrial,19,Channel,0,0,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,19,Channel,0,0,weight_each_red_oxide,"WEIGHT EACH
-RED OXIDE",DESCRIPTION,31.134
+RED OXIDE",DESCRIPTION,31.13#
 commercial-industrial,19,Channel,0,0,weight_each_galvanized,"WEIGHT EACH
-GALVANIZED",DESCRIPTION,32.244
+GALVANIZED",DESCRIPTION,32.24#
 commercial-industrial,19,Channel,0,0,length,LENGTH,DESCRIPTION,"20'-0"""
 commercial-industrial,19,Channel,0,0,red_oxide,RED OXIDE,PRICED PER EACH,✓
 commercial-industrial,19,Channel,0,0,galvanized,GALVANIZED,PRICED PER EACH,✓
@@ -743,7 +743,7 @@ commercial-industrial,19,Channel,0,1,size,SIZE,DESCRIPTION,4% x2
 commercial-industrial,19,Channel,0,1,girth,GIRTH,DESCRIPTION,76
 commercial-industrial,19,Channel,0,1,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,19,Channel,0,1,weight_each_red_oxide,"WEIGHT EACH
-RED OXIDE",DESCRIPTION,38.924
+RED OXIDE",DESCRIPTION,38.92#
 commercial-industrial,19,Channel,0,1,weight_each_galvanized,"WEIGHT EACH
 GALVANIZED",DESCRIPTION,40.31#
 commercial-industrial,19,Channel,0,1,length,LENGTH,DESCRIPTION,"25'-0"""
@@ -765,7 +765,7 @@ commercial-industrial,19,Channel,0,3,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,19,Channel,0,3,weight_each_red_oxide,"WEIGHT EACH
 RED OXIDE",DESCRIPTION,46.56#
 commercial-industrial,19,Channel,0,3,weight_each_galvanized,"WEIGHT EACH
-GALVANIZED",DESCRIPTION,47.944
+GALVANIZED",DESCRIPTION,47.94#
 commercial-industrial,19,Channel,0,3,length,LENGTH,DESCRIPTION,"25'-0"""
 commercial-industrial,19,Channel,0,3,red_oxide,RED OXIDE,PRICED PER EACH,✓
 commercial-industrial,19,Channel,0,3,galvanized,GALVANIZED,PRICED PER EACH,✓
@@ -825,7 +825,7 @@ commercial-industrial,19,Channel,0,9,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,19,Channel,0,9,weight_each_red_oxide,"WEIGHT EACH
 RED OXIDE",DESCRIPTION,87.00#
 commercial-industrial,19,Channel,0,9,weight_each_galvanized,"WEIGHT EACH
-GALVANIZED",DESCRIPTION,88.744
+GALVANIZED",DESCRIPTION,88.74#
 commercial-industrial,19,Channel,0,9,length,LENGTH,DESCRIPTION,"25'-0"""
 commercial-industrial,19,Channel,0,9,red_oxide,RED OXIDE,PRICED PER EACH,✓
 commercial-industrial,19,Channel,0,9,galvanized,GALVANIZED,PRICED PER EACH,✓
@@ -865,7 +865,7 @@ commercial-industrial,19,Channel,0,13,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,19,Channel,0,13,weight_each_red_oxide,"WEIGHT EACH
 RED OXIDE",DESCRIPTION,70.02#
 commercial-industrial,19,Channel,0,13,weight_each_galvanized,"WEIGHT EACH
-GALVANIZED",DESCRIPTION,72.114
+GALVANIZED",DESCRIPTION,72.11#
 commercial-industrial,19,Channel,0,13,length,LENGTH,DESCRIPTION,"25'-0"""
 commercial-industrial,19,Channel,0,13,red_oxide,RED OXIDE,PRICED PER EACH,✓
 commercial-industrial,19,Channel,0,13,galvanized,GALVANIZED,PRICED PER EACH,✓
@@ -915,7 +915,7 @@ commercial-industrial,19,Channel,0,18,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,19,Channel,0,18,weight_each_red_oxide,"WEIGHT EACH
 RED OXIDE",DESCRIPTION,65.40#
 commercial-industrial,19,Channel,0,18,weight_each_galvanized,"WEIGHT EACH
-GALVANIZED",DESCRIPTION,67.354
+GALVANIZED",DESCRIPTION,67.35#
 commercial-industrial,19,Channel,0,18,length,LENGTH,DESCRIPTION,"20'-0"""
 commercial-industrial,19,Channel,0,18,red_oxide,RED OXIDE,PRICED PER EACH,✓
 commercial-industrial,19,Channel,0,18,galvanized,GALVANIZED,PRICED PER EACH,✓
@@ -988,13 +988,13 @@ commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,5,price,PRICE,,✓
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,6,size,SIZE,DESCRIPTION,2x4
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,6,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,6,finish,FINISH,DESCRIPTION,Red Oxide
-commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,6,weight_each,WEIGHT EACH,DESCRIPTION,23.294
+commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,6,weight_each,WEIGHT EACH,DESCRIPTION,23.29#
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,6,length,LENGTH,DESCRIPTION,"20'-0"""
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,6,price,PRICE,,✓
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,7,size,SIZE,DESCRIPTION,2x4
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,7,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,7,finish,FINISH,DESCRIPTION,Galvanized
-commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,7,weight_each,WEIGHT EACH,DESCRIPTION,24.124
+commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,7,weight_each,WEIGHT EACH,DESCRIPTION,24.12#
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,7,length,LENGTH,DESCRIPTION,"20'-0"""
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,7,price,PRICE,,✓
 commercial-industrial,20,"Angle -2x2,2x4,and3x3",0,8,size,SIZE,DESCRIPTION,3x3
@@ -1064,7 +1064,7 @@ commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,7,c
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,8,size,SIZE,DESCRIPTION,8x5x5
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,8,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,8,finish,FINISH,DESCRIPTION,Galvanized
-commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,8,column_4,,WEIGHT PER LF,4.644
+commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,8,column_4,,WEIGHT PER LF,4.64#
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,8,column_6,,PRICED PER 100 LF,✓
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,9,size,SIZE,DESCRIPTION,8x5x5
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,9,gauge,GAUGE,DESCRIPTION,12
@@ -1129,7 +1129,7 @@ commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,8,
 commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,9,size,SIZE,DESCRIPTION,10x5x5
 commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,9,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,9,finish,FINISH,DESCRIPTION,Red Oxide
-commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,9,column_4,,WEIGHT PER LF,7 58H
+commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,9,column_4,,WEIGHT PER LF,7.58#
 commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,9,column_6,,PRICED PER 100 LF,✓
 commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,10,size,SIZE,DESCRIPTION,10x5x5
 commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,10,gauge,GAUGE,DESCRIPTION,12
@@ -1142,7 +1142,7 @@ commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,11
 commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,11,column_4,,WEIGHT PER LF,7 58#
 commercial-industrial,22,"Eave Strut - 10"" Nominal Height - Custom Length",0,11,column_6,,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,0,part,PART #,DESCRIPTION,PLO3
-commercial-industrial,23,Custom Structural Shapes,0,0,girth,GIRTH,DESCRIPTION,316
+commercial-industrial,23,Custom Structural Shapes,0,0,girth,GIRTH,DESCRIPTION,"3¹⁵⁄₁₆"""
 commercial-industrial,23,Custom Structural Shapes,0,0,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,23,Custom Structural Shapes,0,0,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,0,galvanized,GALVANIZED,PRICED PER 100 LF,✓
@@ -1152,12 +1152,12 @@ commercial-industrial,23,Custom Structural Shapes,0,1,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,23,Custom Structural Shapes,0,1,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,1,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,2,part,PART #,DESCRIPTION,PLO5
-commercial-industrial,23,Custom Structural Shapes,0,2,girth,GIRTH,DESCRIPTION,516
+commercial-industrial,23,Custom Structural Shapes,0,2,girth,GIRTH,DESCRIPTION,"5¹⁵⁄₁₆"""
 commercial-industrial,23,Custom Structural Shapes,0,2,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,23,Custom Structural Shapes,0,2,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,2,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,3,part,PART #,DESCRIPTION,PLO5
-commercial-industrial,23,Custom Structural Shapes,0,3,girth,GIRTH,DESCRIPTION,516
+commercial-industrial,23,Custom Structural Shapes,0,3,girth,GIRTH,DESCRIPTION,"5¹⁵⁄₁₆"""
 commercial-industrial,23,Custom Structural Shapes,0,3,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,23,Custom Structural Shapes,0,3,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,3,galvanized,GALVANIZED,PRICED PER 100 LF,✓
@@ -1172,12 +1172,12 @@ commercial-industrial,23,Custom Structural Shapes,0,5,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,23,Custom Structural Shapes,0,5,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,5,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,6,part,PART #,DESCRIPTION,PLO8&
-commercial-industrial,23,Custom Structural Shapes,0,6,girth,GIRTH,DESCRIPTION,816
+commercial-industrial,23,Custom Structural Shapes,0,6,girth,GIRTH,DESCRIPTION,"8¹⁵⁄₁₆"""
 commercial-industrial,23,Custom Structural Shapes,0,6,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,23,Custom Structural Shapes,0,6,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,6,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,7,part,PART #,DESCRIPTION,PLO8
-commercial-industrial,23,Custom Structural Shapes,0,7,girth,GIRTH,DESCRIPTION,816
+commercial-industrial,23,Custom Structural Shapes,0,7,girth,GIRTH,DESCRIPTION,"8¹⁵⁄₁₆"""
 commercial-industrial,23,Custom Structural Shapes,0,7,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,23,Custom Structural Shapes,0,7,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,7,galvanized,GALVANIZED,PRICED PER 100 LF,✓
@@ -1187,7 +1187,7 @@ commercial-industrial,23,Custom Structural Shapes,0,8,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,23,Custom Structural Shapes,0,8,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,8,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,9,part,PART #,DESCRIPTION,PLO9
-commercial-industrial,23,Custom Structural Shapes,0,9,girth,GIRTH,DESCRIPTION,916
+commercial-industrial,23,Custom Structural Shapes,0,9,girth,GIRTH,DESCRIPTION,"9¹⁵⁄₁₆"""
 commercial-industrial,23,Custom Structural Shapes,0,9,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,23,Custom Structural Shapes,0,9,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,23,Custom Structural Shapes,0,9,galvanized,GALVANIZED,PRICED PER 100 LF,✓
@@ -1363,7 +1363,7 @@ commercial-industrial,25,Furring Zee,0,0,part,PART #,DESCRIPTION,HW-3020
 commercial-industrial,25,Furring Zee,0,0,dim_a,"DIM ""A""",DESCRIPTION,"1%"""
 commercial-industrial,25,Furring Zee,0,0,gauge,GAUGE,DESCRIPTION,22
 commercial-industrial,25,Furring Zee,0,0,finish,FINISH,DESCRIPTION,Galvanized
-commercial-industrial,25,Furring Zee,0,0,coil_weight,COIL WEIGHT,DESCRIPTION,3.334
+commercial-industrial,25,Furring Zee,0,0,coil_weight,COIL WEIGHT,DESCRIPTION,3.33#
 commercial-industrial,25,Furring Zee,0,0,length,LENGTH,DESCRIPTION,"10'-0"""
 commercial-industrial,25,Furring Zee,0,0,price,PRICE,,✓
 commercial-industrial,25,Furring Zee,0,1,part,PART #,DESCRIPTION,HW-3021
@@ -1391,7 +1391,7 @@ commercial-industrial,25,Furring Zee,0,4,part,PART #,DESCRIPTION,HW-3024
 commercial-industrial,25,Furring Zee,0,4,dim_a,"DIM ""A""",DESCRIPTION,"3%"""
 commercial-industrial,25,Furring Zee,0,4,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,25,Furring Zee,0,4,finish,FINISH,DESCRIPTION,Red Oxide
-commercial-industrial,25,Furring Zee,0,4,coil_weight,COIL WEIGHT,DESCRIPTION,10.544
+commercial-industrial,25,Furring Zee,0,4,coil_weight,COIL WEIGHT,DESCRIPTION,10.54#
 commercial-industrial,25,Furring Zee,0,4,length,LENGTH,DESCRIPTION,"10'-0"""
 commercial-industrial,25,Furring Zee,0,4,price,PRICE,,✓
 commercial-industrial,25,Furring Zee,0,5,part,PART #,DESCRIPTION,HW-3025
@@ -1470,7 +1470,7 @@ commercial-industrial,26,R Panel Light Transmitting Panel,1,1,type,TYPE,DESCRIPT
 commercial-industrial,26,R Panel Light Transmitting Panel,1,1,weight_sqft,"WEIGHT /
 SQFT",DESCRIPTION,8 ounce
 commercial-industrial,26,R Panel Light Transmitting Panel,1,1,weight_each,"WEIGHT
-EACH",DESCRIPTION,17.394
+EACH",DESCRIPTION,17.39#
 commercial-industrial,26,R Panel Light Transmitting Panel,1,1,price,PRICE,,✓
 commercial-industrial,26,R Panel Light Transmitting Panel,1,2,part,PART #,DESCRIPTION,HW-1432
 commercial-industrial,26,R Panel Light Transmitting Panel,1,2,description,DESCRIPTION,DESCRIPTION,High Strength Fiberglass - U.V. Resistant
@@ -1510,7 +1510,7 @@ commercial-industrial,26,R Panel Light Transmitting Panel,1,5,type,TYPE,DESCRIPT
 commercial-industrial,26,R Panel Light Transmitting Panel,1,5,weight_sqft,"WEIGHT /
 SQFT",DESCRIPTION,5 ounce
 commercial-industrial,26,R Panel Light Transmitting Panel,1,5,weight_each,"WEIGHT
-EACH",DESCRIPTION,788#
+EACH",DESCRIPTION,7.88#
 commercial-industrial,26,R Panel Light Transmitting Panel,1,5,price,PRICE,,✓
 commercial-industrial,27,U Panel Light Transmitting Panel,0,0,part,PART #,DESCRIPTION,HW-1542
 commercial-industrial,27,U Panel Light Transmitting Panel,0,0,description,DESCRIPTION,DESCRIPTION,High Strength Fiberglass
@@ -1638,7 +1638,7 @@ commercial-industrial,29,Vent Damper Operator Parts,2,0,price,PRICE,,✓
 commercial-industrial,29,Vent Damper Operator Parts,2,1,part,PART #,DESCRIPTION,HW-706
 commercial-industrial,29,Vent Damper Operator Parts,2,1,description,DESCRIPTION,DESCRIPTION,Vent Pully
 commercial-industrial,29,Vent Damper Operator Parts,2,1,priced_per,PRICED PER,DESCRIPTION,Each
-commercial-industrial,29,Vent Damper Operator Parts,2,1,weight_each,WEIGHT EACH,DESCRIPTION,.25
+commercial-industrial,29,Vent Damper Operator Parts,2,1,weight_each,WEIGHT EACH,DESCRIPTION,.25#
 commercial-industrial,29,Vent Damper Operator Parts,2,1,price,PRICE,,✓
 commercial-industrial,29,Vent Damper Operator Parts,2,2,part,PART #,DESCRIPTION,HW-708
 commercial-industrial,29,Vent Damper Operator Parts,2,2,description,DESCRIPTION,DESCRIPTION,Vent Cable Clamp
@@ -1712,14 +1712,14 @@ commercial-industrial,31,Rubber Roof Jack,0,0,part,PART #,DESCRIPTION,HW-1000
 commercial-industrial,31,Rubber Roof Jack,0,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 commercial-industrial,31,Rubber Roof Jack,0,0,pipe_size,PIPE SIZE,DESCRIPTION,"ta"" 1 V5"""
-commercial-industrial,31,Rubber Roof Jack,0,0,base_dim,BASE DIM.,DESCRIPTION,4
+commercial-industrial,31,Rubber Roof Jack,0,0,base_dim,BASE DIM.,DESCRIPTION,"4½"""
 commercial-industrial,31,Rubber Roof Jack,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.17#
 commercial-industrial,31,Rubber Roof Jack,0,0,price,PRICE,,✓
 commercial-industrial,31,Rubber Roof Jack,0,1,part,PART #,DESCRIPTION,HW-1001
 commercial-industrial,31,Rubber Roof Jack,0,1,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 commercial-industrial,31,Rubber Roof Jack,0,1,pipe_size,PIPE SIZE,DESCRIPTION,"1%"" - 4"""
-commercial-industrial,31,Rubber Roof Jack,0,1,base_dim,BASE DIM.,DESCRIPTION,8
+commercial-industrial,31,Rubber Roof Jack,0,1,base_dim,BASE DIM.,DESCRIPTION,"8"""
 commercial-industrial,31,Rubber Roof Jack,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.0
 commercial-industrial,31,Rubber Roof Jack,0,1,price,PRICE,,✓
 commercial-industrial,31,Rubber Roof Jack,0,2,part,PART #,DESCRIPTION,HW-1002
@@ -1745,7 +1745,7 @@ commercial-industrial,31,Rubber Roof Jack,0,4,weight_each,WEIGHT EACH,DESCRIPTIO
 commercial-industrial,31,Rubber Roof Jack,0,4,price,PRICE,,✓
 commercial-industrial,31,Rubber Roof Jack,1,0,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,0,high_temperatuf,HIGH TEMPERATUF,,"Y,"" _ 4A"""
-commercial-industrial,31,Rubber Roof Jack,1,0,e,E,,8
+commercial-industrial,31,Rubber Roof Jack,1,0,e,E,,"8"""
 commercial-industrial,31,Rubber Roof Jack,1,0,column_4,,,.0
 commercial-industrial,31,Rubber Roof Jack,1,0,column_5,,,v
 commercial-industrial,31,Rubber Roof Jack,1,1,column_1,,,-100°F to +437°F
@@ -1767,7 +1767,7 @@ commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,part,PART #,DESCRIPTION,H
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,pipe_size,PIPE SIZE,DESCRIPTION,"Ya"" _ 4A"""
-commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,base_dim,BASE DIM.,DESCRIPTION,"B8%e"""
+commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,base_dim,BASE DIM.,DESCRIPTION,"8³⁄₁₆"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.4
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,price,PRICE,,✓
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,1,part,PART #,DESCRIPTION,HW-1006
@@ -2061,7 +2061,7 @@ commercial-industrial,37,Tube Sealant,0,2,part,PART #,DESCRIPTION,HW-540
 commercial-industrial,37,Tube Sealant,0,2,type,TYPE,DESCRIPTION,Urethane
 commercial-industrial,37,Tube Sealant,0,2,color,COLOR,DESCRIPTION,White
 commercial-industrial,37,Tube Sealant,0,2,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-commercial-industrial,37,Tube Sealant,0,2,tube_weight,TUBE WEIGHT,DESCRIPTION,.5
+commercial-industrial,37,Tube Sealant,0,2,tube_weight,TUBE WEIGHT,DESCRIPTION,.85#
 commercial-industrial,37,Tube Sealant,0,2,price,PRICE,,✓
 commercial-industrial,37,Tube Sealant,0,3,part,PART #,DESCRIPTION,HW-541
 commercial-industrial,37,Tube Sealant,0,3,type,TYPE,DESCRIPTION,Urethane
@@ -2097,7 +2097,7 @@ commercial-industrial,37,Touch Up Paint,1,1,part,PART #,DESCRIPTION,HW-305
 commercial-industrial,37,Touch Up Paint,1,1,finish,FINISH,DESCRIPTION,Signature® 300
 commercial-industrial,37,Touch Up Paint,1,1,size,SIZE,DESCRIPTION,2 ounce
 commercial-industrial,37,Touch Up Paint,1,1,color,COLOR,DESCRIPTION,See Color Chart
-commercial-industrial,37,Touch Up Paint,1,1,weight_each,WEIGHT EACH,DESCRIPTION,.0#
+commercial-industrial,37,Touch Up Paint,1,1,weight_each,WEIGHT EACH,DESCRIPTION,.50#
 commercial-industrial,37,Touch Up Paint,1,1,price,PRICE,,✓
 commercial-industrial,37,Touch Up Paint,1,2,part,PART #,DESCRIPTION,HW-310S
 commercial-industrial,37,Touch Up Paint,1,2,finish,FINISH,DESCRIPTION,Spray Primer
@@ -2247,7 +2247,7 @@ commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,3,weight_each,WEIGH
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,3,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,0,part,PART #,DESCRIPTION,HW-390
 commercial-industrial,40,Hillside and Flat Washers,2,0,type,TYPE,DESCRIPTION,Flat
-commercial-industrial,40,Hillside and Flat Washers,2,0,size,SIZE,DESCRIPTION,7
+commercial-industrial,40,Hillside and Flat Washers,2,0,size,SIZE,DESCRIPTION,"½"""
 commercial-industrial,40,Hillside and Flat Washers,2,0,finish,FINISH,DESCRIPTION,Plated
 commercial-industrial,40,Hillside and Flat Washers,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.4#
 commercial-industrial,40,Hillside and Flat Washers,2,0,price,PRICE,,✓
@@ -2265,7 +2265,7 @@ commercial-industrial,40,Hillside and Flat Washers,2,2,weight_each,WEIGHT EACH,D
 commercial-industrial,40,Hillside and Flat Washers,2,2,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,3,part,PART #,DESCRIPTION,HW-382
 commercial-industrial,40,Hillside and Flat Washers,2,3,type,TYPE,DESCRIPTION,Flat
-commercial-industrial,40,Hillside and Flat Washers,2,3,size,SIZE,DESCRIPTION,7
+commercial-industrial,40,Hillside and Flat Washers,2,3,size,SIZE,DESCRIPTION,"⅞"""
 commercial-industrial,40,Hillside and Flat Washers,2,3,finish,FINISH,DESCRIPTION,Plated
 commercial-industrial,40,Hillside and Flat Washers,2,3,weight_each,WEIGHT EACH,DESCRIPTION,.15#
 commercial-industrial,40,Hillside and Flat Washers,2,3,price,PRICE,,✓
@@ -2277,7 +2277,7 @@ commercial-industrial,40,Hillside and Flat Washers,2,4,weight_each,WEIGHT EACH,D
 commercial-industrial,40,Hillside and Flat Washers,2,4,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,5,part,PART #,DESCRIPTION,HW-394
 commercial-industrial,40,Hillside and Flat Washers,2,5,type,TYPE,DESCRIPTION,Hillside
-commercial-industrial,40,Hillside and Flat Washers,2,5,size,SIZE,DESCRIPTION,7
+commercial-industrial,40,Hillside and Flat Washers,2,5,size,SIZE,DESCRIPTION,"½"""
 commercial-industrial,40,Hillside and Flat Washers,2,5,finish,FINISH,DESCRIPTION,Black
 commercial-industrial,40,Hillside and Flat Washers,2,5,weight_each,WEIGHT EACH,DESCRIPTION,.34#
 commercial-industrial,40,Hillside and Flat Washers,2,5,price,PRICE,,✓
@@ -2295,7 +2295,7 @@ commercial-industrial,40,Hillside and Flat Washers,2,7,weight_each,WEIGHT EACH,D
 commercial-industrial,40,Hillside and Flat Washers,2,7,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,8,part,PART #,DESCRIPTION,HW-397
 commercial-industrial,40,Hillside and Flat Washers,2,8,type,TYPE,DESCRIPTION,Hillside
-commercial-industrial,40,Hillside and Flat Washers,2,8,size,SIZE,DESCRIPTION,7
+commercial-industrial,40,Hillside and Flat Washers,2,8,size,SIZE,DESCRIPTION,"⅞"""
 commercial-industrial,40,Hillside and Flat Washers,2,8,finish,FINISH,DESCRIPTION,Black
 commercial-industrial,40,Hillside and Flat Washers,2,8,weight_each,WEIGHT EACH,DESCRIPTION,.89#
 commercial-industrial,40,Hillside and Flat Washers,2,8,price,PRICE,,✓
@@ -2303,7 +2303,7 @@ commercial-industrial,40,Hillside and Flat Washers,2,9,part,PART #,DESCRIPTION,H
 commercial-industrial,40,Hillside and Flat Washers,2,9,type,TYPE,DESCRIPTION,Hillside
 commercial-industrial,40,Hillside and Flat Washers,2,9,size,SIZE,DESCRIPTION,"1"""
 commercial-industrial,40,Hillside and Flat Washers,2,9,finish,FINISH,DESCRIPTION,Black
-commercial-industrial,40,Hillside and Flat Washers,2,9,weight_each,WEIGHT EACH,DESCRIPTION,1.284
+commercial-industrial,40,Hillside and Flat Washers,2,9,weight_each,WEIGHT EACH,DESCRIPTION,1.28#
 commercial-industrial,40,Hillside and Flat Washers,2,9,price,PRICE,,✓
 commercial-industrial,41,Bolts with Nuts,0,0,part,PART #,DESCRIPTION,HWF-363
 commercial-industrial,41,Bolts with Nuts,0,0,size,SIZE,DESCRIPTION,"Ya"" x 1%"""
@@ -2328,7 +2328,7 @@ commercial-industrial,41,Bolts with Nuts,0,3,size,SIZE,DESCRIPTION,"54"" x 2Y%4"
 commercial-industrial,41,Bolts with Nuts,0,3,bolt_grade,BOLT GRADE,DESCRIPTION,325
 commercial-industrial,41,Bolts with Nuts,0,3,nut_grade,NUT GRADE,DESCRIPTION,563
 commercial-industrial,41,Bolts with Nuts,0,3,column_5,,FINISH,Plated
-commercial-industrial,41,Bolts with Nuts,0,3,column_7,,,.39
+commercial-industrial,41,Bolts with Nuts,0,3,column_7,,,.39#
 commercial-industrial,41,Bolts with Nuts,0,4,part,PART #,DESCRIPTION,HWF-359
 commercial-industrial,41,Bolts with Nuts,0,4,size,SIZE,DESCRIPTION,"34,"" x 1 34,"""
 commercial-industrial,41,Bolts with Nuts,0,4,bolt_grade,BOLT GRADE,DESCRIPTION,325
@@ -2454,7 +2454,7 @@ commercial-industrial,45,Outside Corner Trim - PBR / PBA Panels,0,5,signature_30
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,0,part,PART #,DESCRIPTION,FL-840
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,0,girth,GIRTH,DESCRIPTION,"11%"""
-commercial-industrial,45,Outside Corner Trim - PBU Panel,1,0,weight_each,WEIGHT EACH,DESCRIPTION,750#
+commercial-industrial,45,Outside Corner Trim - PBU Panel,1,0,weight_each,WEIGHT EACH,DESCRIPTION,7.50#
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -2468,7 +2468,7 @@ commercial-industrial,45,Outside Corner Trim - PBU Panel,1,1,signature_300,SIGNA
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,2,part,PART #,DESCRIPTION,FL-842
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,2,length,LENGTH,DESCRIPTION,"14'-0"""
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,2,girth,GIRTH,DESCRIPTION,"11%"""
-commercial-industrial,45,Outside Corner Trim - PBU Panel,1,2,weight_each,WEIGHT EACH,DESCRIPTION,10.334
+commercial-industrial,45,Outside Corner Trim - PBU Panel,1,2,weight_each,WEIGHT EACH,DESCRIPTION,10.33#
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -2594,7 +2594,7 @@ commercial-industrial,47,Inside Corner Trim - PBU Panel,0,2,signature_300,SIGNAT
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,3,part,PART #,DESCRIPTION,FL-813
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,3,length,LENGTH,DESCRIPTION,"16'-0"""
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,3,girth,GIRTH,DESCRIPTION,"10%"""
-commercial-industrial,47,Inside Corner Trim - PBU Panel,0,3,weight_each,WEIGHT EACH,DESCRIPTION,11.034
+commercial-industrial,47,Inside Corner Trim - PBU Panel,0,3,weight_each,WEIGHT EACH,DESCRIPTION,11.03#
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,3,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -2808,7 +2808,7 @@ commercial-industrial,49,PBU Sculptured Eave Gutter,2,3,length,LENGTH,DESCRIPTIO
 commercial-industrial,49,PBU Sculptured Eave Gutter,2,3,girth,GIRTH,DESCRIPTION,"24"""
 commercial-industrial,49,PBU Sculptured Eave Gutter,2,3,roof_slope,ROOF SLOPE,DESCRIPTION,4%-6:12
 commercial-industrial,49,PBU Sculptured Eave Gutter,2,3,weight_each,"WEIGHT
-EACH",DESCRIPTION,36.234
+EACH",DESCRIPTION,36.23#
 commercial-industrial,49,PBU Sculptured Eave Gutter,2,3,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 commercial-industrial,49,PBU Sculptured Eave Gutter,2,3,signature_200,"SIGNATURE®
@@ -2873,7 +2873,7 @@ commercial-industrial,50,Sculptured Eave Gutter - 7.2 Panel,1,0,length,LENGTH,DE
 commercial-industrial,50,Sculptured Eave Gutter - 7.2 Panel,1,0,girth,GIRTH,DESCRIPTION,"23%"""
 commercial-industrial,50,Sculptured Eave Gutter - 7.2 Panel,1,0,roof_slope,ROOF SLOPE,DESCRIPTION,Ya-4:12
 commercial-industrial,50,Sculptured Eave Gutter - 7.2 Panel,1,0,weight_each,"WEIGHT
-EACH",DESCRIPTION,15.334
+EACH",DESCRIPTION,15.33#
 commercial-industrial,50,Sculptured Eave Gutter - 7.2 Panel,1,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 commercial-industrial,50,Sculptured Eave Gutter - 7.2 Panel,1,0,signature_200,"SIGNATURE®
@@ -3022,7 +3022,7 @@ commercial-industrial,51,Box Hang-On Gutter,1,2,signature_200,"SIGNATURE®
 commercial-industrial,51,Box Hang-On Gutter,1,2,signature_300,"SIGNATURE®
 300",PRICED PER EACH,✓
 commercial-industrial,51,Box Hang-On Gutter,1,3,part,PART #,DESCRIPTION,FL-74F
-commercial-industrial,51,Box Hang-On Gutter,1,3,dim_a,"DIM ""A""",DESCRIPTION,"A434"""
+commercial-industrial,51,Box Hang-On Gutter,1,3,dim_a,"DIM ""A""",DESCRIPTION,"4¾"""
 commercial-industrial,51,Box Hang-On Gutter,1,3,dim_b,"DIM ""B""",DESCRIPTION,"AV,"""
 commercial-industrial,51,Box Hang-On Gutter,1,3,length,LENGTH,DESCRIPTION,"20'-2"""
 commercial-industrial,51,Box Hang-On Gutter,1,3,girth,GIRTH,DESCRIPTION,"17%"""
@@ -3154,7 +3154,7 @@ commercial-industrial,52,Box Eave Gutter,0,2,signature_200,"SIGNATURE®
 commercial-industrial,52,Box Eave Gutter,0,2,signature_300,"SIGNATURE®
 300",PRICED PER EACH,✓
 commercial-industrial,52,Box Eave Gutter,0,3,part,PART #,DESCRIPTION,FL-14G
-commercial-industrial,52,Box Eave Gutter,0,3,dim_a,"DIM ""A""",DESCRIPTION,"A434"""
+commercial-industrial,52,Box Eave Gutter,0,3,dim_a,"DIM ""A""",DESCRIPTION,"4¾"""
 commercial-industrial,52,Box Eave Gutter,0,3,dim_b,"DIM ""B""",DESCRIPTION,"AYA"""
 commercial-industrial,52,Box Eave Gutter,0,3,length,LENGTH,DESCRIPTION,"20'-2"""
 commercial-industrial,52,Box Eave Gutter,0,3,girth,GIRTH,DESCRIPTION,"20 Ya"""
@@ -3195,7 +3195,7 @@ commercial-industrial,52,Box Eave Gutter,1,2,column_6,,,13.60#
 commercial-industrial,52,Box Eave Gutter,1,2,column_7,,,v
 commercial-industrial,52,Box Eave Gutter,1,2,column_8,,,v
 commercial-industrial,52,Box Eave Gutter,1,2,column_9,,,v
-commercial-industrial,52,Box Eave Gutter,1,3,column_1,,,"A56"""
+commercial-industrial,52,Box Eave Gutter,1,3,column_1,,,"4⅝"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_2,,,"AY"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_3,,,"20'-2"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_4,,,"20 %"""
@@ -3205,7 +3205,7 @@ commercial-industrial,52,Box Eave Gutter,1,3,column_7,,,v
 commercial-industrial,52,Box Eave Gutter,1,3,column_8,,,v
 commercial-industrial,52,Box Eave Gutter,1,3,column_9,,,v
 commercial-industrial,52,Box Eave Gutter,2,0,column_1,,,"4"""
-commercial-industrial,52,Box Eave Gutter,2,0,column_2,,,"AY2"""
+commercial-industrial,52,Box Eave Gutter,2,0,column_2,,,"4½"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_3,,,"10'-2"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_4,,,"20"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_5,,,V2-4:12
@@ -3307,7 +3307,7 @@ commercial-industrial,53,PBU Residential Rake,2,0,roof_slope,ROOF SLOPE,DESCRIPT
 commercial-industrial,53,PBU Residential Rake,2,0,girth,GIRTH,DESCRIPTION,"81/6"""
 commercial-industrial,53,PBU Residential Rake,2,0,gauge,GAUGE,DESCRIPTION,29
 commercial-industrial,53,PBU Residential Rake,2,0,weight_each,"WEIGHT
-EACH",DESCRIPTION,4.434
+EACH",DESCRIPTION,4.43#
 commercial-industrial,53,PBU Residential Rake,2,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 commercial-industrial,53,PBU Residential Rake,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
@@ -3318,7 +3318,7 @@ commercial-industrial,53,PBU Residential Rake,2,1,roof_slope,ROOF SLOPE,DESCRIPT
 commercial-industrial,53,PBU Residential Rake,2,1,girth,GIRTH,DESCRIPTION,"81%"""
 commercial-industrial,53,PBU Residential Rake,2,1,gauge,GAUGE,DESCRIPTION,26
 commercial-industrial,53,PBU Residential Rake,2,1,weight_each,"WEIGHT
-EACH",DESCRIPTION,5.734
+EACH",DESCRIPTION,5.73#
 commercial-industrial,53,PBU Residential Rake,2,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 commercial-industrial,53,PBU Residential Rake,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
@@ -3373,7 +3373,7 @@ commercial-industrial,53,PBU Residential Rake,2,6,roof_slope,ROOF SLOPE,DESCRIPT
 commercial-industrial,53,PBU Residential Rake,2,6,girth,GIRTH,DESCRIPTION,"8%"""
 commercial-industrial,53,PBU Residential Rake,2,6,gauge,GAUGE,DESCRIPTION,29
 commercial-industrial,53,PBU Residential Rake,2,6,weight_each,"WEIGHT
-EACH",DESCRIPTION,4.244
+EACH",DESCRIPTION,4.24#
 commercial-industrial,53,PBU Residential Rake,2,6,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 commercial-industrial,53,PBU Residential Rake,2,6,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
@@ -3450,7 +3450,7 @@ commercial-industrial,54,PBR Residential Rake,0,3,roof_slope,ROOF SLOPE,DESCRIPT
 commercial-industrial,54,PBR Residential Rake,0,3,girth,GIRTH,DESCRIPTION,"10%"""
 commercial-industrial,54,PBR Residential Rake,0,3,gauge,GAUGE,DESCRIPTION,26
 commercial-industrial,54,PBR Residential Rake,0,3,weight_each,"WEIGHT
-EACH",DESCRIPTION,705#
+EACH",DESCRIPTION,7.05#
 commercial-industrial,54,PBR Residential Rake,0,3,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 commercial-industrial,54,PBR Residential Rake,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
@@ -3519,7 +3519,7 @@ commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,part,PART #,DESCRIPTION
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,description,DESCRIPTION,DESCRIPTION,Rake Ends
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,length,LENGTH,DESCRIPTION,N/A
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,girth,GIRTH,DESCRIPTION,N/A
-commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,weight_each,WEIGHT EACH,DESCRIPTION,.194
+commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,weight_each,WEIGHT EACH,DESCRIPTION,.19#
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3765,7 +3765,7 @@ commercial-industrial,60,Downspout - Straight,0,0,signature_300,SIGNATURE® 300,
 commercial-industrial,60,Downspout - Straight,0,1,part,PART #,DESCRIPTION,FL-31C
 commercial-industrial,60,Downspout - Straight,0,1,length,LENGTH,DESCRIPTION,"12'-Q"""
 commercial-industrial,60,Downspout - Straight,0,1,girth,GIRTH,DESCRIPTION,"167%"""
-commercial-industrial,60,Downspout - Straight,0,1,weight_each,WEIGHT EACH,DESCRIPTION,13.134
+commercial-industrial,60,Downspout - Straight,0,1,weight_each,WEIGHT EACH,DESCRIPTION,13.13#
 commercial-industrial,60,Downspout - Straight,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,60,Downspout - Straight,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,60,Downspout - Straight,0,1,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3793,7 +3793,7 @@ commercial-industrial,60,Downspout - Straight,0,4,signature_300,SIGNATURE® 300,
 commercial-industrial,60,Downspout with 45° Elbow,1,0,part,PART #,DESCRIPTION,FL-31A
 commercial-industrial,60,Downspout with 45° Elbow,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 commercial-industrial,60,Downspout with 45° Elbow,1,0,girth,GIRTH,DESCRIPTION,"16%"""
-commercial-industrial,60,Downspout with 45° Elbow,1,0,weight_each,WEIGHT EACH,DESCRIPTION,11.124
+commercial-industrial,60,Downspout with 45° Elbow,1,0,weight_each,WEIGHT EACH,DESCRIPTION,11.12#
 commercial-industrial,60,Downspout with 45° Elbow,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,60,Downspout with 45° Elbow,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,60,Downspout with 45° Elbow,1,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3928,14 +3928,14 @@ commercial-industrial,62,Jamb Trim - PBR and Retro-R® Panels,2,2,signature_300,
 commercial-industrial,62,Jamb Trim - PBR and Retro-R® Panels,2,3,part,PART #,DESCRIPTION,FL-23C
 commercial-industrial,62,Jamb Trim - PBR and Retro-R® Panels,2,3,length,LENGTH,DESCRIPTION,"1 4'-2"""
 commercial-industrial,62,Jamb Trim - PBR and Retro-R® Panels,2,3,girth,GIRTH,DESCRIPTION,"5"""
-commercial-industrial,62,Jamb Trim - PBR and Retro-R® Panels,2,3,weight_each,WEIGHT EACH,DESCRIPTION,4.594
+commercial-industrial,62,Jamb Trim - PBR and Retro-R® Panels,2,3,weight_each,WEIGHT EACH,DESCRIPTION,4.59#
 commercial-industrial,62,Jamb Trim - PBR and Retro-R® Panels,2,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,62,Jamb Trim - PBR and Retro-R® Panels,2,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,62,Jamb Trim - PBR and Retro-R® Panels,2,3,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,63,Jamb Trim - PBU Panel,0,0,part,PART #,DESCRIPTION,FL-20
 commercial-industrial,63,Jamb Trim - PBU Panel,0,0,length,LENGTH,DESCRIPTION,"71-3"""
 commercial-industrial,63,Jamb Trim - PBU Panel,0,0,girth,GIRTH,DESCRIPTION,"434"""
-commercial-industrial,63,Jamb Trim - PBU Panel,0,0,weight_each,WEIGHT EACH,DESCRIPTION,2.354
+commercial-industrial,63,Jamb Trim - PBU Panel,0,0,weight_each,WEIGHT EACH,DESCRIPTION,2.35#
 commercial-industrial,63,Jamb Trim - PBU Panel,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,63,Jamb Trim - PBU Panel,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,63,Jamb Trim - PBU Panel,0,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -4110,7 +4110,7 @@ commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,0,signatu
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,part,PART #,DESCRIPTION,FL-851
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,length,LENGTH,DESCRIPTION,"74"""
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,girth,GIRTH,DESCRIPTION,"634"""
-commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,weight_each,WEIGHT EACH,DESCRIPTION,2.934
+commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,weight_each,WEIGHT EACH,DESCRIPTION,2.93#
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -4131,7 +4131,7 @@ commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,3,signatu
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,4,part,PART #,DESCRIPTION,FL-854
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,4,length,LENGTH,DESCRIPTION,"14'-4"""
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,4,girth,GIRTH,DESCRIPTION,"634"""
-commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,4,weight_each,WEIGHT EACH,DESCRIPTION,5.934
+commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,4,weight_each,WEIGHT EACH,DESCRIPTION,5.93#
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,4,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,4,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,65,"Head Trim - PBR, AVP and Retro-R® Panels",1,4,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -4152,14 +4152,14 @@ commercial-industrial,65,Panel Starter - AVP Panel,2,1,signature_300,SIGNATURE®
 commercial-industrial,65,Panel Starter - AVP Panel,2,2,part,PART #,DESCRIPTION,FL-46B
 commercial-industrial,65,Panel Starter - AVP Panel,2,2,length,LENGTH,DESCRIPTION,"14'-0"""
 commercial-industrial,65,Panel Starter - AVP Panel,2,2,girth,GIRTH,DESCRIPTION,"8%"""
-commercial-industrial,65,Panel Starter - AVP Panel,2,2,weight_each,WEIGHT EACH,DESCRIPTION,75#
+commercial-industrial,65,Panel Starter - AVP Panel,2,2,weight_each,WEIGHT EACH,DESCRIPTION,7.55#
 commercial-industrial,65,Panel Starter - AVP Panel,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,65,Panel Starter - AVP Panel,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,65,Panel Starter - AVP Panel,2,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,65,Panel Starter - AVP Panel,2,3,part,PART #,DESCRIPTION,FL-46C
 commercial-industrial,65,Panel Starter - AVP Panel,2,3,length,LENGTH,DESCRIPTION,"16'-0"""
 commercial-industrial,65,Panel Starter - AVP Panel,2,3,girth,GIRTH,DESCRIPTION,"8%eo"""
-commercial-industrial,65,Panel Starter - AVP Panel,2,3,weight_each,WEIGHT EACH,DESCRIPTION,8.634
+commercial-industrial,65,Panel Starter - AVP Panel,2,3,weight_each,WEIGHT EACH,DESCRIPTION,8.63#
 commercial-industrial,65,Panel Starter - AVP Panel,2,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,65,Panel Starter - AVP Panel,2,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,65,Panel Starter - AVP Panel,2,3,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
