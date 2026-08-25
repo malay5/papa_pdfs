@@ -20,6 +20,10 @@ import pypdfium2 as pdfium
 from PIL import Image, ImageOps
 
 DPI = 600
+# Whole-page passes run at this resolution instead; see page_text.  Higher
+# is not better here: at 300 DPI tesseract's layout analysis drops whole
+# dot-leader lines, taking the packaging prices with them.
+PAGE_TEXT_DPI = 200
 # Ink height tesseract's LSTM is happiest with, in pixels.
 TARGET_INK_H = 32
 # Points trimmed off each edge of a cell, to keep its border rules and the
@@ -28,6 +32,13 @@ CELL_INSET = 1.6
 # A binarised row/column at least this dark end to end is a rule, not glyphs.
 RULE_DENSITY = 0.92
 INK_THRESHOLD = 140
+
+
+# Tesseract parallelises with OpenMP, which on crops this small costs far
+# more than it saves -- and the extractor already runs a process per core, so
+# those threads only fight each other.  Holding it to one thread is worth
+# about 20x here.
+_TESSERACT_ENV = {**os.environ, "OMP_THREAD_LIMIT": "1"}
 
 
 class OcrError(RuntimeError):
@@ -61,7 +72,7 @@ def _tesseract(image, psm, whitelist=None):
         image.save(src)
         proc = subprocess.run(
             ["tesseract", src, "stdout", "-l", "eng", *args],
-            capture_output=True, text=True,
+            capture_output=True, text=True, env=_TESSERACT_ENV,
         )
         if proc.returncode != 0:
             raise OcrError(proc.stderr.strip()[:400])
@@ -236,5 +247,16 @@ def read_block(page_image, bbox=None, dpi=DPI, psm=6):
 
 
 def page_text(page_image, psm=3):
-    """Flowing text of a whole page -- notes, footnotes, body copy."""
+    """Flowing text of a whole page -- notes, footnotes, body copy.
+
+    Downscaled first: full-page segmentation on a 600 DPI render takes
+    minutes, and page prose is 8-10pt type, which lands right where OCR wants
+    it at PAGE_TEXT_DPI.
+    """
+    if page_image.width > 0:
+        scale = PAGE_TEXT_DPI / DPI
+        if scale < 1:
+            page_image = page_image.resize(
+                (max(1, round(page_image.width * scale)),
+                 max(1, round(page_image.height * scale))), Image.LANCZOS)
     return clean(_tesseract(page_image, psm))

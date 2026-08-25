@@ -104,3 +104,15 @@ src/geometry.py   vector primitives -> table grid
 src/ocr.py        render, crop, normalise, OCR
 src/extract.py    orchestration, CLI, JSON/CSV output
 ```
+
+## Checking the output
+
+```bash
+python3 src/qa.py                        # flag values worth re-reading
+python3 src/qa.py --catalog fasteners --limit 40
+```
+
+OCR failures here are not random noise but a short list of recognisable
+shapes, so `qa.py` looks for those specifically: digits read as the letters
+they resemble, stray punctuation inside a number, tables whose header did not
+read, and columns that came out empty.
