@@ -84,7 +84,6 @@ def main():
         name for name in os.listdir(args.data)
         if os.path.isdir(os.path.join(args.data, name)))
 
-    combined = []
     for slug in catalogs:
         out_dir = os.path.join(args.data, slug)
         with open(os.path.join(out_dir, "document.json")) as handle:
@@ -101,10 +100,10 @@ def main():
             json.dump(document, handle, indent=2, ensure_ascii=False)
         rows = list(extract.tidy_rows(document["pages"]))
         extract.csv_write(os.path.join(out_dir, "tables.csv"), rows)
-        combined += rows
         print(f"{slug}: {repaired} cells repaired", flush=True)
 
-    extract.csv_write(os.path.join(args.data, "all_tables.csv"), combined)
+    # Repairing one catalog must leave the others in the corpus-wide files.
+    extract._write_corpus(args.data, [])
 
 
 if __name__ == "__main__":

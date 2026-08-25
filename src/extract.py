@@ -379,6 +379,19 @@ def _matrix_table(page_image, stripes, header_band, index):
     if not rows:
         return None
 
+    # A page-wide background rectangle shares the stripes' vertical extent and
+    # so comes through as a stripe of its own, adding an empty column at each
+    # margin.  Nothing else leaves a column blank from top to bottom.
+    filled = [index for index in range(len(edges) - 1)
+              if any(row[index].text for row in rows)]
+    if not filled:
+        return None
+    first, last = filled[0], filled[-1]
+    if (first, last) != (0, len(edges) - 2):
+        edges = edges[first:last + 2]
+        rows = [row[first:last + 1] for row in rows]
+        body = (edges[0], top, edges[-1], bottom)
+
     # These matrices are the one table shape with no header rules to hang a
     # numeric-column test on, but every column is a column of numbers, so the
     # shape repair that catches a dropped decimal point applies to all of them.

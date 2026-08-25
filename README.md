@@ -141,12 +141,28 @@ rather than folded into the pass rate:
 | `⅝` | `¥6` |
 | `¾` | `34` |
 
-Across the full corpus `qa.py` flags about 2% of values for review. Some of
-those are false positives -- a column of dimensions legitimately containing
-one different number -- but some are real and unfixed. The stubborn ones are
-weights where the `#` reads as a `4` (`134#` as `1344`) at every scale tried,
-and they are the reason `qa.py` exists: they look like perfectly good numbers,
-so nothing but the column around them says otherwise.
+Across the full corpus of 15,883 values `qa.py` flags 1.8% for review:
+
+| catalog | pages | values | flagged |
+| --- | ---: | ---: | ---: |
+| agricultural | 44 | 1,276 | 1.02% |
+| architectural | 65 | 3,089 | 1.17% |
+| commercial-industrial | 73 | 4,082 | 4.09% |
+| fasteners | 25 | 555 | 0.00% |
+| residential | 26 | 1,058 | 1.98% |
+| ssr | 70 | 5,823 | 0.79% |
+
+Some of those are false positives -- a column of dimensions legitimately
+containing one different number -- but some are real and unfixed. The
+stubborn ones are weights where the `#` reads as a `4` (`134#` as `1344`) at
+every scale tried, and values where the recogniser dropped a digit as well as
+the decimal point, leaving too little to reconstruct from. They are the reason
+`qa.py` exists: they look like perfectly good numbers, so nothing but the
+column around them says otherwise.
+
+Where a value could not be recovered it is left as read and flagged, never
+replaced with a plausible-looking guess. A single-row table has no column to
+argue from, so its odd values stay untouched.
 
 **If you are going to rely on a specific number, check it against the PDF.**
 The `page`, `section` and `table` columns in the CSVs are there to make that

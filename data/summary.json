@@ -19,7 +19,7 @@
     "tables": 157,
     "table_rows": 423,
     "values": 3089,
-    "repaired_cells": 59,
+    "repaired_cells": 75,
     "pages_with_errors": [],
     "effective_dates": [
       "JANUARY 16, 2026"
@@ -32,7 +32,7 @@
     "tables": 156,
     "table_rows": 622,
     "values": 4082,
-    "repaired_cells": 88,
+    "repaired_cells": 104,
     "pages_with_errors": [],
     "effective_dates": [
       "JANUARY 6, 2026"
@@ -58,10 +58,24 @@
     "tables": 53,
     "table_rows": 155,
     "values": 1058,
-    "repaired_cells": 72,
+    "repaired_cells": 77,
     "pages_with_errors": [],
     "effective_dates": [
       "JANUARY 2, 2026"
+    ]
+  },
+  {
+    "catalog": "ssr",
+    "source": "ded02290-SSRPricingGuideCatalog.pdf",
+    "pages": 70,
+    "tables": 169,
+    "table_rows": 642,
+    "values": 5823,
+    "repaired_cells": 226,
+    "pages_with_errors": [],
+    "effective_dates": [
+      "JANUARY 7, 2026",
+      "JUNE 3, 2026"
     ]
   }
 ]
