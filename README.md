@@ -1,13 +1,13 @@
 # MBCI pricing catalog extraction
 
-Extracts the product tables and page text out of five MBCI pricing catalogs
+Extracts the product tables and page text out of six MBCI pricing catalogs
 into JSON and CSV.
 
 ## Why this is not a text-extraction job
 
-The five PDFs contain **no embedded fonts**. Every glyph is a filled vector
+The six PDFs contain **no embedded fonts**. Every glyph is a filled vector
 path, so `pdftotext`, `pdfplumber.extract_text()` and every other text-layer
-reader return an empty string for all 233 pages:
+reader return an empty string for all 303 pages:
 
 ```
 $ pdffonts CommercialIndustriaPricingCatalog.pdf
@@ -44,6 +44,25 @@ an outlier is, so short non-numeric values in an otherwise-numeric column are
 re-read under a digit-only whitelist. Longer mixed values such as
 `.024" Alum ††` are left alone, so the repair cannot throw away real words.
 
+The same column evidence catches the misreads that still look like numbers.
+A weight whose `#` was read as a digit (`124#` as `1244`) passes every check
+that looks at one value at a time; a column of weights ending in `#` does not
+agree. Decimal points are the other case: they are a handful of pixels, and
+once the recogniser has dropped one (`4.17` as `417`) or read it as a comma
+(`54.00` as `54,00`), it does the same at every scale. Where the column says
+a point belongs, a dropped one is *located* by measuring the ink -- a narrow
+mark on the baseline, sitting below the digits -- rather than assumed.
+
+## The two table shapes
+
+Most pages shade each cell, so the vector rectangles map straight onto the
+grid. The SSR catalog's conversion matrices are shaded by *column* instead
+and carry no row rules at all, which leaves nothing per-row for the geometry
+pass to find. There the shaded stripes give the columns, and the rows come
+from a word-position pass that is then snapped to the uniform pitch the
+matrix is drawn on -- word boxes land a point or two out, and at a 12pt row
+height that is enough to clip the glyphs and wreck the reading.
+
 ## Running it
 
 ```bash
@@ -53,7 +72,8 @@ python3 src/extract.py --catalog fasteners --pages 1-10   # a subset
 ```
 
 `--jobs` sets worker processes (default: CPU count). A full run is roughly
-half an hour on four cores.
+three quarters of an hour on four cores; a single `--catalog` re-run rewrites
+only that catalog and folds it back into the corpus-wide files.
 
 ## Output
 
@@ -100,7 +120,7 @@ anywhere in the source. Extracted checkmarks are normalised to `✓`.
 ## Layout
 
 ```
-src/geometry.py   vector primitives -> table grid
+src/geometry.py   vector primitives -> table grid, column stripes
 src/ocr.py        render, crop, normalise, OCR
 src/extract.py    orchestration, CLI, JSON/CSV output
 ```
@@ -140,7 +160,7 @@ python3 src/qa.py --catalog fasteners --limit 40
 ```
 
 `repair.py` re-applies the numeric repairs to an existing `data/` tree,
-re-reading only the cells they touch instead of all 233 pages:
+re-reading only the cells they touch instead of all 303 pages:
 
 ```bash
 python3 src/repair.py --catalog architectural

@@ -280,6 +280,65 @@ def _leading_dot(crop):
     return (rows[0] - top) >= DOT_MIN_TOP * height and (bottom - rows[-1]) <= 0.2 * height
 
 
+def _mark_runs(crop):
+    """Each run of inked columns in `crop`, flagged True when it is a dot.
+
+    The same measurement as `_leading_dot`, applied across the whole crop
+    instead of only its first mark, so a decimal point that OCR dropped from
+    the middle of a number can be located as well as detected.
+    """
+    mask = _ink_mask(_as_dark_on_light(crop))
+    box = mask.getbbox()
+    if box is None:
+        return []
+    left, top, right, bottom = box
+    height = bottom - top
+    if height < 6:
+        return []
+    pixels = mask.load()
+    inked = [any(pixels[x, y] for y in range(top, bottom))
+             for x in range(left, right)]
+
+    runs, position = [], 0
+    while position < len(inked):
+        if not inked[position]:
+            position += 1
+            continue
+        start = position
+        while position < len(inked) and inked[position]:
+            position += 1
+        runs.append((left + start, left + position))
+
+    marks = []
+    for x0, x1 in runs:
+        rows = [y for y in range(top, bottom)
+                if any(pixels[x, y] for x in range(x0, x1))]
+        marks.append(bool(rows)
+                     and (x1 - x0) <= DOT_MAX_WIDTH * height
+                     and (rows[0] - top) >= DOT_MIN_TOP * height
+                     and (bottom - rows[-1]) <= 0.2 * height)
+    return marks
+
+
+def decimal_index(page_image, bbox, dpi=DPI):
+    """Where a decimal point sits in a cell, measured off the pixels.
+
+    Returns `(glyphs before the point, glyphs in total)`, or None when the
+    cell does not hold exactly one dot with separable glyphs either side --
+    in which case there is nothing solid enough to act on.
+    """
+    crop = _cell_crop(page_image, bbox, dpi)
+    if crop is None:
+        return None
+    marks = _mark_runs(crop)
+    if sum(marks) != 1:
+        return None
+    before = marks.index(True)
+    if before == 0 or before == len(marks) - 1:
+        return None
+    return before, len(marks) - 1
+
+
 def _recover_leading_dot(page_image, bbox, dpi, value):
     """Put back a decimal point OCR dropped, when the pixels show one."""
     if not value[:1].isalnum():

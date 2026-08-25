@@ -218,11 +218,36 @@ def _repair_column_shape(values, page_image):
     for cell, text in values:
         if _value_shape(text) == shape or len(text) > NUMERIC_REPAIR_MAX_LEN:
             continue
-        retry = ocr.read_numeric_cell(page_image, cell.bbox)
-        if retry and _value_shape(retry) == shape:
-            cell.text = retry
+        fixed = _repair_to_shape(cell, text, shape, page_image)
+        if fixed is not None:
+            cell.text = fixed
             repaired += 1
     return repaired
+
+
+# A comma followed by exactly two digits is never a thousands separator.
+COMMA_DECIMAL = re.compile(r"\d+,\d\d\Z")
+
+
+def _repair_to_shape(cell, text, shape, page_image):
+    """A reading of `cell` matching the shape its column expects, or None."""
+    retry = ocr.read_numeric_cell(page_image, cell.bbox)
+    if retry and _value_shape(retry) == shape:
+        return retry
+    if shape != "9.9":
+        return None
+    # A decimal point misread as a comma, or dropped outright.  Re-reading
+    # does not recover either: the point is a handful of pixels and the
+    # recogniser has already made up its mind about them at every scale.  The
+    # column is the evidence that a point belongs, and for the dropped one the
+    # pixels say where it goes, so neither is a guess.
+    if COMMA_DECIMAL.match(text):
+        return text.replace(",", ".")
+    if text.isdigit():
+        spot = ocr.decimal_index(page_image, cell.bbox)
+        if spot is not None and spot[1] == len(text):
+            return text[:spot[0]] + "." + text[spot[0]:]
+    return None
 
 
 def _repair_numeric_columns(rows, columns, page_image):
@@ -514,10 +539,11 @@ def csv_write(path, rows):
         writer.writerows(rows)
 
 
-def _write_catalog(slug, pages, out_dir):
+def _write_catalog(slug, pages, out_dir, source=""):
     os.makedirs(out_dir, exist_ok=True)
     document = {
         "catalog": slug,
+        "source": source,
         "page_count": len(pages),
         "effective_dates": sorted({p.get("effective_date") for p in pages
                                    if p.get("effective_date")}),
@@ -540,6 +566,59 @@ def _write_catalog(slug, pages, out_dir):
 
 TIDY_FIELDS = ["catalog", "page", "section", "table", "row",
                "column", "column_label", "column_group", "value"]
+
+
+def _summarise(out_dir, slug):
+    """Rebuild a catalog's summary entry from the document it already wrote."""
+    with open(os.path.join(out_dir, slug, "document.json")) as handle:
+        document = json.load(handle)
+    pages = document["pages"]
+    with open(os.path.join(out_dir, slug, "tables.csv"), newline="") as handle:
+        values = sum(1 for _ in csv.DictReader(handle))
+    return {
+        "catalog": slug,
+        "source": document.get("source", ""),
+        "pages": len(pages),
+        "tables": sum(len(p.get("tables", [])) for p in pages),
+        "table_rows": sum(len(t["rows"]) for p in pages
+                          for t in p.get("tables", [])),
+        "values": values,
+        "repaired_cells": sum(p.get("repaired_cells", 0) for p in pages),
+        "pages_with_errors": [p["page"] for p in pages if p.get("error")],
+        "effective_dates": document.get("effective_dates", []),
+    }
+
+
+def _write_corpus(out_dir, fresh):
+    """Rebuild the corpus-wide files from every catalog on disk.
+
+    Extracting one catalog must not drop the other five out of
+    `all_tables.csv` and `summary.json`, so those are assembled from what is
+    in `out_dir` rather than from what this run happened to produce.
+    """
+    summary_path = os.path.join(out_dir, "summary.json")
+    kept = {}
+    if os.path.exists(summary_path):
+        with open(summary_path) as handle:
+            kept = {entry["catalog"]: entry for entry in json.load(handle)}
+    kept.update({entry["catalog"]: entry for entry in fresh})
+
+    on_disk = sorted(
+        name for name in os.listdir(out_dir)
+        if os.path.exists(os.path.join(out_dir, name, "tables.csv")))
+    summary = [kept[slug] if slug in kept else _summarise(out_dir, slug)
+               for slug in on_disk]
+
+    with open(os.path.join(out_dir, "all_tables.csv"), "w", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=TIDY_FIELDS)
+        writer.writeheader()
+        for slug in on_disk:
+            with open(os.path.join(out_dir, slug, "tables.csv"), newline="") as part:
+                writer.writerows(csv.DictReader(part))
+
+    with open(summary_path, "w") as handle:
+        json.dump(summary, handle, indent=2, ensure_ascii=False)
+    return summary
 
 
 def tidy_rows(pages):
@@ -602,12 +681,12 @@ def main():
                   f"{' ERROR' if page.get('error') else ''}", flush=True)
 
     os.makedirs(args.out, exist_ok=True)
-    combined, summary = [], []
+    summary = []
     for slug in wanted:
         pages = sorted((p for p in results if p["catalog"] == slug),
                        key=lambda p: p["page"])
-        rows = _write_catalog(slug, pages, os.path.join(args.out, slug))
-        combined += rows
+        rows = _write_catalog(slug, pages, os.path.join(args.out, slug),
+                              os.path.basename(available[slug]))
         summary.append({
             "catalog": slug,
             "source": os.path.basename(available[slug]),
@@ -622,9 +701,7 @@ def main():
                                        if p.get("effective_date")}),
         })
 
-    csv_write(os.path.join(args.out, "all_tables.csv"), combined)
-    with open(os.path.join(args.out, "summary.json"), "w") as handle:
-        json.dump(summary, handle, indent=2, ensure_ascii=False)
+    summary = _write_corpus(args.out, summary)
 
     for entry in summary:
         print(f"{entry['catalog']:>22}: {entry['pages']:>3} pages, "
