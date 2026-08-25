@@ -217,15 +217,39 @@ def _vote(candidates, preferred):
     return dotted if dotted in tally else winner
 
 
+# Ink height to re-check a value at when it may have lost a leading decimal
+# point.  Only the smallest scales hold onto the dot's couple of pixels.
+DOT_CHECK_INK_H = 18
+
+
+def _recover_leading_dot(page_image, bbox, dpi, value, multiline, whitelist):
+    """Look again at a value that may have lost a leading decimal point.
+
+    Every ink height above the smallest drops the dot on '.024" Alum ††' and
+    '.10#', turning a thickness into a part number and a weight into ten
+    times itself.  The re-read is only adopted when it agrees with the value
+    already in hand character for character, so a poor read at this small
+    scale cannot do any harm.  Only a value starting with a digit can have
+    lost a dot, which keeps the second look off most cells.
+    """
+    if not value[:1].isdigit():
+        return value
+    retry = _read_at(page_image, bbox, dpi, DOT_CHECK_INK_H, multiline, whitelist)
+    return retry if retry[:1] == "." and retry[1:] == value else value
+
+
 def read_cell(page_image, bbox, dpi=DPI, multiline=False, whitelist=None,
               ink_heights=VOTE_INK_HEIGHTS):
     """OCR one table cell. `bbox` is in PDF points."""
     primary = _read_at(page_image, bbox, dpi, TARGET_INK_H, multiline, whitelist)
     if len(primary) > VOTE_MAX_LEN:
-        return primary
-    others = [_read_at(page_image, bbox, dpi, h, multiline, whitelist)
-              for h in ink_heights]
-    return _vote([primary, *others], primary)
+        winner = primary
+    else:
+        others = [_read_at(page_image, bbox, dpi, h, multiline, whitelist)
+                  for h in ink_heights]
+        winner = _vote([primary, *others], primary)
+    return _recover_leading_dot(page_image, bbox, dpi, winner,
+                                multiline, whitelist)
 
 
 def read_numeric_cell(page_image, bbox, dpi=DPI):

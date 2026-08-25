@@ -22,9 +22,11 @@ DATA_DIR = os.path.join(ROOT, "data")
 # A value that mixes letters into an otherwise numeric shape is the signature
 # of this typeface's digit/letter confusions.
 SUSPECT_MIXED = re.compile(r'(?<=\d)[A-Za-z]{1,2}$|^[A-Za-z]{1,2}(?=\d)')
-# Stray punctuation where a digit belongs: "8/#" for "87#".
-SUSPECT_PUNCT = re.compile(r'\d[/\\|]{1,2}[\d#]|^[/\\|]\d')
-NUMERIC_VALUE = re.compile(r'^[\d][\d,]*(\.\d+)?\s*[#"\']?$')
+# Stray punctuation where a digit belongs: "8/#" for "87#", "/0#" for "70#".
+# A slash between two digits is left alone -- these catalogs are full of
+# genuine fractions like 5/16" and 40-7/8".
+SUSPECT_PUNCT = re.compile(r'\d[/\\|]\s*#|^[/\\|]\d|\d[\\|]\d')
+NUMERIC_VALUE = re.compile(r'^\.?\d[\d,]*(\.\d+)?\s*[#"\']?$')
 
 
 def load(catalog_dir):
