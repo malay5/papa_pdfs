@@ -77,6 +77,7 @@ def catalogs(upload_dir):
         "CommercialIndustriaPricingCatalog": "commercial-industrial",
         "ArchitecturalPricingCatalog": "architectural",
         "AgriculturalPricingCatalog": "agricultural",
+        "SSRPricingGuideCatalog": "ssr",
     }
     found = {}
     for name in sorted(os.listdir(upload_dir)):
@@ -92,31 +93,82 @@ def _slug(text):
     return text or "column"
 
 
-def _column_names(header_rows, column_count):
-    """Name each column from the header bands, de-duplicating collisions."""
+def _split_header_cell(cell, edges, page_image):
+    """Spread a header drawn as one wide band across the columns beneath it.
+
+    Most of these catalogs give every header its own shaded cell.  Some draw
+    the whole header strip as a single rectangle instead, which leaves the
+    columns nameless unless the words are placed by where they sit.
+    """
+    names = [""] * (len(edges) - 1)
+    for word in ocr.words(page_image, cell.bbox):
+        middle = (word["x0"] + word["x1"]) / 2
+        for index in range(len(edges) - 1):
+            if edges[index] <= middle <= edges[index + 1]:
+                names[index] = (names[index] + " " + word["text"]).strip()
+                break
+    return names
+
+
+def _covered_columns(cell, edges):
+    """The columns a header cell sits over, by geometry.
+
+    A header band holds fewer cells than the table has columns whenever
+    anything spans, so a cell's position in the band says nothing about which
+    column it names.
+    """
+    return [index for index in range(len(edges) - 1)
+            if cell.x0 - 2 <= (edges[index] + edges[index + 1]) / 2 <= cell.x1 + 2]
+
+
+def _column_names(header_rows, column_count, edges, page_image):
+    """Name each column from the header bands, de-duplicating collisions.
+
+    Returns the names alongside the header cells that turned out to be a whole
+    row of column names packed into one rectangle, so the group pass can leave
+    those alone.
+    """
     names = [""] * column_count
+    packed = set()
     for row in header_rows:  # later bands are nearer the data, so they win
-        for index, (cell, span) in enumerate(row):
-            if cell.text and span == 1 and index < column_count:
-                names[index] = cell.text
+        for cell, span in row:
+            if not cell.text:
+                continue
+            covered = _covered_columns(cell, edges)
+            if span == 1:
+                if covered and covered[0] < column_count:
+                    names[covered[0]] = cell.text
+                continue
+            if span < 3 or page_image is None:
+                continue
+            # A wide header cell is either one label spanning several columns
+            # ("DESCRIPTION") or the whole header strip drawn as a single
+            # rectangle.  Splitting it by where the words sit tells them
+            # apart: only the latter yields a name for more than one column.
+            split = _split_header_cell(cell, edges, page_image)
+            if sum(1 for value in split if value) < 2:
+                continue
+            packed.add(id(cell))
+            for position, value in enumerate(split):
+                if value and position < column_count:
+                    names[position] = value
     used, out = {}, []
     for index, name in enumerate(names):
         base = _slug(name) if name else f"column_{index + 1}"
         used[base] = used.get(base, 0) + 1
         out.append(base if used[base] == 1 else f"{base}_{used[base]}")
-    return out, names
+    return out, names, packed
 
 
-def _group_names(header_rows, column_count, edges):
+def _group_names(header_rows, column_count, edges, packed=()):
     """Spanning header labels ("DESCRIPTION") mapped onto each column."""
     groups = [""] * column_count
     for row in header_rows:
         for cell, span in row:
-            if not cell.text or span < 2:
+            if not cell.text or span < 2 or id(cell) in packed:
                 continue
-            for index in range(column_count):
-                mid = (edges[index] + edges[index + 1]) / 2
-                if cell.x0 - 2 <= mid <= cell.x1 + 2:
+            for index in _covered_columns(cell, edges):
+                if index < column_count:
                     groups[index] = cell.text
     return groups
 
@@ -213,6 +265,121 @@ def _normalise_price(value, column_name, group_name):
     return value
 
 
+# Words whose vertical centres sit within this fraction of a row's height
+# belong to the same row.
+ROW_TOLERANCE = 0.6
+
+
+def _stripe_columns(stripes, tolerance=2.0):
+    """Column boundaries implied by a set of shaded column stripes."""
+    edges = []
+    for value in sorted(x for stripe in stripes for x in stripe[:2]):
+        if edges and value - edges[-1] <= tolerance:
+            continue
+        edges.append(value)
+    return edges
+
+
+class _MatrixCell:
+    """The bbox-and-text pair the repair passes expect, for matrix rows.
+
+    A column-shaded matrix has no cell rectangles in the vector layout, so
+    there is no geometry.Cell to carry; the bbox is computed from the stripe
+    edges and the row pitch instead.
+    """
+
+    __slots__ = ("bbox", "text")
+
+    def __init__(self, bbox):
+        self.bbox = bbox
+        self.text = ""
+
+
+def _matrix_table(page_image, stripes, header_band, index):
+    """Read a table that is shaded by column, with no per-row rules.
+
+    The columns come from the stripes; the rows are recovered by grouping the
+    words by where they sit, since nothing in the vector layout marks them.
+    """
+    edges = _stripe_columns(stripes)
+    if len(edges) < 3:
+        return None
+    top, bottom = stripes[0][2], stripes[0][3]
+    body = (edges[0], top, edges[-1], bottom)
+    found = ocr.words(page_image, body)
+    if not found:
+        return None
+
+    lines = []
+    for word in sorted(found, key=lambda w: (w["top"], w["x0"])):
+        height = word["bottom"] - word["top"]
+        centre = (word["top"] + word["bottom"]) / 2
+        for line in lines:
+            if abs(line["centre"] - centre) <= ROW_TOLERANCE * height:
+                line["words"].append(word)
+                line["centre"] = sum((w["top"] + w["bottom"]) / 2
+                                     for w in line["words"]) / len(line["words"])
+                break
+        else:
+            lines.append({"centre": centre, "words": [word]})
+
+    # The word pass is only used to find where the rows are; each cell is
+    # then read through the same per-cell path as every other table, which is
+    # both more accurate and handles the knockout-white row labels.
+    # Word boxes put each row within a point or two, which is not close
+    # enough: these rows are ~12pt tall, so a small error clips the glyphs and
+    # the cell reads badly.  The rows are evenly spaced, though, so the pitch
+    # of the ones found gives every row a band of the right size.
+    centres = sorted(line["centre"] for line in lines)
+    gaps = sorted(b - a for a, b in zip(centres, centres[1:]))
+    pitch = gaps[len(gaps) // 2] if gaps else 0.0
+
+    rows = []
+    for line in lines:
+        if pitch > 2:
+            row_top = line["centre"] - pitch / 2
+            row_bottom = line["centre"] + pitch / 2
+        else:
+            row_top = min(w["top"] for w in line["words"])
+            row_bottom = max(w["bottom"] for w in line["words"])
+        if row_bottom - row_top < 4:
+            continue
+        cells = [_MatrixCell((edges[position], row_top,
+                              edges[position + 1], row_bottom))
+                 for position in range(len(edges) - 1)]
+        for cell in cells:
+            cell.text = ocr.read_cell(page_image, cell.bbox).replace("\n", " ")
+        if any(cell.text for cell in cells):
+            rows.append(cells)
+    if not rows:
+        return None
+
+    # These matrices are the one table shape with no header rules to hang a
+    # numeric-column test on, but every column is a column of numbers, so the
+    # shape repair that catches a dropped decimal point applies to all of them.
+    repaired = 0
+    for position in range(len(edges) - 1):
+        values = [(row[position], row[position].text) for row in rows
+                  if row[position].text]
+        repaired += _repair_column_shape(values, page_image)
+
+    names = [""] * (len(edges) - 1)
+    if header_band is not None:
+        names = _split_header_cell(header_band, edges, page_image)
+    columns, used = [], {}
+    for position, name in enumerate(names):
+        base = _slug(name) if name else f"column_{position + 1}"
+        used[base] = used.get(base, 0) + 1
+        columns.append(base if used[base] == 1 else f"{base}_{used[base]}")
+    return {
+        "index": index, "section": "", "bbox": [round(v, 1) for v in body],
+        "columns": columns, "column_labels": [ocr.clean(n) for n in names],
+        "column_groups": [""] * len(columns),
+        "rows": [[cell.text for cell in row] for row in rows],
+        "repaired_cells": repaired,
+    }
+
+
 def extract_page(pdf_path, page_index):
     """Everything readable on one page: banners, tables, and prose."""
     image = ocr.render(pdf_path, page_index)
@@ -220,6 +387,7 @@ def extract_page(pdf_path, page_index):
         page = pdf.pages[page_index]
         found_tables = geometry.tables(page)
         found_banners = geometry.banners(page)
+        stripes = geometry.column_stripes(page)
         page_width = page.width
 
     # A table's own shaded column-header strip looks just like a section
@@ -251,6 +419,23 @@ def extract_page(pdf_path, page_index):
     match = EFFECTIVE_DATE.search(text)
     result["effective_date"] = match.group(1) if match else ""
 
+    # A column-shaded matrix leaves no row cells behind, so geometry.tables
+    # never sees it; handle it before the ordinary tables.
+    if stripes and not found_tables:
+        header_band = None
+        top = stripes[0][2]
+        for banner in found_banners:
+            if 0 < top - banner.top <= 30 and banner.x1 - banner.x0 > 0.5 * page_width:
+                header_band = banner
+        if header_band is not None:
+            found_banners = [b for b in found_banners if b is not header_band]
+            header = [h for h in header if h["text"] != ocr.read_block(image, header_band.bbox)]
+        matrix = _matrix_table(image, stripes, header_band, 0)
+        if matrix:
+            matrix["section"] = sections[-1]["text"] if sections else ""
+            result["repaired_cells"] += matrix.pop("repaired_cells", 0)
+            result["tables"].append(matrix)
+
     for table_index, table in enumerate(found_tables):
         edges, bands = table.grid()
         column_count = len(edges) - 1
@@ -270,8 +455,9 @@ def extract_page(pdf_path, page_index):
                 in_header = False
                 data_rows.append(row)
 
-        columns, labels = _column_names(header_rows, column_count)
-        groups = _group_names(header_rows, column_count, edges)
+        columns, labels, packed = _column_names(
+            header_rows, column_count, edges, image)
+        groups = _group_names(header_rows, column_count, edges, packed)
         result["repaired_cells"] += _repair_numeric_columns(
             data_rows, columns, image)
 

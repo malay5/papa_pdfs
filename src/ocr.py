@@ -11,6 +11,8 @@ here:
   expects, and the oversized thin strokes are what turn "41#" into "Alt".
 """
 
+import csv
+import io
 import os
 import re
 import subprocess
@@ -63,10 +65,12 @@ def page_count(pdf_path):
         doc.close()
 
 
-def _tesseract(image, psm, whitelist=None):
+def _tesseract(image, psm, whitelist=None, tsv=False):
     args = ["-c", "preserve_interword_spaces=1", "--psm", str(psm)]
     if whitelist:
         args += ["-c", "tessedit_char_whitelist=" + whitelist]
+    if tsv:
+        args.append("tsv")
     with tempfile.TemporaryDirectory() as tmp:
         src = os.path.join(tmp, "crop.png")
         image.save(src)
@@ -321,6 +325,49 @@ def read_block(page_image, bbox=None, dpi=DPI, psm=6):
     if image is None:
         return ""
     return clean(_tesseract(image, psm))
+
+
+def words(page_image, bbox, dpi=DPI, psm=6):
+    """Word boxes inside `bbox`, in PDF points.
+
+    Used where a table's rows leave no trace in the vector layout -- the
+    square-foot matrices rule off only every fifth row -- so the rows have to
+    be inferred from where the text actually sits.
+    """
+    scale = dpi / 72.0
+    crop = page_image.crop(tuple(round(v * scale) for v in bbox))
+    if crop.width < 6 or crop.height < 6:
+        return []
+    # Same reason page_text downscales: at full resolution the glyphs are far
+    # larger than the recogniser expects.  Word boxes only need to be good
+    # enough to place text, so the cheaper pass is enough.
+    shrink = PAGE_TEXT_DPI / dpi
+    if shrink < 1:
+        crop = crop.resize((max(1, round(crop.width * shrink)),
+                            max(1, round(crop.height * shrink))), Image.LANCZOS)
+        scale *= shrink
+    tsv = _tesseract(_as_dark_on_light(crop), psm, tsv=True)
+    out = []
+    reader = csv.DictReader(io.StringIO(tsv), delimiter="\t", quoting=csv.QUOTE_NONE)
+    for row in reader:
+        text = (row.get("text") or "").strip()
+        if not text:
+            continue
+        try:
+            if float(row["conf"]) < 30:
+                continue
+            left, top = int(row["left"]), int(row["top"])
+            width, height = int(row["width"]), int(row["height"])
+        except (TypeError, ValueError, KeyError):
+            continue
+        out.append({
+            "text": clean(text),
+            "x0": bbox[0] + left / scale,
+            "x1": bbox[0] + (left + width) / scale,
+            "top": bbox[1] + top / scale,
+            "bottom": bbox[1] + (top + height) / scale,
+        })
+    return out
 
 
 def page_text(page_image, psm=3):

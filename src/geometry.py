@@ -15,6 +15,10 @@ from dataclasses import dataclass, field
 MIN_CELL_W = 18.0
 MIN_CELL_H = 7.0
 MAX_CELL_H = 34.0
+# A shaded rect this tall is a full-height column stripe, not a row cell:
+# some catalogs shade their lookup matrices by column instead of by row.
+MIN_STRIPE_H = 60.0
+MIN_STRIPE_W = 12.0
 
 # Fill luminance at or below this reads as a band carrying knockout-white
 # text: the dark page header, the coloured section banners, and the mid-grey
@@ -273,6 +277,33 @@ def tables(page):
         header = _span_header(stack, rules)
         out.append(Table(([header] if header else []) + stack, page.page_number))
     return out
+
+
+def column_stripes(page):
+    """Full-height shaded columns, as (x0, x1, top, bottom) tuples.
+
+    Where a table is shaded by column rather than by row, these are all the
+    grid the vector layout gives: the columns are exact, and the rows have to
+    come from the text.
+    """
+    found = []
+    for r in _dedupe(page.rects):
+        w, h = r["x1"] - r["x0"], r["bottom"] - r["top"]
+        if h < MIN_STRIPE_H or w < MIN_STRIPE_W or w > 0.5 * page.width:
+            continue
+        lum = luma(r.get("non_stroking_color"))
+        if lum is None or lum >= WHITE_FILL_MIN_LUMA:
+            continue
+        found.append((r["x0"], r["x1"], r["top"], r["bottom"]))
+    if len(found) < 2:
+        return []
+    # Keep only stripes that share the dominant vertical extent.
+    spans = {}
+    for x0, x1, top, bottom in found:
+        key = (round(top, 0), round(bottom, 0))
+        spans.setdefault(key, []).append((x0, x1, top, bottom))
+    best = max(spans.values(), key=len)
+    return sorted(best) if len(best) >= 2 else []
 
 
 def banners(page, min_width_ratio=0.16):
