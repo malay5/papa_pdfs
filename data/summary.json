@@ -6,7 +6,7 @@
     "tables": 99,
     "table_rows": 205,
     "values": 1276,
-    "repaired_cells": 44,
+    "repaired_cells": 61,
     "pages_with_errors": [],
     "effective_dates": [
       "JANUARY 7, 2026"
@@ -19,7 +19,7 @@
     "tables": 157,
     "table_rows": 423,
     "values": 3089,
-    "repaired_cells": 29,
+    "repaired_cells": 59,
     "pages_with_errors": [],
     "effective_dates": [
       "JANUARY 16, 2026"
@@ -32,7 +32,7 @@
     "tables": 156,
     "table_rows": 622,
     "values": 4082,
-    "repaired_cells": 65,
+    "repaired_cells": 88,
     "pages_with_errors": [],
     "effective_dates": [
       "JANUARY 6, 2026"
@@ -45,7 +45,7 @@
     "tables": 84,
     "table_rows": 96,
     "values": 555,
-    "repaired_cells": 0,
+    "repaired_cells": 6,
     "pages_with_errors": [],
     "effective_dates": [
       "APRIL 2, 2025"
@@ -58,7 +58,7 @@
     "tables": 53,
     "table_rows": 155,
     "values": 1058,
-    "repaired_cells": 57,
+    "repaired_cells": 72,
     "pages_with_errors": [],
     "effective_dates": [
       "JANUARY 2, 2026"

@@ -105,12 +105,49 @@ src/ocr.py        render, crop, normalise, OCR
 src/extract.py    orchestration, CLI, JSON/CSV output
 ```
 
+## Accuracy, and what is still wrong
+
+Against `tests/ground_truth.json` -- 118 values read by eye off three pages --
+the pipeline gets **107 exact, 11 known-glyph, 0 wrong**.
+
+"Known-glyph" means a character tesseract's English model has no output
+symbol for, so it can never come back exactly. These are reported separately
+rather than folded into the pass rate:
+
+| in the PDF | extracted as |
+| --- | --- |
+| `¤` (Galvalume footnote) | `&` |
+| `††` (perforated-only footnote) | `tt` |
+| `⅝` | `¥6` |
+| `¾` | `34` |
+
+Across the full corpus `qa.py` flags about 2% of values for review. Some of
+those are false positives -- a column of dimensions legitimately containing
+one different number -- but some are real and unfixed. The stubborn ones are
+weights where the `#` reads as a `4` (`134#` as `1344`) at every scale tried,
+and they are the reason `qa.py` exists: they look like perfectly good numbers,
+so nothing but the column around them says otherwise.
+
+**If you are going to rely on a specific number, check it against the PDF.**
+The `page`, `section` and `table` columns in the CSVs are there to make that
+quick.
+
 ## Checking the output
 
 ```bash
 python3 src/qa.py                        # flag values worth re-reading
 python3 src/qa.py --catalog fasteners --limit 40
 ```
+
+`repair.py` re-applies the numeric repairs to an existing `data/` tree,
+re-reading only the cells they touch instead of all 233 pages:
+
+```bash
+python3 src/repair.py --catalog architectural
+```
+
+A fresh `extract.py` run needs nothing from it -- the repairs already run
+inline.
 
 OCR failures here are not random noise but a short list of recognisable
 shapes, so `qa.py` looks for those specifically: digits read as the letters

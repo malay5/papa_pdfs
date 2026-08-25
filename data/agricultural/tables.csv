@@ -131,21 +131,21 @@ agricultural,11,Rubber Roof Jack,0,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 agricultural,11,Rubber Roof Jack,0,0,pipe_size,PIPE SIZE,DESCRIPTION,"Vy"" — 15"""
 agricultural,11,Rubber Roof Jack,0,0,base_dim,BASE DIM.,DESCRIPTION,4
-agricultural,11,Rubber Roof Jack,0,0,weight_each,WEIGHT EACH,DESCRIPTION,17#
+agricultural,11,Rubber Roof Jack,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.17#
 agricultural,11,Rubber Roof Jack,0,0,price,PRICE,,✓
 agricultural,11,Rubber Roof Jack,0,1,part,PART #,DESCRIPTION,HW-1001
 agricultural,11,Rubber Roof Jack,0,1,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 agricultural,11,Rubber Roof Jack,0,1,pipe_size,PIPE SIZE,DESCRIPTION,"1%"" - 4"""
 agricultural,11,Rubber Roof Jack,0,1,base_dim,BASE DIM.,DESCRIPTION,8
-agricultural,11,Rubber Roof Jack,0,1,weight_each,WEIGHT EACH,DESCRIPTION,0#
+agricultural,11,Rubber Roof Jack,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.0#
 agricultural,11,Rubber Roof Jack,0,1,price,PRICE,,✓
 agricultural,11,Rubber Roof Jack,0,2,part,PART #,DESCRIPTION,HW-1002
 agricultural,11,Rubber Roof Jack,0,2,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 agricultural,11,Rubber Roof Jack,0,2,pipe_size,PIPE SIZE,DESCRIPTION,"AY,"" _ 6"""
 agricultural,11,Rubber Roof Jack,0,2,base_dim,BASE DIM.,DESCRIPTION,"11"""
-agricultural,11,Rubber Roof Jack,0,2,weight_each,WEIGHT EACH,DESCRIPTION,5#
+agricultural,11,Rubber Roof Jack,0,2,weight_each,WEIGHT EACH,DESCRIPTION,.5#
 agricultural,11,Rubber Roof Jack,0,2,price,PRICE,,✓
 agricultural,11,Rubber Roof Jack,0,3,part,PART #,DESCRIPTION,HW-1003
 agricultural,11,Rubber Roof Jack,0,3,temperature_range,"TEMPERATURE
@@ -164,12 +164,12 @@ agricultural,11,Rubber Roof Jack,0,4,price,PRICE,,✓
 agricultural,11,Rubber Roof Jack,1,0,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,0,high_temperatuf,HIGH TEMPERATUF,,"wy"" — 4"""
 agricultural,11,Rubber Roof Jack,1,0,e,E,,3
-agricultural,11,Rubber Roof Jack,1,0,column_4,,,50#
+agricultural,11,Rubber Roof Jack,1,0,column_4,,,.50#
 agricultural,11,Rubber Roof Jack,1,0,column_5,,,v
 agricultural,11,Rubber Roof Jack,1,1,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,1,high_temperatuf,HIGH TEMPERATUF,,"AM"" . 7"""
 agricultural,11,Rubber Roof Jack,1,1,e,E,,"11"""
-agricultural,11,Rubber Roof Jack,1,1,column_4,,,5#
+agricultural,11,Rubber Roof Jack,1,1,column_4,,,.5#
 agricultural,11,Rubber Roof Jack,1,1,column_5,,,v
 agricultural,11,Rubber Roof Jack,1,2,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,2,high_temperatuf,HIGH TEMPERATUF,,"7"" 43"""
@@ -186,7 +186,7 @@ agricultural,11,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 agricultural,11,Retrofit Rubber Roof Jack,2,0,pipe_size,PIPE SIZE,DESCRIPTION,"Y,"" . 4A"""
 agricultural,11,Retrofit Rubber Roof Jack,2,0,base_dim,BASE DIM.,DESCRIPTION,"83/6"""
-agricultural,11,Retrofit Rubber Roof Jack,2,0,weight_each,WEIGHT EACH,DESCRIPTION,14#
+agricultural,11,Retrofit Rubber Roof Jack,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.14#
 agricultural,11,Retrofit Rubber Roof Jack,2,0,price,PRICE,,✓
 agricultural,11,Retrofit Rubber Roof Jack,2,1,part,PART #,DESCRIPTION,HW-1006
 agricultural,11,Retrofit Rubber Roof Jack,2,1,temperature_range,"TEMPERATURE
@@ -205,7 +205,7 @@ agricultural,11,Retrofit Rubber Roof Jack,2,2,price,PRICE,,✓
 agricultural,11,Retrofit Rubber Roof Jack,3,0,column_1,,,-100°F to +437°F
 agricultural,11,Retrofit Rubber Roof Jack,3,0,high_temperatuf,HIGH TEMPERATUF,,"YQ"" _ A"""
 agricultural,11,Retrofit Rubber Roof Jack,3,0,e,E,,"8 3/16"""
-agricultural,11,Retrofit Rubber Roof Jack,3,0,column_4,,,144
+agricultural,11,Retrofit Rubber Roof Jack,3,0,column_4,,,.144
 agricultural,11,Retrofit Rubber Roof Jack,3,0,column_5,,,v
 agricultural,11,Retrofit Rubber Roof Jack,3,1,column_1,,,-100°F to +437°F
 agricultural,11,Retrofit Rubber Roof Jack,3,1,high_temperatuf,HIGH TEMPERATUF,,"4"" 9%"""
@@ -232,22 +232,22 @@ agricultural,12,Continuous Vent,0,1,white,WHITE,PRICED PER EACH,✓
 agricultural,12,Vent Damper Operator Parts,1,0,part,PART #,DESCRIPTION,HW-705
 agricultural,12,Vent Damper Operator Parts,1,0,descirption,DESCIRPTION,DESCRIPTION,"Vent Cable 3/16"")"
 agricultural,12,Vent Damper Operator Parts,1,0,priced_by,PRICED BY,DESCRIPTION,Foot
-agricultural,12,Vent Damper Operator Parts,1,0,weight_each,WEIGHT EACH,DESCRIPTION,10#
+agricultural,12,Vent Damper Operator Parts,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.10#
 agricultural,12,Vent Damper Operator Parts,1,0,price,PRICE,,✓
 agricultural,12,Vent Damper Operator Parts,1,1,part,PART #,DESCRIPTION,HW-706
 agricultural,12,Vent Damper Operator Parts,1,1,descirption,DESCIRPTION,DESCRIPTION,Vent Pulley
 agricultural,12,Vent Damper Operator Parts,1,1,priced_by,PRICED BY,DESCRIPTION,Each
-agricultural,12,Vent Damper Operator Parts,1,1,weight_each,WEIGHT EACH,DESCRIPTION,25
+agricultural,12,Vent Damper Operator Parts,1,1,weight_each,WEIGHT EACH,DESCRIPTION,.25
 agricultural,12,Vent Damper Operator Parts,1,1,price,PRICE,,✓
 agricultural,12,Vent Damper Operator Parts,1,2,part,PART #,DESCRIPTION,HW-708
 agricultural,12,Vent Damper Operator Parts,1,2,descirption,DESCIRPTION,DESCRIPTION,Vent Cable Clamp
 agricultural,12,Vent Damper Operator Parts,1,2,priced_by,PRICED BY,DESCRIPTION,Each
-agricultural,12,Vent Damper Operator Parts,1,2,weight_each,WEIGHT EACH,DESCRIPTION,10#
+agricultural,12,Vent Damper Operator Parts,1,2,weight_each,WEIGHT EACH,DESCRIPTION,.10#
 agricultural,12,Vent Damper Operator Parts,1,2,price,PRICE,,✓
 agricultural,12,Vent Damper Operator Parts,1,3,part,PART #,DESCRIPTION,HW-710
 agricultural,12,Vent Damper Operator Parts,1,3,descirption,DESCIRPTION,DESCRIPTION,"Vent Eve Bolt (4"" x 2"")"
 agricultural,12,Vent Damper Operator Parts,1,3,priced_by,PRICED BY,DESCRIPTION,Each
-agricultural,12,Vent Damper Operator Parts,1,3,weight_each,WEIGHT EACH,DESCRIPTION,104
+agricultural,12,Vent Damper Operator Parts,1,3,weight_each,WEIGHT EACH,DESCRIPTION,.104
 agricultural,12,Vent Damper Operator Parts,1,3,price,PRICE,,✓
 agricultural,12,Vent Damper Operator Parts,1,4,part,PART #,DESCRIPTION,HW-712
 agricultural,12,Vent Damper Operator Parts,1,4,descirption,DESCIRPTION,DESCRIPTION,Vent Pull Chain with Handle
@@ -257,7 +257,7 @@ agricultural,12,Vent Damper Operator Parts,1,4,price,PRICE,,✓
 agricultural,12,Vent Damper Operator Parts,1,5,part,PART #,DESCRIPTION,HW-714
 agricultural,12,Vent Damper Operator Parts,1,5,descirption,DESCIRPTION,DESCRIPTION,"Vent ""S"" Hook (1%2"")"
 agricultural,12,Vent Damper Operator Parts,1,5,priced_by,PRICED BY,DESCRIPTION,Each
-agricultural,12,Vent Damper Operator Parts,1,5,weight_each,WEIGHT EACH,DESCRIPTION,01#
+agricultural,12,Vent Damper Operator Parts,1,5,weight_each,WEIGHT EACH,DESCRIPTION,.01#
 agricultural,12,Vent Damper Operator Parts,1,5,price,PRICE,,✓
 agricultural,12,Perma-Clad® Light Transmitting Panel,2,0,part,PART #,DESCRIPTION,HW-1564
 agricultural,12,Perma-Clad® Light Transmitting Panel,2,0,length,LENGTH,DESCRIPTION,"12'-0"""
@@ -298,49 +298,49 @@ agricultural,14,"Y%"" Rubber Grommet",0,0,part,PART #,DESCRIPTION,HW-399
 agricultural,14,"Y%"" Rubber Grommet",0,0,head_size,HEAD SIZE,DESCRIPTION,"Y,"""
 agricultural,14,"Y%"" Rubber Grommet",0,0,type,TYPE,DESCRIPTION,Aluminum
 agricultural,14,"Y%"" Rubber Grommet",0,0,color,COLOR,DESCRIPTION,Polar White
-agricultural,14,"Y%"" Rubber Grommet",0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,O1#
+agricultural,14,"Y%"" Rubber Grommet",0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,.01#
 agricultural,14,"Y%"" Rubber Grommet",0,0,price,PRICE,,✓
 agricultural,14,Perma-Clad® Closure Strip,1,0,part,PART #,DESCRIPTION,HW-470
 agricultural,14,Perma-Clad® Closure Strip,1,0,type,TYPE,DESCRIPTION,Inside
 agricultural,14,Perma-Clad® Closure Strip,1,0,adhesive,ADHESIVE?,DESCRIPTION,No
 agricultural,14,Perma-Clad® Closure Strip,1,0,size,SIZE,DESCRIPTION,"1"" x 36"""
-agricultural,14,Perma-Clad® Closure Strip,1,0,weight_each,WEIGHT EACH,DESCRIPTION,03#
+agricultural,14,Perma-Clad® Closure Strip,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.03#
 agricultural,14,Perma-Clad® Closure Strip,1,0,price,PRICE,,✓
 agricultural,14,Perma-Clad® Closure Strip,1,1,part,PART #,DESCRIPTION,HW-471
 agricultural,14,Perma-Clad® Closure Strip,1,1,type,TYPE,DESCRIPTION,Outside
 agricultural,14,Perma-Clad® Closure Strip,1,1,adhesive,ADHESIVE?,DESCRIPTION,Yes
 agricultural,14,Perma-Clad® Closure Strip,1,1,size,SIZE,DESCRIPTION,"1 W xX 36"""
-agricultural,14,Perma-Clad® Closure Strip,1,1,weight_each,WEIGHT EACH,DESCRIPTION,O6#
+agricultural,14,Perma-Clad® Closure Strip,1,1,weight_each,WEIGHT EACH,DESCRIPTION,.06#
 agricultural,14,Perma-Clad® Closure Strip,1,1,price,PRICE,,✓
 agricultural,14,MasterRib® Closure Strip,2,0,part,PART #,DESCRIPTION,HW-472
 agricultural,14,MasterRib® Closure Strip,2,0,type,TYPE,DESCRIPTION,Inside
 agricultural,14,MasterRib® Closure Strip,2,0,adhesive,ADHESIVE?,DESCRIPTION,No
 agricultural,14,MasterRib® Closure Strip,2,0,size,SIZE,DESCRIPTION,"1"" x 36"""
-agricultural,14,MasterRib® Closure Strip,2,0,weight_each,WEIGHT EACH,DESCRIPTION,O3#
+agricultural,14,MasterRib® Closure Strip,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.03#
 agricultural,14,MasterRib® Closure Strip,2,0,price,PRICE,,✓
 agricultural,14,MasterRib® Closure Strip,2,1,part,PART #,DESCRIPTION,HW-473
 agricultural,14,MasterRib® Closure Strip,2,1,type,TYPE,DESCRIPTION,Outside
 agricultural,14,MasterRib® Closure Strip,2,1,adhesive,ADHESIVE?,DESCRIPTION,Yes
 agricultural,14,MasterRib® Closure Strip,2,1,size,SIZE,DESCRIPTION,"1"" x 36"""
-agricultural,14,MasterRib® Closure Strip,2,1,weight_each,WEIGHT EACH,DESCRIPTION,O6#
+agricultural,14,MasterRib® Closure Strip,2,1,weight_each,WEIGHT EACH,DESCRIPTION,.06#
 agricultural,14,MasterRib® Closure Strip,2,1,price,PRICE,,✓
 agricultural,15,Ameri-Drain® Closure Strip,0,0,part,PART #,DESCRIPTION,HW-476
 agricultural,15,Ameri-Drain® Closure Strip,0,0,type,TYPE,DESCRIPTION,Inside
 agricultural,15,Ameri-Drain® Closure Strip,0,0,adhesive,ADHESIVE?,DESCRIPTION,No
 agricultural,15,Ameri-Drain® Closure Strip,0,0,size,SIZE,DESCRIPTION,"4 "" x 36"""
-agricultural,15,Ameri-Drain® Closure Strip,0,0,weight_each,WEIGHT EACH,DESCRIPTION,O3#
+agricultural,15,Ameri-Drain® Closure Strip,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.03#
 agricultural,15,Ameri-Drain® Closure Strip,0,0,price,PRICE,,✓
 agricultural,15,Ameri-Drain® Closure Strip,0,1,part,PART #,DESCRIPTION,HW-477
 agricultural,15,Ameri-Drain® Closure Strip,0,1,type,TYPE,DESCRIPTION,Outside
 agricultural,15,Ameri-Drain® Closure Strip,0,1,adhesive,ADHESIVE?,DESCRIPTION,Yes
 agricultural,15,Ameri-Drain® Closure Strip,0,1,size,SIZE,DESCRIPTION,"1 W 4 36"""
-agricultural,15,Ameri-Drain® Closure Strip,0,1,weight_each,WEIGHT EACH,DESCRIPTION,O6#
+agricultural,15,Ameri-Drain® Closure Strip,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.06#
 agricultural,15,Ameri-Drain® Closure Strip,0,1,price,PRICE,,✓
 agricultural,15,"2¥"" Corrugated Closure Strip",1,0,part,PART #,DESCRIPTION,HW-478
 agricultural,15,"2¥"" Corrugated Closure Strip",1,0,type,TYPE,DESCRIPTION,Inside or Outside
 agricultural,15,"2¥"" Corrugated Closure Strip",1,0,adhesive,ADHESIVE?,DESCRIPTION,No
 agricultural,15,"2¥"" Corrugated Closure Strip",1,0,size,SIZE,DESCRIPTION,"1"" x 24"""
-agricultural,15,"2¥"" Corrugated Closure Strip",1,0,weight_each,WEIGHT EACH,DESCRIPTION,03#
+agricultural,15,"2¥"" Corrugated Closure Strip",1,0,weight_each,WEIGHT EACH,DESCRIPTION,.03#
 agricultural,15,"2¥"" Corrugated Closure Strip",1,0,price,PRICE,,✓
 agricultural,15,Walk Doors,2,0,part,PART #,DESCRIPTION,HW-9200
 agricultural,15,Walk Doors,2,0,size,SIZE,DESCRIPTION,3070
@@ -378,14 +378,14 @@ agricultural,16,Tape Sealer - Flat,0,2,price,PRICE,,✓
 agricultural,16,Tape Sealer - Triple Bead,1,0,part,PART #,DESCRIPTION,HW-502
 agricultural,16,Tape Sealer - Triple Bead,1,0,type,TYPE,DESCRIPTION,Butyl
 agricultural,16,Tape Sealer - Triple Bead,1,0,width,WIDTH,DESCRIPTION,"2%"""
-agricultural,16,Tape Sealer - Triple Bead,1,0,thickness,THICKNESS,DESCRIPTION,"3/16"""
+agricultural,16,Tape Sealer - Triple Bead,1,0,thickness,THICKNESS,DESCRIPTION,316
 agricultural,16,Tape Sealer - Triple Bead,1,0,length,LENGTH,DESCRIPTION,"20'-0"""
 agricultural,16,Tape Sealer - Triple Bead,1,0,carton_weight,CARTON WEIGHT,DESCRIPTION,23.00#
 agricultural,16,Tape Sealer - Triple Bead,1,0,price,PRICE,,✓
 agricultural,16,Tape Sealer - Tri-Bead,2,0,part,PART #,DESCRIPTION,HW-504
 agricultural,16,Tape Sealer - Tri-Bead,2,0,type,TYPE,DESCRIPTION,Butyl
 agricultural,16,Tape Sealer - Tri-Bead,2,0,width,WIDTH,DESCRIPTION,"Ip"""
-agricultural,16,Tape Sealer - Tri-Bead,2,0,thickness,THICKNESS,DESCRIPTION,"hie"""
+agricultural,16,Tape Sealer - Tri-Bead,2,0,thickness,THICKNESS,DESCRIPTION,16
 agricultural,16,Tape Sealer - Tri-Bead,2,0,length,LENGTH,DESCRIPTION,"25'-0"""
 agricultural,16,Tape Sealer - Tri-Bead,2,0,carton_weight,CARTON WEIGHT,DESCRIPTION,20.00#
 agricultural,16,Tape Sealer - Tri-Bead,2,0,price,PRICE,,✓
@@ -393,37 +393,37 @@ agricultural,16,Tube Sealant,3,0,part,PART #,DESCRIPTION,HW-548
 agricultural,16,Tube Sealant,3,0,type,TYPE,DESCRIPTION,Acrylic
 agricultural,16,Tube Sealant,3,0,color,COLOR,DESCRIPTION,White
 agricultural,16,Tube Sealant,3,0,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-agricultural,16,Tube Sealant,3,0,tube_weight,TUBE WEIGHT,DESCRIPTION,15#
+agricultural,16,Tube Sealant,3,0,tube_weight,TUBE WEIGHT,DESCRIPTION,.15#
 agricultural,16,Tube Sealant,3,0,price,PRICE,,✓
 agricultural,16,Tube Sealant,3,1,part,PART #,DESCRIPTION,HW-550
 agricultural,16,Tube Sealant,3,1,type,TYPE,DESCRIPTION,Acrylic
 agricultural,16,Tube Sealant,3,1,color,COLOR,DESCRIPTION,Gray
 agricultural,16,Tube Sealant,3,1,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-agricultural,16,Tube Sealant,3,1,tube_weight,TUBE WEIGHT,DESCRIPTION,15#
+agricultural,16,Tube Sealant,3,1,tube_weight,TUBE WEIGHT,DESCRIPTION,.15#
 agricultural,16,Tube Sealant,3,1,price,PRICE,,✓
 agricultural,16,Tube Sealant,3,2,part,PART #,DESCRIPTION,HW-540
 agricultural,16,Tube Sealant,3,2,type,TYPE,DESCRIPTION,Urethane
 agricultural,16,Tube Sealant,3,2,color,COLOR,DESCRIPTION,White
 agricultural,16,Tube Sealant,3,2,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-agricultural,16,Tube Sealant,3,2,tube_weight,TUBE WEIGHT,DESCRIPTION,85#
+agricultural,16,Tube Sealant,3,2,tube_weight,TUBE WEIGHT,DESCRIPTION,.85#
 agricultural,16,Tube Sealant,3,2,price,PRICE,,✓
 agricultural,16,Tube Sealant,3,3,part,PART #,DESCRIPTION,HW-541
 agricultural,16,Tube Sealant,3,3,type,TYPE,DESCRIPTION,Urethane
 agricultural,16,Tube Sealant,3,3,color,COLOR,DESCRIPTION,Gray
 agricultural,16,Tube Sealant,3,3,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-agricultural,16,Tube Sealant,3,3,tube_weight,TUBE WEIGHT,DESCRIPTION,5#
+agricultural,16,Tube Sealant,3,3,tube_weight,TUBE WEIGHT,DESCRIPTION,.5#
 agricultural,16,Tube Sealant,3,3,price,PRICE,,✓
 agricultural,16,Tube Sealant,3,4,part,PART #,DESCRIPTION,HW-542
 agricultural,16,Tube Sealant,3,4,type,TYPE,DESCRIPTION,Urethane
 agricultural,16,Tube Sealant,3,4,color,COLOR,DESCRIPTION,Bronze
 agricultural,16,Tube Sealant,3,4,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-agricultural,16,Tube Sealant,3,4,tube_weight,TUBE WEIGHT,DESCRIPTION,5#
+agricultural,16,Tube Sealant,3,4,tube_weight,TUBE WEIGHT,DESCRIPTION,.5#
 agricultural,16,Tube Sealant,3,4,price,PRICE,,✓
 agricultural,16,Tube Sealant,3,5,part,PART #,DESCRIPTION,HW-544
 agricultural,16,Tube Sealant,3,5,type,TYPE,DESCRIPTION,Urethane
 agricultural,16,Tube Sealant,3,5,color,COLOR,DESCRIPTION,Almond
 agricultural,16,Tube Sealant,3,5,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-agricultural,16,Tube Sealant,3,5,tube_weight,TUBE WEIGHT,DESCRIPTION,85#
+agricultural,16,Tube Sealant,3,5,tube_weight,TUBE WEIGHT,DESCRIPTION,.85#
 agricultural,16,Tube Sealant,3,5,price,PRICE,,✓
 agricultural,16,Tube Sealant,3,6,part,PART #,DESCRIPTION,HW-549
 agricultural,16,Tube Sealant,3,6,type,TYPE,DESCRIPTION,Non-Skinning Butyl
@@ -435,7 +435,7 @@ agricultural,17,Touch-Up Paint,0,0,part,PART #,DESCRIPTION,HW-304
 agricultural,17,Touch-Up Paint,0,0,finish,FINISH,DESCRIPTION,Signature® 200
 agricultural,17,Touch-Up Paint,0,0,size,SIZE,DESCRIPTION,2 ounce
 agricultural,17,Touch-Up Paint,0,0,color,COLOR,DESCRIPTION,See color chart
-agricultural,17,Touch-Up Paint,0,0,weight_each,WEIGHT EACH,DESCRIPTION,SOF
+agricultural,17,Touch-Up Paint,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.50#
 agricultural,17,Touch-Up Paint,0,0,price,PRICE,,✓
 agricultural,17,Blanket Insulation,1,0,part,PART #,DESCRIPTION,HW-3927
 agricultural,17,Blanket Insulation,1,0,type,TYPE,DESCRIPTION,VRR+
@@ -492,15 +492,15 @@ agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,weight_each,WEIGHT EA
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,price,PRICE,,✓
 agricultural,18,Double Track Side Mount Bracket,2,0,part,PART #,DESCRIPTION,HW-976
 agricultural,18,Double Track Side Mount Bracket,2,0,finish,FINISH,DESCRIPTION,Galvanized
-agricultural,18,Double Track Side Mount Bracket,2,0,weight_each,WEIGHT EACH,DESCRIPTION,80#
+agricultural,18,Double Track Side Mount Bracket,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.80#
 agricultural,18,Double Track Side Mount Bracket,2,0,price,PRICE,,✓
 agricultural,19,Splice Collar,0,0,part,PART #,DESCRIPTION,HW-977
 agricultural,19,Splice Collar,0,0,finish,FINISH,DESCRIPTION,Galvanized
-agricultural,19,Splice Collar,0,0,weight_each,WEIGHT EACH,DESCRIPTION,SOF
+agricultural,19,Splice Collar,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.50#
 agricultural,19,Splice Collar,0,0,price,PRICE,,✓
 agricultural,19,Track End Plug,1,0,part,PART #,DESCRIPTION,HW-978
 agricultural,19,Track End Plug,1,0,finish,FINISH,DESCRIPTION,Galvanized
-agricultural,19,Track End Plug,1,0,weight_each,WEIGHT EACH,DESCRIPTION,20#
+agricultural,19,Track End Plug,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.20#
 agricultural,19,Track End Plug,1,0,price,PRICE,,✓
 agricultural,19,Offset-Bolt Trolley Hanger,2,0,part,PART #,DESCRIPTION,HW-979
 agricultural,19,Offset-Bolt Trolley Hanger,2,0,bolt_length,BOLT LENGTH,DESCRIPTION,"9 ¥2"""
@@ -522,7 +522,7 @@ agricultural,20,Wood Frame Door Trolley Hanger,1,0,weight_each,WEIGHT EACH,DESCR
 agricultural,20,Wood Frame Door Trolley Hanger,1,0,price,PRICE,,✓
 agricultural,20,Bolt Type Door Latch,2,0,part,PART #,DESCRIPTION,HW-983
 agricultural,20,Bolt Type Door Latch,2,0,finish,FINISH,DESCRIPTION,Galvanized
-agricultural,20,Bolt Type Door Latch,2,0,weight_each,WEIGHT EACH,DESCRIPTION,SOF
+agricultural,20,Bolt Type Door Latch,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.50#
 agricultural,20,Bolt Type Door Latch,2,0,price,PRICE,,✓
 agricultural,21,Center Latch,0,0,part,PART #,DESCRIPTION,HW-940
 agricultural,21,Center Latch,0,0,length,LENGTH,DESCRIPTION,"43"""
@@ -536,7 +536,7 @@ agricultural,21,Center Latch,0,1,weight_each,WEIGHT EACH,DESCRIPTION,3.00#
 agricultural,21,Center Latch,0,1,price,PRICE,,✓
 agricultural,21,Steel Door Pull,1,0,part,PART #,DESCRIPTION,HW-942
 agricultural,21,Steel Door Pull,1,0,finish,FINISH,DESCRIPTION,White
-agricultural,21,Steel Door Pull,1,0,weight_each,WEIGHT EACH,DESCRIPTION,A0#
+agricultural,21,Steel Door Pull,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.0#
 agricultural,21,Steel Door Pull,1,0,price,PRICE,,✓
 agricultural,21,Standard Track Cover Bracket,2,0,part,PART #,DESCRIPTION,HW-943
 agricultural,21,Standard Track Cover Bracket,2,0,finish,FINISH,DESCRIPTION,Galvanized
@@ -586,7 +586,7 @@ agricultural,23,Hanger Angle,2,0,weight_each,WEIGHT EACH,DESCRIPTION,1.00#
 agricultural,23,Hanger Angle,2,0,price,PRICE,,✓
 agricultural,24,Steel Door Pull,0,0,part,PART #,DESCRIPTION,HW-973
 agricultural,24,Steel Door Pull,0,0,finish,FINISH,DESCRIPTION,Galvanized
-agricultural,24,Steel Door Pull,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.I0#
+agricultural,24,Steel Door Pull,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.90#
 agricultural,24,Steel Door Pull,0,0,price,PRICE,,✓
 agricultural,24,"Trolleys - 2"" diameter wheel",1,0,part,PART #,DESCRIPTION,HW-969
 agricultural,24,"Trolleys - 2"" diameter wheel",1,0,finish,FINISH,DESCRIPTION,Galvanized
@@ -611,7 +611,7 @@ agricultural,26,Ridge Cap,1,0,part,PART #,DESCRIPTION,LG-101
 agricultural,26,Ridge Cap,1,0,length,LENGTH,DESCRIPTION,"10'-6"""
 agricultural,26,Ridge Cap,1,0,girth,GIRTH,DESCRIPTION,"45"""
 agricultural,26,Ridge Cap,1,0,gauge,GAUGE,DESCRIPTION,29
-agricultural,26,Ridge Cap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,7 924
+agricultural,26,Ridge Cap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,7924
 agricultural,26,Ridge Cap,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,26,Ridge Cap,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,26,Corner Trim,2,0,part,PART #,DESCRIPTION,LG-114
@@ -862,7 +862,7 @@ agricultural,31,Door Header,2,0,part,PART #,DESCRIPTION,AG-485
 agricultural,31,Door Header,2,0,length,LENGTH,DESCRIPTION,"3'-6"""
 agricultural,31,Door Header,2,0,girth,GIRTH,DESCRIPTION,"5"""
 agricultural,31,Door Header,2,0,gauge,GAUGE,DESCRIPTION,29
-agricultural,31,Door Header,2,0,weight_each,WEIGHT EACH,DESCRIPTION,1
+agricultural,31,Door Header,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.1
 agricultural,31,Door Header,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,31,Door Header,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,31,Door Header,2,1,part,PART #,DESCRIPTION,AG-486
@@ -897,14 +897,14 @@ agricultural,32,Endplate,1,0,part,PART #,DESCRIPTION,AG-225
 agricultural,32,Endplate,1,0,length,LENGTH,DESCRIPTION,"2-0"""
 agricultural,32,Endplate,1,0,girth,GIRTH,DESCRIPTION,"6%"""
 agricultural,32,Endplate,1,0,gauge,GAUGE,DESCRIPTION,29
-agricultural,32,Endplate,1,0,weight_each,WEIGHT EACH,DESCRIPTION,O44
+agricultural,32,Endplate,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.64#
 agricultural,32,Endplate,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,32,Endplate,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,32,Endplate,1,1,part,PART #,DESCRIPTION,AG-226
 agricultural,32,Endplate,1,1,length,LENGTH,DESCRIPTION,"2'-0"""
 agricultural,32,Endplate,1,1,girth,GIRTH,DESCRIPTION,"8%"""
 agricultural,32,Endplate,1,1,gauge,GAUGE,DESCRIPTION,29
-agricultural,32,Endplate,1,1,weight_each,WEIGHT EACH,DESCRIPTION,85H
+agricultural,32,Endplate,1,1,weight_each,WEIGHT EACH,DESCRIPTION,.85#
 agricultural,32,Endplate,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,32,Endplate,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,32,Inside Angle,2,0,part,PART #,DESCRIPTION,AG-260
@@ -1034,7 +1034,7 @@ agricultural,36,Snap-Up Track Cover,0,2,weight_each,WEIGHT EACH,DESCRIPTION,7374
 agricultural,36,Snap-Up Track Cover,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,36,Snap-Up Track Cover,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,36,Track Cover End Cap,1,0,part,PART #,DESCRIPTION,AG-343
-agricultural,36,Track Cover End Cap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,11#
+agricultural,36,Track Cover End Cap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.11#
 agricultural,36,Track Cover End Cap,1,0,gauge,GAUGE,DESCRIPTION,29
 agricultural,36,Track Cover End Cap,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,36,Track Cover End Cap,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
@@ -1157,26 +1157,26 @@ agricultural,39,Gutter Ends,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,
 agricultural,39,Gutter Ends,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,39,Gutter Ends,2,1,part,PART #,DESCRIPTION,FL-1001
 agricultural,39,Gutter Ends,2,1,weight_each,WEIGHT EACH,DESCRIPTION,29
-agricultural,39,Gutter Ends,2,1,gauge,GAUGE,DESCRIPTION,12#
+agricultural,39,Gutter Ends,2,1,gauge,GAUGE,DESCRIPTION,.12#
 agricultural,39,Gutter Ends,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,39,Gutter Ends,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,39,Gutter Ends,2,2,part,PART #,DESCRIPTION,FL-1001
 agricultural,39,Gutter Ends,2,2,weight_each,WEIGHT EACH,DESCRIPTION,26
-agricultural,39,Gutter Ends,2,2,gauge,GAUGE,DESCRIPTION,14
+agricultural,39,Gutter Ends,2,2,gauge,GAUGE,DESCRIPTION,.14
 agricultural,39,Gutter Ends,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,39,Gutter Ends,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,40,Gutter Strap,0,0,part,PART #,DESCRIPTION,FL-893
 agricultural,40,Gutter Strap,0,0,length,LENGTH,DESCRIPTION,"1-0"""
 agricultural,40,Gutter Strap,0,0,girth,GIRTH,DESCRIPTION,"3"""
 agricultural,40,Gutter Strap,0,0,gauge,GAUGE,DESCRIPTION,26
-agricultural,40,Gutter Strap,0,0,weight_each,WEIGHT EACH,DESCRIPTION,234
+agricultural,40,Gutter Strap,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.234
 agricultural,40,Gutter Strap,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,N/A
 agricultural,40,Gutter Strap,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,40,Gutter Strap,0,1,part,PART #,DESCRIPTION,FL-893
 agricultural,40,Gutter Strap,0,1,length,LENGTH,DESCRIPTION,"4'-0"""
 agricultural,40,Gutter Strap,0,1,girth,GIRTH,DESCRIPTION,"3"""
 agricultural,40,Gutter Strap,0,1,gauge,GAUGE,DESCRIPTION,24
-agricultural,40,Gutter Strap,0,1,weight_each,WEIGHT EACH,DESCRIPTION,24H
+agricultural,40,Gutter Strap,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.24#
 agricultural,40,Gutter Strap,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,40,Gutter Strap,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,41,Rake and Corner,0,0,part,PART #,DESCRIPTION,AG-410

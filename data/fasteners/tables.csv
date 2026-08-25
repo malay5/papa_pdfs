@@ -3,7 +3,7 @@ fasteners,3,Drill Bit,0,0,part,PART #,DESCRIPTION,HW-601
 fasteners,3,Drill Bit,0,0,wire_guage,"WIRE
 GUAGE",DESCRIPTION,#30
 fasteners,3,Drill Bit,0,0,decimal_size,"DECIMAL
-SIZE",DESCRIPTION,"1285"""
+SIZE",DESCRIPTION,".1285"""
 fasteners,3,Drill Bit,0,0,use,USE,DESCRIPTION,For Pop Rivets
 fasteners,3,Drill Bit,0,0,carton_qty,"CARTON
 QTy",DESCRIPTION,10/pkg
@@ -14,7 +14,7 @@ fasteners,3,Drill Bit,0,1,part,PART #,DESCRIPTION,HW-603
 fasteners,3,Drill Bit,0,1,wire_guage,"WIRE
 GUAGE",DESCRIPTION,#8
 fasteners,3,Drill Bit,0,1,decimal_size,"DECIMAL
-SIZE",DESCRIPTION,"1990"""
+SIZE",DESCRIPTION,".1990"""
 fasteners,3,Drill Bit,0,1,use,USE,DESCRIPTION,"For #14 or %4"" diameter Fastener in 16 to 12 gauge steel"
 fasteners,3,Drill Bit,0,1,carton_qty,"CARTON
 QTy",DESCRIPTION,10/pke
@@ -34,7 +34,7 @@ PER EACH",DESCRIPTION,.10#
 fasteners,3,Drill Bit,0,2,price,PRICE,,✓
 fasteners,3,Magnetic Sockets,1,0,part,PART #,DESCRIPTION,HW-604
 fasteners,3,Magnetic Sockets,1,0,size,SIZE,DESCRIPTION,"38"" Hex Drive"
-fasteners,3,Magnetic Sockets,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,10#
+fasteners,3,Magnetic Sockets,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.10#
 fasteners,3,Magnetic Sockets,1,0,price,PRICE,,✓
 fasteners,3,Magnetic Sockets,1,1,part,PART #,DESCRIPTION,HW-605
 fasteners,3,Magnetic Sockets,1,1,size,SIZE,DESCRIPTION,"5/16"" Hex Drive"
@@ -42,31 +42,31 @@ fasteners,3,Magnetic Sockets,1,1,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.10
 fasteners,3,Magnetic Sockets,1,1,price,PRICE,,✓
 fasteners,3,Magnetic Sockets,1,2,part,PART #,DESCRIPTION,HW-606
 fasteners,3,Magnetic Sockets,1,2,size,SIZE,DESCRIPTION,"Y%"" Hex Drive"
-fasteners,3,Magnetic Sockets,1,2,weight_per_each,WEIGHT PER EACH,DESCRIPTION,10#
+fasteners,3,Magnetic Sockets,1,2,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.10#
 fasteners,3,Magnetic Sockets,1,2,price,PRICE,,✓
 fasteners,3,Magnetic Sockets,1,3,part,PART #,DESCRIPTION,HW-612
 fasteners,3,Magnetic Sockets,1,3,size,SIZE,DESCRIPTION,"38"" Hex Drive - For Long Life Fasteners"
-fasteners,3,Magnetic Sockets,1,3,weight_per_each,WEIGHT PER EACH,DESCRIPTION,10#
+fasteners,3,Magnetic Sockets,1,3,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.10#
 fasteners,3,Magnetic Sockets,1,3,price,PRICE,,✓
 fasteners,3,Magnetic Sockets,1,4,part,PART #,DESCRIPTION,HW-613
 fasteners,3,Magnetic Sockets,1,4,size,SIZE,DESCRIPTION,"5/16"" Hex Drive - For Long Life Fasteners"
-fasteners,3,Magnetic Sockets,1,4,weight_per_each,WEIGHT PER EACH,DESCRIPTION,10#
+fasteners,3,Magnetic Sockets,1,4,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.10#
 fasteners,3,Magnetic Sockets,1,4,price,PRICE,,✓
 fasteners,3,Magnetic Sockets,1,5,part,PART #,DESCRIPTION,HW-590
 fasteners,3,Magnetic Sockets,1,5,size,SIZE,DESCRIPTION,"6"" Long - %"" Hex Drive"
-fasteners,3,Magnetic Sockets,1,5,weight_per_each,WEIGHT PER EACH,DESCRIPTION,12#
+fasteners,3,Magnetic Sockets,1,5,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.12#
 fasteners,3,Magnetic Sockets,1,5,price,PRICE,,✓
 fasteners,3,Magnetic Sockets,1,6,part,PART #,DESCRIPTION,HW-591
 fasteners,3,Magnetic Sockets,1,6,size,SIZE,DESCRIPTION,"6"" Long - 5/16"" Hex Drive"
-fasteners,3,Magnetic Sockets,1,6,weight_per_each,WEIGHT PER EACH,DESCRIPTION,11#
+fasteners,3,Magnetic Sockets,1,6,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.11#
 fasteners,3,Magnetic Sockets,1,6,price,PRICE,,✓
 fasteners,3,Magnetic Sockets,1,7,part,PART #,DESCRIPTION,HW-592
 fasteners,3,Magnetic Sockets,1,7,size,SIZE,DESCRIPTION,"6"" Long - %4"" Hex Drive"
-fasteners,3,Magnetic Sockets,1,7,weight_per_each,WEIGHT PER EACH,DESCRIPTION,10#
+fasteners,3,Magnetic Sockets,1,7,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.10#
 fasteners,3,Magnetic Sockets,1,7,price,PRICE,,✓
 fasteners,3,Magnetic Sockets,1,8,part,PART #,DESCRIPTION,HW-615
 fasteners,3,Magnetic Sockets,1,8,size,SIZE,DESCRIPTION,#2 Philips Insert with Magentic Holder
-fasteners,3,Magnetic Sockets,1,8,weight_per_each,WEIGHT PER EACH,DESCRIPTION,10#
+fasteners,3,Magnetic Sockets,1,8,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.10#
 fasteners,3,Magnetic Sockets,1,8,price,PRICE,,✓
 fasteners,3,Magnetic Sockets,1,9,part,PART #,DESCRIPTION,HW-616
 fasteners,3,Magnetic Sockets,1,9,size,SIZE,DESCRIPTION,#2 Quadrex Drive
@@ -274,7 +274,7 @@ fasteners,12,Fastener #142,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
 fasteners,12,Fastener #1616,2,0,part,PART #,DESCRIPTION,#1616
 fasteners,12,Fastener #1616,2,0,head_size,HEAD SIZE,DESCRIPTION,"2/16"""
 fasteners,12,Fastener #1616,2,0,type,TYPE,DESCRIPTION,Driller
-fasteners,12,Fastener #1616,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,O2#
+fasteners,12,Fastener #1616,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,.02#
 fasteners,12,Fastener #1616,2,0,plated,PLATED,PRICED PER EACH,✓
 fasteners,12,Fastener #1616,2,0,painted,PAINTED,PRICED PER EACH,N/A
 fasteners,12,Fastener #5,3,0,part,PART #,DESCRIPTION,#5
@@ -348,7 +348,7 @@ fasteners,15,Fastener #2A,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
 fasteners,15,Fastener #2B,2,0,part,PART #,DESCRIPTION,#2B
 fasteners,15,Fastener #2B,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
 fasteners,15,Fastener #2B,2,0,type,TYPE,DESCRIPTION,Long Life AB
-fasteners,15,Fastener #2B,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,O2#
+fasteners,15,Fastener #2B,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,.02#
 fasteners,15,Fastener #2B,2,0,plated,PLATED,PRICED PER EACH,✓
 fasteners,15,Fastener #2B,2,0,painted,PAINTED,PRICED PER EACH,✓
 fasteners,15,Fastener #203,3,0,part,PART #,DESCRIPTION,#203
@@ -397,7 +397,7 @@ fasteners,17,Fastener #34,1,0,painted,PAINTED,PRICED PER THOUSAND,vt
 fasteners,17,Fastener #8A,2,0,part,PART #,DESCRIPTION,#8A
 fasteners,17,Fastener #8A,2,0,head_size,HEAD SIZE,DESCRIPTION,"YA"""
 fasteners,17,Fastener #8A,2,0,type,TYPE,DESCRIPTION,Wood Fastener
-fasteners,17,Fastener #8A,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,8./0#
+fasteners,17,Fastener #8A,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,8.70#
 fasteners,17,Fastener #8A,2,0,plated,PLATED,PRICED PER THOUSAND,✓
 fasteners,17,Fastener #8A,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
 fasteners,17,Fastener #8,3,0,part,PART #,DESCRIPTION,#8
@@ -477,13 +477,13 @@ fasteners,20,Fastener #16,2,0,painted,PAINTED,PRICED PER THOUSAND,N/A
 fasteners,20,Fastener #12,3,0,part,PART #,DESCRIPTION,#12
 fasteners,20,Fastener #12,3,0,head_size,HEAD SIZE,DESCRIPTION,#2 Phillips
 fasteners,20,Fastener #12,3,0,type,TYPE,DESCRIPTION,Driller
-fasteners,20,Fastener #12,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,7 OO#
+fasteners,20,Fastener #12,3,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,70#
 fasteners,20,Fastener #12,3,0,plated,PLATED,PRICED PER THOUSAND,✓
 fasteners,20,Fastener #12,3,0,painted,PAINTED,PRICED PER THOUSAND,N/A
 fasteners,21,Fastener #12A,0,0,part,PART #,DESCRIPTION,#12A
 fasteners,21,Fastener #12A,0,0,head_size,HEAD SIZE,DESCRIPTION,#2 Quadrex Drive
 fasteners,21,Fastener #12A,0,0,type,TYPE,DESCRIPTION,Driller
-fasteners,21,Fastener #12A,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,7 OO#
+fasteners,21,Fastener #12A,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,7.0#
 fasteners,21,Fastener #12A,0,0,plated,PLATED,PRICED PER THOUSAND,✓
 fasteners,21,Fastener #12A,0,0,painted,PAINTED,PRICED PER THOUSAND,N/A
 fasteners,21,Fastener #13,1,0,part,PART #,DESCRIPTION,#13
@@ -507,9 +507,9 @@ fasteners,22,Fastener #14,0,0,part,PART #,DESCRIPTION,#14
 fasteners,22,Fastener #14,0,0,material,MATERIAL,DESCRIPTION,Stainless Steel
 fasteners,22,Fastener #14,0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,2.90#
 fasteners,22,Fastener #14,0,0,plated,PLATED,PRICED PER THOUSAND,✓
-fasteners,22,Fastener #14,0,0,painted_standard_color,"PAINTED
+fasteners,22,Fastener #14,0,0,painted_standard_color,".PAINTED
 STANDARD COLOR",PRICED PER THOUSAND,vt
-fasteners,22,Fastener #14,0,0,painted_special_color,"PAINTED
+fasteners,22,Fastener #14,0,0,painted_special_color,".PAINTED
 SPECIAL COLOR",PRICED PER THOUSAND,vt
 fasteners,22,Fastener #14A,1,0,part,PART #,DESCRIPTION,#14A
 fasteners,22,Fastener #14A,1,0,material,MATERIAL,DESCRIPTION,Stainless Steel
@@ -543,7 +543,7 @@ fasteners,23,Fastener #15D,1,0,painted,PAINTED,PRICED PER THOUSAND,N/A
 fasteners,23,Fastener #25,2,0,part,PART #,DESCRIPTION,#25
 fasteners,23,Fastener #25,2,0,head_size,HEAD SIZE,DESCRIPTION,"5/16"""
 fasteners,23,Fastener #25,2,0,type,TYPE,DESCRIPTION,Stitch
-fasteners,23,Fastener #25,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,7 OO#
+fasteners,23,Fastener #25,2,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,7.00#
 fasteners,23,Fastener #25,2,0,plated,PLATED,PRICED PER THOUSAND,✓
 fasteners,23,Fastener #25,2,0,painted,PAINTED,PRICED PER THOUSAND,vt
 fasteners,23,Fastener #24,3,0,part,PART #,DESCRIPTION,#24

@@ -84,11 +84,19 @@ def _shape(value):
     return re.sub(r"9+", "9", re.sub(r"a+", "a", "".join(out)))
 
 
-def _outliers(table):
-    """Values whose shape disagrees with the rest of their column.
+# A shape made only of digits and the punctuation these catalogs measure in.
+NUMERIC_SHAPE = re.compile(r'^[.,]?9[.,9]*["\'#]?$')
 
-    Catches misreads that are individually plausible -- '1 W xX 36"' sitting
-    in a column of '1" x 36"' -- which no per-value rule would question.
+
+def _outliers(table):
+    """Numeric values whose shape disagrees with the rest of their column.
+
+    Catches the misreads that look like perfectly good numbers -- '1344' in a
+    column of '134#', '42"' among '12"' -- which no per-value rule would
+    question.  Both sides of the comparison must be numeric: a column of
+    finishes legitimately varies, and a gauge column legitimately carries one
+    '.024" Alum ††' among its plain numbers.  Flagging those buries the real
+    findings.
     """
     for index, name in enumerate(table["columns"]):
         values = [(row_index, row[index]) for row_index, row in enumerate(table["rows"])
@@ -99,8 +107,10 @@ def _outliers(table):
         shape, count = counts.most_common(1)[0]
         if count < OUTLIER_MIN_AGREEING or count == len(values):
             continue
+        if not NUMERIC_SHAPE.match(shape):
+            continue
         for row_index, value in values:
-            if _shape(value) != shape:
+            if _shape(value) != shape and NUMERIC_SHAPE.match(_shape(value)):
                 yield row_index, name, value
 
 

@@ -9,6 +9,7 @@ See geometry.py and ocr.py for why each half works the way it does.
 """
 
 import argparse
+import collections
 import csv
 import json
 import multiprocessing
@@ -47,6 +48,8 @@ NUMERIC_HEADER = re.compile(
 # in a column of plain gauges -- is mixed on purpose, and a digit-only retry
 # would silently throw its words away.
 NUMERIC_REPAIR_MAX_LEN = 6
+# Values that must share a shape before a dissenter is re-read against it.
+SHAPE_MIN_AGREEING = 3
 
 NUMERIC_VALUE = re.compile(r'^\.?\d[\d,]*(\.\d+)?\s*[#"\']?$')
 # How this typeface's digits come back when OCR misreads them.  Used only to
@@ -135,6 +138,41 @@ def _numeric_shaped(value):
     return bool(NUMERIC_VALUE.match(value.translate(CONFUSABLE)))
 
 
+def _value_shape(value):
+    """Collapse a value to its pattern of digits, letters and punctuation."""
+    out = []
+    for char in value:
+        out.append("9" if char.isdigit() else "a" if char.isalpha()
+                   else " " if char.isspace() else char)
+    return re.sub(r"9+", "9", re.sub(r"a+", "a", "".join(out)))
+
+
+def _repair_column_shape(values, page_image):
+    """Re-read values whose shape disagrees with the rest of their column.
+
+    Catches the misreads that look like perfectly good numbers: '124#' comes
+    back as '1244' when the '#' is read as a digit, which every value-level
+    check accepts.  The column says otherwise -- ten weights ending in '#'
+    and one ending in a digit -- so the odd one out is read again, and the
+    new reading is taken only if it matches what the column expects.
+    """
+    if len(values) < SHAPE_MIN_AGREEING + 1:
+        return 0
+    counts = collections.Counter(_value_shape(text) for _, text in values)
+    shape, agreeing = counts.most_common(1)[0]
+    if agreeing < SHAPE_MIN_AGREEING or agreeing == len(values):
+        return 0
+    repaired = 0
+    for cell, text in values:
+        if _value_shape(text) == shape or len(text) > NUMERIC_REPAIR_MAX_LEN:
+            continue
+        retry = ocr.read_numeric_cell(page_image, cell.bbox)
+        if retry and _value_shape(retry) == shape:
+            cell.text = retry
+            repaired += 1
+    return repaired
+
+
 def _repair_numeric_columns(rows, columns, page_image):
     """Re-read stray values in columns that are otherwise all numbers.
 
@@ -161,6 +199,8 @@ def _repair_numeric_columns(rows, columns, page_image):
             if retry and NUMERIC_VALUE.match(retry):
                 cell.text = retry
                 repaired += 1
+        values = [(cell, cell.text) for cell, _ in values if cell.text]
+        repaired += _repair_column_shape(values, page_image)
     return repaired
 
 
@@ -280,6 +320,14 @@ def _worker(job):
                 "error": traceback.format_exc(limit=3)}
 
 
+def csv_write(path, rows):
+    """Write tidy long-form records to `path`."""
+    with open(path, "w", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=TIDY_FIELDS)
+        writer.writeheader()
+        writer.writerows(rows)
+
+
 def _write_catalog(slug, pages, out_dir):
     os.makedirs(out_dir, exist_ok=True)
     document = {
@@ -300,10 +348,7 @@ def _write_catalog(slug, pages, out_dir):
             handle.write(page.get("text", "") + "\n")
 
     rows = list(tidy_rows(pages))
-    with open(os.path.join(out_dir, "tables.csv"), "w", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=TIDY_FIELDS)
-        writer.writeheader()
-        writer.writerows(rows)
+    csv_write(os.path.join(out_dir, "tables.csv"), rows)
     return rows
 
 
@@ -391,10 +436,7 @@ def main():
                                        if p.get("effective_date")}),
         })
 
-    with open(os.path.join(args.out, "all_tables.csv"), "w", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=TIDY_FIELDS)
-        writer.writeheader()
-        writer.writerows(combined)
+    csv_write(os.path.join(args.out, "all_tables.csv"), combined)
     with open(os.path.join(args.out, "summary.json"), "w") as handle:
         json.dump(summary, handle, indent=2, ensure_ascii=False)
 

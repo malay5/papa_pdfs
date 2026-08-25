@@ -2,13 +2,13 @@ catalog,page,section,table,row,column,column_label,column_group,value
 architectural,3,"LokSeam® Series 12""",0,0,gauge,GAUGE,DESCRIPTION,26
 architectural,3,"LokSeam® Series 12""",0,0,coverage,COVERAGE,DESCRIPTION,"12"""
 architectural,3,"LokSeam® Series 12""",0,0,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,3,"LokSeam® Series 12""",0,0,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1244
+architectural,3,"LokSeam® Series 12""",0,0,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,124#
 architectural,3,"LokSeam® Series 12""",0,0,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
 architectural,3,"LokSeam® Series 12""",0,0,price,PRICE,,Please Inquire
 architectural,3,"LokSeam® Series 12""",0,1,gauge,GAUGE,DESCRIPTION,26
 architectural,3,"LokSeam® Series 12""",0,1,coverage,COVERAGE,DESCRIPTION,"12"""
 architectural,3,"LokSeam® Series 12""",0,1,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,3,"LokSeam® Series 12""",0,1,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1244
+architectural,3,"LokSeam® Series 12""",0,1,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,124#
 architectural,3,"LokSeam® Series 12""",0,1,finish,FINISH*,DESCRIPTION,Signature® 200
 architectural,3,"LokSeam® Series 12""",0,1,price,PRICE,,Please Inquire
 architectural,3,"LokSeam® Series 12""",0,2,gauge,GAUGE,DESCRIPTION,24
@@ -32,7 +32,7 @@ architectural,3,"LokSeam® Series 12""",0,4,price,PRICE,,✓
 architectural,3,"LokSeam® Series 12""",0,5,gauge,GAUGE,DESCRIPTION,24
 architectural,3,"LokSeam® Series 12""",0,5,coverage,COVERAGE,DESCRIPTION,"42"""
 architectural,3,"LokSeam® Series 12""",0,5,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,3,"LokSeam® Series 12""",0,5,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1544
+architectural,3,"LokSeam® Series 12""",0,5,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,154#
 architectural,3,"LokSeam® Series 12""",0,5,finish,FINISH*,DESCRIPTION,Signature® 300 Metallic
 architectural,3,"LokSeam® Series 12""",0,5,price,PRICE,,Please Inquire
 architectural,3,"LokSeam® Series 12""",0,6,gauge,GAUGE,DESCRIPTION,22
@@ -68,7 +68,7 @@ architectural,3,"LokSeam® Series 16""",1,0,price,PRICE,,✓
 architectural,3,"LokSeam® Series 16""",1,1,gauge,GAUGE,DESCRIPTION,24
 architectural,3,"LokSeam® Series 16""",1,1,coverage,COVERAGE,DESCRIPTION,"16"""
 architectural,3,"LokSeam® Series 16""",1,1,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,3,"LokSeam® Series 16""",1,1,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1344
+architectural,3,"LokSeam® Series 16""",1,1,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,134#
 architectural,3,"LokSeam® Series 16""",1,1,finish,FINISH*,DESCRIPTION,Signature® 200
 architectural,3,"LokSeam® Series 16""",1,1,price,PRICE,,✓
 architectural,3,"LokSeam® Series 16""",1,2,gauge,GAUGE,DESCRIPTION,24
@@ -134,7 +134,7 @@ architectural,4,"LokSeam® Series 18""",0,3,price,PRICE,,Please Inquire
 architectural,4,"LokSeam® Series 18""",0,4,gauge,GAUGE,DESCRIPTION,22
 architectural,4,"LokSeam® Series 18""",0,4,coverage,COVERAGE,DESCRIPTION,"18"""
 architectural,4,"LokSeam® Series 18""",0,4,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,4,"LokSeam® Series 18""",0,4,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1844
+architectural,4,"LokSeam® Series 18""",0,4,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,184#
 architectural,4,"LokSeam® Series 18""",0,4,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
 architectural,4,"LokSeam® Series 18""",0,4,price,PRICE,,Please Inquire
 architectural,4,"LokSeam® Series 18""",0,5,gauge,GAUGE,DESCRIPTION,22
@@ -254,13 +254,13 @@ architectural,6,"Craftsman"" Series - Small Batten 16%""",0,5,price,PRICE,,Pleas
 architectural,6,"Craftsman"" Series - Small Batten 16%""",0,6,gauge,GAUGE,DESCRIPTION,22
 architectural,6,"Craftsman"" Series - Small Batten 16%""",0,6,coverage,COVERAGE,DESCRIPTION,"16%"""
 architectural,6,"Craftsman"" Series - Small Batten 16%""",0,6,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,6,"Craftsman"" Series - Small Batten 16%""",0,6,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1334
+architectural,6,"Craftsman"" Series - Small Batten 16%""",0,6,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,133#
 architectural,6,"Craftsman"" Series - Small Batten 16%""",0,6,finish,FINISH*,DESCRIPTION,Signature® 300
 architectural,6,"Craftsman"" Series - Small Batten 16%""",0,6,price,PRICE,,Please Inquire
 architectural,6,"Craftsman"" Series - Small Batten 16%""",0,7,gauge,GAUGE,DESCRIPTION,22
 architectural,6,"Craftsman"" Series - Small Batten 16%""",0,7,coverage,COVERAGE,DESCRIPTION,"16%"""
 architectural,6,"Craftsman"" Series - Small Batten 16%""",0,7,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,6,"Craftsman"" Series - Small Batten 16%""",0,7,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1334
+architectural,6,"Craftsman"" Series - Small Batten 16%""",0,7,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,133#
 architectural,6,"Craftsman"" Series - Small Batten 16%""",0,7,finish,FINISH*,DESCRIPTION,Signature® 300 Metallic
 architectural,6,"Craftsman"" Series - Small Batten 16%""",0,7,price,PRICE,,Please Inquire
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,0,gauge,GAUGE,DESCRIPTION,26
@@ -278,13 +278,13 @@ architectural,7,"Craftsman""™ Series - High Batten 12""",0,1,price,PRICE,,Plea
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,2,gauge,GAUGE,DESCRIPTION,24
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,2,coverage,COVERAGE,DESCRIPTION,"12"""
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,2,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,7,"Craftsman""™ Series - High Batten 12""",0,2,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1244
+architectural,7,"Craftsman""™ Series - High Batten 12""",0,2,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,124#
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,2,finish,FINISH*,DESCRIPTION,Galvalume® Plus &
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,2,price,PRICE,,✓
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,3,gauge,GAUGE,DESCRIPTION,24
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,3,coverage,COVERAGE,DESCRIPTION,"12"""
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,3,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,7,"Craftsman""™ Series - High Batten 12""",0,3,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1244
+architectural,7,"Craftsman""™ Series - High Batten 12""",0,3,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,124#
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,3,finish,FINISH*,DESCRIPTION,Signature® 200
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,3,price,PRICE,,✓
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,4,gauge,GAUGE,DESCRIPTION,24
@@ -296,7 +296,7 @@ architectural,7,"Craftsman""™ Series - High Batten 12""",0,4,price,PRICE,,✓
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,5,gauge,GAUGE,DESCRIPTION,24
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,5,coverage,COVERAGE,DESCRIPTION,"12"""
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,5,yield_psi,YIELD (PSI),DESCRIPTION,"50,000"
-architectural,7,"Craftsman""™ Series - High Batten 12""",0,5,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,1244
+architectural,7,"Craftsman""™ Series - High Batten 12""",0,5,weight_per_sq,WEIGHT PER SQ.,DESCRIPTION,124#
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,5,finish,FINISH*,DESCRIPTION,"Signature"" 300 Metallic"
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,5,price,PRICE,,Please Inquire
 architectural,7,"Craftsman""™ Series - High Batten 12""",0,6,gauge,GAUGE,DESCRIPTION,22
@@ -833,7 +833,7 @@ architectural,21,SB/HB Batten Cap,0,0,size,SIZE,DESCRIPTION,"1"" x 3"""
 architectural,21,SB/HB Batten Cap,0,0,length,LENGTH,DESCRIPTION,Specify
 architectural,21,SB/HB Batten Cap,0,0,girth,GIRTH,DESCRIPTION,"2'he"""
 architectural,21,SB/HB Batten Cap,0,0,weight_per_clf,"WEIGHT PER
-CLF",DESCRIPTION,17#
+CLF",DESCRIPTION,.17#
 architectural,21,SB/HB Batten Cap,0,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER 100 LINEAR FEET,✓
 architectural,21,SB/HB Batten Cap,0,0,signature_200,"SIGNATURE®
@@ -883,7 +883,7 @@ architectural,22,LokSeam® Rib Cover,0,0,signature_300_metallic,"SIGNATURE®
 architectural,22,MasterLine 16® Outside Closure - Metal,1,0,part,PART #,DESCRIPTION,HW-4067LH
 architectural,22,MasterLine 16® Outside Closure - Metal,1,0,length,LENGTH,DESCRIPTION,"17"""
 architectural,22,MasterLine 16® Outside Closure - Metal,1,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,254
+EACH",DESCRIPTION,.254
 architectural,22,MasterLine 16® Outside Closure - Metal,1,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,22,MasterLine 16® Outside Closure - Metal,1,0,signature_200,"SIGNATURE®
@@ -895,7 +895,7 @@ architectural,22,MasterLine 16® Outside Closure - Metal,1,0,signature_300_metal
 architectural,22,MasterLine 16® Outside Closure - Metal,1,1,part,PART #,DESCRIPTION,HW-4067RH
 architectural,22,MasterLine 16® Outside Closure - Metal,1,1,length,LENGTH,DESCRIPTION,"17"""
 architectural,22,MasterLine 16® Outside Closure - Metal,1,1,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,254
+EACH",DESCRIPTION,.254
 architectural,22,MasterLine 16® Outside Closure - Metal,1,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,22,MasterLine 16® Outside Closure - Metal,1,1,signature_200,"SIGNATURE®
@@ -906,7 +906,7 @@ architectural,22,MasterLine 16® Outside Closure - Metal,1,1,signature_300_metal
 300 METALLIC",PRICED PER EACH,✓
 architectural,22,LokSeam® Standard Clip,2,0,part,PART #,DESCRIPTION,HW-6200
 architectural,22,LokSeam® Standard Clip,2,0,finish,FINISH,DESCRIPTION,Galvanized
-architectural,22,LokSeam® Standard Clip,2,0,weight_per_100,WEIGHT PER 100,DESCRIPTION,8./5#
+architectural,22,LokSeam® Standard Clip,2,0,weight_per_100,WEIGHT PER 100,DESCRIPTION,8.754
 architectural,22,LokSeam® Standard Clip,2,0,price,PRICE,,✓
 architectural,23,LokSeam® UL90 Clip,0,0,part,PART #,DESCRIPTION,HW-6400
 architectural,23,LokSeam® UL90 Clip,0,0,finish,FINISH,DESCRIPTION,Galvanized
@@ -938,7 +938,7 @@ architectural,25,"ShadowRrib"" Starter Angle",0,0,price,PRICE,,✓
 architectural,25,ShadowRkib™ Clip,1,0,part,PART #,DESCRIPTION,HW-6602
 architectural,25,ShadowRkib™ Clip,1,0,gauge,GAUGE,DESCRIPTION,16
 architectural,25,ShadowRkib™ Clip,1,0,finish,FINISH,DESCRIPTION,Red Oxide
-architectural,25,ShadowRkib™ Clip,1,0,weight_per_100,WEIGHT PER 100,DESCRIPTION,35H
+architectural,25,ShadowRkib™ Clip,1,0,weight_per_100,WEIGHT PER 100,DESCRIPTION,.35#
 architectural,25,ShadowRkib™ Clip,1,0,price,PRICE,,✓
 architectural,25,Support Plate,2,0,part,PART #,DESCRIPTION,P-140
 architectural,25,Support Plate,2,0,gauge,GAUGE,DESCRIPTION,14
@@ -995,7 +995,7 @@ architectural,27,Back-Up Plate Vertical Leg,0,2,galvanized,GALVANIZED,PRICED PER
 architectural,27,Tape Sealer - Triple Bead,1,0,part,PART #,DESCRIPTION,HW-502
 architectural,27,Tape Sealer - Triple Bead,1,0,type,TYPE,DESCRIPTION,Butyl
 architectural,27,Tape Sealer - Triple Bead,1,0,width,WIDTH,DESCRIPTION,"272"""
-architectural,27,Tape Sealer - Triple Bead,1,0,thickness,THICKNESS,DESCRIPTION,"she"""
+architectural,27,Tape Sealer - Triple Bead,1,0,thickness,THICKNESS,DESCRIPTION,36
 architectural,27,Tape Sealer - Triple Bead,1,0,length,LENGTH,DESCRIPTION,"20'-0"""
 architectural,27,Tape Sealer - Triple Bead,1,0,carton_qty,CARTON QTY,DESCRIPTION,6
 architectural,27,Tape Sealer - Triple Bead,1,0,gcarton_weight,"GCARTON
@@ -1004,7 +1004,7 @@ architectural,27,Tape Sealer - Triple Bead,1,0,price,PRICE,,✓
 architectural,27,Tape Sealer - Tri-Bead,2,0,part,PART #,DESCRIPTION,HW-504
 architectural,27,Tape Sealer - Tri-Bead,2,0,type,TYPE,DESCRIPTION,Butyl
 architectural,27,Tape Sealer - Tri-Bead,2,0,width,WIDTH,DESCRIPTION,"Ip"""
-architectural,27,Tape Sealer - Tri-Bead,2,0,thickness,THICKNESS,DESCRIPTION,"3h6"""
+architectural,27,Tape Sealer - Tri-Bead,2,0,thickness,THICKNESS,DESCRIPTION,36
 architectural,27,Tape Sealer - Tri-Bead,2,0,length,LENGTH,DESCRIPTION,"25'-0"""
 architectural,27,Tape Sealer - Tri-Bead,2,0,carton_qty,CARTON QTY,DESCRIPTION,8
 architectural,27,Tape Sealer - Tri-Bead,2,0,gcarton_weight,"GCARTON
@@ -1014,37 +1014,37 @@ architectural,28,Tube Sealant,0,0,part,PART #,DESCRIPTION,HW-548
 architectural,28,Tube Sealant,0,0,type,TYPE,DESCRIPTION,Acrylic
 architectural,28,Tube Sealant,0,0,color,COLOR,DESCRIPTION,White
 architectural,28,Tube Sealant,0,0,tube_size,TUBE SIZE,DESCRIPTION,11 Ounce
-architectural,28,Tube Sealant,0,0,tube_weight,TUBE WEIGHT,DESCRIPTION,15#
+architectural,28,Tube Sealant,0,0,tube_weight,TUBE WEIGHT,DESCRIPTION,.15#
 architectural,28,Tube Sealant,0,0,price,PRICE,,✓
 architectural,28,Tube Sealant,0,1,part,PART #,DESCRIPTION,HW-550
 architectural,28,Tube Sealant,0,1,type,TYPE,DESCRIPTION,Acrylic
 architectural,28,Tube Sealant,0,1,color,COLOR,DESCRIPTION,Gray
 architectural,28,Tube Sealant,0,1,tube_size,TUBE SIZE,DESCRIPTION,11 Ounce
-architectural,28,Tube Sealant,0,1,tube_weight,TUBE WEIGHT,DESCRIPTION,15#
+architectural,28,Tube Sealant,0,1,tube_weight,TUBE WEIGHT,DESCRIPTION,.15#
 architectural,28,Tube Sealant,0,1,price,PRICE,,✓
 architectural,28,Tube Sealant,0,2,part,PART #,DESCRIPTION,HW-540
 architectural,28,Tube Sealant,0,2,type,TYPE,DESCRIPTION,Urethane
 architectural,28,Tube Sealant,0,2,color,COLOR,DESCRIPTION,White
 architectural,28,Tube Sealant,0,2,tube_size,TUBE SIZE,DESCRIPTION,11 Ounce
-architectural,28,Tube Sealant,0,2,tube_weight,TUBE WEIGHT,DESCRIPTION,85#
+architectural,28,Tube Sealant,0,2,tube_weight,TUBE WEIGHT,DESCRIPTION,.85#
 architectural,28,Tube Sealant,0,2,price,PRICE,,✓
 architectural,28,Tube Sealant,0,3,part,PART #,DESCRIPTION,HW-541
 architectural,28,Tube Sealant,0,3,type,TYPE,DESCRIPTION,Urethane
 architectural,28,Tube Sealant,0,3,color,COLOR,DESCRIPTION,Gray
 architectural,28,Tube Sealant,0,3,tube_size,TUBE SIZE,DESCRIPTION,11 Ounce
-architectural,28,Tube Sealant,0,3,tube_weight,TUBE WEIGHT,DESCRIPTION,85#
+architectural,28,Tube Sealant,0,3,tube_weight,TUBE WEIGHT,DESCRIPTION,.85#
 architectural,28,Tube Sealant,0,3,price,PRICE,,✓
 architectural,28,Tube Sealant,0,4,part,PART #,DESCRIPTION,HW-542
 architectural,28,Tube Sealant,0,4,type,TYPE,DESCRIPTION,Urethane
 architectural,28,Tube Sealant,0,4,color,COLOR,DESCRIPTION,Bronze
 architectural,28,Tube Sealant,0,4,tube_size,TUBE SIZE,DESCRIPTION,11 Ounce
-architectural,28,Tube Sealant,0,4,tube_weight,TUBE WEIGHT,DESCRIPTION,85#
+architectural,28,Tube Sealant,0,4,tube_weight,TUBE WEIGHT,DESCRIPTION,.85#
 architectural,28,Tube Sealant,0,4,price,PRICE,,✓
 architectural,28,Tube Sealant,0,5,part,PART #,DESCRIPTION,HW-544
 architectural,28,Tube Sealant,0,5,type,TYPE,DESCRIPTION,Urethane
 architectural,28,Tube Sealant,0,5,color,COLOR,DESCRIPTION,Almond
 architectural,28,Tube Sealant,0,5,tube_size,TUBE SIZE,DESCRIPTION,11 Ounce
-architectural,28,Tube Sealant,0,5,tube_weight,TUBE WEIGHT,DESCRIPTION,85#
+architectural,28,Tube Sealant,0,5,tube_weight,TUBE WEIGHT,DESCRIPTION,.85#
 architectural,28,Tube Sealant,0,5,price,PRICE,,✓
 architectural,28,Tube Sealant,0,6,part,PART #,DESCRIPTION,HW-549
 architectural,28,Tube Sealant,0,6,type,TYPE,DESCRIPTION,Non-Skinning Butyl
@@ -1078,23 +1078,23 @@ architectural,29,Scrimless Aluminum Tape,0,0,weight_per_roll,WEIGHT PER ROLL,DES
 architectural,29,Scrimless Aluminum Tape,0,0,price,PRICE,,✓
 architectural,29,Classic® Series Closures - Outside,1,0,part,PART #,DESCRIPTION,HW-408
 architectural,29,Classic® Series Closures - Outside,1,0,profile,PROFILE,DESCRIPTION,P16
-architectural,29,Classic® Series Closures - Outside,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,A6#
+architectural,29,Classic® Series Closures - Outside,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.6#
 architectural,29,Classic® Series Closures - Outside,1,0,price,PRICE,,✓
 architectural,29,MasterLine 16® Closures - Outside,2,0,part,PART #,DESCRIPTION,HW-433
 architectural,29,MasterLine 16® Closures - Outside,2,0,profile,PROFILE,DESCRIPTION,MasterLine 16®
-architectural,29,MasterLine 16® Closures - Outside,2,0,weight_each,WEIGHT EACH,DESCRIPTION,O4#
+architectural,29,MasterLine 16® Closures - Outside,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.4#
 architectural,29,MasterLine 16® Closures - Outside,2,0,price,PRICE,,✓
 architectural,29,ShadowRib™ Closures - Inside,3,0,part,PART #,DESCRIPTION,HW-410
 architectural,29,ShadowRib™ Closures - Inside,3,0,profile,PROFILE,DESCRIPTION,ShadowRib™
-architectural,29,ShadowRib™ Closures - Inside,3,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,A4#
+architectural,29,ShadowRib™ Closures - Inside,3,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.4#
 architectural,29,ShadowRib™ Closures - Inside,3,0,price,PRICE,,✓
 architectural,29,"Shadowkib""™ Closures - Outside",4,0,part,PART #,DESCRIPTION,HW-412
 architectural,29,"Shadowkib""™ Closures - Outside",4,0,profile,PROFILE,DESCRIPTION,ShadowRib™
-architectural,29,"Shadowkib""™ Closures - Outside",4,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,10#
+architectural,29,"Shadowkib""™ Closures - Outside",4,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.10#
 architectural,29,"Shadowkib""™ Closures - Outside",4,0,price,PRICE,,✓
 architectural,30,Miscellaneous Closures,0,0,part,PART #,DESCRIPTION,HW-414
 architectural,30,Miscellaneous Closures,0,0,profile,PROFILE,DESCRIPTION,"1%"" x 1"" x 48"""
-architectural,30,Miscellaneous Closures,0,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,134
+architectural,30,Miscellaneous Closures,0,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.134
 architectural,30,Miscellaneous Closures,0,0,price,PRICE,,✓
 architectural,30,Miscellaneous Closures,0,1,part,PART #,DESCRIPTION,HW-416
 architectural,30,Miscellaneous Closures,0,1,profile,PROFILE,DESCRIPTION,"2"" x 1"" x 48"""
@@ -1102,19 +1102,19 @@ architectural,30,Miscellaneous Closures,0,1,weight_per_each,WEIGHT PER EACH,DESC
 architectural,30,Miscellaneous Closures,0,1,price,PRICE,,✓
 architectural,30,Miscellaneous Closures,0,2,part,PART #,DESCRIPTION,HW-418
 architectural,30,Miscellaneous Closures,0,2,profile,PROFILE,DESCRIPTION,"1%"" x 1"" x 48"""
-architectural,30,Miscellaneous Closures,0,2,weight_per_each,WEIGHT PER EACH,DESCRIPTION,15#
+architectural,30,Miscellaneous Closures,0,2,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.15#
 architectural,30,Miscellaneous Closures,0,2,price,PRICE,,✓
 architectural,30,Miscellaneous Closures,0,3,part,PART #,DESCRIPTION,HW-420
 architectural,30,Miscellaneous Closures,0,3,profile,PROFILE,DESCRIPTION,"1""x 1"" x 48"""
-architectural,30,Miscellaneous Closures,0,3,weight_per_each,WEIGHT PER EACH,DESCRIPTION,0#
+architectural,30,Miscellaneous Closures,0,3,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.0#
 architectural,30,Miscellaneous Closures,0,3,price,PRICE,,✓
 architectural,30,Miscellaneous Closures,0,4,part,PART #,DESCRIPTION,HW-422
 architectural,30,Miscellaneous Closures,0,4,profile,PROFILE,DESCRIPTION,"1¥2"" x 1"" x 48"""
-architectural,30,Miscellaneous Closures,0,4,weight_per_each,WEIGHT PER EACH,DESCRIPTION,134
+architectural,30,Miscellaneous Closures,0,4,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.134
 architectural,30,Miscellaneous Closures,0,4,price,PRICE,,✓
 architectural,30,NuWall® Closures - Outside,1,0,part,PART #,DESCRIPTION,HW-424
 architectural,30,NuWall® Closures - Outside,1,0,profile,PROFILE,DESCRIPTION,NuWall®
-architectural,30,NuWall® Closures - Outside,1,0,weight_per_carton,WEIGHT PER CARTON,DESCRIPTION,10#
+architectural,30,NuWall® Closures - Outside,1,0,weight_per_carton,WEIGHT PER CARTON,DESCRIPTION,.10#
 architectural,30,NuWall® Closures - Outside,1,0,price,PRICE,,✓
 architectural,30,"Designer"" Series 16"" Fluted Closure - Inside",2,0,part,PART #,DESCRIPTION,HW-4059
 architectural,30,"Designer"" Series 16"" Fluted Closure - Inside",2,0,profile,PROFILE,DESCRIPTION,"Designer"" Series 16"" Fluted"
@@ -1126,7 +1126,7 @@ architectural,30,"Designer"" Series 16"" Fluted Closure - Outside",3,0,weight_pe
 architectural,30,"Designer"" Series 16"" Fluted Closure - Outside",3,0,price,PRICE,,✓
 architectural,30,"Designer™ Series 12"" Flat Closure - Inside",4,0,part,PART #,DESCRIPTION,HW-4058
 architectural,30,"Designer™ Series 12"" Flat Closure - Inside",4,0,profile,PROFILE,DESCRIPTION,"Designer"" Series 12"" Flat"
-architectural,30,"Designer™ Series 12"" Flat Closure - Inside",4,0,weight_per_carton,WEIGHT PER CARTON,DESCRIPTION,15#
+architectural,30,"Designer™ Series 12"" Flat Closure - Inside",4,0,weight_per_carton,WEIGHT PER CARTON,DESCRIPTION,.15#
 architectural,30,"Designer™ Series 12"" Flat Closure - Inside",4,0,price,PRICE,,✓
 architectural,31,Panel Hemming Tool,0,0,part,PART #,DESCRIPTION,HW-602
 architectural,31,Panel Hemming Tool,0,0,profile,PROFILE,DESCRIPTION,"49"""
@@ -1136,13 +1136,13 @@ architectural,31,Touch Up Paint,1,0,part,PART #,DESCRIPTION,HW-304
 architectural,31,Touch Up Paint,1,0,finish,FINISH,DESCRIPTION,Signature® 200
 architectural,31,Touch Up Paint,1,0,size,SIZE,DESCRIPTION,2 Ounce
 architectural,31,Touch Up Paint,1,0,color,COLOR,DESCRIPTION,See Color Chart
-architectural,31,Touch Up Paint,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,OF
+architectural,31,Touch Up Paint,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.50#
 architectural,31,Touch Up Paint,1,0,price,PRICE,,✓
 architectural,31,Touch Up Paint,1,1,part,PART #,DESCRIPTION,HW-305
 architectural,31,Touch Up Paint,1,1,finish,FINISH,DESCRIPTION,Signature® 300
 architectural,31,Touch Up Paint,1,1,size,SIZE,DESCRIPTION,2 Ounce
 architectural,31,Touch Up Paint,1,1,color,COLOR,DESCRIPTION,See Color Chart
-architectural,31,Touch Up Paint,1,1,weight_per_each,WEIGHT PER EACH,DESCRIPTION,50#
+architectural,31,Touch Up Paint,1,1,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.50#
 architectural,31,Touch Up Paint,1,1,price,PRICE,,✓
 architectural,32,Closure Angle,0,0,part,PART #,DESCRIPTION,T-5005
 architectural,32,Closure Angle,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -1177,7 +1177,7 @@ architectural,32,Z Closure,1,0,dim_a,"DIM ""A""",DESCRIPTION,"1"""
 architectural,32,Z Closure,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,32,Z Closure,1,0,girth,GIRTH,DESCRIPTION,"3"""
 architectural,32,Z Closure,1,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,2484
+EACH",DESCRIPTION,2.48#
 architectural,32,Z Closure,1,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,32,Z Closure,1,0,signature_200,"SIGNATURE®
@@ -1289,7 +1289,7 @@ architectural,33,Z Closure With Cleat,0,3,dim_a,"DIM ""A""",DESCRIPTION,"2%"""
 architectural,33,Z Closure With Cleat,0,3,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,33,Z Closure With Cleat,0,3,girth,GIRTH,DESCRIPTION,"4 56"""
 architectural,33,Z Closure With Cleat,0,3,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,3.834
+EACH",DESCRIPTION,3.83#
 architectural,33,Z Closure With Cleat,0,3,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,33,Z Closure With Cleat,0,3,signature_200,"SIGNATURE®
@@ -1401,7 +1401,7 @@ architectural,33,C Closure With Cleat,2,3,dim_a,"DIM ""A""",DESCRIPTION,"2%"""
 architectural,33,C Closure With Cleat,2,3,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,33,C Closure With Cleat,2,3,girth,GIRTH,DESCRIPTION,"8 Ve"""
 architectural,33,C Closure With Cleat,2,3,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,6.724
+EACH",DESCRIPTION,6.72#
 architectural,33,C Closure With Cleat,2,3,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,33,C Closure With Cleat,2,3,signature_200,"SIGNATURE®
@@ -1442,7 +1442,7 @@ architectural,34,Angle Trim,1,1,dim_a,"DIM ""A""",DESCRIPTION,"172"""
 architectural,34,Angle Trim,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,34,Angle Trim,1,1,girth,GIRTH,DESCRIPTION,"3"""
 architectural,34,Angle Trim,1,1,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,2 A48#
+EACH",DESCRIPTION,2.48#
 architectural,34,Angle Trim,1,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,34,Angle Trim,1,1,signature_200,"SIGNATURE®
@@ -1671,7 +1671,7 @@ architectural,36,Ridge Flash For Metal Vent,0,0,signature_300,"SIGNATURE®
 architectural,36,Ridge Flash For Metal Vent,0,0,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,36,Ridge End Cap - Floating,1,0,part,PART #,DESCRIPTION,T-5100
-architectural,36,Ridge End Cap - Floating,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,260#
+architectural,36,Ridge End Cap - Floating,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.260#
 architectural,36,Ridge End Cap - Floating,1,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,36,Ridge End Cap - Floating,1,0,signature_200,"SIGNATURE®
@@ -1681,7 +1681,7 @@ architectural,36,Ridge End Cap - Floating,1,0,signature_300,"SIGNATURE®
 architectural,36,Ridge End Cap - Floating,1,0,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,36,Ridge End Cap - Vent,2,0,part,PART #,DESCRIPTION,T-5101
-architectural,36,Ridge End Cap - Vent,2,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,J1#
+architectural,36,Ridge End Cap - Vent,2,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.1#
 architectural,36,Ridge End Cap - Vent,2,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,36,Ridge End Cap - Vent,2,0,signature_200,"SIGNATURE®
@@ -1696,7 +1696,7 @@ architectural,37,Peak Cap,0,0,dim_b,"DIM ""B""",DESCRIPTION,"5"""
 architectural,37,Peak Cap,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,37,Peak Cap,0,0,girth,GIRTH,DESCRIPTION,"11%"""
 architectural,37,Peak Cap,0,0,weight_per_each,"WEIGHT
-PER EACH",DESCRIPTION,9.204
+PER EACH",DESCRIPTION,9.20#
 architectural,37,Peak Cap,0,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,37,Peak Cap,0,0,signature_200,"SIGNATURE®
@@ -1756,7 +1756,7 @@ architectural,37,Peak Cap,0,4,dim_b,"DIM ""B""",DESCRIPTION,"4"""
 architectural,37,Peak Cap,0,4,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,37,Peak Cap,0,4,girth,GIRTH,DESCRIPTION,"10%"""
 architectural,37,Peak Cap,0,4,weight_per_each,"WEIGHT
-PER EACH",DESCRIPTION,8.384
+PER EACH",DESCRIPTION,8.38#
 architectural,37,Peak Cap,0,4,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,37,Peak Cap,0,4,signature_200,"SIGNATURE®
@@ -1786,7 +1786,7 @@ architectural,37,Peak Cap,0,6,dim_b,"DIM ""B""",DESCRIPTION,"4"""
 architectural,37,Peak Cap,0,6,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,37,Peak Cap,0,6,girth,GIRTH,DESCRIPTION,"11%"""
 architectural,37,Peak Cap,0,6,weight_per_each,"WEIGHT
-PER EACH",DESCRIPTION,9.204
+PER EACH",DESCRIPTION,9.20#
 architectural,37,Peak Cap,0,6,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,37,Peak Cap,0,6,signature_200,"SIGNATURE®
@@ -1928,7 +1928,7 @@ architectural,38,Panel Starter,0,0,signature_300_metallic,"SIGNATURE®
 architectural,38,Continuous Cleat,1,0,part,PART #,DESCRIPTION,T-5121
 architectural,38,Continuous Cleat,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,38,Continuous Cleat,1,0,girth,GIRTH,DESCRIPTION,"3"""
-architectural,38,Continuous Cleat,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,2 48#
+architectural,38,Continuous Cleat,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,2.48#
 architectural,38,Continuous Cleat,1,0,assorted_colors,ASSORTED COLORS,,v
 architectural,38,Offset Cleat,2,0,part,PART #,DESCRIPTION,T-5131
 architectural,38,Offset Cleat,2,0,length,LENGTH,DESCRIPTION,"1 Q'-2"""
@@ -2000,7 +2000,7 @@ architectural,39,Eave with Extended Drip Edge,1,0,part,PART #,DESCRIPTION,T-5151
 architectural,39,Eave with Extended Drip Edge,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,39,Eave with Extended Drip Edge,1,0,girth,GIRTH,DESCRIPTION,"954"""
 architectural,39,Eave with Extended Drip Edge,1,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7. 96#
+EACH",DESCRIPTION,796#
 architectural,39,Eave with Extended Drip Edge,1,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,39,Eave with Extended Drip Edge,1,0,signature_200,"SIGNATURE®
@@ -2026,7 +2026,7 @@ architectural,39,Eave with Extended Drip Edge,2,1,part,PART #,DESCRIPTION,T-5152
 architectural,39,Eave with Extended Drip Edge,2,1,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,39,Eave with Extended Drip Edge,2,1,girth,GIRTH,DESCRIPTION,"534"""
 architectural,39,Eave with Extended Drip Edge,2,1,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,4.A45#
+EACH",DESCRIPTION,4.45#
 architectural,39,Eave with Extended Drip Edge,2,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,39,Eave with Extended Drip Edge,2,1,signature_200,"SIGNATURE®
@@ -2039,7 +2039,7 @@ architectural,40,Eave to Fascia Transition,0,0,part,PART #,DESCRIPTION,T-5161
 architectural,40,Eave to Fascia Transition,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,40,Eave to Fascia Transition,0,0,girth,GIRTH,DESCRIPTION,"11"""
 architectural,40,Eave to Fascia Transition,0,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,9.1 O#
+EACH",DESCRIPTION,9.10#
 architectural,40,Eave to Fascia Transition,0,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,40,Eave to Fascia Transition,0,0,signature_200,"SIGNATURE®
@@ -2065,7 +2065,7 @@ architectural,40,Roof to Fascia/Sill Sash,1,0,part,PART #,DESCRIPTION,T-5171
 architectural,40,Roof to Fascia/Sill Sash,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,40,Roof to Fascia/Sill Sash,1,0,girth,GIRTH,DESCRIPTION,"9"""
 architectural,40,Roof to Fascia/Sill Sash,1,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7 AS#
+EACH",DESCRIPTION,745#
 architectural,40,Roof to Fascia/Sill Sash,1,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,40,Roof to Fascia/Sill Sash,1,0,signature_200,"SIGNATURE®
@@ -2149,7 +2149,7 @@ architectural,41,Sill with Soffit,0,0,dim_b,"DIM ""B""",DESCRIPTION,"334"""
 architectural,41,Sill with Soffit,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,41,Sill with Soffit,0,0,girth,GIRTH,DESCRIPTION,"9"""
 architectural,41,Sill with Soffit,0,0,weight_per_each,"WEIGHT
-PER EACH",DESCRIPTION,7 AS#
+PER EACH",DESCRIPTION,745#
 architectural,41,Sill with Soffit,0,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,41,Sill with Soffit,0,0,signature_200,"SIGNATURE®
@@ -2371,7 +2371,7 @@ architectural,43,Counterflash,0,1,part,PART #,DESCRIPTION,T-5226
 architectural,43,Counterflash,0,1,length,LENGTH,DESCRIPTION,"14'-0"""
 architectural,43,Counterflash,0,1,girth,GIRTH,DESCRIPTION,"Ay"""
 architectural,43,Counterflash,0,1,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7 38#
+EACH",DESCRIPTION,738#
 architectural,43,Counterflash,0,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,43,Counterflash,0,1,signature_200,"SIGNATURE®
@@ -2397,7 +2397,7 @@ architectural,43,Alternate Counterflash,1,1,part,PART #,DESCRIPTION,T-5222
 architectural,43,Alternate Counterflash,1,1,length,LENGTH,DESCRIPTION,"14'-0"""
 architectural,43,Alternate Counterflash,1,1,girth,GIRTH,DESCRIPTION,"Ay"""
 architectural,43,Alternate Counterflash,1,1,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7 384
+EACH",DESCRIPTION,7384
 architectural,43,Alternate Counterflash,1,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,43,Alternate Counterflash,1,1,signature_200,"SIGNATURE®
@@ -2634,7 +2634,7 @@ architectural,45,Gutter Strap,2,0,part,PART #,DESCRIPTION,T-5281
 architectural,45,Gutter Strap,2,0,length,LENGTH,DESCRIPTION,"10"""
 architectural,45,Gutter Strap,2,0,girth,GIRTH,DESCRIPTION,"2"""
 architectural,45,Gutter Strap,2,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,144
+EACH",DESCRIPTION,.144
 architectural,45,Gutter Strap,2,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,45,Gutter Strap,2,0,signature_200,"SIGNATURE®
@@ -2644,7 +2644,7 @@ architectural,45,Gutter Strap,2,0,signature_300,"SIGNATURE®
 architectural,45,Gutter Strap,2,0,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,46,Gutter Ends - Left or Right,0,0,part,PART #,DESCRIPTION,T-5291
-architectural,46,Gutter Ends - Left or Right,0,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,31#
+architectural,46,Gutter Ends - Left or Right,0,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,.31#
 architectural,46,Gutter Ends - Left or Right,0,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,46,Gutter Ends - Left or Right,0,0,signature_200,"SIGNATURE®
@@ -2787,7 +2787,7 @@ architectural,47,Downspout Strap,0,0,part,PART #,DESCRIPTION,T-5301
 architectural,47,Downspout Strap,0,0,length,LENGTH,DESCRIPTION,ik
 architectural,47,Downspout Strap,0,0,girth,GIRTH,DESCRIPTION,"10"""
 architectural,47,Downspout Strap,0,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,O7#
+EACH",DESCRIPTION,.07#
 architectural,47,Downspout Strap,0,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,47,Downspout Strap,0,0,signature_200,"SIGNATURE®
@@ -2953,7 +2953,7 @@ architectural,48,Splice Trim,1,1,dim_a,"DIM ""A""",DESCRIPTION,"154"""
 architectural,48,Splice Trim,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,48,Splice Trim,1,1,girth,GIRTH,DESCRIPTION,"8%"""
 architectural,48,Splice Trim,1,1,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7 344
+EACH",DESCRIPTION,7344
 architectural,48,Splice Trim,1,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,48,Splice Trim,1,1,signature_200,"SIGNATURE®
@@ -2967,7 +2967,7 @@ architectural,48,Splice Trim,1,2,dim_a,"DIM ""A""",DESCRIPTION,"134"""
 architectural,48,Splice Trim,1,2,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,48,Splice Trim,1,2,girth,GIRTH,DESCRIPTION,"Qo"""
 architectural,48,Splice Trim,1,2,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7 AS#
+EACH",DESCRIPTION,745#
 architectural,48,Splice Trim,1,2,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,48,Splice Trim,1,2,signature_200,"SIGNATURE®
@@ -2981,7 +2981,7 @@ architectural,48,Splice Trim,1,3,dim_a,"DIM ""A""",DESCRIPTION,ps
 architectural,48,Splice Trim,1,3,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,48,Splice Trim,1,3,girth,GIRTH,DESCRIPTION,"9%"""
 architectural,48,Splice Trim,1,3,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7 65#
+EACH",DESCRIPTION,765#
 architectural,48,Splice Trim,1,3,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,48,Splice Trim,1,3,signature_200,"SIGNATURE®
@@ -2995,7 +2995,7 @@ architectural,48,Splice Trim,1,4,dim_a,"DIM ""A""",DESCRIPTION,"2%"""
 architectural,48,Splice Trim,1,4,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,48,Splice Trim,1,4,girth,GIRTH,DESCRIPTION,"9 3g"""
 architectural,48,Splice Trim,1,4,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7.1 0#
+EACH",DESCRIPTION,7.0#
 architectural,48,Splice Trim,1,4,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,48,Splice Trim,1,4,signature_200,"SIGNATURE®
@@ -3352,7 +3352,7 @@ architectural,52,MasterLine 16® Flat Splice Trim,2,1,signature_300_metallic,"SI
 architectural,52,MasterLine 16® Reveal Splice Trim,3,0,part,PART #,DESCRIPTION,T-5523
 architectural,52,MasterLine 16® Reveal Splice Trim,3,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,52,MasterLine 16® Reveal Splice Trim,3,0,girth,GIRTH,DESCRIPTION,"7Y2"""
-architectural,52,MasterLine 16® Reveal Splice Trim,3,0,weight_each,WEIGHT EACH,DESCRIPTION,O.41#
+architectural,52,MasterLine 16® Reveal Splice Trim,3,0,weight_each,WEIGHT EACH,DESCRIPTION,6.41#
 architectural,52,MasterLine 16® Reveal Splice Trim,3,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,52,MasterLine 16® Reveal Splice Trim,3,0,signature_200,"SIGNATURE®
@@ -3429,7 +3429,7 @@ architectural,53,ShadowkRib™ Head Trim - Alternate,2,0,part,PART #,DESCRIPTION
 architectural,53,ShadowkRib™ Head Trim - Alternate,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,53,ShadowkRib™ Head Trim - Alternate,2,0,girth,GIRTH,DESCRIPTION,"1134"""
 architectural,53,ShadowkRib™ Head Trim - Alternate,2,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,9.7 2#
+EACH",DESCRIPTION,9.72#
 architectural,53,ShadowkRib™ Head Trim - Alternate,2,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,53,ShadowkRib™ Head Trim - Alternate,2,0,signature_200,"SIGNATURE®
@@ -3481,7 +3481,7 @@ architectural,54,ShadowRib™ Outside Corner,1,0,part,PART #,DESCRIPTION,T-6023
 architectural,54,ShadowRib™ Outside Corner,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,54,ShadowRib™ Outside Corner,1,0,girth,GIRTH,DESCRIPTION,"9"""
 architectural,54,ShadowRib™ Outside Corner,1,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7 AS#
+EACH",DESCRIPTION,745#
 architectural,54,ShadowRib™ Outside Corner,1,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,54,ShadowRib™ Outside Corner,1,0,signature_200,"SIGNATURE®
@@ -3507,7 +3507,7 @@ architectural,54,ShadowRib™ Inside Corner,2,0,part,PART #,DESCRIPTION,T-6053
 architectural,54,ShadowRib™ Inside Corner,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,54,ShadowRib™ Inside Corner,2,0,girth,GIRTH,DESCRIPTION,"9"""
 architectural,54,ShadowRib™ Inside Corner,2,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,7 A5#
+EACH",DESCRIPTION,745#
 architectural,54,ShadowRib™ Inside Corner,2,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,54,ShadowRib™ Inside Corner,2,0,signature_200,"SIGNATURE®
@@ -3585,7 +3585,7 @@ architectural,55,ShadowRkib™ Zee Cap,2,0,part,PART #,DESCRIPTION,T-6133
 architectural,55,ShadowRkib™ Zee Cap,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,55,ShadowRkib™ Zee Cap,2,0,girth,GIRTH,DESCRIPTION,"53,"""
 architectural,55,ShadowRkib™ Zee Cap,2,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,4.A5#
+EACH",DESCRIPTION,4.45#
 architectural,55,ShadowRkib™ Zee Cap,2,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,55,ShadowRkib™ Zee Cap,2,0,signature_200,"SIGNATURE®
@@ -4011,7 +4011,7 @@ architectural,61,"Designer"" Series Base Trim",0,0,signature_300_metallic,"SIGNA
 architectural,61,Designer™ Series Support Zee,1,0,part,PART #,DESCRIPTION,T-6309
 architectural,61,Designer™ Series Support Zee,1,0,length,LENGTH,DESCRIPTION,iOzey
 architectural,61,Designer™ Series Support Zee,1,0,girth,GIRTH,DESCRIPTION,"3 36"""
-architectural,61,Designer™ Series Support Zee,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,2./9#
+architectural,61,Designer™ Series Support Zee,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,2.794
 architectural,61,Designer™ Series Support Zee,1,0,galvalume_plus,GALVALUME® PLUS,,v
 architectural,62,FlexLoc® Panel Splice Trim,0,0,part,PART #,DESCRIPTION,HW-1 200A
 architectural,62,FlexLoc® Panel Splice Trim,0,0,length,LENGTH,DESCRIPTION,"10'2"""
@@ -4133,7 +4133,7 @@ architectural,63,FW-120 Panel Wall Splice Trim,2,0,part,PART #,DESCRIPTION,T-541
 architectural,63,FW-120 Panel Wall Splice Trim,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,63,FW-120 Panel Wall Splice Trim,2,0,girth,GIRTH,DESCRIPTION,"7 34"""
 architectural,63,FW-120 Panel Wall Splice Trim,2,0,weight_per_each,"WEIGHT PER
-EACH",DESCRIPTION,O.41#
+EACH",DESCRIPTION,.41#
 architectural,63,FW-120 Panel Wall Splice Trim,2,0,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 architectural,63,FW-120 Panel Wall Splice Trim,2,0,signature_200,"SIGNATURE®

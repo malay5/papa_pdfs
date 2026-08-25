@@ -410,7 +410,7 @@ commercial-industrial,15,Cee or Zee,0,15,galvanized,GALVANIZED,PRICED PER 100 LF
 commercial-industrial,15,Cee or Zee,0,16,normal_size,NORMAL SIZE,DESCRIPTION,8x3
 commercial-industrial,15,Cee or Zee,0,16,actual_size,ACTUAL SIZE *,DESCRIPTION,BxXx2%xX2k
 commercial-industrial,15,Cee or Zee,0,16,gauge,GAUGE,DESCRIPTION,16
-commercial-industrial,15,Cee or Zee,0,16,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.934
+commercial-industrial,15,Cee or Zee,0,16,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2.93#
 commercial-industrial,15,Cee or Zee,0,16,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,16,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,17,normal_size,NORMAL SIZE,DESCRIPTION,8x3
@@ -422,7 +422,7 @@ commercial-industrial,15,Cee or Zee,0,17,galvanized,GALVANIZED,PRICED PER 100 LF
 commercial-industrial,15,Cee or Zee,0,18,normal_size,NORMAL SIZE,DESCRIPTION,8x3
 commercial-industrial,15,Cee or Zee,0,18,actual_size,ACTUAL SIZE *,DESCRIPTION,8BX2BRX24
 commercial-industrial,15,Cee or Zee,0,18,gauge,GAUGE,DESCRIPTION,12
-commercial-industrial,15,Cee or Zee,0,18,weight_per_lf,WEIGHT PER LF,DESCRIPTION,5.234
+commercial-industrial,15,Cee or Zee,0,18,weight_per_lf,WEIGHT PER LF,DESCRIPTION,5.23#
 commercial-industrial,15,Cee or Zee,0,18,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,15,Cee or Zee,0,18,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,0,normal_size,NORMAL SIZE,DESCRIPTION,8x 3h
@@ -542,7 +542,7 @@ commercial-industrial,16,Cee or Zee (Continued),0,18,galvanized,GALVANIZED,PRICE
 commercial-industrial,16,Cee or Zee (Continued),0,19,normal_size,NORMAL SIZE,DESCRIPTION,12x 2%
 commercial-industrial,16,Cee or Zee (Continued),0,19,actual_size,ACTUAL SIZE *,DESCRIPTION,12 xX 2% x 2%
 commercial-industrial,16,Cee or Zee (Continued),0,19,gauge,GAUGE,DESCRIPTION,12
-commercial-industrial,16,Cee or Zee (Continued),0,19,weight_per_lf,WEIGHT PER LF,DESCRIPTION,6.284
+commercial-industrial,16,Cee or Zee (Continued),0,19,weight_per_lf,WEIGHT PER LF,DESCRIPTION,6.28#
 commercial-industrial,16,Cee or Zee (Continued),0,19,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,19,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,16,Cee or Zee (Continued),0,20,normal_size,NORMAL SIZE,DESCRIPTION,12x3
@@ -714,7 +714,7 @@ commercial-industrial,18,Zee Only,0,11,galvanized,GALVANIZED,PRICED PER 100 LF,�
 commercial-industrial,18,Zee Only,0,12,normal_size,NORMAL SIZE,DESCRIPTION,7X 3%
 commercial-industrial,18,Zee Only,0,12,actual_size,ACTUAL SIZE,DESCRIPTION,7X 3% x 3%
 commercial-industrial,18,Zee Only,0,12,gauge,GAUGE,DESCRIPTION,12
-commercial-industrial,18,Zee Only,0,12,weight_per_lf,WEIGHT PER LF,DESCRIPTION,5.234
+commercial-industrial,18,Zee Only,0,12,weight_per_lf,WEIGHT PER LF,DESCRIPTION,5.23#
 commercial-industrial,18,Zee Only,0,12,red_oxide,RED OXIDE,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,12,galvanized,GALVANIZED,PRICED PER 100 LF,✓
 commercial-industrial,18,Zee Only,0,13,normal_size,NORMAL SIZE,DESCRIPTION,9x 3h
@@ -745,7 +745,7 @@ commercial-industrial,19,Channel,0,1,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,19,Channel,0,1,weight_each_red_oxide,"WEIGHT EACH
 RED OXIDE",DESCRIPTION,38.924
 commercial-industrial,19,Channel,0,1,weight_each_galvanized,"WEIGHT EACH
-GALVANIZED",DESCRIPTION,40.314
+GALVANIZED",DESCRIPTION,40.31#
 commercial-industrial,19,Channel,0,1,length,LENGTH,DESCRIPTION,"25'-0"""
 commercial-industrial,19,Channel,0,1,red_oxide,RED OXIDE,PRICED PER EACH,✓
 commercial-industrial,19,Channel,0,1,galvanized,GALVANIZED,PRICED PER EACH,✓
@@ -773,7 +773,7 @@ commercial-industrial,19,Channel,0,4,size,SIZE,DESCRIPTION,6% x2
 commercial-industrial,19,Channel,0,4,girth,GIRTH,DESCRIPTION,9%
 commercial-industrial,19,Channel,0,4,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,19,Channel,0,4,weight_each_red_oxide,"WEIGHT EACH
-RED OXIDE",DESCRIPTION,38.984
+RED OXIDE",DESCRIPTION,38.98#
 commercial-industrial,19,Channel,0,4,weight_each_galvanized,"WEIGHT EACH
 GALVANIZED",DESCRIPTION,40.37#
 commercial-industrial,19,Channel,0,4,length,LENGTH,DESCRIPTION,"20'-0"""
@@ -783,7 +783,7 @@ commercial-industrial,19,Channel,0,5,size,SIZE,DESCRIPTION,6% x2
 commercial-industrial,19,Channel,0,5,girth,GIRTH,DESCRIPTION,91%6
 commercial-industrial,19,Channel,0,5,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,19,Channel,0,5,weight_each_red_oxide,"WEIGHT EACH
-RED OXIDE",DESCRIPTION,48.724
+RED OXIDE",DESCRIPTION,48.72#
 commercial-industrial,19,Channel,0,5,weight_each_galvanized,"WEIGHT EACH
 GALVANIZED",DESCRIPTION,50.46#
 commercial-industrial,19,Channel,0,5,length,LENGTH,DESCRIPTION,"25'-0"""
@@ -815,7 +815,7 @@ commercial-industrial,19,Channel,0,8,gauge,GAUGE,DESCRIPTION,12
 commercial-industrial,19,Channel,0,8,weight_each_red_oxide,"WEIGHT EACH
 RED OXIDE",DESCRIPTION,69.60#
 commercial-industrial,19,Channel,0,8,weight_each_galvanized,"WEIGHT EACH
-GALVANIZED",DESCRIPTION,70.994
+GALVANIZED",DESCRIPTION,70.99#
 commercial-industrial,19,Channel,0,8,length,LENGTH,DESCRIPTION,"20'-0"""
 commercial-industrial,19,Channel,0,8,red_oxide,RED OXIDE,PRICED PER EACH,✓
 commercial-industrial,19,Channel,0,8,galvanized,GALVANIZED,PRICED PER EACH,✓
@@ -835,7 +835,7 @@ commercial-industrial,19,Channel,0,10,gauge,GAUGE,DESCRIPTION,16
 commercial-industrial,19,Channel,0,10,weight_each_red_oxide,"WEIGHT EACH
 RED OXIDE",DESCRIPTION,46.82#
 commercial-industrial,19,Channel,0,10,weight_each_galvanized,"WEIGHT EACH
-GALVANIZED",DESCRIPTION,48.494
+GALVANIZED",DESCRIPTION,48.49#
 commercial-industrial,19,Channel,0,10,length,LENGTH,DESCRIPTION,"20'-0"""
 commercial-industrial,19,Channel,0,10,red_oxide,RED OXIDE,PRICED PER EACH,✓
 commercial-industrial,19,Channel,0,10,galvanized,GALVANIZED,PRICED PER EACH,✓
@@ -1054,7 +1054,7 @@ commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,5,c
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,6,size,SIZE,DESCRIPTION,8x5x5
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,6,gauge,GAUGE,DESCRIPTION,14
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,6,finish,FINISH,DESCRIPTION,Red Oxide
-commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,6,column_4,,WEIGHT PER LF,4.044
+commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,6,column_4,,WEIGHT PER LF,4.04#
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,6,column_6,,PRICED PER 100 LF,✓
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,7,size,SIZE,DESCRIPTION,8x5x5
 commercial-industrial,21,"Eave Strut - 8"" Nominal Height - Custom Length",0,7,gauge,GAUGE,DESCRIPTION,14
@@ -1586,7 +1586,7 @@ commercial-industrial,29,"Y%"" Rubber Grommet",0,0,part,PART #,DESCRIPTION,HW-39
 commercial-industrial,29,"Y%"" Rubber Grommet",0,0,head_size,HEAD SIZE,DESCRIPTION,"Y,"""
 commercial-industrial,29,"Y%"" Rubber Grommet",0,0,type,TYPE,DESCRIPTION,Aluminum
 commercial-industrial,29,"Y%"" Rubber Grommet",0,0,color,COLOR,DESCRIPTION,Polar White
-commercial-industrial,29,"Y%"" Rubber Grommet",0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,O1#
+commercial-industrial,29,"Y%"" Rubber Grommet",0,0,weight_per_1000,WEIGHT PER 1000,DESCRIPTION,.01#
 commercial-industrial,29,"Y%"" Rubber Grommet",0,0,price,PRICE,,✓
 commercial-industrial,29,Continuous Vent,1,0,part,PART #,DESCRIPTION,HW-702
 commercial-industrial,29,Continuous Vent,1,0,size,SIZE,DESCRIPTION,"Q"" x 10'-0"""
@@ -1633,22 +1633,22 @@ commercial-industrial,29,Continuous Vent,1,5,white,WHITE,PRICED PER EACH,✓
 commercial-industrial,29,Vent Damper Operator Parts,2,0,part,PART #,DESCRIPTION,HW-705
 commercial-industrial,29,Vent Damper Operator Parts,2,0,description,DESCRIPTION,DESCRIPTION,"Vent Cable ( 6"")"
 commercial-industrial,29,Vent Damper Operator Parts,2,0,priced_per,PRICED PER,DESCRIPTION,Foot
-commercial-industrial,29,Vent Damper Operator Parts,2,0,weight_each,WEIGHT EACH,DESCRIPTION,10#
+commercial-industrial,29,Vent Damper Operator Parts,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.10#
 commercial-industrial,29,Vent Damper Operator Parts,2,0,price,PRICE,,✓
 commercial-industrial,29,Vent Damper Operator Parts,2,1,part,PART #,DESCRIPTION,HW-706
 commercial-industrial,29,Vent Damper Operator Parts,2,1,description,DESCRIPTION,DESCRIPTION,Vent Pully
 commercial-industrial,29,Vent Damper Operator Parts,2,1,priced_per,PRICED PER,DESCRIPTION,Each
-commercial-industrial,29,Vent Damper Operator Parts,2,1,weight_each,WEIGHT EACH,DESCRIPTION,25
+commercial-industrial,29,Vent Damper Operator Parts,2,1,weight_each,WEIGHT EACH,DESCRIPTION,.25
 commercial-industrial,29,Vent Damper Operator Parts,2,1,price,PRICE,,✓
 commercial-industrial,29,Vent Damper Operator Parts,2,2,part,PART #,DESCRIPTION,HW-708
 commercial-industrial,29,Vent Damper Operator Parts,2,2,description,DESCRIPTION,DESCRIPTION,Vent Cable Clamp
 commercial-industrial,29,Vent Damper Operator Parts,2,2,priced_per,PRICED PER,DESCRIPTION,Each
-commercial-industrial,29,Vent Damper Operator Parts,2,2,weight_each,WEIGHT EACH,DESCRIPTION,10#
+commercial-industrial,29,Vent Damper Operator Parts,2,2,weight_each,WEIGHT EACH,DESCRIPTION,.10#
 commercial-industrial,29,Vent Damper Operator Parts,2,2,price,PRICE,,✓
 commercial-industrial,29,Vent Damper Operator Parts,2,3,part,PART #,DESCRIPTION,HW-710
 commercial-industrial,29,Vent Damper Operator Parts,2,3,description,DESCRIPTION,DESCRIPTION,"Vent Eve Bolt (4"" x 2"")"
 commercial-industrial,29,Vent Damper Operator Parts,2,3,priced_per,PRICED PER,DESCRIPTION,Each
-commercial-industrial,29,Vent Damper Operator Parts,2,3,weight_each,WEIGHT EACH,DESCRIPTION,10#
+commercial-industrial,29,Vent Damper Operator Parts,2,3,weight_each,WEIGHT EACH,DESCRIPTION,.10#
 commercial-industrial,29,Vent Damper Operator Parts,2,3,price,PRICE,,✓
 commercial-industrial,29,Vent Damper Operator Parts,2,4,part,PART #,DESCRIPTION,HW-712
 commercial-industrial,29,Vent Damper Operator Parts,2,4,description,DESCRIPTION,DESCRIPTION,Vent Pull Chain with Handle
@@ -1658,7 +1658,7 @@ commercial-industrial,29,Vent Damper Operator Parts,2,4,price,PRICE,,✓
 commercial-industrial,29,Vent Damper Operator Parts,2,5,part,PART #,DESCRIPTION,HW-714
 commercial-industrial,29,Vent Damper Operator Parts,2,5,description,DESCRIPTION,DESCRIPTION,"Vent ""S"" Hook (1 72"")"
 commercial-industrial,29,Vent Damper Operator Parts,2,5,priced_per,PRICED PER,DESCRIPTION,Each
-commercial-industrial,29,Vent Damper Operator Parts,2,5,weight_each,WEIGHT EACH,DESCRIPTION,1#
+commercial-industrial,29,Vent Damper Operator Parts,2,5,weight_each,WEIGHT EACH,DESCRIPTION,.1#
 commercial-industrial,29,Vent Damper Operator Parts,2,5,price,PRICE,,✓
 commercial-industrial,30,Die-Formed Ridge Cap,0,0,part,PART #,DESCRIPTION,FL-49
 commercial-industrial,30,Die-Formed Ridge Cap,0,0,profile,PROFILE,DESCRIPTION,PBR *
@@ -1713,21 +1713,21 @@ commercial-industrial,31,Rubber Roof Jack,0,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 commercial-industrial,31,Rubber Roof Jack,0,0,pipe_size,PIPE SIZE,DESCRIPTION,"ta"" 1 V5"""
 commercial-industrial,31,Rubber Roof Jack,0,0,base_dim,BASE DIM.,DESCRIPTION,4
-commercial-industrial,31,Rubber Roof Jack,0,0,weight_each,WEIGHT EACH,DESCRIPTION,17#
+commercial-industrial,31,Rubber Roof Jack,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.17#
 commercial-industrial,31,Rubber Roof Jack,0,0,price,PRICE,,✓
 commercial-industrial,31,Rubber Roof Jack,0,1,part,PART #,DESCRIPTION,HW-1001
 commercial-industrial,31,Rubber Roof Jack,0,1,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 commercial-industrial,31,Rubber Roof Jack,0,1,pipe_size,PIPE SIZE,DESCRIPTION,"1%"" - 4"""
 commercial-industrial,31,Rubber Roof Jack,0,1,base_dim,BASE DIM.,DESCRIPTION,8
-commercial-industrial,31,Rubber Roof Jack,0,1,weight_each,WEIGHT EACH,DESCRIPTION,0
+commercial-industrial,31,Rubber Roof Jack,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.0
 commercial-industrial,31,Rubber Roof Jack,0,1,price,PRICE,,✓
 commercial-industrial,31,Rubber Roof Jack,0,2,part,PART #,DESCRIPTION,HW-1002
 commercial-industrial,31,Rubber Roof Jack,0,2,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
 commercial-industrial,31,Rubber Roof Jack,0,2,pipe_size,PIPE SIZE,DESCRIPTION,"AYA"" _ 6"""
 commercial-industrial,31,Rubber Roof Jack,0,2,base_dim,BASE DIM.,DESCRIPTION,"11"""
-commercial-industrial,31,Rubber Roof Jack,0,2,weight_each,WEIGHT EACH,DESCRIPTION,5#
+commercial-industrial,31,Rubber Roof Jack,0,2,weight_each,WEIGHT EACH,DESCRIPTION,.5#
 commercial-industrial,31,Rubber Roof Jack,0,2,price,PRICE,,✓
 commercial-industrial,31,Rubber Roof Jack,0,3,part,PART #,DESCRIPTION,HW-1003
 commercial-industrial,31,Rubber Roof Jack,0,3,temperature_range,"TEMPERATURE
@@ -1746,12 +1746,12 @@ commercial-industrial,31,Rubber Roof Jack,0,4,price,PRICE,,✓
 commercial-industrial,31,Rubber Roof Jack,1,0,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,0,high_temperatuf,HIGH TEMPERATUF,,"Y,"" _ 4A"""
 commercial-industrial,31,Rubber Roof Jack,1,0,e,E,,8
-commercial-industrial,31,Rubber Roof Jack,1,0,column_4,,,0
+commercial-industrial,31,Rubber Roof Jack,1,0,column_4,,,.0
 commercial-industrial,31,Rubber Roof Jack,1,0,column_5,,,v
 commercial-industrial,31,Rubber Roof Jack,1,1,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,1,high_temperatuf,HIGH TEMPERATUF,,"4%"" -7"""
 commercial-industrial,31,Rubber Roof Jack,1,1,e,E,,"141"""
-commercial-industrial,31,Rubber Roof Jack,1,1,column_4,,,95#
+commercial-industrial,31,Rubber Roof Jack,1,1,column_4,,,.95#
 commercial-industrial,31,Rubber Roof Jack,1,1,column_5,,,v
 commercial-industrial,31,Rubber Roof Jack,1,2,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,2,high_temperatuf,HIGH TEMPERATUF,,"7"" 43"""
@@ -1768,7 +1768,7 @@ commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPER
 RANGE",DESCRIPTION,-65°F to +212°F
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,pipe_size,PIPE SIZE,DESCRIPTION,"Ya"" _ 4A"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,base_dim,BASE DIM.,DESCRIPTION,"B8%e"""
-commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,weight_each,WEIGHT EACH,DESCRIPTION,4
+commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.4
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,price,PRICE,,✓
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,1,part,PART #,DESCRIPTION,HW-1006
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,1,temperature_range,"TEMPERATURE
@@ -1787,7 +1787,7 @@ commercial-industrial,31,Retrofit Rubber Roof Jack,2,2,price,PRICE,,✓
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_1,,,-100°F to +437°F
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,high_temperatuf,HIGH TEMPERATUF,,"YQ"" . A"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,e,E,,"8H6"""
-commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_4,,,14#
+commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_4,,,.14#
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_5,,,v
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,column_1,,,-100°F to +437°F
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,high_temperatuf,HIGH TEMPERATUF,,"4"" _ 9%"""
@@ -1803,72 +1803,72 @@ commercial-industrial,32,PBR Panel Closure Strip,0,0,part,PART #,DESCRIPTION,HW-
 commercial-industrial,32,PBR Panel Closure Strip,0,0,type,TYPE,DESCRIPTION,Inside
 commercial-industrial,32,PBR Panel Closure Strip,0,0,adhesive,ADHESIVE?,DESCRIPTION,No
 commercial-industrial,32,PBR Panel Closure Strip,0,0,size,SIZE,DESCRIPTION,"1"" x 36"""
-commercial-industrial,32,PBR Panel Closure Strip,0,0,weight_each,WEIGHT EACH,DESCRIPTION,OAH
+commercial-industrial,32,PBR Panel Closure Strip,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.4#
 commercial-industrial,32,PBR Panel Closure Strip,0,0,price,PRICE,,✓
 commercial-industrial,32,PBR Panel Closure Strip,0,1,part,PART #,DESCRIPTION,HW-456
 commercial-industrial,32,PBR Panel Closure Strip,0,1,type,TYPE,DESCRIPTION,Outside
 commercial-industrial,32,PBR Panel Closure Strip,0,1,adhesive,ADHESIVE?,DESCRIPTION,Yes
 commercial-industrial,32,PBR Panel Closure Strip,0,1,size,SIZE,DESCRIPTION,"4 W x 36"""
-commercial-industrial,32,PBR Panel Closure Strip,0,1,weight_each,WEIGHT EACH,DESCRIPTION,O8#
+commercial-industrial,32,PBR Panel Closure Strip,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.08#
 commercial-industrial,32,PBR Panel Closure Strip,0,1,price,PRICE,,✓
 commercial-industrial,32,PBU Panel Closure Strip,1,0,part,PART #,DESCRIPTION,HW-459
 commercial-industrial,32,PBU Panel Closure Strip,1,0,type,TYPE,DESCRIPTION,Inside
 commercial-industrial,32,PBU Panel Closure Strip,1,0,adhesive,ADHESIVE?,DESCRIPTION,No
 commercial-industrial,32,PBU Panel Closure Strip,1,0,size,SIZE,DESCRIPTION,"1 W xX 36"""
-commercial-industrial,32,PBU Panel Closure Strip,1,0,weight_each,WEIGHT EACH,DESCRIPTION,O4#
+commercial-industrial,32,PBU Panel Closure Strip,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.04#
 commercial-industrial,32,PBU Panel Closure Strip,1,0,price,PRICE,,✓
 commercial-industrial,32,PBU Panel Closure Strip,1,1,part,PART #,DESCRIPTION,HW-460
 commercial-industrial,32,PBU Panel Closure Strip,1,1,type,TYPE,DESCRIPTION,Outside
 commercial-industrial,32,PBU Panel Closure Strip,1,1,adhesive,ADHESIVE?,DESCRIPTION,Yes
 commercial-industrial,32,PBU Panel Closure Strip,1,1,size,SIZE,DESCRIPTION,"1 W xX 36"""
-commercial-industrial,32,PBU Panel Closure Strip,1,1,weight_each,WEIGHT EACH,DESCRIPTION,O6#
+commercial-industrial,32,PBU Panel Closure Strip,1,1,weight_each,WEIGHT EACH,DESCRIPTION,.06#
 commercial-industrial,32,PBU Panel Closure Strip,1,1,price,PRICE,,✓
 commercial-industrial,32,AVP Panel Closure Strip,2,0,part,PART #,DESCRIPTION,HW-464
 commercial-industrial,32,AVP Panel Closure Strip,2,0,type,TYPE,DESCRIPTION,Inside
 commercial-industrial,32,AVP Panel Closure Strip,2,0,adhesive,ADHESIVE?,DESCRIPTION,No
 commercial-industrial,32,AVP Panel Closure Strip,2,0,size,SIZE,DESCRIPTION,"1 W 4 36"""
-commercial-industrial,32,AVP Panel Closure Strip,2,0,weight_each,WEIGHT EACH,DESCRIPTION,O7#
+commercial-industrial,32,AVP Panel Closure Strip,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.07#
 commercial-industrial,32,AVP Panel Closure Strip,2,0,price,PRICE,,✓
 commercial-industrial,32,AVP Panel Closure Strip,2,1,part,PART #,DESCRIPTION,HW-465
 commercial-industrial,32,AVP Panel Closure Strip,2,1,type,TYPE,DESCRIPTION,Outside
 commercial-industrial,32,AVP Panel Closure Strip,2,1,adhesive,ADHESIVE?,DESCRIPTION,Yes
 commercial-industrial,32,AVP Panel Closure Strip,2,1,size,SIZE,DESCRIPTION,"4 W x 36"""
-commercial-industrial,32,AVP Panel Closure Strip,2,1,weight_each,WEIGHT EACH,DESCRIPTION,O7#
+commercial-industrial,32,AVP Panel Closure Strip,2,1,weight_each,WEIGHT EACH,DESCRIPTION,.07#
 commercial-industrial,32,AVP Panel Closure Strip,2,1,price,PRICE,,✓
 commercial-industrial,33,PBC Panel Closure Strip,0,0,part,PART #,DESCRIPTION,HW-462
 commercial-industrial,33,PBC Panel Closure Strip,0,0,type,TYPE,DESCRIPTION,Inside or Outside
 commercial-industrial,33,PBC Panel Closure Strip,0,0,adhesive,ADHESIVE?,DESCRIPTION,Yes
 commercial-industrial,33,PBC Panel Closure Strip,0,0,size,SIZE,DESCRIPTION,"4 "" x 32"""
-commercial-industrial,33,PBC Panel Closure Strip,0,0,weight_each,WEIGHT EACH,DESCRIPTION,O5#
+commercial-industrial,33,PBC Panel Closure Strip,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.05#
 commercial-industrial,33,PBC Panel Closure Strip,0,0,price,PRICE,,✓
 commercial-industrial,33,PBD Panel Closure Strip,1,0,part,PART #,DESCRIPTION,HW-463
 commercial-industrial,33,PBD Panel Closure Strip,1,0,type,TYPE,DESCRIPTION,Inside or Outside
 commercial-industrial,33,PBD Panel Closure Strip,1,0,adhesive,ADHESIVE?,DESCRIPTION,Yes
 commercial-industrial,33,PBD Panel Closure Strip,1,0,size,SIZE,DESCRIPTION,"1 W 4 33"""
-commercial-industrial,33,PBD Panel Closure Strip,1,0,weight_each,WEIGHT EACH,DESCRIPTION,O4#
+commercial-industrial,33,PBD Panel Closure Strip,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.04#
 commercial-industrial,33,PBD Panel Closure Strip,1,0,price,PRICE,,✓
 commercial-industrial,33,7.2 Panel Closure Strip,2,0,part,PART #,DESCRIPTION,HW-461
 commercial-industrial,33,7.2 Panel Closure Strip,2,0,type,TYPE,DESCRIPTION,Inside or Outside
 commercial-industrial,33,7.2 Panel Closure Strip,2,0,adhesive,ADHESIVE?,DESCRIPTION,No
 commercial-industrial,33,7.2 Panel Closure Strip,2,0,size,SIZE,DESCRIPTION,"1 "" Xx 36"""
-commercial-industrial,33,7.2 Panel Closure Strip,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.O7#
+commercial-industrial,33,7.2 Panel Closure Strip,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.07#
 commercial-industrial,33,7.2 Panel Closure Strip,2,0,price,PRICE,,✓
 commercial-industrial,33,Retro-R® Panel Closure Strip,3,0,part,PART #,DESCRIPTION,HW-468
 commercial-industrial,33,Retro-R® Panel Closure Strip,3,0,type,TYPE,DESCRIPTION,Inside
 commercial-industrial,33,Retro-R® Panel Closure Strip,3,0,adhesive,ADHESIVE?,DESCRIPTION,No
 commercial-industrial,33,Retro-R® Panel Closure Strip,3,0,size,SIZE,DESCRIPTION,"1 W 4 36"""
-commercial-industrial,33,Retro-R® Panel Closure Strip,3,0,weight_each,WEIGHT EACH,DESCRIPTION,21#
+commercial-industrial,33,Retro-R® Panel Closure Strip,3,0,weight_each,WEIGHT EACH,DESCRIPTION,.21#
 commercial-industrial,33,Retro-R® Panel Closure Strip,3,0,price,PRICE,,✓
 commercial-industrial,33,Retro-R® Panel Closure Strip,3,1,part,PART #,DESCRIPTION,HW-469
 commercial-industrial,33,Retro-R® Panel Closure Strip,3,1,type,TYPE,DESCRIPTION,Outside
 commercial-industrial,33,Retro-R® Panel Closure Strip,3,1,adhesive,ADHESIVE?,DESCRIPTION,Yes
 commercial-industrial,33,Retro-R® Panel Closure Strip,3,1,size,SIZE,DESCRIPTION,"1 W 4 36"""
-commercial-industrial,33,Retro-R® Panel Closure Strip,3,1,weight_each,WEIGHT EACH,DESCRIPTION,15H
+commercial-industrial,33,Retro-R® Panel Closure Strip,3,1,weight_each,WEIGHT EACH,DESCRIPTION,.15
 commercial-industrial,33,Retro-R® Panel Closure Strip,3,1,price,PRICE,,✓
 commercial-industrial,33,PBR Panel Metal Closure,4,0,size,SIZE,DESCRIPTION,HW-4041
 commercial-industrial,33,PBR Panel Metal Closure,4,0,type,TYPE,DESCRIPTION,Outside
 commercial-industrial,33,PBR Panel Metal Closure,4,0,finish,FINISH,DESCRIPTION,Galvalume
-commercial-industrial,33,PBR Panel Metal Closure,4,0,weight_each,WEIGHT EACH,DESCRIPTION,16#
+commercial-industrial,33,PBR Panel Metal Closure,4,0,weight_each,WEIGHT EACH,DESCRIPTION,.16#
 commercial-industrial,33,PBR Panel Metal Closure,4,0,price,PRICE,,✓
 commercial-industrial,34,Horizontal Slide Window - Non Insulated,0,0,part,PART #,DESCRIPTION,HW-802R
 commercial-industrial,34,Horizontal Slide Window - Non Insulated,0,0,size,SIZE,DESCRIPTION,3030
@@ -2030,7 +2030,7 @@ commercial-industrial,36,Tape Sealer,0,2,price,PRICE,,✓
 commercial-industrial,36,Tape Sealer - Triple Bead,1,0,part,PART #,DESCRIPTION,HW-502
 commercial-industrial,36,Tape Sealer - Triple Bead,1,0,type,TYPE,DESCRIPTION,Butyl
 commercial-industrial,36,Tape Sealer - Triple Bead,1,0,width,WIDTH,DESCRIPTION,"292"""
-commercial-industrial,36,Tape Sealer - Triple Bead,1,0,thickness,THICKNESS,DESCRIPTION,"He!"""
+commercial-industrial,36,Tape Sealer - Triple Bead,1,0,thickness,THICKNESS,DESCRIPTION,36
 commercial-industrial,36,Tape Sealer - Triple Bead,1,0,length,LENGTH,DESCRIPTION,"20'-0"""
 commercial-industrial,36,Tape Sealer - Triple Bead,1,0,carton_qty,CARTON QTY,DESCRIPTION,6
 commercial-industrial,36,Tape Sealer - Triple Bead,1,0,carton_weight,"CARTON
@@ -2049,37 +2049,37 @@ commercial-industrial,37,Tube Sealant,0,0,part,PART #,DESCRIPTION,HW-548
 commercial-industrial,37,Tube Sealant,0,0,type,TYPE,DESCRIPTION,Acrylic
 commercial-industrial,37,Tube Sealant,0,0,color,COLOR,DESCRIPTION,White
 commercial-industrial,37,Tube Sealant,0,0,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-commercial-industrial,37,Tube Sealant,0,0,tube_weight,TUBE WEIGHT,DESCRIPTION,15H
+commercial-industrial,37,Tube Sealant,0,0,tube_weight,TUBE WEIGHT,DESCRIPTION,.15#
 commercial-industrial,37,Tube Sealant,0,0,price,PRICE,,✓
 commercial-industrial,37,Tube Sealant,0,1,part,PART #,DESCRIPTION,HW-550
 commercial-industrial,37,Tube Sealant,0,1,type,TYPE,DESCRIPTION,Acrylic
 commercial-industrial,37,Tube Sealant,0,1,color,COLOR,DESCRIPTION,Gray
 commercial-industrial,37,Tube Sealant,0,1,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-commercial-industrial,37,Tube Sealant,0,1,tube_weight,TUBE WEIGHT,DESCRIPTION,SDF
+commercial-industrial,37,Tube Sealant,0,1,tube_weight,TUBE WEIGHT,DESCRIPTION,.15#
 commercial-industrial,37,Tube Sealant,0,1,price,PRICE,,✓
 commercial-industrial,37,Tube Sealant,0,2,part,PART #,DESCRIPTION,HW-540
 commercial-industrial,37,Tube Sealant,0,2,type,TYPE,DESCRIPTION,Urethane
 commercial-industrial,37,Tube Sealant,0,2,color,COLOR,DESCRIPTION,White
 commercial-industrial,37,Tube Sealant,0,2,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-commercial-industrial,37,Tube Sealant,0,2,tube_weight,TUBE WEIGHT,DESCRIPTION,oF
+commercial-industrial,37,Tube Sealant,0,2,tube_weight,TUBE WEIGHT,DESCRIPTION,.5
 commercial-industrial,37,Tube Sealant,0,2,price,PRICE,,✓
 commercial-industrial,37,Tube Sealant,0,3,part,PART #,DESCRIPTION,HW-541
 commercial-industrial,37,Tube Sealant,0,3,type,TYPE,DESCRIPTION,Urethane
 commercial-industrial,37,Tube Sealant,0,3,color,COLOR,DESCRIPTION,Gray
 commercial-industrial,37,Tube Sealant,0,3,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-commercial-industrial,37,Tube Sealant,0,3,tube_weight,TUBE WEIGHT,DESCRIPTION,o5F
+commercial-industrial,37,Tube Sealant,0,3,tube_weight,TUBE WEIGHT,DESCRIPTION,.5#
 commercial-industrial,37,Tube Sealant,0,3,price,PRICE,,✓
 commercial-industrial,37,Tube Sealant,0,4,part,PART #,DESCRIPTION,HW-542
 commercial-industrial,37,Tube Sealant,0,4,type,TYPE,DESCRIPTION,Urethane
 commercial-industrial,37,Tube Sealant,0,4,color,COLOR,DESCRIPTION,Bronze
 commercial-industrial,37,Tube Sealant,0,4,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-commercial-industrial,37,Tube Sealant,0,4,tube_weight,TUBE WEIGHT,DESCRIPTION,OOF
+commercial-industrial,37,Tube Sealant,0,4,tube_weight,TUBE WEIGHT,DESCRIPTION,.5#
 commercial-industrial,37,Tube Sealant,0,4,price,PRICE,,✓
 commercial-industrial,37,Tube Sealant,0,5,part,PART #,DESCRIPTION,HW-544
 commercial-industrial,37,Tube Sealant,0,5,type,TYPE,DESCRIPTION,Urethane
 commercial-industrial,37,Tube Sealant,0,5,color,COLOR,DESCRIPTION,Almond
 commercial-industrial,37,Tube Sealant,0,5,tube_size,TUBE SIZE,DESCRIPTION,11 ounce
-commercial-industrial,37,Tube Sealant,0,5,tube_weight,TUBE WEIGHT,DESCRIPTION,85#
+commercial-industrial,37,Tube Sealant,0,5,tube_weight,TUBE WEIGHT,DESCRIPTION,.85#
 commercial-industrial,37,Tube Sealant,0,5,price,PRICE,,✓
 commercial-industrial,37,Tube Sealant,0,6,part,PART #,DESCRIPTION,HW-549
 commercial-industrial,37,Tube Sealant,0,6,type,TYPE,DESCRIPTION,Non-Skinning Butyl
@@ -2091,13 +2091,13 @@ commercial-industrial,37,Touch Up Paint,1,0,part,PART #,DESCRIPTION,HW-304
 commercial-industrial,37,Touch Up Paint,1,0,finish,FINISH,DESCRIPTION,Signature® 200
 commercial-industrial,37,Touch Up Paint,1,0,size,SIZE,DESCRIPTION,2 ounce
 commercial-industrial,37,Touch Up Paint,1,0,color,COLOR,DESCRIPTION,See Color Chart
-commercial-industrial,37,Touch Up Paint,1,0,weight_each,WEIGHT EACH,DESCRIPTION,50#
+commercial-industrial,37,Touch Up Paint,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.50#
 commercial-industrial,37,Touch Up Paint,1,0,price,PRICE,,✓
 commercial-industrial,37,Touch Up Paint,1,1,part,PART #,DESCRIPTION,HW-305
 commercial-industrial,37,Touch Up Paint,1,1,finish,FINISH,DESCRIPTION,Signature® 300
 commercial-industrial,37,Touch Up Paint,1,1,size,SIZE,DESCRIPTION,2 ounce
 commercial-industrial,37,Touch Up Paint,1,1,color,COLOR,DESCRIPTION,See Color Chart
-commercial-industrial,37,Touch Up Paint,1,1,weight_each,WEIGHT EACH,DESCRIPTION,0#
+commercial-industrial,37,Touch Up Paint,1,1,weight_each,WEIGHT EACH,DESCRIPTION,.0#
 commercial-industrial,37,Touch Up Paint,1,1,price,PRICE,,✓
 commercial-industrial,37,Touch Up Paint,1,2,part,PART #,DESCRIPTION,HW-310S
 commercial-industrial,37,Touch Up Paint,1,2,finish,FINISH,DESCRIPTION,Spray Primer
@@ -2179,28 +2179,28 @@ commercial-industrial,39,PRICE,2,3,column_4,,,ROLL
 commercial-industrial,39,PRICE,2,3,column_5,,,106.00# per ROLL
 commercial-industrial,40,Flo-Loc Grip,0,0,part,PART #,DESCRIPTION,HW-376
 commercial-industrial,40,Flo-Loc Grip,0,0,size,SIZE,DESCRIPTION,"Y,"""
-commercial-industrial,40,Flo-Loc Grip,0,0,minimum_breaking_strength,"MINIMUM
+commercial-industrial,40,Flo-Loc Grip,0,0,minimum_breaking_strength,".MINIMUM
 BREAKING STRENGTH",DESCRIPTION,"6,650 Ibs."
 commercial-industrial,40,Flo-Loc Grip,0,0,length,LENGTH,DESCRIPTION,"49"""
-commercial-industrial,40,Flo-Loc Grip,0,0,weight_each,WEIGHT EACH,DESCRIPTION,34#
+commercial-industrial,40,Flo-Loc Grip,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.34#
 commercial-industrial,40,Flo-Loc Grip,0,0,price,PRICE,,✓
 commercial-industrial,40,Flo-Loc Grip,0,1,part,PART #,DESCRIPTION,HW-377
 commercial-industrial,40,Flo-Loc Grip,0,1,size,SIZE,DESCRIPTION,"s/6"""
-commercial-industrial,40,Flo-Loc Grip,0,1,minimum_breaking_strength,"MINIMUM
+commercial-industrial,40,Flo-Loc Grip,0,1,minimum_breaking_strength,".MINIMUM
 BREAKING STRENGTH",DESCRIPTION,"11,200 Ibs."
 commercial-industrial,40,Flo-Loc Grip,0,1,length,LENGTH,DESCRIPTION,"21"""
 commercial-industrial,40,Flo-Loc Grip,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.10#
 commercial-industrial,40,Flo-Loc Grip,0,1,price,PRICE,,✓
 commercial-industrial,40,Flo-Loc Grip,0,2,part,PART #,DESCRIPTION,HW-378
 commercial-industrial,40,Flo-Loc Grip,0,2,size,SIZE,DESCRIPTION,"34"""
-commercial-industrial,40,Flo-Loc Grip,0,2,minimum_breaking_strength,"MINIMUM
+commercial-industrial,40,Flo-Loc Grip,0,2,minimum_breaking_strength,".MINIMUM
 BREAKING STRENGTH",DESCRIPTION,"15,400 Ibs."
 commercial-industrial,40,Flo-Loc Grip,0,2,length,LENGTH,DESCRIPTION,"26"""
 commercial-industrial,40,Flo-Loc Grip,0,2,weight_each,WEIGHT EACH,DESCRIPTION,1.04#
 commercial-industrial,40,Flo-Loc Grip,0,2,price,PRICE,,✓
 commercial-industrial,40,Flo-Loc Grip,0,3,part,PART #,DESCRIPTION,HW-383
 commercial-industrial,40,Flo-Loc Grip,0,3,size,SIZE,DESCRIPTION,"YQ"""
-commercial-industrial,40,Flo-Loc Grip,0,3,minimum_breaking_strength,"MINIMUM
+commercial-industrial,40,Flo-Loc Grip,0,3,minimum_breaking_strength,".MINIMUM
 BREAKING STRENGTH",DESCRIPTION,"26,900 Ibs."
 commercial-industrial,40,Flo-Loc Grip,0,3,length,LENGTH,DESCRIPTION,"34"""
 commercial-industrial,40,Flo-Loc Grip,0,3,weight_each,WEIGHT EACH,DESCRIPTION,2.56#
@@ -2211,7 +2211,7 @@ commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,0,eye_diameter,EYE 
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,0,shank_length,SHANK LENGTH,DESCRIPTION,gn
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,0,thread_length,"THREAD
 LENGTH",DESCRIPTION,"6"""
-commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,0,yield_strength,"YIELD
+commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,0,yield_strength,".YIELD
 STRENGTH",DESCRIPTION,"36,000 Ibs."
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.60#
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,0,price,PRICE,,✓
@@ -2221,7 +2221,7 @@ commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,1,eye_diameter,EYE 
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,1,shank_length,SHANK LENGTH,DESCRIPTION,gn
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,1,thread_length,"THREAD
 LENGTH",DESCRIPTION,"6"""
-commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,1,yield_strength,"YIELD
+commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,1,yield_strength,".YIELD
 STRENGTH",DESCRIPTION,"55,000 Ibs."
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,1,weight_each,WEIGHT EACH,DESCRIPTION,1.154
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,1,price,PRICE,,✓
@@ -2231,7 +2231,7 @@ commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,2,eye_diameter,EYE 
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,2,shank_length,SHANK LENGTH,DESCRIPTION,gn
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,2,thread_length,"THREAD
 LENGTH",DESCRIPTION,"6"""
-commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,2,yield_strength,"YIELD
+commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,2,yield_strength,".YIELD
 STRENGTH",DESCRIPTION,"55,000 Ibs."
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,2,weight_each,WEIGHT EACH,DESCRIPTION,1.834
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,2,price,PRICE,,✓
@@ -2241,7 +2241,7 @@ commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,3,eye_diameter,EYE 
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,3,shank_length,SHANK LENGTH,DESCRIPTION,gn
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,3,thread_length,"THREAD
 LENGTH",DESCRIPTION,"6"""
-commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,3,yield_strength,"YIELD
+commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,3,yield_strength,".YIELD
 STRENGTH",DESCRIPTION,"60,000 Ibs."
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,3,weight_each,WEIGHT EACH,DESCRIPTION,2.644
 commercial-industrial,40,Eye Bolt with Flat Washer and Nut,1,3,price,PRICE,,✓
@@ -2249,55 +2249,55 @@ commercial-industrial,40,Hillside and Flat Washers,2,0,part,PART #,DESCRIPTION,H
 commercial-industrial,40,Hillside and Flat Washers,2,0,type,TYPE,DESCRIPTION,Flat
 commercial-industrial,40,Hillside and Flat Washers,2,0,size,SIZE,DESCRIPTION,7
 commercial-industrial,40,Hillside and Flat Washers,2,0,finish,FINISH,DESCRIPTION,Plated
-commercial-industrial,40,Hillside and Flat Washers,2,0,weight_each,WEIGHT EACH,DESCRIPTION,4#
+commercial-industrial,40,Hillside and Flat Washers,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.4#
 commercial-industrial,40,Hillside and Flat Washers,2,0,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,1,part,PART #,DESCRIPTION,HW-391
 commercial-industrial,40,Hillside and Flat Washers,2,1,type,TYPE,DESCRIPTION,Flat
 commercial-industrial,40,Hillside and Flat Washers,2,1,size,SIZE,DESCRIPTION,"5"""
 commercial-industrial,40,Hillside and Flat Washers,2,1,finish,FINISH,DESCRIPTION,Plated
-commercial-industrial,40,Hillside and Flat Washers,2,1,weight_each,WEIGHT EACH,DESCRIPTION,8#
+commercial-industrial,40,Hillside and Flat Washers,2,1,weight_each,WEIGHT EACH,DESCRIPTION,.8#
 commercial-industrial,40,Hillside and Flat Washers,2,1,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,2,part,PART #,DESCRIPTION,HW-392
 commercial-industrial,40,Hillside and Flat Washers,2,2,type,TYPE,DESCRIPTION,Flat
 commercial-industrial,40,Hillside and Flat Washers,2,2,size,SIZE,DESCRIPTION,"34"""
 commercial-industrial,40,Hillside and Flat Washers,2,2,finish,FINISH,DESCRIPTION,Plated
-commercial-industrial,40,Hillside and Flat Washers,2,2,weight_each,WEIGHT EACH,DESCRIPTION,11#
+commercial-industrial,40,Hillside and Flat Washers,2,2,weight_each,WEIGHT EACH,DESCRIPTION,.11#
 commercial-industrial,40,Hillside and Flat Washers,2,2,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,3,part,PART #,DESCRIPTION,HW-382
 commercial-industrial,40,Hillside and Flat Washers,2,3,type,TYPE,DESCRIPTION,Flat
 commercial-industrial,40,Hillside and Flat Washers,2,3,size,SIZE,DESCRIPTION,7
 commercial-industrial,40,Hillside and Flat Washers,2,3,finish,FINISH,DESCRIPTION,Plated
-commercial-industrial,40,Hillside and Flat Washers,2,3,weight_each,WEIGHT EACH,DESCRIPTION,15#
+commercial-industrial,40,Hillside and Flat Washers,2,3,weight_each,WEIGHT EACH,DESCRIPTION,.15#
 commercial-industrial,40,Hillside and Flat Washers,2,3,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,4,part,PART #,DESCRIPTION,HW-393
 commercial-industrial,40,Hillside and Flat Washers,2,4,type,TYPE,DESCRIPTION,Flat
 commercial-industrial,40,Hillside and Flat Washers,2,4,size,SIZE,DESCRIPTION,"1"""
 commercial-industrial,40,Hillside and Flat Washers,2,4,finish,FINISH,DESCRIPTION,Plated
-commercial-industrial,40,Hillside and Flat Washers,2,4,weight_each,WEIGHT EACH,DESCRIPTION,19#
+commercial-industrial,40,Hillside and Flat Washers,2,4,weight_each,WEIGHT EACH,DESCRIPTION,.19#
 commercial-industrial,40,Hillside and Flat Washers,2,4,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,5,part,PART #,DESCRIPTION,HW-394
 commercial-industrial,40,Hillside and Flat Washers,2,5,type,TYPE,DESCRIPTION,Hillside
 commercial-industrial,40,Hillside and Flat Washers,2,5,size,SIZE,DESCRIPTION,7
 commercial-industrial,40,Hillside and Flat Washers,2,5,finish,FINISH,DESCRIPTION,Black
-commercial-industrial,40,Hillside and Flat Washers,2,5,weight_each,WEIGHT EACH,DESCRIPTION,344
+commercial-industrial,40,Hillside and Flat Washers,2,5,weight_each,WEIGHT EACH,DESCRIPTION,.34#
 commercial-industrial,40,Hillside and Flat Washers,2,5,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,6,part,PART #,DESCRIPTION,HW-395
 commercial-industrial,40,Hillside and Flat Washers,2,6,type,TYPE,DESCRIPTION,Hillside
 commercial-industrial,40,Hillside and Flat Washers,2,6,size,SIZE,DESCRIPTION,"54"""
 commercial-industrial,40,Hillside and Flat Washers,2,6,finish,FINISH,DESCRIPTION,Black
-commercial-industrial,40,Hillside and Flat Washers,2,6,weight_each,WEIGHT EACH,DESCRIPTION,50#
+commercial-industrial,40,Hillside and Flat Washers,2,6,weight_each,WEIGHT EACH,DESCRIPTION,.50#
 commercial-industrial,40,Hillside and Flat Washers,2,6,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,7,part,PART #,DESCRIPTION,HW-396
 commercial-industrial,40,Hillside and Flat Washers,2,7,type,TYPE,DESCRIPTION,Hillside
 commercial-industrial,40,Hillside and Flat Washers,2,7,size,SIZE,DESCRIPTION,"34"""
 commercial-industrial,40,Hillside and Flat Washers,2,7,finish,FINISH,DESCRIPTION,Black
-commercial-industrial,40,Hillside and Flat Washers,2,7,weight_each,WEIGHT EACH,DESCRIPTION,1#
+commercial-industrial,40,Hillside and Flat Washers,2,7,weight_each,WEIGHT EACH,DESCRIPTION,.1#
 commercial-industrial,40,Hillside and Flat Washers,2,7,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,8,part,PART #,DESCRIPTION,HW-397
 commercial-industrial,40,Hillside and Flat Washers,2,8,type,TYPE,DESCRIPTION,Hillside
 commercial-industrial,40,Hillside and Flat Washers,2,8,size,SIZE,DESCRIPTION,7
 commercial-industrial,40,Hillside and Flat Washers,2,8,finish,FINISH,DESCRIPTION,Black
-commercial-industrial,40,Hillside and Flat Washers,2,8,weight_each,WEIGHT EACH,DESCRIPTION,89#
+commercial-industrial,40,Hillside and Flat Washers,2,8,weight_each,WEIGHT EACH,DESCRIPTION,.89#
 commercial-industrial,40,Hillside and Flat Washers,2,8,price,PRICE,,✓
 commercial-industrial,40,Hillside and Flat Washers,2,9,part,PART #,DESCRIPTION,HW-398
 commercial-industrial,40,Hillside and Flat Washers,2,9,type,TYPE,DESCRIPTION,Hillside
@@ -2316,31 +2316,31 @@ commercial-industrial,41,Bolts with Nuts,0,1,size,SIZE,DESCRIPTION,"56"" x 114""
 commercial-industrial,41,Bolts with Nuts,0,1,bolt_grade,BOLT GRADE,DESCRIPTION,325
 commercial-industrial,41,Bolts with Nuts,0,1,nut_grade,NUT GRADE,DESCRIPTION,563
 commercial-industrial,41,Bolts with Nuts,0,1,column_5,,FINISH,Plated
-commercial-industrial,41,Bolts with Nuts,0,1,column_7,,,31#
+commercial-industrial,41,Bolts with Nuts,0,1,column_7,,,.31#
 commercial-industrial,41,Bolts with Nuts,0,2,part,PART #,DESCRIPTION,HWF-3545
 commercial-industrial,41,Bolts with Nuts,0,2,size,SIZE,DESCRIPTION,"5¢!' x 1 34,"""
 commercial-industrial,41,Bolts with Nuts,0,2,bolt_grade,BOLT GRADE,DESCRIPTION,325
 commercial-industrial,41,Bolts with Nuts,0,2,nut_grade,NUT GRADE,DESCRIPTION,563
 commercial-industrial,41,Bolts with Nuts,0,2,column_5,,FINISH,Plated
-commercial-industrial,41,Bolts with Nuts,0,2,column_7,,,35#
+commercial-industrial,41,Bolts with Nuts,0,2,column_7,,,.35#
 commercial-industrial,41,Bolts with Nuts,0,3,part,PART #,DESCRIPTION,HWF-3547
 commercial-industrial,41,Bolts with Nuts,0,3,size,SIZE,DESCRIPTION,"54"" x 2Y%4"""
 commercial-industrial,41,Bolts with Nuts,0,3,bolt_grade,BOLT GRADE,DESCRIPTION,325
 commercial-industrial,41,Bolts with Nuts,0,3,nut_grade,NUT GRADE,DESCRIPTION,563
 commercial-industrial,41,Bolts with Nuts,0,3,column_5,,FINISH,Plated
-commercial-industrial,41,Bolts with Nuts,0,3,column_7,,,39
+commercial-industrial,41,Bolts with Nuts,0,3,column_7,,,.39
 commercial-industrial,41,Bolts with Nuts,0,4,part,PART #,DESCRIPTION,HWF-359
 commercial-industrial,41,Bolts with Nuts,0,4,size,SIZE,DESCRIPTION,"34,"" x 1 34,"""
 commercial-industrial,41,Bolts with Nuts,0,4,bolt_grade,BOLT GRADE,DESCRIPTION,325
 commercial-industrial,41,Bolts with Nuts,0,4,nut_grade,NUT GRADE,DESCRIPTION,563
 commercial-industrial,41,Bolts with Nuts,0,4,column_5,,FINISH,Plated
-commercial-industrial,41,Bolts with Nuts,0,4,column_7,,,DOF
+commercial-industrial,41,Bolts with Nuts,0,4,column_7,,,.DOF
 commercial-industrial,41,Bolts with Nuts,0,5,part,PART #,DESCRIPTION,HWF-360
 commercial-industrial,41,Bolts with Nuts,0,5,size,SIZE,DESCRIPTION,"3h"" x 21"""
 commercial-industrial,41,Bolts with Nuts,0,5,bolt_grade,BOLT GRADE,DESCRIPTION,325
 commercial-industrial,41,Bolts with Nuts,0,5,nut_grade,NUT GRADE,DESCRIPTION,563
 commercial-industrial,41,Bolts with Nuts,0,5,column_5,,FINISH,Plated
-commercial-industrial,41,Bolts with Nuts,0,5,column_7,,,62#
+commercial-industrial,41,Bolts with Nuts,0,5,column_7,,,.62#
 commercial-industrial,41,Bolts with Nuts,0,6,part,PART #,DESCRIPTION,HWF-361
 commercial-industrial,41,Bolts with Nuts,0,6,size,SIZE,DESCRIPTION,"34"" x 2 34"""
 commercial-industrial,41,Bolts with Nuts,0,6,bolt_grade,BOLT GRADE,DESCRIPTION,325
@@ -2352,7 +2352,7 @@ commercial-industrial,41,Fin Head with Nut,1,0,size,SIZE,DESCRIPTION,"Yo"" x 1Y4
 commercial-industrial,41,Fin Head with Nut,1,0,bolt_grade,BOLT GRADE,DESCRIPTION,A307
 commercial-industrial,41,Fin Head with Nut,1,0,nut_grade,NUT GRADE,DESCRIPTION,A563
 commercial-industrial,41,Fin Head with Nut,1,0,finish,FINISH,DESCRIPTION,Plated
-commercial-industrial,41,Fin Head with Nut,1,0,weight_each,WEIGHT EACH,DESCRIPTION,10#
+commercial-industrial,41,Fin Head with Nut,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.10#
 commercial-industrial,41,Fin Head with Nut,1,0,price,PRICE,,✓
 commercial-industrial,41,"Purlin Clip - 6"" x 7""",2,0,part,PART #,DESCRIPTION,HW-6900
 commercial-industrial,41,"Purlin Clip - 6"" x 7""",2,0,size,SIZE,DESCRIPTION,"6"" x 7"" x He"""
@@ -2381,7 +2381,7 @@ commercial-industrial,42,Sliding Door - Hanger Angle,2,0,weight_each,WEIGHT EACH
 commercial-industrial,42,Sliding Door - Hanger Angle,2,0,price,PRICE,,✓
 commercial-industrial,42,Sliding Door - Steel Door Pull,3,0,part,PART #,DESCRIPTION,HW-973
 commercial-industrial,42,Sliding Door - Steel Door Pull,3,0,finish,FINISH,DESCRIPTION,Galvanized
-commercial-industrial,42,Sliding Door - Steel Door Pull,3,0,weight_each,WEIGHT EACH,DESCRIPTION,.I0#
+commercial-industrial,42,Sliding Door - Steel Door Pull,3,0,weight_each,WEIGHT EACH,DESCRIPTION,.90#
 commercial-industrial,42,Sliding Door - Steel Door Pull,3,0,price,PRICE,,✓
 commercial-industrial,43,Sliding Door - Trolley,0,0,part,PART #,DESCRIPTION,HW-969
 commercial-industrial,43,Sliding Door - Trolley,0,0,wheel_diameter,WHEEL DIAMETER,DESCRIPTION,"2"""
@@ -2461,7 +2461,7 @@ commercial-industrial,45,Outside Corner Trim - PBU Panel,1,0,signature_300,SIGNA
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,1,part,PART #,DESCRIPTION,FL-841
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,1,length,LENGTH,DESCRIPTION,"12'-Q"""
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,1,girth,GIRTH,DESCRIPTION,"1136"""
-commercial-industrial,45,Outside Corner Trim - PBU Panel,1,1,weight_each,WEIGHT EACH,DESCRIPTION,8.854
+commercial-industrial,45,Outside Corner Trim - PBU Panel,1,1,weight_each,WEIGHT EACH,DESCRIPTION,8.85#
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,45,Outside Corner Trim - PBU Panel,1,1,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -2641,7 +2641,7 @@ commercial-industrial,48,BT-20 Base Trim,0,0,galvalume_plus,GALVALUME® PLUS,PRI
 commercial-industrial,48,BT-20 Base Trim,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,48,BT-20 Base Trim,0,0,signature_300,SIGNATURE® 300,PRICED PER EACH,N/A
 commercial-industrial,48,Base Angle Corner,1,0,part,PART #,DESCRIPTION,HW-1112
-commercial-industrial,48,Base Angle Corner,1,0,weight_each,WEIGHT EACH,DESCRIPTION,21#
+commercial-industrial,48,Base Angle Corner,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.21#
 commercial-industrial,48,Base Angle Corner,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,N/A
 commercial-industrial,48,Base Angle Corner,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,48,Base Angle Corner,1,0,signature_300,SIGNATURE® 300,PRICED PER EACH,N/A
@@ -2655,7 +2655,7 @@ commercial-industrial,48,Base Trim,2,0,signature_300,SIGNATURE® 300,PRICED PER 
 commercial-industrial,48,Base Trim without Sheeting,3,0,part,PART #,DESCRIPTION,FL-530
 commercial-industrial,48,Base Trim without Sheeting,3,0,length,LENGTH,DESCRIPTION,"10'-2"""
 commercial-industrial,48,Base Trim without Sheeting,3,0,girth,GIRTH,DESCRIPTION,"634"""
-commercial-industrial,48,Base Trim without Sheeting,3,0,weight_each,WEIGHT EACH,DESCRIPTION,4.A5#
+commercial-industrial,48,Base Trim without Sheeting,3,0,weight_each,WEIGHT EACH,DESCRIPTION,4.45#
 commercial-industrial,48,Base Trim without Sheeting,3,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,48,Base Trim without Sheeting,3,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,48,Base Trim without Sheeting,3,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -2860,7 +2860,7 @@ commercial-industrial,50,PBU Sculptured Hang-On Gutter,0,3,length,LENGTH,DESCRIP
 commercial-industrial,50,PBU Sculptured Hang-On Gutter,0,3,girth,GIRTH,DESCRIPTION,"21%"""
 commercial-industrial,50,PBU Sculptured Hang-On Gutter,0,3,roof_slope,ROOF SLOPE,DESCRIPTION,4%-6:12
 commercial-industrial,50,PBU Sculptured Hang-On Gutter,0,3,weight_each,"WEIGHT
-EACH",DESCRIPTION,31.314
+EACH",DESCRIPTION,31.31#
 commercial-industrial,50,PBU Sculptured Hang-On Gutter,0,3,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 commercial-industrial,50,PBU Sculptured Hang-On Gutter,0,3,signature_200,"SIGNATURE®
@@ -2972,7 +2972,7 @@ commercial-industrial,50,Sculptured Hang-On Gutter - 7.2 Panel,2,3,signature_200
 commercial-industrial,50,Sculptured Hang-On Gutter - 7.2 Panel,2,3,signature_300,"SIGNATURE®
 300",PRICED PER EACH,✓
 commercial-industrial,51,Gutter Ends,0,0,part,PART #,DESCRIPTION,FL-18A
-commercial-industrial,51,Gutter Ends,0,0,weight_each,WEIGHT EACH,DESCRIPTION,32#
+commercial-industrial,51,Gutter Ends,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.32#
 commercial-industrial,51,Gutter Ends,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,51,Gutter Ends,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,51,Gutter Ends,0,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3263,25 +3263,25 @@ commercial-industrial,52,Residential Gutter,3,2,signature_200,SIGNATURE® 200,PR
 commercial-industrial,52,Residential Gutter,3,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,0,part,PART #,DESCRIPTION,FL-14A
 commercial-industrial,53,Gutter Ends,0,0,gauge,GAUGE,DESCRIPTION,26
-commercial-industrial,53,Gutter Ends,0,0,weight_each,WEIGHT EACH,DESCRIPTION,264
+commercial-industrial,53,Gutter Ends,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.20#
 commercial-industrial,53,Gutter Ends,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,1,part,PART #,DESCRIPTION,FL-1001
 commercial-industrial,53,Gutter Ends,0,1,gauge,GAUGE,DESCRIPTION,29
-commercial-industrial,53,Gutter Ends,0,1,weight_each,WEIGHT EACH,DESCRIPTION,07#
+commercial-industrial,53,Gutter Ends,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.07#
 commercial-industrial,53,Gutter Ends,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,1,signature_300,SIGNATURE® 300,PRICED PER EACH,N/A
 commercial-industrial,53,Gutter Ends,0,2,part,PART #,DESCRIPTION,FL-1001
 commercial-industrial,53,Gutter Ends,0,2,gauge,GAUGE,DESCRIPTION,26
-commercial-industrial,53,Gutter Ends,0,2,weight_each,WEIGHT EACH,DESCRIPTION,09#
+commercial-industrial,53,Gutter Ends,0,2,weight_each,WEIGHT EACH,DESCRIPTION,.09#
 commercial-industrial,53,Gutter Ends,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,3,part,PART #,DESCRIPTION,FL-1001
 commercial-industrial,53,Gutter Ends,0,3,gauge,GAUGE,DESCRIPTION,24
-commercial-industrial,53,Gutter Ends,0,3,weight_each,WEIGHT EACH,DESCRIPTION,12#
+commercial-industrial,53,Gutter Ends,0,3,weight_each,WEIGHT EACH,DESCRIPTION,.12#
 commercial-industrial,53,Gutter Ends,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Ends,0,3,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3289,7 +3289,7 @@ commercial-industrial,53,Gutter Strap,1,0,part,PART #,DESCRIPTION,FL-893
 commercial-industrial,53,Gutter Strap,1,0,length,LENGTH,DESCRIPTION,"1'-0"""
 commercial-industrial,53,Gutter Strap,1,0,girth,GIRTH,DESCRIPTION,"3"""
 commercial-industrial,53,Gutter Strap,1,0,gauge,GAUGE,DESCRIPTION,26
-commercial-industrial,53,Gutter Strap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,234
+commercial-industrial,53,Gutter Strap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.234
 commercial-industrial,53,Gutter Strap,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,N/A
 commercial-industrial,53,Gutter Strap,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Strap,1,0,signature_300,SIGNATURE® 300,PRICED PER EACH,N/A
@@ -3297,7 +3297,7 @@ commercial-industrial,53,Gutter Strap,1,1,part,PART #,DESCRIPTION,FL-893
 commercial-industrial,53,Gutter Strap,1,1,length,LENGTH,DESCRIPTION,"1 ""_g"""
 commercial-industrial,53,Gutter Strap,1,1,girth,GIRTH,DESCRIPTION,"3"""
 commercial-industrial,53,Gutter Strap,1,1,gauge,GAUGE,DESCRIPTION,24
-commercial-industrial,53,Gutter Strap,1,1,weight_each,WEIGHT EACH,DESCRIPTION,234
+commercial-industrial,53,Gutter Strap,1,1,weight_each,WEIGHT EACH,DESCRIPTION,.234
 commercial-industrial,53,Gutter Strap,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Strap,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,53,Gutter Strap,1,1,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3428,7 +3428,7 @@ commercial-industrial,54,PBR Residential Rake,0,1,roof_slope,ROOF SLOPE,DESCRIPT
 commercial-industrial,54,PBR Residential Rake,0,1,girth,GIRTH,DESCRIPTION,"1016"""
 commercial-industrial,54,PBR Residential Rake,0,1,gauge,GAUGE,DESCRIPTION,26
 commercial-industrial,54,PBR Residential Rake,0,1,weight_each,"WEIGHT
-EACH",DESCRIPTION,7.134
+EACH",DESCRIPTION,7.13#
 commercial-industrial,54,PBR Residential Rake,0,1,galvalume_plus,"GALVALUME®
 PLUS",PRICED PER EACH,✓
 commercial-industrial,54,PBR Residential Rake,0,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
@@ -3519,7 +3519,7 @@ commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,part,PART #,DESCRIPTION
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,description,DESCRIPTION,DESCRIPTION,Rake Ends
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,length,LENGTH,DESCRIPTION,N/A
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,girth,GIRTH,DESCRIPTION,N/A
-commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,weight_each,WEIGHT EACH,DESCRIPTION,194
+commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,weight_each,WEIGHT EACH,DESCRIPTION,.194
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,54,Sculptured Rake - PBR Panel,1,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3551,7 +3551,7 @@ commercial-industrial,55,Sculptured Rake - PBU Panel,0,2,part,PART #,DESCRIPTION
 commercial-industrial,55,Sculptured Rake - PBU Panel,0,2,description,DESCRIPTION,DESCRIPTION,Rake Ends
 commercial-industrial,55,Sculptured Rake - PBU Panel,0,2,length,LENGTH,DESCRIPTION,N/A
 commercial-industrial,55,Sculptured Rake - PBU Panel,0,2,girth,GIRTH,DESCRIPTION,N/A
-commercial-industrial,55,Sculptured Rake - PBU Panel,0,2,weight_each,WEIGHT EACH,DESCRIPTION,19#
+commercial-industrial,55,Sculptured Rake - PBU Panel,0,2,weight_each,WEIGHT EACH,DESCRIPTION,.19#
 commercial-industrial,55,Sculptured Rake - PBU Panel,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,55,Sculptured Rake - PBU Panel,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,55,Sculptured Rake - PBU Panel,0,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3583,7 +3583,7 @@ commercial-industrial,55,Sculptured Rake - 7.2 Panel,1,2,part,PART #,DESCRIPTION
 commercial-industrial,55,Sculptured Rake - 7.2 Panel,1,2,description,DESCRIPTION,DESCRIPTION,Rake Ends
 commercial-industrial,55,Sculptured Rake - 7.2 Panel,1,2,length,LENGTH,DESCRIPTION,N/A
 commercial-industrial,55,Sculptured Rake - 7.2 Panel,1,2,girth,GIRTH,DESCRIPTION,N/A
-commercial-industrial,55,Sculptured Rake - 7.2 Panel,1,2,weight_each,WEIGHT EACH,DESCRIPTION,19#
+commercial-industrial,55,Sculptured Rake - 7.2 Panel,1,2,weight_each,WEIGHT EACH,DESCRIPTION,.19#
 commercial-industrial,55,Sculptured Rake - 7.2 Panel,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,55,Sculptured Rake - 7.2 Panel,1,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,55,Sculptured Rake - 7.2 Panel,1,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3615,7 +3615,7 @@ commercial-industrial,55,Box Rake - PBR Panel,2,2,part,PART #,DESCRIPTION,FL-13A
 commercial-industrial,55,Box Rake - PBR Panel,2,2,description,DESCRIPTION,DESCRIPTION,Rake Ends
 commercial-industrial,55,Box Rake - PBR Panel,2,2,length,LENGTH,DESCRIPTION,N/A
 commercial-industrial,55,Box Rake - PBR Panel,2,2,girth,GIRTH,DESCRIPTION,N/A
-commercial-industrial,55,Box Rake - PBR Panel,2,2,weight_each,WEIGHT EACH,DESCRIPTION,134
+commercial-industrial,55,Box Rake - PBR Panel,2,2,weight_each,WEIGHT EACH,DESCRIPTION,.134
 commercial-industrial,55,Box Rake - PBR Panel,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,55,Box Rake - PBR Panel,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,55,Box Rake - PBR Panel,2,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3647,7 +3647,7 @@ commercial-industrial,56,Box Rake - PBU Panel,0,2,part,PART #,DESCRIPTION,FL-12A
 commercial-industrial,56,Box Rake - PBU Panel,0,2,description,DESCRIPTION,DESCRIPTION,Rake Ends
 commercial-industrial,56,Box Rake - PBU Panel,0,2,length,LENGTH,DESCRIPTION,N/A
 commercial-industrial,56,Box Rake - PBU Panel,0,2,girth,GIRTH,DESCRIPTION,N/A
-commercial-industrial,56,Box Rake - PBU Panel,0,2,weight_each,WEIGHT EACH,DESCRIPTION,134
+commercial-industrial,56,Box Rake - PBU Panel,0,2,weight_each,WEIGHT EACH,DESCRIPTION,.134
 commercial-industrial,56,Box Rake - PBU Panel,0,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,56,Box Rake - PBU Panel,0,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,56,Box Rake - PBU Panel,0,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3679,7 +3679,7 @@ commercial-industrial,56,Box Rake - 7.2 Panel,1,2,part,PART #,DESCRIPTION,FL-501
 commercial-industrial,56,Box Rake - 7.2 Panel,1,2,description,DESCRIPTION,DESCRIPTION,Rake Ends
 commercial-industrial,56,Box Rake - 7.2 Panel,1,2,length,LENGTH,DESCRIPTION,N/A
 commercial-industrial,56,Box Rake - 7.2 Panel,1,2,girth,GIRTH,DESCRIPTION,N/A
-commercial-industrial,56,Box Rake - 7.2 Panel,1,2,weight_each,WEIGHT EACH,DESCRIPTION,13#
+commercial-industrial,56,Box Rake - 7.2 Panel,1,2,weight_each,WEIGHT EACH,DESCRIPTION,.13#
 commercial-industrial,56,Box Rake - 7.2 Panel,1,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,56,Box Rake - 7.2 Panel,1,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,56,Box Rake - 7.2 Panel,1,2,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3863,14 +3863,14 @@ commercial-industrial,61,Downspout Offset,0,0,signature_300,SIGNATURE® 300,PRIC
 commercial-industrial,61,Offset Downspout,1,0,part,PART #,DESCRIPTION,FL-788
 commercial-industrial,61,Offset Downspout,1,0,dim_a,"DIM ""A""",DESCRIPTION,"6"" . S'-o"""
 commercial-industrial,61,Offset Downspout,1,0,girth,GIRTH,DESCRIPTION,"16%"""
-commercial-industrial,61,Offset Downspout,1,0,weight_per_lf,WEIGHT PER LF,DESCRIPTION,2#
+commercial-industrial,61,Offset Downspout,1,0,weight_per_lf,WEIGHT PER LF,DESCRIPTION,.2#
 commercial-industrial,61,Offset Downspout,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,61,Offset Downspout,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,61,Offset Downspout,1,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,61,Offset Downspout,1,1,part,PART #,DESCRIPTION,FL-789
 commercial-industrial,61,Offset Downspout,1,1,dim_a,"DIM ""A""",DESCRIPTION,"5'4 ne 1 O'-0"""
 commercial-industrial,61,Offset Downspout,1,1,girth,GIRTH,DESCRIPTION,"16%"""
-commercial-industrial,61,Offset Downspout,1,1,weight_per_lf,WEIGHT PER LF,DESCRIPTION,52H
+commercial-industrial,61,Offset Downspout,1,1,weight_per_lf,WEIGHT PER LF,DESCRIPTION,.52#
 commercial-industrial,61,Offset Downspout,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,61,Offset Downspout,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,61,Offset Downspout,1,1,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3884,7 +3884,7 @@ commercial-industrial,61,Pig Spout Elbow,2,0,signature_300,SIGNATURE® 300,PRICE
 commercial-industrial,62,Scupper,0,0,part,PART #,DESCRIPTION,FL-40
 commercial-industrial,62,Scupper,0,0,length,LENGTH,DESCRIPTION,"4"""
 commercial-industrial,62,Scupper,0,0,girth,GIRTH,DESCRIPTION,gn
-commercial-industrial,62,Scupper,0,0,weight_each,WEIGHT EACH,DESCRIPTION,17#
+commercial-industrial,62,Scupper,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.17#
 commercial-industrial,62,Scupper,0,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,62,Scupper,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,62,Scupper,0,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -3892,7 +3892,7 @@ commercial-industrial,62,Downspout Strap,1,0,part,PART #,DESCRIPTION,FL-797
 commercial-industrial,62,Downspout Strap,1,0,gauge,GAUGE,DESCRIPTION,26
 commercial-industrial,62,Downspout Strap,1,0,length,LENGTH,DESCRIPTION,"1"""
 commercial-industrial,62,Downspout Strap,1,0,girth,GIRTH,DESCRIPTION,"10"""
-commercial-industrial,62,Downspout Strap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,O5#
+commercial-industrial,62,Downspout Strap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.05#
 commercial-industrial,62,Downspout Strap,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,62,Downspout Strap,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,62,Downspout Strap,1,0,signature_300,SIGNATURE® 300,PRICED PER EACH,N/A
@@ -3900,7 +3900,7 @@ commercial-industrial,62,Downspout Strap,1,1,part,PART #,DESCRIPTION,FL-797
 commercial-industrial,62,Downspout Strap,1,1,gauge,GAUGE,DESCRIPTION,24
 commercial-industrial,62,Downspout Strap,1,1,length,LENGTH,DESCRIPTION,"4"""
 commercial-industrial,62,Downspout Strap,1,1,girth,GIRTH,DESCRIPTION,"10"""
-commercial-industrial,62,Downspout Strap,1,1,weight_each,WEIGHT EACH,DESCRIPTION,O7#
+commercial-industrial,62,Downspout Strap,1,1,weight_each,WEIGHT EACH,DESCRIPTION,.07#
 commercial-industrial,62,Downspout Strap,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,62,Downspout Strap,1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,62,Downspout Strap,1,1,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -4033,7 +4033,7 @@ commercial-industrial,64,"Head Trim - PBR, AVP and Retro-R® Panels",1,0,signatu
 commercial-industrial,64,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,part,PART #,DESCRIPTION,FL-25
 commercial-industrial,64,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,length,LENGTH,DESCRIPTION,"74"""
 commercial-industrial,64,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,girth,GIRTH,DESCRIPTION,"554"""
-commercial-industrial,64,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,weight_each,WEIGHT EACH,DESCRIPTION,2.584
+commercial-industrial,64,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,weight_each,WEIGHT EACH,DESCRIPTION,2.58#
 commercial-industrial,64,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,64,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,64,"Head Trim - PBR, AVP and Retro-R® Panels",1,1,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -4271,7 +4271,7 @@ commercial-industrial,69,Flat Ridge Cap,0,1,signature_300,SIGNATURE® 300,PRICED
 commercial-industrial,69,Masonry Flash,1,0,part,PART #,DESCRIPTION,FL-846
 commercial-industrial,69,Masonry Flash,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 commercial-industrial,69,Masonry Flash,1,0,girth,GIRTH,DESCRIPTION,"11"""
-commercial-industrial,69,Masonry Flash,1,0,weight_each,WEIGHT EACH,DESCRIPTION,7. 10#
+commercial-industrial,69,Masonry Flash,1,0,weight_each,WEIGHT EACH,DESCRIPTION,7.10#
 commercial-industrial,69,Masonry Flash,1,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,69,Masonry Flash,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,69,Masonry Flash,1,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
@@ -4355,7 +4355,7 @@ commercial-industrial,71,Extended Valley,1,1,signature_300,SIGNATURE® 300,PRICE
 commercial-industrial,71,Gutter Strap - Retro-R® / 7.2 Panels,2,0,part,PART #,DESCRIPTION,FL-895
 commercial-industrial,71,Gutter Strap - Retro-R® / 7.2 Panels,2,0,length,LENGTH,DESCRIPTION,"1 _o"""
 commercial-industrial,71,Gutter Strap - Retro-R® / 7.2 Panels,2,0,girth,GIRTH,DESCRIPTION,"3%"""
-commercial-industrial,71,Gutter Strap - Retro-R® / 7.2 Panels,2,0,weight_each,WEIGHT EACH,DESCRIPTION,25#
+commercial-industrial,71,Gutter Strap - Retro-R® / 7.2 Panels,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.25#
 commercial-industrial,71,Gutter Strap - Retro-R® / 7.2 Panels,2,0,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,71,Gutter Strap - Retro-R® / 7.2 Panels,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,71,Gutter Strap - Retro-R® / 7.2 Panels,2,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓

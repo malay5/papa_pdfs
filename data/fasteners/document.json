@@ -76,7 +76,7 @@
             [
               "HW-601",
               "#30",
-              "1285\"",
+              ".1285\"",
               "For Pop Rivets",
               "10/pkg",
               ".10#",
@@ -85,7 +85,7 @@
             [
               "HW-603",
               "#8",
-              "1990\"",
+              ".1990\"",
               "For #14 or %4\" diameter Fastener in 16 to 12 gauge steel",
               "10/pke",
               ".10#",
@@ -133,7 +133,7 @@
             [
               "HW-604",
               "38\" Hex Drive",
-              "10#",
+              ".10#",
               "✓"
             ],
             [
@@ -145,43 +145,43 @@
             [
               "HW-606",
               "Y%\" Hex Drive",
-              "10#",
+              ".10#",
               "✓"
             ],
             [
               "HW-612",
               "38\" Hex Drive - For Long Life Fasteners",
-              "10#",
+              ".10#",
               "✓"
             ],
             [
               "HW-613",
               "5/16\" Hex Drive - For Long Life Fasteners",
-              "10#",
+              ".10#",
               "✓"
             ],
             [
               "HW-590",
               "6\" Long - %\" Hex Drive",
-              "12#",
+              ".12#",
               "✓"
             ],
             [
               "HW-591",
               "6\" Long - 5/16\" Hex Drive",
-              "11#",
+              ".11#",
               "✓"
             ],
             [
               "HW-592",
               "6\" Long - %4\" Hex Drive",
-              "10#",
+              ".10#",
               "✓"
             ],
             [
               "HW-615",
               "#2 Philips Insert with Magentic Holder",
-              "10#",
+              ".10#",
               "✓"
             ],
             [
@@ -1828,7 +1828,7 @@
               "#1616",
               "2/16\"",
               "Driller",
-              "O2#",
+              ".02#",
               "✓",
               "N/A"
             ]
@@ -1880,7 +1880,7 @@
         }
       ],
       "text": "Fasteners Pricing ACCESSORIES\nFastener #1B\nNote:\n+ SuperLok Clip Fastener\n+ Fasteners sold in quantities of 250 only\nYa\"-14 x 1%\" Driller\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\nShe\" Driller 17.00# v vt\nFastener #142\nNote:\n+ SuperLok Clip Fastener\n+ Fasteners sold in quantities of 250 only\n%\"-14 x 1%\" with #3 Drill Point\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#142 Sire\" Driller 19.10 v vi\nFastener #1616\n+ This Fastener can be purchased in any quantity - Increments of 250\nare not required\n%\"-14 x 2\" with #3 Drill Point\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER EACH\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#1616 She\" Driller\nFastener #5\nNote:\nal IANA fos + Fasteners sold in quantities of 250 only\nWAX 1\" Shoulder TEK 2\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#5 Sie\" Shoulder 8.80# v N/A\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 12\nSee MBCI.COM for current information.",
-      "repaired_cells": 0,
+      "repaired_cells": 1,
       "effective_date": "APRIL 2, 2025",
       "catalog": "fasteners"
     },
@@ -2415,7 +2415,7 @@
               "#2B",
               "5/16\"",
               "Long Life AB",
-              "O2#",
+              ".02#",
               "✓",
               "✓"
             ]
@@ -2471,7 +2471,7 @@
         }
       ],
       "text": "Fasteners Pricing ACCESSORIES\nFastener #19A\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n17x 1\" Type AB\n5/16\" Hex Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#19A He AB 16.40# v vi\nFastener #2A\nrT Note:\nA + Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n17-14 x 1\" Long Life AB\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#2A She\" Long Life AB 24.10# v vt\nFastener #2B\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n%\"-14 x 1\" Long Life AB\n5/16\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER EACH\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#2B She\" Long Life AB 02# v v\nFastener #203\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n17-14 x 1\" AB 304 Stainless\n%\" Hex Washer Head w/Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE MATERIAL WEIGHT PER 1000 PLATED PAINTED\n#203 %\" Driller 304 Stainless 19.30# v vt\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 15\nSee MBCI.COM for current information.",
-      "repaired_cells": 0,
+      "repaired_cells": 1,
       "effective_date": "APRIL 2, 2025",
       "catalog": "fasteners"
     },
@@ -2805,7 +2805,7 @@
               "#8A",
               "YA\"",
               "Wood Fastener",
-              "8./0#",
+              "8.70#",
               "✓",
               "vt"
             ]
@@ -2857,7 +2857,7 @@
         }
       ],
       "text": "Fasteners Pricing ACCESSORIES\nFastener #18C\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n14x 2\" TypeA\n%\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#18C ¥\" A 26.30# v vt\nFastener #34\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n14-10 x 2%\" Type A\n%\" Hex Washer Head w/ °/16\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#34 ¥\" A 29.90# v vt\nFastener #8A\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic,\n10 x 1\" Wood Fastener and special colors. Please inquire.\n%\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#8A %\" Wood Fastener 8.70# v vt\nFastener #8\nNote:\n+ Fasteners sold in quantities of 250 only\n+ #Set up fee required for Sig 300, Sig 300 Metallic,\nand special colors. Please inquire.\n10 x 1%\" Wood Fastener\n%\" Hex Washer Head w/ %\" O.D. Washer\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#8 wa\" Wood Fastener 10.80# v vt\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 17\nSee MBCI.COM for current information.",
-      "repaired_cells": 0,
+      "repaired_cells": 1,
       "effective_date": "APRIL 2, 2025",
       "catalog": "fasteners"
     },
@@ -3436,7 +3436,7 @@
               "#12",
               "#2 Phillips",
               "Driller",
-              "7 OO#",
+              "70#",
               "✓",
               "N/A"
             ]
@@ -3444,7 +3444,7 @@
         }
       ],
       "text": "Fasteners Pricing ACCESSORIES\nFastener #205\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n10-14 x 1%\" Wood Fastener Stainless\n%\" Hex Washer Head w/ %\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE MATERIAL WEIGHT PER 1000 PLATED PAINTED\n#205 Ya\" Wood 410 Stainless 9.50# v vt\nFastener #45\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n14 x 1%\" Long Life Masonry Fastener\n%\" Hex Washer Head w/Sealing Washer\nDESCRIPTION PRICED PER THOUSAND\nPART # HEAD SIZE WEIGHT PER 1000 PLATED PAINTED\nLong Life with Masonary Tapping\n#45 7d Threds\n25.00# v vi\nFastener #16\nl\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Special driver required for this fastener (HW-616 #2 Quadrex Drive)\n12-24 x 1%\" Pancake Head\n#2 Quadrex Drive Pancake Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#16 #2 Quadrex Drive Driller 12.00# v N/A\nFastener #12\nNote:\n+ Fasteners sold in quantities of 250 only\n10x 1\" Pancake Head Driller\n#2 Philips Pancake Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#12 #2 Phillips Driller 7.O0# v N/A\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 20\nSee MBCI.COM for current information.",
-      "repaired_cells": 0,
+      "repaired_cells": 1,
       "effective_date": "APRIL 2, 2025",
       "catalog": "fasteners"
     },
@@ -3497,7 +3497,7 @@
               "#12A",
               "#2 Quadrex Drive",
               "Driller",
-              "7 OO#",
+              "7.0#",
               "✓",
               "N/A"
             ]
@@ -3633,7 +3633,7 @@
         }
       ],
       "text": "Fasteners Pricing ACCESSORIES\nFastener #12A\nNote:\n+ Fasteners sold in quantities of 250 only\n(+) + Special driver required for this fastener (HW-616 #2 Quadrex Drive)\n12 x 1\" Pancake Head Driller\n#2 Quadrex Drive Pancake Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#12A #2 Quadrex Drive Driller 7.00# v N/A\nFastener #13\nNote:\n+ Fasteners sold in quantities of 250 only\n10 x 1\" Pancake Head Type A\n#2 Phillips Pancake Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#13 #2 Phillips A 7.10# v N/A\nFastener #13A\nNote:\n+ Fasteners sold in quantities of 250 only\n(+) + Special driver required for this fastener (HW-616 #2 Quadrex Drive)\n12 x 1\" Pancake Head Type A\n#2 Quadrex Drive Pancake Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PAINTED\n#13A #2 Quadrex Drive A 6.30# v N/A\nFastener #35\n—SSSSSST\nee\n+ Washers sold in quantities of 250 only\n14x 1 ¥%\" Bonded Washer\nDESCRIPTION PRICED PER THOUSAND\nWEIGHT PER 1000 PAINTED\n#35 Washer 20.00# v vit\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 21\nSee MBCI.COM for current information.",
-      "repaired_cells": 0,
+      "repaired_cells": 1,
       "effective_date": "APRIL 2, 2025",
       "catalog": "fasteners"
     },
@@ -3670,8 +3670,8 @@
             "MATERIAL",
             "WEIGHT PER 1000",
             "PLATED",
-            "PAINTED\nSTANDARD COLOR",
-            "PAINTED\nSPECIAL COLOR"
+            ".PAINTED\nSTANDARD COLOR",
+            ".PAINTED\nSPECIAL COLOR"
           ],
           "column_groups": [
             "DESCRIPTION",
@@ -3963,7 +3963,7 @@
               "#25",
               "5/16\"",
               "Stitch",
-              "7 OO#",
+              "7.00#",
               "✓",
               "vt"
             ]
@@ -4015,7 +4015,7 @@
         }
       ],
       "text": "Fasteners Pricing ACCESSORIES\nFastener #211\nNote:\n* Black Finish only\n+ Fasteners sold in quantities of 250 only\n+ 18 gauge maximum drilling thickness\n14 x 4\" Deck Screw\n#3 Phillips Truss Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#211 #3 Phillips Driller 30.00#\nFastener #15D\nNote:\n* Black Finish only\n+ Fasteners sold in quantities of 250 only\n+ 18 gauge maximum drilling thickness\n14 x 6\" Deck Screw\n#3 Phillips Truss Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#15D #3 Phillips Driller 43.00#\nFastener #25\nNote:\n+ Fasteners sold in quantities of 250 only\n10 x %\" Stitch\n5/16\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\nS/ie\" Stitch 7.00#\nFastener #24\nNote:\n+ Fasteners sold in quantities of 250 only\n+ Set up fee required for paint colors. Please inquire.\n8 x %\" Nibbed Driller\n%\" Hex Washer Head\nDESCRIPTION PRICED PER THOUSAND\nHEAD SIZE WEIGHT PER 1000 PLATED PAINTED\n#24 Ya\" Driller 4.00# v vi\nweb Subject to change without notice. EFFECTIVE APRIL 2, 2025 23\nSee MBCI.COM for current information.",
-      "repaired_cells": 0,
+      "repaired_cells": 1,
       "effective_date": "APRIL 2, 2025",
       "catalog": "fasteners"
     },
