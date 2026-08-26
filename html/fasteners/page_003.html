@@ -2,48 +2,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>fasteners p3</title>
-<style>
-:root { --paper: #fff; --edge: rgba(0,0,0,.16); }
-* { box-sizing: border-box; }
-body {
-  margin: 0; padding: 24pt 0; background: #f4f4f5;
-  font-family: Montserrat, "Century Gothic", "Futura", "Avenir Next",
-               "Segoe UI", system-ui, sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
-.page {
-  position: relative; margin: 0 auto 24pt; background: var(--paper);
-  box-shadow: 0 1pt 3pt rgba(0,0,0,.18), 0 8pt 24pt rgba(0,0,0,.10);
-  overflow: hidden;
-}
-.f { position: absolute; }
-.a { position: absolute; image-rendering: auto; }
-.t {
-  position: absolute; display: flex; align-items: center;
-  padding: 0 1.5pt; line-height: 1.15; white-space: pre-wrap;
-  overflow: hidden; word-break: break-word;
-}
-.bar {
-  position: sticky; top: 0; z-index: 5; background: #fff;
-  border-bottom: 1px solid var(--edge); padding: 10pt 16pt;
-  display: flex; gap: 16pt; align-items: baseline; flex-wrap: wrap;
-  font-size: 11pt;
-}
-.bar a { color: #0b62c4; text-decoration: none; }
-.bar a:hover { text-decoration: underline; }
-.bar .muted { color: #6b7280; font-size: 10pt; }
-@media print {
-  body { background: #fff; padding: 0; }
-  .bar { display: none; }
-  .page { margin: 0; box-shadow: none; page-break-after: always; }
-}
-@media (prefers-color-scheme: dark) {
-  body { background: #18181b; }
-  .bar { background: #18181b; color: #e4e4e7; border-color: rgba(255,255,255,.14); }
-  .bar a { color: #7cb7ff; }
-}
-</style>
-<div class="bar"><a href="index.html">&larr; fasteners</a><b>Page 3</b><span class="muted">fasteners</span></div>
+<link rel="stylesheet" href="../assets/page.css">
+<div class="bar"><a href="index.html">&larr; fasteners</a><b>Page 3</b><span class="muted">fasteners</span><span class="grow zoom"><button data-zoom="-0.1" title="Smaller">&minus;</button><output id="zoomLevel">100%</output><button data-zoom="0.1" title="Larger">+</button><button data-zoom="reset" title="Reset">&#8634;</button></span></div>
 <div class="page" style="width:612pt;height:792pt">
   <div class="f" style="left:41.40pt;top:144.48pt;width:525.00pt;height:24.00pt;background:rgb(105, 168, 100)"></div>
   <div class="f" style="left:41.40pt;top:318.96pt;width:525.00pt;height:24.00pt;background:rgb(105, 168, 100)"></div>
@@ -286,87 +246,113 @@ body {
   <img class="a" src="img/p003_01.png" alt="" style="left:109.36pt;top:172.72pt;width:91.36pt;height:50.56pt">
   <img class="a" src="img/p003_02.png" alt="" style="left:110.32pt;top:346.96pt;width:89.44pt;height:97.60pt">
   <img class="a" src="img/p003_03.png" alt="" style="left:29.08pt;top:764.56pt;width:560.68pt;height:18.40pt">
-  <div class="t" style="left:41.40pt;top:144.48pt;width:525.00pt;height:24.00pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">Drill Bit</div>
-  <div class="t" style="left:41.40pt;top:318.96pt;width:525.00pt;height:24.00pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">Magnetic Sockets</div>
-  <div class="t" style="left:41.40pt;top:227.28pt;width:465.48pt;height:21.72pt;font-size:9.12pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:506.64pt;top:227.28pt;width:59.64pt;height:21.72pt;font-size:9.12pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
-  <div class="t" style="left:41.40pt;top:249.00pt;width:48.00pt;height:26.04pt;font-size:10.69pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PART #</div>
-  <div class="t" style="left:89.40pt;top:249.00pt;width:48.00pt;height:26.04pt;font-size:10.69pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WIRE
+  <div class="t d" style="left:41.40pt;top:144.48pt;width:525.00pt;height:24.00pt;font-size:10.56pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">Drill Bit</div>
+  <div class="t d" style="left:41.40pt;top:318.96pt;width:525.00pt;height:24.00pt;font-size:10.56pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">Magnetic Sockets</div>
+  <div class="t" style="left:41.40pt;top:227.28pt;width:465.48pt;height:21.72pt;font-size:7.38pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:506.64pt;top:227.28pt;width:59.64pt;height:21.72pt;font-size:7.10pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
+  <div class="t" style="left:41.40pt;top:249.00pt;width:48.00pt;height:26.04pt;font-size:7.10pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PART #</div>
+  <div class="t" style="left:89.40pt;top:249.00pt;width:48.00pt;height:26.04pt;font-size:7.10pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WIRE
 GUAGE</div>
-  <div class="t" style="left:137.40pt;top:249.00pt;width:36.00pt;height:26.04pt;font-size:7.19pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DECIMAL
+  <div class="t" style="left:137.40pt;top:249.00pt;width:36.00pt;height:26.04pt;font-size:7.10pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DECIMAL
 SIZE</div>
-  <div class="t" style="left:173.40pt;top:249.00pt;width:237.00pt;height:26.04pt;font-size:10.94pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">USE</div>
-  <div class="t" style="left:410.40pt;top:249.00pt;width:48.00pt;height:26.04pt;font-size:9.19pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">CARTON
+  <div class="t" style="left:173.40pt;top:249.00pt;width:237.00pt;height:26.04pt;font-size:7.10pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">USE</div>
+  <div class="t" style="left:410.40pt;top:249.00pt;width:48.00pt;height:26.04pt;font-size:7.10pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">CARTON
 QTy</div>
-  <div class="t" style="left:458.40pt;top:249.00pt;width:48.00pt;height:26.04pt;font-size:7.19pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WEIGHT
+  <div class="t" style="left:458.40pt;top:249.00pt;width:48.00pt;height:26.04pt;font-size:7.10pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WEIGHT
 PER EACH</div>
-  <div class="t" style="left:506.40pt;top:249.00pt;width:60.00pt;height:26.04pt;font-size:10.94pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
-  <div class="t" style="left:41.40pt;top:275.04pt;width:48.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">HW-601</div>
-  <div class="t" style="left:89.40pt;top:275.04pt;width:48.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">#30</div>
-  <div class="t" style="left:137.40pt;top:275.04pt;width:36.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">.1285&quot;</div>
-  <div class="t" style="left:173.40pt;top:275.04pt;width:237.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">For Pop Rivets</div>
-  <div class="t" style="left:410.40pt;top:275.04pt;width:48.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">10/pkg</div>
-  <div class="t" style="left:458.40pt;top:275.04pt;width:48.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:506.70pt;top:275.04pt;width:59.64pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:288.60pt;width:48.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">HW-603</div>
-  <div class="t" style="left:89.40pt;top:288.60pt;width:48.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">#8</div>
-  <div class="t" style="left:137.40pt;top:288.60pt;width:36.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">.1990&quot;</div>
-  <div class="t" style="left:173.40pt;top:288.60pt;width:237.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">For #14 or %4&quot; diameter Fastener in 16 to 12 gauge steel</div>
-  <div class="t" style="left:410.40pt;top:288.60pt;width:48.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">10/pke</div>
-  <div class="t" style="left:458.40pt;top:288.60pt;width:48.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:506.70pt;top:288.60pt;width:59.64pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:300.84pt;width:48.00pt;height:14.64pt;font-size:6.15pt;color:#fff;justify-content:center;text-align:center">HW-611</div>
-  <div class="t" style="left:89.40pt;top:300.84pt;width:48.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">#1</div>
-  <div class="t" style="left:137.40pt;top:300.84pt;width:36.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">.2280&quot;</div>
-  <div class="t" style="left:173.40pt;top:300.84pt;width:237.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">For #14 or %&quot; diameter Fastener in 7/;¢&quot; to 3%&quot; thick steel</div>
-  <div class="t" style="left:410.40pt;top:300.84pt;width:48.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">10/pkg</div>
-  <div class="t" style="left:458.40pt;top:300.84pt;width:48.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:506.70pt;top:300.84pt;width:59.64pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:448.56pt;width:393.96pt;height:19.44pt;font-size:8.16pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:435.12pt;top:448.56pt;width:131.16pt;height:19.44pt;font-size:8.16pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
-  <div class="t" style="left:41.40pt;top:468.00pt;width:90.00pt;height:18.00pt;font-size:7.56pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PART #</div>
-  <div class="t" style="left:131.40pt;top:468.00pt;width:201.00pt;height:18.00pt;font-size:7.56pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIZE</div>
-  <div class="t" style="left:332.40pt;top:468.00pt;width:102.00pt;height:18.00pt;font-size:7.56pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WEIGHT PER EACH</div>
-  <div class="t" style="left:434.40pt;top:468.00pt;width:132.00pt;height:18.00pt;font-size:7.56pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
-  <div class="t" style="left:41.40pt;top:486.00pt;width:90.00pt;height:13.68pt;font-size:5.75pt;color:#231f20;justify-content:center;text-align:center">HW-604</div>
-  <div class="t" style="left:131.40pt;top:486.00pt;width:201.00pt;height:13.68pt;font-size:5.75pt;color:#231f20;justify-content:center;text-align:center">38&quot; Hex Drive</div>
-  <div class="t" style="left:332.40pt;top:486.00pt;width:102.66pt;height:13.68pt;font-size:5.75pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:434.40pt;top:486.00pt;width:132.00pt;height:13.68pt;font-size:5.75pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:499.68pt;width:90.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">HW-605</div>
-  <div class="t" style="left:131.40pt;top:499.68pt;width:201.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">5/16&quot; Hex Drive</div>
-  <div class="t" style="left:332.40pt;top:499.68pt;width:102.66pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:434.40pt;top:499.68pt;width:132.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:511.80pt;width:90.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">HW-606</div>
-  <div class="t" style="left:131.40pt;top:511.80pt;width:201.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">Y%&quot; Hex Drive</div>
-  <div class="t" style="left:332.40pt;top:511.80pt;width:102.66pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:434.40pt;top:511.80pt;width:132.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:524.04pt;width:90.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">HW-612</div>
-  <div class="t" style="left:131.40pt;top:524.04pt;width:201.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">38&quot; Hex Drive - For Long Life Fasteners</div>
-  <div class="t" style="left:332.40pt;top:524.04pt;width:102.66pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:434.40pt;top:524.04pt;width:132.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:536.16pt;width:90.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">HW-613</div>
-  <div class="t" style="left:131.40pt;top:536.16pt;width:201.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">5/16&quot; Hex Drive - For Long Life Fasteners</div>
-  <div class="t" style="left:332.40pt;top:536.16pt;width:102.66pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:434.40pt;top:536.16pt;width:132.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:548.40pt;width:90.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">HW-590</div>
-  <div class="t" style="left:131.40pt;top:548.40pt;width:201.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">6&quot; Long - %&quot; Hex Drive</div>
-  <div class="t" style="left:332.40pt;top:548.40pt;width:102.66pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">.12#</div>
-  <div class="t" style="left:434.40pt;top:548.40pt;width:132.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:560.64pt;width:90.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">HW-591</div>
-  <div class="t" style="left:131.40pt;top:560.64pt;width:201.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">6&quot; Long - 5/16&quot; Hex Drive</div>
-  <div class="t" style="left:332.40pt;top:560.64pt;width:102.66pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">.11#</div>
-  <div class="t" style="left:434.40pt;top:560.64pt;width:132.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:572.76pt;width:90.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">HW-592</div>
-  <div class="t" style="left:131.40pt;top:572.76pt;width:201.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">6&quot; Long - %4&quot; Hex Drive</div>
-  <div class="t" style="left:332.40pt;top:572.76pt;width:102.66pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:434.40pt;top:572.76pt;width:132.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:585.00pt;width:90.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">HW-615</div>
-  <div class="t" style="left:131.40pt;top:585.00pt;width:201.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">#2 Philips Insert with Magentic Holder</div>
-  <div class="t" style="left:332.40pt;top:585.00pt;width:102.66pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:434.40pt;top:585.00pt;width:132.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:597.24pt;width:90.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">HW-616</div>
-  <div class="t" style="left:131.40pt;top:597.24pt;width:201.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">#2 Quadrex Drive</div>
-  <div class="t" style="left:332.40pt;top:597.24pt;width:102.66pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
-  <div class="t" style="left:434.40pt;top:597.24pt;width:132.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:506.40pt;top:249.00pt;width:60.00pt;height:26.04pt;font-size:7.10pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
+  <div class="t" style="left:41.40pt;top:275.04pt;width:48.00pt;height:13.56pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">HW-601</div>
+  <div class="t" style="left:89.40pt;top:275.04pt;width:48.00pt;height:13.56pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">#30</div>
+  <div class="t" style="left:137.40pt;top:275.04pt;width:36.00pt;height:13.56pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">.1285&quot;</div>
+  <div class="t" style="left:173.40pt;top:275.04pt;width:237.00pt;height:13.56pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">For Pop Rivets</div>
+  <div class="t" style="left:410.40pt;top:275.04pt;width:48.00pt;height:13.56pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">10/pkg</div>
+  <div class="t" style="left:458.40pt;top:275.04pt;width:48.00pt;height:13.56pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:506.70pt;top:275.04pt;width:59.64pt;height:13.56pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:288.60pt;width:48.00pt;height:12.24pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">HW-603</div>
+  <div class="t" style="left:89.40pt;top:288.60pt;width:48.00pt;height:12.24pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">#8</div>
+  <div class="t" style="left:137.40pt;top:288.60pt;width:36.00pt;height:12.24pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">.1990&quot;</div>
+  <div class="t" style="left:173.40pt;top:288.60pt;width:237.00pt;height:12.24pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">For #14 or %4&quot; diameter Fastener in 16 to 12 gauge steel</div>
+  <div class="t" style="left:410.40pt;top:288.60pt;width:48.00pt;height:12.24pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">10/pke</div>
+  <div class="t" style="left:458.40pt;top:288.60pt;width:48.00pt;height:12.24pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:506.70pt;top:288.60pt;width:59.64pt;height:12.24pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:300.84pt;width:48.00pt;height:14.64pt;font-size:6.62pt;color:#fff;justify-content:center;text-align:center">HW-611</div>
+  <div class="t" style="left:89.40pt;top:300.84pt;width:48.00pt;height:14.64pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">#1</div>
+  <div class="t" style="left:137.40pt;top:300.84pt;width:36.00pt;height:14.64pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">.2280&quot;</div>
+  <div class="t" style="left:173.40pt;top:300.84pt;width:237.00pt;height:14.64pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">For #14 or %&quot; diameter Fastener in 7/;¢&quot; to 3%&quot; thick steel</div>
+  <div class="t" style="left:410.40pt;top:300.84pt;width:48.00pt;height:14.64pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">10/pkg</div>
+  <div class="t" style="left:458.40pt;top:300.84pt;width:48.00pt;height:14.64pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:506.70pt;top:300.84pt;width:59.64pt;height:14.64pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:448.56pt;width:393.96pt;height:19.44pt;font-size:6.61pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:435.12pt;top:448.56pt;width:131.16pt;height:19.44pt;font-size:6.12pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
+  <div class="t" style="left:41.40pt;top:468.00pt;width:90.00pt;height:18.00pt;font-size:6.12pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PART #</div>
+  <div class="t" style="left:131.40pt;top:468.00pt;width:201.00pt;height:18.00pt;font-size:6.12pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIZE</div>
+  <div class="t" style="left:332.40pt;top:468.00pt;width:102.00pt;height:18.00pt;font-size:6.12pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WEIGHT PER EACH</div>
+  <div class="t" style="left:434.40pt;top:468.00pt;width:132.00pt;height:18.00pt;font-size:6.12pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
+  <div class="t" style="left:41.40pt;top:486.00pt;width:90.00pt;height:13.68pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">HW-604</div>
+  <div class="t" style="left:131.40pt;top:486.00pt;width:201.00pt;height:13.68pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">38&quot; Hex Drive</div>
+  <div class="t" style="left:332.40pt;top:486.00pt;width:102.66pt;height:13.68pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:434.40pt;top:486.00pt;width:132.00pt;height:13.68pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:499.68pt;width:90.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">HW-605</div>
+  <div class="t" style="left:131.40pt;top:499.68pt;width:201.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">5/16&quot; Hex Drive</div>
+  <div class="t" style="left:332.40pt;top:499.68pt;width:102.66pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:434.40pt;top:499.68pt;width:132.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:511.80pt;width:90.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">HW-606</div>
+  <div class="t" style="left:131.40pt;top:511.80pt;width:201.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">Y%&quot; Hex Drive</div>
+  <div class="t" style="left:332.40pt;top:511.80pt;width:102.66pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:434.40pt;top:511.80pt;width:132.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:524.04pt;width:90.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">HW-612</div>
+  <div class="t" style="left:131.40pt;top:524.04pt;width:201.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">38&quot; Hex Drive - For Long Life Fasteners</div>
+  <div class="t" style="left:332.40pt;top:524.04pt;width:102.66pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:434.40pt;top:524.04pt;width:132.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:536.16pt;width:90.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">HW-613</div>
+  <div class="t" style="left:131.40pt;top:536.16pt;width:201.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">5/16&quot; Hex Drive - For Long Life Fasteners</div>
+  <div class="t" style="left:332.40pt;top:536.16pt;width:102.66pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:434.40pt;top:536.16pt;width:132.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:548.40pt;width:90.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">HW-590</div>
+  <div class="t" style="left:131.40pt;top:548.40pt;width:201.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">6&quot; Long - %&quot; Hex Drive</div>
+  <div class="t" style="left:332.40pt;top:548.40pt;width:102.66pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">.12#</div>
+  <div class="t" style="left:434.40pt;top:548.40pt;width:132.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:560.64pt;width:90.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">HW-591</div>
+  <div class="t" style="left:131.40pt;top:560.64pt;width:201.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">6&quot; Long - 5/16&quot; Hex Drive</div>
+  <div class="t" style="left:332.40pt;top:560.64pt;width:102.66pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">.11#</div>
+  <div class="t" style="left:434.40pt;top:560.64pt;width:132.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:572.76pt;width:90.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">HW-592</div>
+  <div class="t" style="left:131.40pt;top:572.76pt;width:201.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">6&quot; Long - %4&quot; Hex Drive</div>
+  <div class="t" style="left:332.40pt;top:572.76pt;width:102.66pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:434.40pt;top:572.76pt;width:132.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:585.00pt;width:90.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">HW-615</div>
+  <div class="t" style="left:131.40pt;top:585.00pt;width:201.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">#2 Philips Insert with Magentic Holder</div>
+  <div class="t" style="left:332.40pt;top:585.00pt;width:102.66pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:434.40pt;top:585.00pt;width:132.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:597.24pt;width:90.00pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">HW-616</div>
+  <div class="t" style="left:131.40pt;top:597.24pt;width:201.00pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">#2 Quadrex Drive</div>
+  <div class="t" style="left:332.40pt;top:597.24pt;width:102.66pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">.10#</div>
+  <div class="t" style="left:434.40pt;top:597.24pt;width:132.00pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
 </div>
 
+<script>
+(function () {
+  var root = document.documentElement, key = 'catalog-zoom';
+  var out = document.getElementById('zoomLevel');
+  function show(z) {
+    root.style.setProperty('--zoom', z);
+    if (out) out.textContent = Math.round(z * 100) + '%';
+  }
+  var saved = 1;
+  try { saved = parseFloat(localStorage.getItem(key)) || 1; } catch (e) {}
+  show(saved);
+  function step(by) {
+    var z = Math.min(2.5, Math.max(0.5,
+      Math.round((parseFloat(root.style.getPropertyValue('--zoom')) + by) * 20) / 20));
+    show(z);
+    try { localStorage.setItem(key, z); } catch (e) {}
+  }
+  document.querySelectorAll('[data-zoom]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var v = b.getAttribute('data-zoom');
+      if (v === 'reset') { show(1); try { localStorage.setItem(key, 1); } catch (e) {} }
+      else step(parseFloat(v));
+    });
+  });
+})();
+</script>

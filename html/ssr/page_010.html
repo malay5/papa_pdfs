@@ -2,48 +2,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>ssr p10</title>
-<style>
-:root { --paper: #fff; --edge: rgba(0,0,0,.16); }
-* { box-sizing: border-box; }
-body {
-  margin: 0; padding: 24pt 0; background: #f4f4f5;
-  font-family: Montserrat, "Century Gothic", "Futura", "Avenir Next",
-               "Segoe UI", system-ui, sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
-.page {
-  position: relative; margin: 0 auto 24pt; background: var(--paper);
-  box-shadow: 0 1pt 3pt rgba(0,0,0,.18), 0 8pt 24pt rgba(0,0,0,.10);
-  overflow: hidden;
-}
-.f { position: absolute; }
-.a { position: absolute; image-rendering: auto; }
-.t {
-  position: absolute; display: flex; align-items: center;
-  padding: 0 1.5pt; line-height: 1.15; white-space: pre-wrap;
-  overflow: hidden; word-break: break-word;
-}
-.bar {
-  position: sticky; top: 0; z-index: 5; background: #fff;
-  border-bottom: 1px solid var(--edge); padding: 10pt 16pt;
-  display: flex; gap: 16pt; align-items: baseline; flex-wrap: wrap;
-  font-size: 11pt;
-}
-.bar a { color: #0b62c4; text-decoration: none; }
-.bar a:hover { text-decoration: underline; }
-.bar .muted { color: #6b7280; font-size: 10pt; }
-@media print {
-  body { background: #fff; padding: 0; }
-  .bar { display: none; }
-  .page { margin: 0; box-shadow: none; page-break-after: always; }
-}
-@media (prefers-color-scheme: dark) {
-  body { background: #18181b; }
-  .bar { background: #18181b; color: #e4e4e7; border-color: rgba(255,255,255,.14); }
-  .bar a { color: #7cb7ff; }
-}
-</style>
-<div class="bar"><a href="index.html">&larr; ssr</a><b>Page 10</b><span class="muted">SSR Systems Pricing</span></div>
+<link rel="stylesheet" href="../assets/page.css">
+<div class="bar"><a href="index.html">&larr; ssr</a><b>Page 10</b><span class="muted">SSR Systems Pricing</span><span class="grow zoom"><button data-zoom="-0.1" title="Smaller">&minus;</button><output id="zoomLevel">100%</output><button data-zoom="0.1" title="Larger">+</button><button data-zoom="reset" title="Reset">&#8634;</button></span></div>
 <div class="page" style="width:612pt;height:792pt">
   <div class="f" style="left:41.40pt;top:52.68pt;width:525.00pt;height:24.00pt;background:rgb(250, 170, 23)"></div>
   <div class="f" style="left:0.48pt;top:0.48pt;width:474.00pt;height:37.32pt;background:rgb(63, 63, 63)"></div>
@@ -76,218 +36,134 @@ body {
   <div class="f" style="left:375.72pt;top:192.60pt;width:0.36pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:388.08pt;top:192.60pt;width:0.48pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:420.60pt;top:192.60pt;width:0.36pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:375.36pt;top:205.80pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:375.48pt;top:207.60pt;width:0.36pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:375.36pt;top:218.28pt;width:0.48pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:375.36pt;top:220.08pt;width:0.48pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:354.60pt;top:232.08pt;width:0.48pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:354.60pt;top:233.88pt;width:0.48pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:438.84pt;top:231.84pt;width:0.48pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:441.12pt;top:231.84pt;width:0.36pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:443.28pt;top:232.08pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:443.28pt;top:233.88pt;width:0.48pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:496.44pt;top:231.84pt;width:0.36pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:521.64pt;top:232.20pt;width:0.36pt;height:6.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:540.84pt;top:232.08pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:540.96pt;top:233.88pt;width:0.36pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:375.72pt;top:246.36pt;width:0.36pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:388.08pt;top:246.36pt;width:0.48pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:420.60pt;top:246.36pt;width:0.36pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:496.44pt;top:246.36pt;width:0.36pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:521.64pt;top:246.60pt;width:0.36pt;height:6.36pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:540.84pt;top:246.48pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:540.96pt;top:248.28pt;width:0.36pt;height:4.68pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:375.36pt;top:258.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:375.48pt;top:260.76pt;width:0.36pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:496.44pt;top:258.84pt;width:0.36pt;height:6.48pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:521.64pt;top:259.08pt;width:0.36pt;height:6.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:540.84pt;top:258.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:540.96pt;top:260.76pt;width:0.36pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:375.36pt;top:271.44pt;width:0.48pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:375.36pt;top:273.24pt;width:0.48pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:496.44pt;top:271.32pt;width:0.36pt;height:6.48pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:521.64pt;top:271.56pt;width:0.36pt;height:6.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:540.84pt;top:271.44pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:540.96pt;top:273.24pt;width:0.36pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:354.60pt;top:284.52pt;width:0.48pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:354.60pt;top:286.32pt;width:0.48pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:438.84pt;top:284.28pt;width:0.48pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:441.12pt;top:284.28pt;width:0.36pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:443.28pt;top:284.52pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:443.28pt;top:286.32pt;width:0.48pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:496.44pt;top:284.28pt;width:0.36pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:521.64pt;top:284.64pt;width:0.36pt;height:6.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:540.84pt;top:284.52pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:540.96pt;top:286.32pt;width:0.36pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:95.88pt;top:759.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:153.72pt;top:759.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:153.72pt;top:761.28pt;width:0.60pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:188.16pt;top:759.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:188.16pt;top:761.28pt;width:0.60pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:197.88pt;top:764.16pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:113.64pt;top:769.08pt;width:1.08pt;height:4.80pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:115.80pt;top:772.80pt;width:1.08pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:176.04pt;top:768.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:176.04pt;top:770.28pt;width:0.60pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:205.56pt;top:768.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:205.56pt;top:770.28pt;width:0.48pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:216.12pt;top:773.16pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:454.92pt;top:766.92pt;width:0.84pt;height:6.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:261.84pt;top:159.12pt;width:0.36pt;height:5.52pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:274.56pt;top:159.12pt;width:0.36pt;height:5.52pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:488.28pt;top:159.12pt;width:0.36pt;height:5.52pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:84.48pt;top:306.48pt;width:1.20pt;height:5.64pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:100.80pt;top:306.24pt;width:1.20pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:215.76pt;top:306.24pt;width:1.32pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:215.76pt;top:307.80pt;width:1.20pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:218.16pt;top:306.24pt;width:1.32pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:230.88pt;top:306.24pt;width:1.32pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:250.68pt;top:306.24pt;width:1.20pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:265.80pt;top:310.80pt;width:1.32pt;height:1.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:277.68pt;top:306.24pt;width:1.32pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:277.68pt;top:307.80pt;width:1.20pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:285.12pt;top:306.24pt;width:1.32pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:285.24pt;top:307.80pt;width:1.20pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:334.20pt;top:306.24pt;width:1.32pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:334.20pt;top:307.80pt;width:1.20pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:339.96pt;top:306.24pt;width:1.32pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:339.96pt;top:307.80pt;width:1.32pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:405.12pt;top:306.24pt;width:1.32pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:405.12pt;top:307.80pt;width:1.20pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:421.20pt;top:310.80pt;width:1.32pt;height:1.32pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:69.12pt;top:317.52pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:77.88pt;top:317.52pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:98.64pt;top:317.52pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:122.28pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:122.40pt;top:318.72pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:133.68pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:133.80pt;top:318.72pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:151.20pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:182.04pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:182.04pt;top:318.72pt;width:0.96pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:202.92pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:203.04pt;top:318.72pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:228.72pt;top:317.52pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:259.56pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:259.56pt;top:318.72pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:261.36pt;top:317.52pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:280.44pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:280.44pt;top:318.72pt;width:0.96pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:282.24pt;top:317.52pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:294.72pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:294.84pt;top:318.72pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:333.00pt;top:317.52pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:339.00pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:339.00pt;top:318.72pt;width:0.96pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:356.64pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:356.64pt;top:318.72pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:373.08pt;top:317.52pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:409.68pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:409.68pt;top:318.72pt;width:0.96pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:417.48pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:417.48pt;top:318.72pt;width:0.96pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:428.76pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:428.88pt;top:318.72pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:436.20pt;top:317.52pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:436.20pt;top:318.72pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:450.72pt;top:317.52pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:452.52pt;top:317.52pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:478.92pt;top:317.52pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:483.60pt;top:320.88pt;width:0.96pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:508.68pt;top:317.52pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:517.44pt;top:317.52pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:45.84pt;top:325.32pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:69.48pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:69.48pt;top:326.40pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:80.88pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:80.88pt;top:326.40pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:91.08pt;top:325.32pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:112.44pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:137.88pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:137.88pt;top:326.40pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:160.20pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:160.20pt;top:326.40pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:165.60pt;top:325.32pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:193.80pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:193.80pt;top:326.40pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:236.52pt;top:325.32pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:240.12pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:240.12pt;top:326.40pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:254.64pt;top:325.32pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:256.44pt;top:325.32pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:264.24pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:264.24pt;top:326.40pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:273.72pt;top:328.68pt;width:0.96pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:292.20pt;top:325.32pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:358.32pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:358.32pt;top:326.40pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:432.96pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:433.08pt;top:326.40pt;width:0.84pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:464.28pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:464.28pt;top:326.40pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:504.24pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:504.36pt;top:326.40pt;width:0.84pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:511.56pt;top:325.32pt;width:0.96pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:511.56pt;top:326.40pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:516.72pt;top:328.68pt;width:0.96pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:41.88pt;top:333.24pt;width:0.96pt;height:4.20pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:67.32pt;top:333.00pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:67.32pt;top:334.20pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:123.48pt;top:333.00pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:123.48pt;top:334.20pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:144.00pt;top:333.00pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:144.00pt;top:334.20pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:224.64pt;top:335.16pt;width:1.80pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:234.84pt;top:333.00pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:234.84pt;top:334.20pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:267.36pt;top:333.00pt;width:0.84pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:299.76pt;top:333.00pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:299.76pt;top:334.20pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:307.08pt;top:333.00pt;width:0.96pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:308.88pt;top:333.00pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:308.88pt;top:334.20pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:336.36pt;top:333.00pt;width:0.84pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:345.12pt;top:333.00pt;width:0.96pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:365.88pt;top:333.00pt;width:0.96pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:374.40pt;top:336.48pt;width:0.96pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:408.12pt;top:333.00pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:408.12pt;top:334.20pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:415.92pt;top:333.00pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:415.92pt;top:334.20pt;width:0.96pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:427.32pt;top:333.00pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:427.32pt;top:334.20pt;width:0.84pt;height:3.24pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:449.64pt;top:333.00pt;width:0.96pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:524.88pt;top:333.00pt;width:0.96pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:533.64pt;top:333.00pt;width:0.96pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:45.84pt;top:340.80pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:96.72pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:96.72pt;top:342.00pt;width:0.96pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:102.12pt;top:340.80pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:131.64pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:131.64pt;top:342.00pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:139.08pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:139.08pt;top:342.00pt;width:0.96pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:144.60pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:144.72pt;top:342.00pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:194.04pt;top:340.80pt;width:0.84pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:197.52pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:197.64pt;top:342.00pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:215.76pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:215.76pt;top:342.00pt;width:0.96pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:269.40pt;top:344.16pt;width:0.96pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:321.96pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:322.08pt;top:342.00pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:329.88pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:329.88pt;top:342.00pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:358.68pt;top:340.80pt;width:0.96pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:385.68pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:385.68pt;top:342.00pt;width:0.84pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:390.84pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:390.84pt;top:342.00pt;width:0.96pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:489.96pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:501.36pt;top:340.80pt;width:0.96pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:501.36pt;top:342.00pt;width:0.96pt;height:3.12pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:510.84pt;top:344.16pt;width:0.96pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:70.32pt;top:351.24pt;width:1.32pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:194.28pt;top:351.48pt;width:1.44pt;height:6.36pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:216.24pt;top:351.48pt;width:1.44pt;height:6.36pt;background:rgb(34, 31, 33)"></div>
@@ -295,866 +171,209 @@ body {
   <div class="f" style="left:287.88pt;top:351.48pt;width:1.44pt;height:6.36pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:338.04pt;top:351.48pt;width:1.44pt;height:6.36pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:508.32pt;top:351.24pt;width:1.32pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:510.96pt;top:351.24pt;width:1.44pt;height:1.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:511.08pt;top:353.04pt;width:1.32pt;height:4.80pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:527.88pt;top:351.24pt;width:1.44pt;height:1.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:527.88pt;top:353.04pt;width:1.44pt;height:4.80pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:58.08pt;top:362.88pt;width:1.44pt;height:1.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:58.08pt;top:364.68pt;width:1.44pt;height:4.80pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:95.88pt;top:362.88pt;width:1.44pt;height:1.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:95.88pt;top:364.68pt;width:1.32pt;height:4.80pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:98.64pt;top:362.88pt;width:1.32pt;height:6.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:194.40pt;top:362.88pt;width:1.44pt;height:1.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:194.52pt;top:364.68pt;width:1.32pt;height:4.80pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:233.40pt;top:362.88pt;width:1.44pt;height:1.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:233.40pt;top:364.68pt;width:1.44pt;height:4.80pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:247.68pt;top:368.04pt;width:1.44pt;height:1.44pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:63.24pt;top:377.76pt;width:0.72pt;height:6.36pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:77.40pt;top:377.88pt;width:0.72pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:77.40pt;top:379.68pt;width:0.72pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:84.60pt;top:377.88pt;width:0.72pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:84.60pt;top:379.68pt;width:0.72pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:97.80pt;top:379.68pt;width:0.84pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:97.80pt;top:383.16pt;width:0.84pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:61.68pt;top:389.04pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:63.60pt;top:389.04pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:85.32pt;top:389.04pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:96.96pt;top:389.16pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:97.08pt;top:390.60pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:102.96pt;top:389.16pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:103.08pt;top:390.60pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:116.28pt;top:389.16pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:116.28pt;top:390.60pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:205.20pt;top:393.48pt;width:0.60pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:73.56pt;top:398.28pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:87.60pt;top:401.04pt;width:2.04pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:101.28pt;top:398.28pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:101.28pt;top:399.72pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:109.80pt;top:398.28pt;width:0.48pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:178.20pt;top:398.28pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:178.32pt;top:399.72pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:180.12pt;top:398.28pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:182.04pt;top:398.28pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:186.12pt;top:398.28pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:186.12pt;top:399.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:230.52pt;top:398.28pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:230.52pt;top:399.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:235.32pt;top:398.28pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:235.32pt;top:399.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:250.56pt;top:398.28pt;width:0.48pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:287.76pt;top:398.28pt;width:0.48pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:308.04pt;top:398.28pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:308.04pt;top:399.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:323.52pt;top:398.28pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:323.64pt;top:399.72pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:332.28pt;top:402.72pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:73.56pt;top:407.40pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:129.00pt;top:407.52pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:129.00pt;top:408.96pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:133.56pt;top:408.96pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:133.56pt;top:407.52pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:154.32pt;top:408.96pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:154.32pt;top:411.96pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:171.96pt;top:407.52pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:172.08pt;top:408.96pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:222.84pt;top:410.16pt;width:1.92pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:236.28pt;top:407.52pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:236.28pt;top:408.96pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:257.28pt;top:411.96pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:322.08pt;top:407.52pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:322.08pt;top:408.96pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:331.08pt;top:407.52pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:331.08pt;top:408.96pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:345.48pt;top:411.96pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:84.12pt;top:416.76pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:84.24pt;top:418.20pt;width:0.48pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:103.68pt;top:416.76pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:103.68pt;top:418.20pt;width:0.60pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:105.60pt;top:416.64pt;width:0.48pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:107.52pt;top:416.64pt;width:0.48pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:111.48pt;top:416.76pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:111.48pt;top:418.20pt;width:0.60pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:155.88pt;top:416.76pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:156.00pt;top:418.20pt;width:0.48pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:160.68pt;top:416.76pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:160.80pt;top:418.20pt;width:0.48pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:175.92pt;top:416.64pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:213.12pt;top:416.64pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:233.40pt;top:416.76pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:233.40pt;top:418.20pt;width:0.60pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:249.00pt;top:416.76pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:249.00pt;top:418.20pt;width:0.60pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:257.76pt;top:421.08pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:73.56pt;top:425.76pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:129.00pt;top:425.88pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:129.00pt;top:427.32pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:133.56pt;top:427.32pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:133.56pt;top:425.88pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:164.64pt;top:425.76pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:212.40pt;top:425.76pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:270.48pt;top:425.88pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:270.60pt;top:427.32pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:356.28pt;top:425.76pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:402.48pt;top:425.88pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:402.48pt;top:427.32pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:419.16pt;top:430.32pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:77.76pt;top:435.00pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:102.12pt;top:435.12pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:102.12pt;top:436.56pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:106.68pt;top:436.56pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:106.56pt;top:435.12pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:156.84pt;top:435.12pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:156.96pt;top:436.56pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:240.96pt;top:435.12pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:240.96pt;top:436.56pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:247.32pt;top:435.12pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:247.32pt;top:436.56pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:285.36pt;top:437.76pt;width:1.92pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:298.92pt;top:435.00pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:104.04pt;top:447.00pt;width:2.04pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:135.12pt;top:444.24pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:137.04pt;top:444.24pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:137.04pt;top:445.68pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:153.72pt;top:444.24pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:166.92pt;top:444.24pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:166.92pt;top:445.68pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:177.84pt;top:448.68pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:87.96pt;top:453.36pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:101.76pt;top:453.48pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:101.88pt;top:454.92pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:142.68pt;top:453.48pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:142.68pt;top:454.92pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:150.84pt;top:453.48pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:150.84pt;top:454.92pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:176.64pt;top:453.48pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:176.64pt;top:454.92pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:187.56pt;top:453.36pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:227.52pt;top:454.92pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:227.52pt;top:457.80pt;width:0.60pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:240.72pt;top:457.80pt;width:0.60pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.20pt;top:457.80pt;width:0.72pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:125.88pt;top:462.72pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:126.00pt;top:464.04pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:158.52pt;top:462.72pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:158.64pt;top:464.04pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:197.16pt;top:462.60pt;width:0.48pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:214.44pt;top:467.04pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:73.56pt;top:471.72pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:91.20pt;top:471.72pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:223.32pt;top:476.28pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:245.04pt;top:471.72pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:325.08pt;top:476.28pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:126.60pt;top:480.96pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:126.72pt;top:482.28pt;width:1.08pt;height:3.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:160.68pt;top:480.96pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:160.68pt;top:482.28pt;width:1.08pt;height:3.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:167.28pt;top:480.96pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:196.56pt;top:480.96pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:196.56pt;top:482.28pt;width:1.08pt;height:3.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:215.52pt;top:480.96pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:215.52pt;top:482.28pt;width:1.08pt;height:3.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:235.44pt;top:482.28pt;width:1.08pt;height:3.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:235.44pt;top:480.96pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:242.04pt;top:480.96pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:288.72pt;top:480.96pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:296.64pt;top:480.96pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:296.64pt;top:482.28pt;width:1.08pt;height:3.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:310.32pt;top:480.96pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:325.08pt;top:485.04pt;width:1.20pt;height:1.20pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:73.32pt;top:494.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:73.32pt;top:496.32pt;width:0.72pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:108.72pt;top:496.32pt;width:0.84pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:108.72pt;top:499.92pt;width:0.84pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:44.52pt;top:510.24pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:70.56pt;top:505.92pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:70.56pt;top:507.24pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:184.20pt;top:505.80pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:224.40pt;top:505.80pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:46.20pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:116.76pt;top:516.00pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:116.76pt;top:517.44pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:133.32pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:131.52pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:129.84pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:135.00pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:136.80pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:138.60pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:140.40pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:142.08pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:143.88pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:145.68pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:147.36pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:149.16pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:150.96pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:152.64pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:154.44pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:156.24pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:158.04pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:159.72pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:161.52pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:163.32pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:165.00pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:166.80pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:168.60pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:170.28pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:172.08pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:173.88pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:175.68pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:177.36pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:179.16pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:180.96pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:182.64pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:184.44pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:186.24pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:187.92pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:189.72pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:191.52pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:193.32pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:195.00pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:196.80pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:198.60pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:200.28pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:202.08pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:203.88pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:205.56pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:207.36pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:209.16pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:210.96pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:212.64pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:214.44pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:216.24pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:217.92pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:219.72pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:221.52pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:223.20pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:225.00pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:226.80pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:228.60pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:230.28pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:232.08pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:233.88pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:235.56pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:237.36pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:239.16pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:240.84pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:242.64pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:244.44pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:246.24pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:247.92pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:249.72pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:251.52pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:253.20pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:255.00pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:256.80pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:258.48pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:260.28pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:262.08pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:263.88pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:265.56pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:267.36pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:269.16pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:270.84pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:272.64pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:274.44pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:276.12pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:277.92pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:279.72pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:281.52pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:283.20pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:285.00pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:286.80pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:288.48pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:290.28pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.08pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:293.76pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:295.56pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:297.36pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:299.16pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:300.84pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:302.64pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:304.44pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:306.12pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:307.92pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:309.72pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:311.40pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:313.20pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:315.00pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:316.80pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:318.48pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:320.28pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:322.08pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:323.76pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:325.56pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:327.36pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:329.04pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:330.84pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:332.64pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:334.44pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:336.12pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:337.92pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:339.72pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:341.40pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:343.20pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:345.00pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:346.68pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:348.48pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:350.28pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:352.08pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:353.76pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:355.56pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:357.36pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:359.04pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:360.84pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:362.64pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:364.32pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:366.12pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:367.92pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:369.72pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:371.40pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:373.20pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:375.00pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:376.68pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:378.48pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:380.28pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:381.96pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:383.76pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:385.56pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:387.36pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:389.04pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:390.84pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:392.64pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:394.32pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:396.12pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:397.92pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:399.60pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:401.40pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:403.20pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:405.00pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:406.68pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:408.48pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:410.28pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:411.96pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:413.76pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:415.56pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:417.24pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:419.04pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:420.84pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:422.64pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:424.32pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:426.12pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:427.92pt;top:520.44pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:429.60pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:431.40pt;top:520.44pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:441.12pt;top:516.00pt;width:0.48pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:443.04pt;top:516.00pt;width:0.48pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:454.68pt;top:516.00pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:454.68pt;top:517.44pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:470.52pt;top:516.00pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:470.52pt;top:517.44pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:480.96pt;top:516.00pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:558.12pt;top:516.00pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:558.12pt;top:517.44pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:46.32pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:125.52pt;top:526.20pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:125.52pt;top:527.64pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:142.08pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:140.40pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:138.72pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:143.88pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:145.68pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:147.36pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:149.16pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:150.96pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:152.64pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:154.44pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:156.24pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:157.92pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:159.72pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:161.52pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:163.32pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:165.00pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:166.80pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:168.60pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:170.28pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:172.08pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:173.88pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:175.56pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:177.36pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:179.16pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:180.96pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:182.64pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:184.44pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:186.24pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:187.92pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:189.72pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:191.52pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:193.20pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:195.00pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:196.80pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:198.60pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:200.28pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:202.08pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:203.88pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:205.56pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:207.36pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:209.16pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:210.84pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:212.64pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:214.44pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:216.24pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:217.92pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:219.72pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:221.52pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:223.20pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:225.00pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:226.80pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:228.48pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:230.28pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:232.08pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:233.88pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:235.56pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:237.36pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:239.16pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:240.84pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:242.64pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:244.44pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:246.12pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:247.92pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:249.72pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:251.52pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:253.20pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:255.00pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:256.80pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:258.48pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:260.28pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:262.08pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:263.76pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:265.56pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:267.36pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:269.16pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:270.84pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:272.64pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:274.44pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:276.12pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:277.92pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:279.72pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:281.40pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:283.20pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:285.00pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:286.80pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:288.48pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:290.28pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.08pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:293.76pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:295.56pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:297.36pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:299.04pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:300.84pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:302.64pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:304.44pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:306.12pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:307.92pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:309.72pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:311.40pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:313.20pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:315.00pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:316.68pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:318.48pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:320.28pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:322.08pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:323.76pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:325.56pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:327.36pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:329.04pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:330.84pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:332.64pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:334.32pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:336.12pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:337.92pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:339.72pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:341.40pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:343.20pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:345.00pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:346.68pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:348.48pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:350.28pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:351.96pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:353.76pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:355.56pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:357.36pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:359.04pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:360.84pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:362.64pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:364.32pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:366.12pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:367.92pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:369.60pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:371.40pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:373.20pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:375.00pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:376.68pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:378.48pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:380.28pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:381.96pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:383.76pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:385.56pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:387.24pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:389.04pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:390.84pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:392.64pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:394.32pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:396.12pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:397.92pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:399.60pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:401.40pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:403.20pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:404.88pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:406.68pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:408.48pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:410.28pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:411.96pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:413.76pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:415.56pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:417.24pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:449.04pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:476.40pt;top:526.20pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:478.32pt;top:526.20pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:478.32pt;top:527.64pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:537.00pt;top:530.64pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:558.00pt;top:526.20pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:558.00pt;top:527.64pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:564.24pt;top:530.64pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:54.00pt;top:539.76pt;width:0.72pt;height:6.24pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:56.28pt;top:539.88pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:56.28pt;top:541.56pt;width:0.72pt;height:4.44pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:77.04pt;top:541.56pt;width:0.72pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:77.04pt;top:545.16pt;width:0.72pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:64.68pt;top:551.04pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:64.68pt;top:552.48pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:103.80pt;top:550.92pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:144.96pt;top:550.92pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:229.08pt;top:551.04pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:229.08pt;top:552.48pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:293.40pt;top:551.04pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:293.40pt;top:552.48pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:353.28pt;top:551.04pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:353.28pt;top:552.48pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:441.72pt;top:550.92pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:480.00pt;top:555.48pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:488.88pt;top:550.92pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:94.92pt;top:560.40pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:94.92pt;top:561.84pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:133.20pt;top:560.40pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:133.32pt;top:561.84pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:138.00pt;top:560.40pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:138.12pt;top:561.84pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:153.24pt;top:560.28pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:157.20pt;top:560.40pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:157.32pt;top:561.84pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:187.56pt;top:560.40pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:187.68pt;top:561.84pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:198.48pt;top:564.72pt;width:0.72pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:67.20pt;top:575.64pt;width:0.84pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:67.20pt;top:579.24pt;width:0.84pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:61.68pt;top:585.12pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:63.60pt;top:585.12pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:85.32pt;top:585.12pt;width:0.48pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:92.64pt;top:587.88pt;width:2.04pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:97.92pt;top:585.12pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:155.76pt;top:587.88pt;width:1.92pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:169.20pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:171.00pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:172.68pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:174.48pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:176.28pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:177.96pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:179.76pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:181.56pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:183.24pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:185.04pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:186.84pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:188.64pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:190.32pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:192.12pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:193.92pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:195.60pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:197.40pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:199.20pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:200.88pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:202.68pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:204.48pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:206.28pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:207.96pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:209.76pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:211.56pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:213.24pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:215.04pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:216.84pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:218.52pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:220.32pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:222.12pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:223.92pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:225.60pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:227.40pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:229.20pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:230.88pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:232.68pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:234.48pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:236.16pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:237.96pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:239.76pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:241.56pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:243.24pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:245.04pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:246.84pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:248.52pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:250.32pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:252.12pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:253.80pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:255.60pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:257.40pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:259.20pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:260.88pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:262.68pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:264.48pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:266.16pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:267.96pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:269.76pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:271.44pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:273.24pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:275.04pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:276.84pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:278.52pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:280.32pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:282.12pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:283.80pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:285.60pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:287.40pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:289.08pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:290.88pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.68pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:294.48pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:296.16pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:297.96pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:299.76pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:301.44pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:303.24pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:305.04pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:306.72pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:308.52pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:310.32pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:312.12pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:313.80pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:315.60pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:317.40pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:319.08pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:320.88pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:322.68pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:324.36pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:326.16pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:327.96pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:329.76pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:331.44pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:333.24pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:335.04pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:336.72pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:338.52pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:340.32pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:342.00pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:343.80pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:345.60pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:347.40pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:349.08pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:350.88pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:352.68pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:354.36pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:356.16pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:357.96pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:359.64pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:361.44pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:363.24pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:365.04pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:366.72pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:368.52pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:370.32pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:372.00pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:373.80pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:375.60pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:377.28pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:379.08pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:380.88pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:382.68pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:384.36pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:386.16pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:387.96pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:389.64pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:391.44pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:393.24pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:394.92pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:396.72pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:398.52pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:400.32pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:402.00pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:403.80pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:405.60pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:407.28pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:409.08pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:410.88pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:412.56pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:414.36pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:416.16pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:417.96pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:419.64pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:421.44pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:423.24pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:424.92pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:426.72pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:428.52pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:430.20pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:432.00pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:433.80pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:435.60pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:437.28pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:439.08pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:440.88pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:442.56pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:444.36pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:446.16pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:447.84pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:449.64pt;top:589.56pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:451.44pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:453.24pt;top:589.56pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:483.72pt;top:585.24pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:483.72pt;top:586.56pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:503.64pt;top:585.12pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:539.52pt;top:585.24pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:539.52pt;top:586.56pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:97.44pt;top:594.24pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:97.44pt;top:595.68pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:99.60pt;top:594.24pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:101.76pt;top:594.24pt;width:1.20pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:106.08pt;top:594.24pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:106.20pt;top:595.68pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:116.88pt;top:594.24pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:135.00pt;top:594.24pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:137.16pt;top:594.24pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:137.16pt;top:595.68pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:163.32pt;top:594.24pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:163.44pt;top:595.68pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:172.80pt;top:594.24pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:172.80pt;top:595.68pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:187.80pt;top:598.32pt;width:1.08pt;height:1.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:192.12pt;top:594.48pt;width:1.20pt;height:5.04pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:213.00pt;top:596.76pt;width:2.16pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:225.60pt;top:594.24pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:225.60pt;top:595.68pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:264.36pt;top:594.24pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:302.64pt;top:594.24pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:302.64pt;top:595.68pt;width:1.20pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:394.44pt;top:594.24pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:394.56pt;top:595.68pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:405.84pt;top:594.24pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:405.96pt;top:595.68pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:423.96pt;top:594.24pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:423.96pt;top:595.68pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:429.12pt;top:594.24pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:429.12pt;top:595.68pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:473.52pt;top:598.32pt;width:1.08pt;height:1.20pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:74.16pt;top:603.48pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:74.16pt;top:604.92pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:157.68pt;top:603.48pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:157.68pt;top:604.92pt;width:1.20pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:189.60pt;top:603.48pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:189.60pt;top:604.92pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:198.96pt;top:603.48pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:198.96pt;top:604.92pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:260.04pt;top:603.48pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:260.04pt;top:604.92pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:297.96pt;top:603.48pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:297.96pt;top:604.92pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:304.68pt;top:603.48pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:304.68pt;top:604.92pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:313.68pt;top:603.48pt;width:1.08pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:313.68pt;top:604.92pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:331.08pt;top:603.48pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:331.20pt;top:604.92pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:333.36pt;top:603.48pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:354.96pt;top:603.48pt;width:1.20pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:354.96pt;top:604.92pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:366.48pt;top:607.56pt;width:1.08pt;height:1.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:73.80pt;top:612.60pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:78.12pt;top:612.60pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:114.12pt;top:615.12pt;width:2.28pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:138.36pt;top:612.60pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:241.92pt;top:612.60pt;width:1.08pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:244.08pt;top:612.60pt;width:1.08pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:244.08pt;top:614.04pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:275.28pt;top:612.60pt;width:1.20pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:275.28pt;top:614.04pt;width:1.08pt;height:3.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:281.52pt;top:616.80pt;width:1.20pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:42.00pt;top:626.04pt;width:1.08pt;height:5.04pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:74.28pt;top:626.04pt;width:1.20pt;height:5.04pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:96.36pt;top:626.04pt;width:1.08pt;height:5.04pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:118.80pt;top:626.04pt;width:1.08pt;height:5.04pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:47.64pt;top:635.16pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:69.48pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:69.48pt;top:636.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:171.72pt;top:635.16pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:195.48pt;top:635.16pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:197.40pt;top:635.16pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:232.44pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:232.44pt;top:636.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:269.76pt;top:635.28pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:269.88pt;top:636.72pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:286.80pt;top:635.16pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:288.60pt;top:635.16pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:297.60pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:297.60pt;top:636.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:308.40pt;top:639.60pt;width:0.72pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:335.64pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:335.64pt;top:636.72pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:352.56pt;top:635.16pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:354.48pt;top:635.16pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:403.92pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:404.04pt;top:636.72pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:410.64pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:410.64pt;top:636.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:434.64pt;top:635.16pt;width:0.48pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:436.44pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:436.56pt;top:636.72pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:447.72pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:447.72pt;top:636.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:455.28pt;top:635.28pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:455.40pt;top:636.72pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:483.72pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:483.72pt;top:636.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:494.64pt;top:639.60pt;width:0.60pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:511.92pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:511.92pt;top:636.72pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:522.84pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:522.84pt;top:636.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:547.44pt;top:635.28pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:547.44pt;top:636.72pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:560.52pt;top:635.16pt;width:0.60pt;height:5.28pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:42.00pt;top:644.52pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:42.00pt;top:645.96pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:94.20pt;top:644.52pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:94.20pt;top:645.96pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:110.88pt;top:644.52pt;width:0.60pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:112.68pt;top:644.52pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:112.80pt;top:645.96pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:185.88pt;top:644.52pt;width:0.48pt;height:5.16pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:232.20pt;top:644.52pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:232.20pt;top:645.96pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:236.76pt;top:645.96pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:236.64pt;top:644.52pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:249.72pt;top:644.52pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:249.84pt;top:645.96pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:354.96pt;top:644.52pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:354.96pt;top:645.96pt;width:0.60pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:376.20pt;top:644.52pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:376.32pt;top:645.96pt;width:0.48pt;height:3.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:401.28pt;top:648.96pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:472.80pt;top:151.32pt;width:93.48pt;height:0.60pt;background:rgb(154, 154, 154)"></div>
   <div class="f" style="left:41.40pt;top:151.32pt;width:431.64pt;height:0.60pt;background:rgb(154, 154, 154)"></div>
   <div class="f" style="left:472.80pt;top:151.08pt;width:0.60pt;height:20.52pt;background:rgb(154, 154, 154)"></div>
@@ -1260,59 +479,85 @@ body {
   <img class="a" src="img/p010_00.png" alt="" style="left:208.24pt;top:80.56pt;width:191.20pt;height:66.88pt">
   <img class="a" src="img/p010_01.png" alt="" style="left:39.52pt;top:304.12pt;width:530.68pt;height:348.76pt">
   <img class="a" src="img/p010_02.png" alt="" style="left:29.08pt;top:757.84pt;width:557.32pt;height:19.36pt">
-  <div class="t" style="left:0.48pt;top:0.48pt;width:474.00pt;height:37.32pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">SSR Systems Pricing</div>
-  <div class="t" style="left:474.48pt;top:0.48pt;width:137.52pt;height:37.32pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">PANELS</div>
-  <div class="t" style="left:41.40pt;top:52.68pt;width:525.00pt;height:24.00pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">BattenLok&#x27; HS 12&quot;</div>
-  <div class="t" style="left:41.40pt;top:151.32pt;width:431.64pt;height:19.68pt;font-size:8.27pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:472.80pt;top:151.32pt;width:93.48pt;height:19.68pt;font-size:8.27pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
-  <div class="t" style="left:41.40pt;top:171.00pt;width:525.00pt;height:18.36pt;font-size:7.71pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:41.40pt;top:189.36pt;width:72.00pt;height:12.96pt;font-size:5.44pt;color:#231f20;justify-content:center;text-align:center">24</div>
-  <div class="t" style="left:113.40pt;top:189.36pt;width:72.00pt;height:12.96pt;font-size:5.44pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
-  <div class="t" style="left:185.40pt;top:189.36pt;width:72.00pt;height:12.96pt;font-size:5.44pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
-  <div class="t" style="left:257.40pt;top:189.36pt;width:72.00pt;height:12.96pt;font-size:5.44pt;color:#231f20;justify-content:center;text-align:center">149#</div>
-  <div class="t" style="left:329.40pt;top:189.36pt;width:143.76pt;height:12.96pt;font-size:5.44pt;color:#231f20;justify-content:center;text-align:center">Galvalume&#x27; Plus &amp;</div>
-  <div class="t" style="left:473.40pt;top:189.36pt;width:93.00pt;height:12.96pt;font-size:5.44pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:202.32pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">24</div>
-  <div class="t" style="left:113.40pt;top:202.32pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
-  <div class="t" style="left:185.40pt;top:202.32pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
-  <div class="t" style="left:257.40pt;top:202.32pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">149#</div>
-  <div class="t" style="left:329.40pt;top:202.32pt;width:143.76pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 200</div>
-  <div class="t" style="left:473.40pt;top:202.32pt;width:93.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:214.80pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">24</div>
-  <div class="t" style="left:113.40pt;top:214.80pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
-  <div class="t" style="left:185.40pt;top:214.80pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
-  <div class="t" style="left:257.40pt;top:214.80pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">149#</div>
-  <div class="t" style="left:329.40pt;top:214.80pt;width:143.76pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 300</div>
-  <div class="t" style="left:473.40pt;top:214.80pt;width:93.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:227.28pt;width:72.00pt;height:15.84pt;font-size:6.65pt;color:#231f20;justify-content:center;text-align:center">24</div>
-  <div class="t" style="left:113.40pt;top:227.28pt;width:72.00pt;height:15.84pt;font-size:6.65pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
-  <div class="t" style="left:185.40pt;top:227.28pt;width:72.00pt;height:15.84pt;font-size:6.65pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
-  <div class="t" style="left:257.40pt;top:227.28pt;width:72.00pt;height:15.84pt;font-size:6.65pt;color:#231f20;justify-content:center;text-align:center">149#</div>
-  <div class="t" style="left:329.40pt;top:227.28pt;width:143.76pt;height:15.84pt;font-size:6.65pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 300 Metallic</div>
-  <div class="t" style="left:473.40pt;top:227.28pt;width:93.00pt;height:15.84pt;font-size:6.65pt;color:#231f20;justify-content:center;text-align:center">Please Inquire</div>
-  <div class="t" style="left:41.40pt;top:243.12pt;width:72.00pt;height:12.36pt;font-size:5.19pt;color:#231f20;justify-content:center;text-align:center">22</div>
-  <div class="t" style="left:113.40pt;top:243.12pt;width:72.00pt;height:12.36pt;font-size:5.19pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
-  <div class="t" style="left:185.40pt;top:243.12pt;width:72.00pt;height:12.36pt;font-size:5.19pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
-  <div class="t" style="left:257.40pt;top:243.12pt;width:72.00pt;height:12.36pt;font-size:5.19pt;color:#231f20;justify-content:center;text-align:center">189#</div>
-  <div class="t" style="left:329.40pt;top:243.12pt;width:143.76pt;height:12.36pt;font-size:5.19pt;color:#231f20;justify-content:center;text-align:center">Galvalume&#x27; Plus &amp;</div>
-  <div class="t" style="left:473.40pt;top:243.12pt;width:93.00pt;height:12.36pt;font-size:5.19pt;color:#231f20;justify-content:center;text-align:center">Please Inquire</div>
-  <div class="t" style="left:41.40pt;top:255.48pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">22</div>
-  <div class="t" style="left:113.40pt;top:255.48pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
-  <div class="t" style="left:185.40pt;top:255.48pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
-  <div class="t" style="left:257.40pt;top:255.48pt;width:72.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">189#</div>
-  <div class="t" style="left:329.40pt;top:255.48pt;width:143.76pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 200</div>
-  <div class="t" style="left:473.40pt;top:255.48pt;width:93.00pt;height:12.48pt;font-size:5.24pt;color:#231f20;justify-content:center;text-align:center">Please Inquire</div>
-  <div class="t" style="left:41.40pt;top:267.96pt;width:72.00pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">22</div>
-  <div class="t" style="left:113.40pt;top:267.96pt;width:72.00pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
-  <div class="t" style="left:185.40pt;top:267.96pt;width:72.00pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
-  <div class="t" style="left:257.40pt;top:267.96pt;width:72.00pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">189#</div>
-  <div class="t" style="left:329.40pt;top:267.96pt;width:143.76pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 300</div>
-  <div class="t" style="left:473.40pt;top:267.96pt;width:93.00pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">Please Inquire</div>
-  <div class="t" style="left:41.40pt;top:281.04pt;width:72.00pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">22</div>
-  <div class="t" style="left:113.40pt;top:281.04pt;width:72.00pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
-  <div class="t" style="left:185.40pt;top:281.04pt;width:72.00pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
-  <div class="t" style="left:257.40pt;top:281.04pt;width:72.00pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">189#</div>
-  <div class="t" style="left:329.40pt;top:281.04pt;width:143.76pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 300 Metallic</div>
-  <div class="t" style="left:473.40pt;top:281.04pt;width:93.00pt;height:13.08pt;font-size:5.49pt;color:#231f20;justify-content:center;text-align:center">Please Inquire</div>
+  <div class="t d" style="left:0.48pt;top:0.48pt;width:474.00pt;height:37.32pt;font-size:12.00pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SSR Systems Pricing</div>
+  <div class="t d" style="left:474.48pt;top:0.48pt;width:137.52pt;height:37.32pt;font-size:12.00pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PANELS</div>
+  <div class="t d" style="left:41.40pt;top:52.68pt;width:525.00pt;height:24.00pt;font-size:10.56pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">BattenLok&#x27; HS 12&quot;</div>
+  <div class="t" style="left:41.40pt;top:151.32pt;width:431.64pt;height:19.68pt;font-size:6.24pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:472.80pt;top:151.32pt;width:93.48pt;height:19.68pt;font-size:6.69pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
+  <div class="t" style="left:41.40pt;top:171.00pt;width:525.00pt;height:18.36pt;font-size:6.24pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:41.40pt;top:189.36pt;width:72.00pt;height:12.96pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">24</div>
+  <div class="t" style="left:113.40pt;top:189.36pt;width:72.00pt;height:12.96pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
+  <div class="t" style="left:185.40pt;top:189.36pt;width:72.00pt;height:12.96pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
+  <div class="t" style="left:257.40pt;top:189.36pt;width:72.00pt;height:12.96pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">149#</div>
+  <div class="t" style="left:329.40pt;top:189.36pt;width:143.76pt;height:12.96pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Galvalume&#x27; Plus &amp;</div>
+  <div class="t" style="left:473.40pt;top:189.36pt;width:93.00pt;height:12.96pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:202.32pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">24</div>
+  <div class="t" style="left:113.40pt;top:202.32pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
+  <div class="t" style="left:185.40pt;top:202.32pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
+  <div class="t" style="left:257.40pt;top:202.32pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">149#</div>
+  <div class="t" style="left:329.40pt;top:202.32pt;width:143.76pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 200</div>
+  <div class="t" style="left:473.40pt;top:202.32pt;width:93.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:214.80pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">24</div>
+  <div class="t" style="left:113.40pt;top:214.80pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
+  <div class="t" style="left:185.40pt;top:214.80pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
+  <div class="t" style="left:257.40pt;top:214.80pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">149#</div>
+  <div class="t" style="left:329.40pt;top:214.80pt;width:143.76pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 300</div>
+  <div class="t" style="left:473.40pt;top:214.80pt;width:93.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:227.28pt;width:72.00pt;height:15.84pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">24</div>
+  <div class="t" style="left:113.40pt;top:227.28pt;width:72.00pt;height:15.84pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
+  <div class="t" style="left:185.40pt;top:227.28pt;width:72.00pt;height:15.84pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
+  <div class="t" style="left:257.40pt;top:227.28pt;width:72.00pt;height:15.84pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">149#</div>
+  <div class="t" style="left:329.40pt;top:227.28pt;width:143.76pt;height:15.84pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 300 Metallic</div>
+  <div class="t" style="left:473.40pt;top:227.28pt;width:93.00pt;height:15.84pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Please Inquire</div>
+  <div class="t" style="left:41.40pt;top:243.12pt;width:72.00pt;height:12.36pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">22</div>
+  <div class="t" style="left:113.40pt;top:243.12pt;width:72.00pt;height:12.36pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
+  <div class="t" style="left:185.40pt;top:243.12pt;width:72.00pt;height:12.36pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
+  <div class="t" style="left:257.40pt;top:243.12pt;width:72.00pt;height:12.36pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">189#</div>
+  <div class="t" style="left:329.40pt;top:243.12pt;width:143.76pt;height:12.36pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Galvalume&#x27; Plus &amp;</div>
+  <div class="t" style="left:473.40pt;top:243.12pt;width:93.00pt;height:12.36pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Please Inquire</div>
+  <div class="t" style="left:41.40pt;top:255.48pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">22</div>
+  <div class="t" style="left:113.40pt;top:255.48pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
+  <div class="t" style="left:185.40pt;top:255.48pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
+  <div class="t" style="left:257.40pt;top:255.48pt;width:72.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">189#</div>
+  <div class="t" style="left:329.40pt;top:255.48pt;width:143.76pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 200</div>
+  <div class="t" style="left:473.40pt;top:255.48pt;width:93.00pt;height:12.48pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Please Inquire</div>
+  <div class="t" style="left:41.40pt;top:267.96pt;width:72.00pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">22</div>
+  <div class="t" style="left:113.40pt;top:267.96pt;width:72.00pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
+  <div class="t" style="left:185.40pt;top:267.96pt;width:72.00pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
+  <div class="t" style="left:257.40pt;top:267.96pt;width:72.00pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">189#</div>
+  <div class="t" style="left:329.40pt;top:267.96pt;width:143.76pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 300</div>
+  <div class="t" style="left:473.40pt;top:267.96pt;width:93.00pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Please Inquire</div>
+  <div class="t" style="left:41.40pt;top:281.04pt;width:72.00pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">22</div>
+  <div class="t" style="left:113.40pt;top:281.04pt;width:72.00pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
+  <div class="t" style="left:185.40pt;top:281.04pt;width:72.00pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">50,000</div>
+  <div class="t" style="left:257.40pt;top:281.04pt;width:72.00pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">189#</div>
+  <div class="t" style="left:329.40pt;top:281.04pt;width:143.76pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Signature&#x27; 300 Metallic</div>
+  <div class="t" style="left:473.40pt;top:281.04pt;width:93.00pt;height:13.08pt;font-size:7.91pt;color:#231f20;justify-content:center;text-align:center">Please Inquire</div>
 </div>
 
+<script>
+(function () {
+  var root = document.documentElement, key = 'catalog-zoom';
+  var out = document.getElementById('zoomLevel');
+  function show(z) {
+    root.style.setProperty('--zoom', z);
+    if (out) out.textContent = Math.round(z * 100) + '%';
+  }
+  var saved = 1;
+  try { saved = parseFloat(localStorage.getItem(key)) || 1; } catch (e) {}
+  show(saved);
+  function step(by) {
+    var z = Math.min(2.5, Math.max(0.5,
+      Math.round((parseFloat(root.style.getPropertyValue('--zoom')) + by) * 20) / 20));
+    show(z);
+    try { localStorage.setItem(key, z); } catch (e) {}
+  }
+  document.querySelectorAll('[data-zoom]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var v = b.getAttribute('data-zoom');
+      if (v === 'reset') { show(1); try { localStorage.setItem(key, 1); } catch (e) {} }
+      else step(parseFloat(v));
+    });
+  });
+})();
+</script>

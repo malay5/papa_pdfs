@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'Inter var';
+  src: url('inter-latin.woff2') format('woff2');
+  font-weight: 100 900; font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat var';
+  src: url('montserrat-latin.woff2') format('woff2');
+  font-weight: 100 900; font-display: swap;
+}
+:root { --paper: #fff; --ink: #1c1c1e; --edge: rgba(0,0,0,.16); --zoom: 1; }
+* { box-sizing: border-box; }
+body {
+  margin: 0; padding: 24pt 0; background: #f4f4f5; color: var(--ink);
+  font-family: 'Inter var', Inter, -apple-system, "Segoe UI", Roboto,
+               system-ui, sans-serif;
+}
+.page {
+  position: relative; margin: 0 auto 24pt; background: var(--paper);
+  box-shadow: 0 1pt 3pt rgba(0,0,0,.18), 0 8pt 24pt rgba(0,0,0,.10);
+  overflow: hidden; zoom: var(--zoom);
+}
+.f { position: absolute; }
+.a { position: absolute; image-rendering: auto; }
+.t {
+  position: absolute; display: flex; align-items: center;
+  padding: 0 1.5pt; line-height: 1.15; white-space: pre-wrap;
+  overflow: hidden; word-break: break-word;
+  /* Figures that share a width keep a column of numbers in line, which is
+     most of what makes a price table quick to read. */
+  font-variant-numeric: tabular-nums lining-nums;
+  font-feature-settings: "tnum" 1, "lnum" 1;
+}
+/* Banners carry the catalog's look, and are set large enough that a
+   geometric face costs nothing in legibility.  The tables use Inter, which
+   holds up far better at the 8pt the data is set in. */
+.t.d { font-family: 'Montserrat var', Montserrat, 'Inter var', sans-serif;
+       letter-spacing: .012em; }
+.bar {
+  position: sticky; top: 0; z-index: 5; background: #fff;
+  border-bottom: 1px solid var(--edge); padding: 9pt 16pt;
+  display: flex; gap: 14pt; align-items: center; flex-wrap: wrap;
+  font-size: 10.5pt;
+}
+.bar a { color: #0b62c4; text-decoration: none; }
+.bar a:hover { text-decoration: underline; }
+.bar .muted { color: #6b7280; font-size: 9.5pt; }
+.bar .grow { margin-left: auto; }
+.zoom { display: inline-flex; align-items: center; gap: 2pt; }
+.zoom button {
+  font: inherit; font-size: 10pt; line-height: 1; cursor: pointer;
+  width: 22pt; height: 18pt; border: 1px solid var(--edge);
+  background: #fff; color: inherit; border-radius: 4px;
+}
+.zoom button:hover { background: #f4f4f5; }
+.zoom output { font-size: 9.5pt; color: #6b7280; min-width: 34pt;
+               text-align: center; font-variant-numeric: tabular-nums; }
+@media print {
+  body { background: #fff; padding: 0; }
+  .bar { display: none; }
+  .page { margin: 0; box-shadow: none; zoom: 1; page-break-after: always; }
+}
+@media (prefers-color-scheme: dark) {
+  body { background: #18181b; }
+  .bar { background: #18181b; color: #e4e4e7;
+         border-color: rgba(255,255,255,.14); }
+  .bar a { color: #7cb7ff; }
+  .zoom button { background: #26262b; color: #e4e4e7;
+                 border-color: rgba(255,255,255,.16); }
+  .zoom button:hover { background: #303036; }
+}

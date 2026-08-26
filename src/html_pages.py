@@ -30,12 +30,20 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Fills covering most of the page are the sheet itself, not a design element.
 BACKGROUND_MIN_AREA = 0.85
+# Below this in both directions a fill is a piece of a glyph, not a rule.
+FILL_MIN_PT = 2.0
+# A fill this thin inside a banner is a sliver of glyph art, not the strip.
+BANNER_SLIVER_PT = 3.0
 # Rules thinner than this would vanish; the PDF draws some at a hairline.
 MIN_RULE_PX = 0.6
-# Type is set at roughly this fraction of the band it sits in, which lands
-# within a point of the original at every band height in these catalogs.
-TEXT_HEIGHT_RATIO = 0.42
-MIN_FONT_PT, MAX_FONT_PT = 5.0, 11.0
+# Measured off the catalogs rather than guessed: a 13pt data band carries a
+# 6.5pt cap height, which for a sans is about 9pt of type -- 0.69 of the
+# band.  Backing off a little leaves room for the descenders and the cell's
+# own padding.
+TEXT_HEIGHT_RATIO = 0.64
+# Column headers sit in a taller band and are set smaller relative to it.
+HEADER_HEIGHT_RATIO = 0.34
+MIN_FONT_PT, MAX_FONT_PT = 6.0, 12.0
 # Below this luminance a fill needs knockout-white type over it.
 KNOCKOUT_MAX_LUMA = 0.62
 
@@ -79,6 +87,11 @@ def _fills(page):
             continue
         if width * height >= BACKGROUND_MIN_AREA * area:
             continue                            # the sheet itself
+        if width < FILL_MIN_PT and height < FILL_MIN_PT:
+            # Sub-point specks: the decimal points and other glyph pieces the
+            # PDF draws as filled rectangles.  The text is set here, so these
+            # would only show up as dirt under the numbers.
+            continue
         if colour == (255, 255, 255):
             continue                            # white on white
         out.append((rect["x0"], rect["top"], width, height, colour))
@@ -131,19 +144,27 @@ def _fit(text, width, height, base, max_lines=1, advance=GLYPH_ADVANCE):
     return max(MIN_FONT_PT, size)
 
 
+def _size_for(text, bbox, weight=None, ratio=None, lines=1):
+    """The size this one cell could take, before the table has its say."""
+    x0, top, x1, bottom = bbox
+    height = bottom - top
+    base = max(MIN_FONT_PT, min(MAX_FONT_PT,
+                                height * (ratio or TEXT_HEIGHT_RATIO)))
+    # Bold labels are set with a little tracking, so they run wider than the
+    # body advance would predict.
+    advance = 0.78 if weight else GLYPH_ADVANCE
+    return _fit(text, x1 - x0 - 5, height, base, lines, advance)
+
+
 def _text_box(text, bbox, fills, align="center", weight=None, ratio=None,
-              lines=1):
+              lines=1, display=False, size=None):
     """One positioned run of text, coloured to stay legible on its fill."""
     if not text:
         return ""
     x0, top, x1, bottom = bbox
     height = bottom - top
-    size = max(MIN_FONT_PT, min(MAX_FONT_PT,
-                                height * (ratio or TEXT_HEIGHT_RATIO)))
-    # Bold labels are set with a little tracking, so they run wider than the
-    # body advance would predict.
-    advance = 0.78 if weight else GLYPH_ADVANCE
-    size = _fit(text, x1 - x0 - 5, height, size, lines, advance)
+    if size is None:
+        size = _size_for(text, bbox, weight, ratio, lines)
     background = _background_at(fills, bbox)
     colour = "#fff" if background and _luma(background) < KNOCKOUT_MAX_LUMA \
         else "#231f20"
@@ -154,7 +175,8 @@ def _text_box(text, bbox, fills, align="center", weight=None, ratio=None,
              f"text-align:{align}")
     if weight:
         style += f";font-weight:{weight};letter-spacing:.01em"
-    return f'  <div class="t" style="{style}">{html.escape(text)}</div>\n'
+    return (f'  <div class="{"t d" if display else "t"}" style="{style}">'
+            f'{html.escape(text)}</div>\n')
 
 
 # The drawings are vector art in the same layer as the glyph outlines, so
@@ -275,6 +297,22 @@ def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
     # geometry ones: a column-shaded matrix has no cell rectangles for
     # geometry.tables to return, and its stripes cover only every other
     # column, which would leave the rest to be captured twice.
+    # A few hairlines and thin slivers sit inside the coloured strips -- the
+    # stems of the glyphs, drawn as their own rectangles -- where the catalog
+    # shows nothing but the strip and its type.  Drawn here they read as
+    # stray marks through the heading.  The strip's own fill is far too big
+    # to be caught by the thinness test.  This has to happen before anything
+    # is emitted, not after.
+    banner_boxes = [b["bbox"] for b in banners]
+
+    def _in_banner(x, y, w, h):
+        mid_x, mid_y = x + w / 2, y + h / 2
+        return any(bx0 <= mid_x <= bx1 and btop <= mid_y <= bbot
+                   for bx0, btop, bx1, bbot in banner_boxes)
+
+    fills = [f for f in fills
+             if not (min(f[2], f[3]) < BANNER_SLIVER_PT and _in_banner(*f[:4]))]
+
     reserved = [t.bbox for t in tables] + [b["bbox"] for b in banners]
     reserved += [tuple(t["bbox"]) for t in stored.get("tables", [])]
     if stripes:
@@ -289,14 +327,8 @@ def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
         parts.append(f'  <div class="f" style="left:{x:.2f}pt;top:{y:.2f}pt;'
                      f'width:{w:.2f}pt;height:{h:.2f}pt;'
                      f'background:rgb{colour}"></div>\n')
-    # A few hairlines sit inside the coloured strips, where the catalog shows
-    # nothing but the strip and its type.  Drawn here they read as stray marks
-    # through the heading.
-    banner_boxes = [b["bbox"] for b in banners]
     for x, y, w, h, colour in rules:
-        mid_x, mid_y = x + w / 2, y + h / 2
-        if any(bx0 <= mid_x <= bx1 and btop <= mid_y <= bbot
-               for bx0, btop, bx1, bbot in banner_boxes):
+        if _in_banner(x, y, w, h):
             continue
         parts.append(f'  <div class="f" style="left:{x:.2f}pt;top:{y:.2f}pt;'
                      f'width:{w:.2f}pt;height:{h:.2f}pt;'
@@ -309,7 +341,7 @@ def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
 
     for banner in stored.get("_banners", []):
         parts.append(_text_box(banner["text"], banner["bbox"], fills,
-                               weight=600, ratio=0.5))
+                               weight=700, ratio=0.44, display=True))
 
     for table in stored.get("tables", []):
         index = table["index"]
@@ -335,7 +367,13 @@ def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
                 pass                            # drawn from labels below
 
         top = table["bbox"][1]
+        # The catalog sets every label in a header at one size and every
+        # value in a body at another.  Deriving each cell's size from its own
+        # box does not: bands vary by a point or two, and the last row of a
+        # table is usually the tallest, so it came out visibly larger than the
+        # rows above it.  Both sizes are settled for the table as a whole.
         if table["column_labels"] and header_bands:
+            labelled = []
             for row in header_bands:
                 for cell, span in row:
                     covered = extract._covered_columns(cell, edges)
@@ -346,15 +384,37 @@ def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
                     elif covered:
                         label = table["column_groups"][covered[0]] \
                             if covered[0] < len(table["column_groups"]) else ""
-                    parts.append(_text_box(label, cell.bbox, fills,
-                                           weight=700, ratio=0.42, lines=3))
+                    if label:
+                        labelled.append((label, cell.bbox, span))
+            head_size = min(
+                (_size_for(t, b, 700, HEADER_HEIGHT_RATIO, 3)
+                 for t, b, s in labelled if s == 1), default=None)
+            group_size = min(
+                (_size_for(t, b, 700, HEADER_HEIGHT_RATIO, 2)
+                 for t, b, s in labelled if s > 1), default=None)
+            for label, bbox, span in labelled:
+                parts.append(_text_box(
+                    label, bbox, fills, weight=700, lines=3,
+                    size=group_size if span > 1 else head_size))
 
+        def _body_cells():
+            """Each value with the box it belongs in, spans accounted for."""
+            for stored_row, cells in zip(table["rows"], data):
+                column = 0
+                for cell, span in cells:
+                    if column < count and column < len(stored_row) \
+                            and stored_row[column]:
+                        yield stored_row[column], cell.bbox
+                    column += span
+
+        body_size = min((_size_for(text, bbox) for text, bbox in _body_cells()),
+                        default=None)
         for stored_row, cells in zip(table["rows"], data):
             column = 0
             for cell, span in cells:
                 if column < count and column < len(stored_row):
                     parts.append(_text_box(stored_row[column], cell.bbox,
-                                           fills))
+                                           fills, size=body_size))
                 column += span
 
     parts.append("</div>\n")
@@ -378,30 +438,42 @@ def _matrix_html(table, stripes, fills):
         out.append(_text_box(label, (edges[position], top - pitch,
                                      edges[position + 1], top), fills,
                              weight=700))
+    boxes = []
     for index, row in enumerate(table["rows"]):
         row_top = top + index * pitch
         for position, value in enumerate(row):
             if position + 1 >= len(edges):
                 break
-            out.append(_text_box(value, (edges[position], row_top,
-                                         edges[position + 1], row_top + pitch),
-                                 fills))
+            if value:
+                boxes.append((value, (edges[position], row_top,
+                                      edges[position + 1], row_top + pitch)))
+    size = min((_size_for(text, bbox) for text, bbox in boxes), default=None)
+    for text, bbox in boxes:
+        out.append(_text_box(text, bbox, fills, size=size))
     return "".join(out)
 
 
-STYLE = """
-:root { --paper: #fff; --edge: rgba(0,0,0,.16); }
+STYLE = """@font-face {
+  font-family: 'Inter var';
+  src: url('FONTPATHinter-latin.woff2') format('woff2');
+  font-weight: 100 900; font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat var';
+  src: url('FONTPATHmontserrat-latin.woff2') format('woff2');
+  font-weight: 100 900; font-display: swap;
+}
+:root { --paper: #fff; --ink: #1c1c1e; --edge: rgba(0,0,0,.16); --zoom: 1; }
 * { box-sizing: border-box; }
 body {
-  margin: 0; padding: 24pt 0; background: #f4f4f5;
-  font-family: Montserrat, "Century Gothic", "Futura", "Avenir Next",
-               "Segoe UI", system-ui, sans-serif;
-  -webkit-font-smoothing: antialiased;
+  margin: 0; padding: 24pt 0; background: #f4f4f5; color: var(--ink);
+  font-family: 'Inter var', Inter, -apple-system, "Segoe UI", Roboto,
+               system-ui, sans-serif;
 }
 .page {
   position: relative; margin: 0 auto 24pt; background: var(--paper);
   box-shadow: 0 1pt 3pt rgba(0,0,0,.18), 0 8pt 24pt rgba(0,0,0,.10);
-  overflow: hidden;
+  overflow: hidden; zoom: var(--zoom);
 }
 .f { position: absolute; }
 .a { position: absolute; image-rendering: auto; }
@@ -409,37 +481,99 @@ body {
   position: absolute; display: flex; align-items: center;
   padding: 0 1.5pt; line-height: 1.15; white-space: pre-wrap;
   overflow: hidden; word-break: break-word;
+  /* Figures that share a width keep a column of numbers in line, which is
+     most of what makes a price table quick to read. */
+  font-variant-numeric: tabular-nums lining-nums;
+  font-feature-settings: "tnum" 1, "lnum" 1;
 }
+/* Banners carry the catalog's look, and are set large enough that a
+   geometric face costs nothing in legibility.  The tables use Inter, which
+   holds up far better at the 8pt the data is set in. */
+.t.d { font-family: 'Montserrat var', Montserrat, 'Inter var', sans-serif;
+       letter-spacing: .012em; }
 .bar {
   position: sticky; top: 0; z-index: 5; background: #fff;
-  border-bottom: 1px solid var(--edge); padding: 10pt 16pt;
-  display: flex; gap: 16pt; align-items: baseline; flex-wrap: wrap;
-  font-size: 11pt;
+  border-bottom: 1px solid var(--edge); padding: 9pt 16pt;
+  display: flex; gap: 14pt; align-items: center; flex-wrap: wrap;
+  font-size: 10.5pt;
 }
 .bar a { color: #0b62c4; text-decoration: none; }
 .bar a:hover { text-decoration: underline; }
-.bar .muted { color: #6b7280; font-size: 10pt; }
+.bar .muted { color: #6b7280; font-size: 9.5pt; }
+.bar .grow { margin-left: auto; }
+.zoom { display: inline-flex; align-items: center; gap: 2pt; }
+.zoom button {
+  font: inherit; font-size: 10pt; line-height: 1; cursor: pointer;
+  width: 22pt; height: 18pt; border: 1px solid var(--edge);
+  background: #fff; color: inherit; border-radius: 4px;
+}
+.zoom button:hover { background: #f4f4f5; }
+.zoom output { font-size: 9.5pt; color: #6b7280; min-width: 34pt;
+               text-align: center; font-variant-numeric: tabular-nums; }
 @media print {
   body { background: #fff; padding: 0; }
   .bar { display: none; }
-  .page { margin: 0; box-shadow: none; page-break-after: always; }
+  .page { margin: 0; box-shadow: none; zoom: 1; page-break-after: always; }
 }
 @media (prefers-color-scheme: dark) {
   body { background: #18181b; }
-  .bar { background: #18181b; color: #e4e4e7; border-color: rgba(255,255,255,.14); }
+  .bar { background: #18181b; color: #e4e4e7;
+         border-color: rgba(255,255,255,.14); }
   .bar a { color: #7cb7ff; }
+  .zoom button { background: #26262b; color: #e4e4e7;
+                 border-color: rgba(255,255,255,.16); }
+  .zoom button:hover { background: #303036; }
 }
 """
 
 
-def _document(title, body, nav=""):
+ZOOM_JS = """<script>
+(function () {
+  var root = document.documentElement, key = 'catalog-zoom';
+  var out = document.getElementById('zoomLevel');
+  function show(z) {
+    root.style.setProperty('--zoom', z);
+    if (out) out.textContent = Math.round(z * 100) + '%';
+  }
+  var saved = 1;
+  try { saved = parseFloat(localStorage.getItem(key)) || 1; } catch (e) {}
+  show(saved);
+  function step(by) {
+    var z = Math.min(2.5, Math.max(0.5,
+      Math.round((parseFloat(root.style.getPropertyValue('--zoom')) + by) * 20) / 20));
+    show(z);
+    try { localStorage.setItem(key, z); } catch (e) {}
+  }
+  document.querySelectorAll('[data-zoom]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var v = b.getAttribute('data-zoom');
+      if (v === 'reset') { show(1); try { localStorage.setItem(key, 1); } catch (e) {} }
+      else step(parseFloat(v));
+    });
+  });
+})();
+</script>"""
+
+
+def write_assets(out_dir):
+    """The one stylesheet every page links, and the fonts it names."""
+    assets = os.path.join(out_dir, "assets")
+    os.makedirs(assets, exist_ok=True)
+    with open(os.path.join(assets, "page.css"), "w") as handle:
+        handle.write(STYLE.replace("FONTPATH", ""))
+    return assets
+
+
+def _document(title, body, nav="", depth=0, script=""):
+    prefix = "../" * depth
     return f"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)}</title>
-<style>{STYLE}</style>
+<link rel="stylesheet" href="{prefix}assets/page.css">
 {nav}
 {body}
+{script}
 """
 
 
@@ -459,10 +593,16 @@ def write_catalog(slug, pdf_path, document, out_dir, pages=None):
         heading = stored.get("title") or slug
         nav = (f'<div class="bar"><a href="index.html">&larr; {html.escape(slug)}</a>'
                f'<b>Page {number}</b>'
-               f'<span class="muted">{html.escape(heading)}</span></div>')
+               f'<span class="muted">{html.escape(heading)}</span>'
+               f'<span class="grow zoom">'
+               f'<button data-zoom="-0.1" title="Smaller">&minus;</button>'
+               f'<output id="zoomLevel">100%</output>'
+               f'<button data-zoom="0.1" title="Larger">+</button>'
+               f'<button data-zoom="reset" title="Reset">&#8634;</button>'
+               f'</span></div>')
         name = f"page_{number:03d}.html"
         with open(os.path.join(out_dir, name), "w") as handle:
-            handle.write(_document(title, body, nav))
+            handle.write(_document(title, body, nav, depth=1, script=ZOOM_JS))
         written.append((number, stored, name))
         pdf.pages[number - 1].close()      # pdfplumber caches every page
         print(f"  {slug} p{number}", flush=True)
@@ -482,7 +622,7 @@ def write_catalog(slug, pdf_path, document, out_dir, pages=None):
             f'<th>Tables</th></tr></thead><tbody>{"".join(rows)}</tbody></table>'
             f'<p><a href="../index.html">&larr; all catalogs</a></p></div>')
     with open(os.path.join(out_dir, "index.html"), "w") as handle:
-        handle.write(_document(f"{slug} pages", body + INDEX_STYLE))
+        handle.write(_document(f"{slug} pages", body + INDEX_STYLE, depth=1))
     return len(written)
 
 
@@ -526,6 +666,7 @@ def main():
         if os.path.isdir(os.path.join(args.data, name)))
 
     os.makedirs(args.out, exist_ok=True)
+    write_assets(args.out)
     counts = []
     for slug in slugs:
         path = os.path.join(args.data, slug, "document.json")

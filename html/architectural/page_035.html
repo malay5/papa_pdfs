@@ -2,48 +2,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>architectural p35</title>
-<style>
-:root { --paper: #fff; --edge: rgba(0,0,0,.16); }
-* { box-sizing: border-box; }
-body {
-  margin: 0; padding: 24pt 0; background: #f4f4f5;
-  font-family: Montserrat, "Century Gothic", "Futura", "Avenir Next",
-               "Segoe UI", system-ui, sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
-.page {
-  position: relative; margin: 0 auto 24pt; background: var(--paper);
-  box-shadow: 0 1pt 3pt rgba(0,0,0,.18), 0 8pt 24pt rgba(0,0,0,.10);
-  overflow: hidden;
-}
-.f { position: absolute; }
-.a { position: absolute; image-rendering: auto; }
-.t {
-  position: absolute; display: flex; align-items: center;
-  padding: 0 1.5pt; line-height: 1.15; white-space: pre-wrap;
-  overflow: hidden; word-break: break-word;
-}
-.bar {
-  position: sticky; top: 0; z-index: 5; background: #fff;
-  border-bottom: 1px solid var(--edge); padding: 10pt 16pt;
-  display: flex; gap: 16pt; align-items: baseline; flex-wrap: wrap;
-  font-size: 11pt;
-}
-.bar a { color: #0b62c4; text-decoration: none; }
-.bar a:hover { text-decoration: underline; }
-.bar .muted { color: #6b7280; font-size: 10pt; }
-@media print {
-  body { background: #fff; padding: 0; }
-  .bar { display: none; }
-  .page { margin: 0; box-shadow: none; page-break-after: always; }
-}
-@media (prefers-color-scheme: dark) {
-  body { background: #18181b; }
-  .bar { background: #18181b; color: #e4e4e7; border-color: rgba(255,255,255,.14); }
-  .bar a { color: #7cb7ff; }
-}
-</style>
-<div class="bar"><a href="index.html">&larr; architectural</a><b>Page 35</b><span class="muted">Architectural Pricing</span></div>
+<link rel="stylesheet" href="../assets/page.css">
+<div class="bar"><a href="index.html">&larr; architectural</a><b>Page 35</b><span class="muted">Architectural Pricing</span><span class="grow zoom"><button data-zoom="-0.1" title="Smaller">&minus;</button><output id="zoomLevel">100%</output><button data-zoom="0.1" title="Larger">+</button><button data-zoom="reset" title="Reset">&#8634;</button></span></div>
 <div class="page" style="width:612pt;height:792pt">
   <div class="f" style="left:41.40pt;top:52.68pt;width:525.00pt;height:24.00pt;background:rgb(63, 170, 184)"></div>
   <div class="f" style="left:41.40pt;top:303.12pt;width:525.00pt;height:24.00pt;background:rgb(63, 170, 184)"></div>
@@ -164,7 +124,6 @@ body {
   <div class="f" style="left:341.76pt;top:358.08pt;width:0.72pt;height:4.20pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:401.04pt;top:358.08pt;width:0.60pt;height:4.20pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:407.52pt;top:356.28pt;width:0.60pt;height:6.00pt;background:rgb(0, 0, 0)"></div>
-  <div class="f" style="left:411.24pt;top:359.88pt;width:1.92pt;height:0.60pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:463.92pt;top:356.28pt;width:0.60pt;height:6.00pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:465.84pt;top:358.08pt;width:0.72pt;height:4.20pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:491.88pt;top:358.08pt;width:0.60pt;height:4.20pt;background:rgb(0, 0, 0)"></div>
@@ -176,9 +135,7 @@ body {
   <div class="f" style="left:444.48pt;top:369.72pt;width:0.72pt;height:4.20pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:399.12pt;top:552.24pt;width:0.72pt;height:4.32pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:299.04pt;top:563.88pt;width:0.72pt;height:4.32pt;background:rgb(0, 0, 0)"></div>
-  <div class="f" style="left:318.84pt;top:565.68pt;width:1.92pt;height:0.60pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:407.88pt;top:563.88pt;width:0.60pt;height:4.32pt;background:rgb(0, 0, 0)"></div>
-  <div class="f" style="left:416.52pt;top:565.68pt;width:1.92pt;height:0.60pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:449.04pt;top:562.08pt;width:0.60pt;height:6.12pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:451.08pt;top:563.88pt;width:0.60pt;height:4.32pt;background:rgb(0, 0, 0)"></div>
   <div class="f" style="left:477.00pt;top:563.88pt;width:0.72pt;height:4.32pt;background:rgb(0, 0, 0)"></div>
@@ -375,142 +332,168 @@ body {
   <img class="a" src="img/p035_01.png" alt="" style="left:59.44pt;top:331.12pt;width:444.88pt;height:96.64pt">
   <img class="a" src="img/p035_02.png" alt="" style="left:75.76pt;top:537.04pt;width:413.68pt;height:97.60pt">
   <img class="a" src="img/p035_03.png" alt="" style="left:29.08pt;top:760.72pt;width:557.44pt;height:20.20pt">
-  <div class="t" style="left:0.48pt;top:0.48pt;width:474.00pt;height:36.84pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">Architectural Pricing</div>
-  <div class="t" style="left:474.48pt;top:0.48pt;width:137.52pt;height:36.84pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">TRIM</div>
-  <div class="t" style="left:41.40pt;top:52.68pt;width:525.00pt;height:24.00pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">Ridge/Hip Flash - Fixed</div>
-  <div class="t" style="left:41.40pt;top:303.12pt;width:525.00pt;height:24.00pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">Ridge Flash - Floating</div>
-  <div class="t" style="left:41.40pt;top:508.92pt;width:525.00pt;height:24.00pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">Ridge Flash For Vent</div>
-  <div class="t" style="left:41.40pt;top:175.08pt;width:254.88pt;height:19.92pt;font-size:8.37pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:296.04pt;top:175.08pt;width:270.24pt;height:19.92pt;font-size:8.37pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICED PER EACH</div>
-  <div class="t" style="left:41.40pt;top:195.00pt;width:45.00pt;height:23.88pt;font-size:9.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PART #</div>
-  <div class="t" style="left:86.40pt;top:195.00pt;width:54.00pt;height:23.88pt;font-size:9.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DIM &quot;A&quot;</div>
-  <div class="t" style="left:140.40pt;top:195.00pt;width:51.00pt;height:23.88pt;font-size:9.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">LENGTH</div>
-  <div class="t" style="left:191.40pt;top:195.00pt;width:51.00pt;height:23.88pt;font-size:10.03pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GIRTH</div>
-  <div class="t" style="left:242.40pt;top:195.00pt;width:54.00pt;height:23.88pt;font-size:6.53pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WEIGHT PER
+  <div class="t d" style="left:0.48pt;top:0.48pt;width:474.00pt;height:36.84pt;font-size:12.00pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">Architectural Pricing</div>
+  <div class="t d" style="left:474.48pt;top:0.48pt;width:137.52pt;height:36.84pt;font-size:12.00pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">TRIM</div>
+  <div class="t d" style="left:41.40pt;top:52.68pt;width:525.00pt;height:24.00pt;font-size:10.56pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">Ridge/Hip Flash - Fixed</div>
+  <div class="t d" style="left:41.40pt;top:303.12pt;width:525.00pt;height:24.00pt;font-size:10.56pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">Ridge Flash - Floating</div>
+  <div class="t d" style="left:41.40pt;top:508.92pt;width:525.00pt;height:24.00pt;font-size:10.56pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">Ridge Flash For Vent</div>
+  <div class="t" style="left:41.40pt;top:175.08pt;width:254.88pt;height:19.92pt;font-size:6.77pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:296.04pt;top:175.08pt;width:270.24pt;height:19.92pt;font-size:6.77pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICED PER EACH</div>
+  <div class="t" style="left:41.40pt;top:195.00pt;width:45.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PART #</div>
+  <div class="t" style="left:86.40pt;top:195.00pt;width:54.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DIM &quot;A&quot;</div>
+  <div class="t" style="left:140.40pt;top:195.00pt;width:51.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">LENGTH</div>
+  <div class="t" style="left:191.40pt;top:195.00pt;width:51.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GIRTH</div>
+  <div class="t" style="left:242.40pt;top:195.00pt;width:54.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WEIGHT PER
 EACH</div>
-  <div class="t" style="left:296.40pt;top:195.00pt;width:66.00pt;height:23.88pt;font-size:7.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GALVALUME®
+  <div class="t" style="left:296.40pt;top:195.00pt;width:66.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GALVALUME®
 PLUS</div>
-  <div class="t" style="left:362.40pt;top:195.00pt;width:69.00pt;height:23.88pt;font-size:8.03pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
+  <div class="t" style="left:362.40pt;top:195.00pt;width:69.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
 200</div>
-  <div class="t" style="left:431.40pt;top:195.00pt;width:66.00pt;height:23.88pt;font-size:7.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
+  <div class="t" style="left:431.40pt;top:195.00pt;width:66.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
 300</div>
-  <div class="t" style="left:497.40pt;top:195.00pt;width:69.00pt;height:23.88pt;font-size:6.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
+  <div class="t" style="left:497.40pt;top:195.00pt;width:69.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
 300 METALLIC</div>
-  <div class="t" style="left:41.40pt;top:218.88pt;width:45.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">T-5071</div>
-  <div class="t" style="left:86.40pt;top:218.88pt;width:54.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">4x2&quot;</div>
-  <div class="t" style="left:140.40pt;top:218.88pt;width:51.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">10&#x27;-2&quot;</div>
-  <div class="t" style="left:191.40pt;top:218.88pt;width:51.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">10&quot;</div>
-  <div class="t" style="left:242.40pt;top:218.88pt;width:53.88pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">8.27#</div>
-  <div class="t" style="left:296.40pt;top:218.88pt;width:66.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:362.40pt;top:218.88pt;width:69.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:431.40pt;top:218.88pt;width:66.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:497.40pt;top:218.88pt;width:68.94pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:232.44pt;width:45.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">T-5072</div>
-  <div class="t" style="left:86.40pt;top:232.44pt;width:54.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">4y2&quot;</div>
-  <div class="t" style="left:140.40pt;top:232.44pt;width:51.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">20&#x27;-2&quot;</div>
-  <div class="t" style="left:191.40pt;top:232.44pt;width:51.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">10&quot;</div>
-  <div class="t" style="left:242.40pt;top:232.44pt;width:53.88pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">16.41#</div>
-  <div class="t" style="left:296.40pt;top:232.44pt;width:66.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:362.40pt;top:232.44pt;width:69.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:431.40pt;top:232.44pt;width:66.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:497.40pt;top:232.44pt;width:68.94pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:244.56pt;width:45.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">T-5073</div>
-  <div class="t" style="left:86.40pt;top:244.56pt;width:54.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">5%&quot;</div>
-  <div class="t" style="left:140.40pt;top:244.56pt;width:51.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">10&#x27;-2&quot;</div>
-  <div class="t" style="left:191.40pt;top:244.56pt;width:51.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
-  <div class="t" style="left:242.40pt;top:244.56pt;width:53.88pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">9.93#</div>
-  <div class="t" style="left:296.40pt;top:244.56pt;width:66.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:362.40pt;top:244.56pt;width:69.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:431.40pt;top:244.56pt;width:66.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:497.40pt;top:244.56pt;width:68.94pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:256.80pt;width:45.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">T-5074</div>
-  <div class="t" style="left:86.40pt;top:256.80pt;width:54.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">5y2&quot;</div>
-  <div class="t" style="left:140.40pt;top:256.80pt;width:51.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">20&#x27;-2&quot;</div>
-  <div class="t" style="left:191.40pt;top:256.80pt;width:51.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
-  <div class="t" style="left:242.40pt;top:256.80pt;width:53.88pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">19.69#</div>
-  <div class="t" style="left:296.40pt;top:256.80pt;width:66.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:362.40pt;top:256.80pt;width:69.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:431.40pt;top:256.80pt;width:66.00pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:497.40pt;top:256.80pt;width:68.94pt;height:12.12pt;font-size:5.09pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:268.92pt;width:45.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">T-5075</div>
-  <div class="t" style="left:86.40pt;top:268.92pt;width:54.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">6Yy2&quot;</div>
-  <div class="t" style="left:140.40pt;top:268.92pt;width:51.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">10&#x27;-2&quot;</div>
-  <div class="t" style="left:191.40pt;top:268.92pt;width:51.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">14&quot;</div>
-  <div class="t" style="left:242.40pt;top:268.92pt;width:53.88pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">11.58#</div>
-  <div class="t" style="left:296.40pt;top:268.92pt;width:66.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:362.40pt;top:268.92pt;width:69.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:431.40pt;top:268.92pt;width:66.00pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:497.40pt;top:268.92pt;width:68.94pt;height:12.24pt;font-size:5.14pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:281.16pt;width:45.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">T-5076</div>
-  <div class="t" style="left:86.40pt;top:281.16pt;width:54.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">6Y2&quot;</div>
-  <div class="t" style="left:140.40pt;top:281.16pt;width:51.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">20&#x27;-2&quot;</div>
-  <div class="t" style="left:191.40pt;top:281.16pt;width:51.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">14&quot;</div>
-  <div class="t" style="left:242.40pt;top:281.16pt;width:53.88pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">22.97#</div>
-  <div class="t" style="left:296.40pt;top:281.16pt;width:66.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:362.40pt;top:281.16pt;width:69.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:431.40pt;top:281.16pt;width:66.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:497.40pt;top:281.16pt;width:68.94pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:431.88pt;width:225.24pt;height:20.04pt;font-size:8.42pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:266.28pt;top:431.88pt;width:300.00pt;height:20.04pt;font-size:8.42pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICED PER EACH</div>
-  <div class="t" style="left:41.40pt;top:451.92pt;width:51.00pt;height:23.88pt;font-size:9.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PART #</div>
-  <div class="t" style="left:92.40pt;top:451.92pt;width:57.00pt;height:23.88pt;font-size:10.03pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">LENGTH</div>
-  <div class="t" style="left:149.40pt;top:451.92pt;width:60.00pt;height:23.88pt;font-size:10.03pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GIRTH</div>
-  <div class="t" style="left:209.40pt;top:451.92pt;width:57.00pt;height:23.88pt;font-size:6.53pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WEIGHT PER
+  <div class="t" style="left:41.40pt;top:218.88pt;width:45.00pt;height:13.56pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">T-5071</div>
+  <div class="t" style="left:86.40pt;top:218.88pt;width:54.00pt;height:13.56pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">4x2&quot;</div>
+  <div class="t" style="left:140.40pt;top:218.88pt;width:51.00pt;height:13.56pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">10&#x27;-2&quot;</div>
+  <div class="t" style="left:191.40pt;top:218.88pt;width:51.00pt;height:13.56pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">10&quot;</div>
+  <div class="t" style="left:242.40pt;top:218.88pt;width:53.88pt;height:13.56pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">8.27#</div>
+  <div class="t" style="left:296.40pt;top:218.88pt;width:66.00pt;height:13.56pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:362.40pt;top:218.88pt;width:69.00pt;height:13.56pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:431.40pt;top:218.88pt;width:66.00pt;height:13.56pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:497.40pt;top:218.88pt;width:68.94pt;height:13.56pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:232.44pt;width:45.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">T-5072</div>
+  <div class="t" style="left:86.40pt;top:232.44pt;width:54.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">4y2&quot;</div>
+  <div class="t" style="left:140.40pt;top:232.44pt;width:51.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">20&#x27;-2&quot;</div>
+  <div class="t" style="left:191.40pt;top:232.44pt;width:51.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">10&quot;</div>
+  <div class="t" style="left:242.40pt;top:232.44pt;width:53.88pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">16.41#</div>
+  <div class="t" style="left:296.40pt;top:232.44pt;width:66.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:362.40pt;top:232.44pt;width:69.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:431.40pt;top:232.44pt;width:66.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:497.40pt;top:232.44pt;width:68.94pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:244.56pt;width:45.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">T-5073</div>
+  <div class="t" style="left:86.40pt;top:244.56pt;width:54.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">5%&quot;</div>
+  <div class="t" style="left:140.40pt;top:244.56pt;width:51.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">10&#x27;-2&quot;</div>
+  <div class="t" style="left:191.40pt;top:244.56pt;width:51.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
+  <div class="t" style="left:242.40pt;top:244.56pt;width:53.88pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">9.93#</div>
+  <div class="t" style="left:296.40pt;top:244.56pt;width:66.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:362.40pt;top:244.56pt;width:69.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:431.40pt;top:244.56pt;width:66.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:497.40pt;top:244.56pt;width:68.94pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:256.80pt;width:45.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">T-5074</div>
+  <div class="t" style="left:86.40pt;top:256.80pt;width:54.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">5y2&quot;</div>
+  <div class="t" style="left:140.40pt;top:256.80pt;width:51.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">20&#x27;-2&quot;</div>
+  <div class="t" style="left:191.40pt;top:256.80pt;width:51.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">12&quot;</div>
+  <div class="t" style="left:242.40pt;top:256.80pt;width:53.88pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">19.69#</div>
+  <div class="t" style="left:296.40pt;top:256.80pt;width:66.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:362.40pt;top:256.80pt;width:69.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:431.40pt;top:256.80pt;width:66.00pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:497.40pt;top:256.80pt;width:68.94pt;height:12.12pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:268.92pt;width:45.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">T-5075</div>
+  <div class="t" style="left:86.40pt;top:268.92pt;width:54.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">6Yy2&quot;</div>
+  <div class="t" style="left:140.40pt;top:268.92pt;width:51.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">10&#x27;-2&quot;</div>
+  <div class="t" style="left:191.40pt;top:268.92pt;width:51.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">14&quot;</div>
+  <div class="t" style="left:242.40pt;top:268.92pt;width:53.88pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">11.58#</div>
+  <div class="t" style="left:296.40pt;top:268.92pt;width:66.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:362.40pt;top:268.92pt;width:69.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:431.40pt;top:268.92pt;width:66.00pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:497.40pt;top:268.92pt;width:68.94pt;height:12.24pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:281.16pt;width:45.00pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">T-5076</div>
+  <div class="t" style="left:86.40pt;top:281.16pt;width:54.00pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">6Y2&quot;</div>
+  <div class="t" style="left:140.40pt;top:281.16pt;width:51.00pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">20&#x27;-2&quot;</div>
+  <div class="t" style="left:191.40pt;top:281.16pt;width:51.00pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">14&quot;</div>
+  <div class="t" style="left:242.40pt;top:281.16pt;width:53.88pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">22.97#</div>
+  <div class="t" style="left:296.40pt;top:281.16pt;width:66.00pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:362.40pt;top:281.16pt;width:69.00pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:431.40pt;top:281.16pt;width:66.00pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:497.40pt;top:281.16pt;width:68.94pt;height:14.64pt;font-size:7.76pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:431.88pt;width:225.24pt;height:20.04pt;font-size:6.81pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:266.28pt;top:431.88pt;width:300.00pt;height:20.04pt;font-size:6.81pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICED PER EACH</div>
+  <div class="t" style="left:41.40pt;top:451.92pt;width:51.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PART #</div>
+  <div class="t" style="left:92.40pt;top:451.92pt;width:57.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">LENGTH</div>
+  <div class="t" style="left:149.40pt;top:451.92pt;width:60.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GIRTH</div>
+  <div class="t" style="left:209.40pt;top:451.92pt;width:57.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WEIGHT PER
 EACH</div>
-  <div class="t" style="left:266.40pt;top:451.92pt;width:75.00pt;height:23.88pt;font-size:8.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GALVALUME®
+  <div class="t" style="left:266.40pt;top:451.92pt;width:75.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GALVALUME®
 PLUS</div>
-  <div class="t" style="left:341.40pt;top:451.92pt;width:75.00pt;height:23.88pt;font-size:8.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
+  <div class="t" style="left:341.40pt;top:451.92pt;width:75.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
 200</div>
-  <div class="t" style="left:416.40pt;top:451.92pt;width:75.00pt;height:23.88pt;font-size:8.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
+  <div class="t" style="left:416.40pt;top:451.92pt;width:75.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
 300</div>
-  <div class="t" style="left:491.40pt;top:451.92pt;width:75.00pt;height:23.88pt;font-size:7.28pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
+  <div class="t" style="left:491.40pt;top:451.92pt;width:75.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
 300 METALLIC</div>
-  <div class="t" style="left:41.40pt;top:475.80pt;width:51.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">T-5087</div>
-  <div class="t" style="left:92.40pt;top:475.80pt;width:57.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">10&#x27;-2&quot;</div>
-  <div class="t" style="left:149.40pt;top:475.80pt;width:60.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">16%&quot;</div>
-  <div class="t" style="left:209.40pt;top:475.80pt;width:57.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">13.65#</div>
-  <div class="t" style="left:266.49pt;top:475.80pt;width:74.91pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:341.40pt;top:475.80pt;width:75.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:416.40pt;top:475.80pt;width:75.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:491.40pt;top:475.80pt;width:75.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:489.36pt;width:51.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">T-5088</div>
-  <div class="t" style="left:92.40pt;top:489.36pt;width:57.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">20&#x27;-2&quot;</div>
-  <div class="t" style="left:149.40pt;top:489.36pt;width:60.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">16%&quot;</div>
-  <div class="t" style="left:209.40pt;top:489.36pt;width:57.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">27.08#</div>
-  <div class="t" style="left:266.49pt;top:489.36pt;width:74.91pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:341.40pt;top:489.36pt;width:75.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:416.40pt;top:489.36pt;width:75.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:491.40pt;top:489.36pt;width:75.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:638.52pt;width:225.24pt;height:19.44pt;font-size:8.16pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:266.28pt;top:638.52pt;width:300.00pt;height:19.44pt;font-size:8.16pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICED PER EACH</div>
-  <div class="t" style="left:41.40pt;top:657.96pt;width:51.00pt;height:23.88pt;font-size:9.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PART #</div>
-  <div class="t" style="left:92.40pt;top:657.96pt;width:57.00pt;height:23.88pt;font-size:10.03pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">LENGTH</div>
-  <div class="t" style="left:149.40pt;top:657.96pt;width:60.00pt;height:23.88pt;font-size:10.03pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GIRTH</div>
-  <div class="t" style="left:209.40pt;top:657.96pt;width:57.00pt;height:23.88pt;font-size:6.53pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WEIGHT PER
+  <div class="t" style="left:41.40pt;top:475.80pt;width:51.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">T-5087</div>
+  <div class="t" style="left:92.40pt;top:475.80pt;width:57.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">10&#x27;-2&quot;</div>
+  <div class="t" style="left:149.40pt;top:475.80pt;width:60.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">16%&quot;</div>
+  <div class="t" style="left:209.40pt;top:475.80pt;width:57.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">13.65#</div>
+  <div class="t" style="left:266.49pt;top:475.80pt;width:74.91pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:341.40pt;top:475.80pt;width:75.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:416.40pt;top:475.80pt;width:75.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:491.40pt;top:475.80pt;width:75.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:489.36pt;width:51.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">T-5088</div>
+  <div class="t" style="left:92.40pt;top:489.36pt;width:57.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">20&#x27;-2&quot;</div>
+  <div class="t" style="left:149.40pt;top:489.36pt;width:60.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">16%&quot;</div>
+  <div class="t" style="left:209.40pt;top:489.36pt;width:57.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">27.08#</div>
+  <div class="t" style="left:266.49pt;top:489.36pt;width:74.91pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:341.40pt;top:489.36pt;width:75.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:416.40pt;top:489.36pt;width:75.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:491.40pt;top:489.36pt;width:75.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:638.52pt;width:225.24pt;height:19.44pt;font-size:6.61pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:266.28pt;top:638.52pt;width:300.00pt;height:19.44pt;font-size:6.61pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICED PER EACH</div>
+  <div class="t" style="left:41.40pt;top:657.96pt;width:51.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PART #</div>
+  <div class="t" style="left:92.40pt;top:657.96pt;width:57.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">LENGTH</div>
+  <div class="t" style="left:149.40pt;top:657.96pt;width:60.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GIRTH</div>
+  <div class="t" style="left:209.40pt;top:657.96pt;width:57.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">WEIGHT PER
 EACH</div>
-  <div class="t" style="left:266.40pt;top:657.96pt;width:75.00pt;height:23.88pt;font-size:8.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GALVALUME®
+  <div class="t" style="left:266.40pt;top:657.96pt;width:75.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">GALVALUME®
 PLUS</div>
-  <div class="t" style="left:341.40pt;top:657.96pt;width:75.00pt;height:23.88pt;font-size:8.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
+  <div class="t" style="left:341.40pt;top:657.96pt;width:75.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
 200</div>
-  <div class="t" style="left:416.40pt;top:657.96pt;width:75.00pt;height:23.88pt;font-size:8.78pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
+  <div class="t" style="left:416.40pt;top:657.96pt;width:75.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
 300</div>
-  <div class="t" style="left:491.40pt;top:657.96pt;width:75.00pt;height:23.88pt;font-size:7.28pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
+  <div class="t" style="left:491.40pt;top:657.96pt;width:75.00pt;height:23.88pt;font-size:6.62pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SIGNATURE®
 300 METALLIC</div>
-  <div class="t" style="left:41.40pt;top:681.84pt;width:51.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">T-5089</div>
-  <div class="t" style="left:92.40pt;top:681.84pt;width:57.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">10&#x27;-2&quot;</div>
-  <div class="t" style="left:149.40pt;top:681.84pt;width:60.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">21%&quot;</div>
-  <div class="t" style="left:209.40pt;top:681.84pt;width:57.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">17.79#</div>
-  <div class="t" style="left:266.49pt;top:681.84pt;width:74.91pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:341.40pt;top:681.84pt;width:75.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:416.40pt;top:681.84pt;width:75.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:491.40pt;top:681.84pt;width:75.00pt;height:13.56pt;font-size:5.70pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:695.40pt;width:51.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">T-5090</div>
-  <div class="t" style="left:92.40pt;top:695.40pt;width:57.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">20&#x27;-2&quot;</div>
-  <div class="t" style="left:149.40pt;top:695.40pt;width:60.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">21%&quot;</div>
-  <div class="t" style="left:209.40pt;top:695.40pt;width:57.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">35.28#</div>
-  <div class="t" style="left:266.49pt;top:695.40pt;width:74.91pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:341.40pt;top:695.40pt;width:75.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:416.40pt;top:695.40pt;width:75.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:491.40pt;top:695.40pt;width:75.00pt;height:14.64pt;font-size:6.15pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:681.84pt;width:51.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">T-5089</div>
+  <div class="t" style="left:92.40pt;top:681.84pt;width:57.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">10&#x27;-2&quot;</div>
+  <div class="t" style="left:149.40pt;top:681.84pt;width:60.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">21%&quot;</div>
+  <div class="t" style="left:209.40pt;top:681.84pt;width:57.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">17.79#</div>
+  <div class="t" style="left:266.49pt;top:681.84pt;width:74.91pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:341.40pt;top:681.84pt;width:75.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:416.40pt;top:681.84pt;width:75.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:491.40pt;top:681.84pt;width:75.00pt;height:13.56pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:695.40pt;width:51.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">T-5090</div>
+  <div class="t" style="left:92.40pt;top:695.40pt;width:57.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">20&#x27;-2&quot;</div>
+  <div class="t" style="left:149.40pt;top:695.40pt;width:60.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">21%&quot;</div>
+  <div class="t" style="left:209.40pt;top:695.40pt;width:57.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">35.28#</div>
+  <div class="t" style="left:266.49pt;top:695.40pt;width:74.91pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:341.40pt;top:695.40pt;width:75.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:416.40pt;top:695.40pt;width:75.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:491.40pt;top:695.40pt;width:75.00pt;height:14.64pt;font-size:8.68pt;color:#231f20;justify-content:center;text-align:center">✓</div>
 </div>
 
+<script>
+(function () {
+  var root = document.documentElement, key = 'catalog-zoom';
+  var out = document.getElementById('zoomLevel');
+  function show(z) {
+    root.style.setProperty('--zoom', z);
+    if (out) out.textContent = Math.round(z * 100) + '%';
+  }
+  var saved = 1;
+  try { saved = parseFloat(localStorage.getItem(key)) || 1; } catch (e) {}
+  show(saved);
+  function step(by) {
+    var z = Math.min(2.5, Math.max(0.5,
+      Math.round((parseFloat(root.style.getPropertyValue('--zoom')) + by) * 20) / 20));
+    show(z);
+    try { localStorage.setItem(key, z); } catch (e) {}
+  }
+  document.querySelectorAll('[data-zoom]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var v = b.getAttribute('data-zoom');
+      if (v === 'reset') { show(1); try { localStorage.setItem(key, 1); } catch (e) {} }
+      else step(parseFloat(v));
+    });
+  });
+})();
+</script>

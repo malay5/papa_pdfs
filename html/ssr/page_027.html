@@ -2,48 +2,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>ssr p27</title>
-<style>
-:root { --paper: #fff; --edge: rgba(0,0,0,.16); }
-* { box-sizing: border-box; }
-body {
-  margin: 0; padding: 24pt 0; background: #f4f4f5;
-  font-family: Montserrat, "Century Gothic", "Futura", "Avenir Next",
-               "Segoe UI", system-ui, sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
-.page {
-  position: relative; margin: 0 auto 24pt; background: var(--paper);
-  box-shadow: 0 1pt 3pt rgba(0,0,0,.18), 0 8pt 24pt rgba(0,0,0,.10);
-  overflow: hidden;
-}
-.f { position: absolute; }
-.a { position: absolute; image-rendering: auto; }
-.t {
-  position: absolute; display: flex; align-items: center;
-  padding: 0 1.5pt; line-height: 1.15; white-space: pre-wrap;
-  overflow: hidden; word-break: break-word;
-}
-.bar {
-  position: sticky; top: 0; z-index: 5; background: #fff;
-  border-bottom: 1px solid var(--edge); padding: 10pt 16pt;
-  display: flex; gap: 16pt; align-items: baseline; flex-wrap: wrap;
-  font-size: 11pt;
-}
-.bar a { color: #0b62c4; text-decoration: none; }
-.bar a:hover { text-decoration: underline; }
-.bar .muted { color: #6b7280; font-size: 10pt; }
-@media print {
-  body { background: #fff; padding: 0; }
-  .bar { display: none; }
-  .page { margin: 0; box-shadow: none; page-break-after: always; }
-}
-@media (prefers-color-scheme: dark) {
-  body { background: #18181b; }
-  .bar { background: #18181b; color: #e4e4e7; border-color: rgba(255,255,255,.14); }
-  .bar a { color: #7cb7ff; }
-}
-</style>
-<div class="bar"><a href="index.html">&larr; ssr</a><b>Page 27</b><span class="muted">SSR Systems Pricing</span></div>
+<link rel="stylesheet" href="../assets/page.css">
+<div class="bar"><a href="index.html">&larr; ssr</a><b>Page 27</b><span class="muted">SSR Systems Pricing</span><span class="grow zoom"><button data-zoom="-0.1" title="Smaller">&minus;</button><output id="zoomLevel">100%</output><button data-zoom="0.1" title="Larger">+</button><button data-zoom="reset" title="Reset">&#8634;</button></span></div>
 <div class="page" style="width:612pt;height:792pt">
   <div class="f" style="left:41.40pt;top:52.68pt;width:525.00pt;height:24.00pt;background:rgb(105, 168, 100)"></div>
   <div class="f" style="left:41.40pt;top:258.00pt;width:525.00pt;height:24.00pt;background:rgb(105, 168, 100)"></div>
@@ -55,9 +15,7 @@ body {
   <div class="f" style="left:482.40pt;top:221.28pt;width:84.00pt;height:29.04pt;background:rgb(234, 234, 234)"></div>
   <div class="f" style="left:54.60pt;top:235.56pt;width:2.40pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:321.48pt;top:235.56pt;width:2.40pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:397.08pt;top:232.20pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:397.20pt;top:234.00pt;width:0.36pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:447.84pt;top:237.72pt;width:0.60pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:41.40pt;top:390.00pt;width:525.00pt;height:18.36pt;background:rgb(179, 181, 183)"></div>
   <div class="f" style="left:98.40pt;top:408.36pt;width:63.00pt;height:28.92pt;background:rgb(234, 234, 234)"></div>
   <div class="f" style="left:227.40pt;top:408.36pt;width:63.00pt;height:28.92pt;background:rgb(234, 234, 234)"></div>
@@ -65,9 +23,7 @@ body {
   <div class="f" style="left:482.40pt;top:408.36pt;width:84.00pt;height:28.92pt;background:rgb(234, 234, 234)"></div>
   <div class="f" style="left:54.60pt;top:422.64pt;width:2.40pt;height:0.48pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:321.48pt;top:422.64pt;width:2.40pt;height:0.48pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:397.08pt;top:419.16pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:397.20pt;top:420.96pt;width:0.36pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:447.84pt;top:424.80pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:41.40pt;top:564.96pt;width:525.00pt;height:18.36pt;background:rgb(179, 181, 183)"></div>
   <div class="f" style="left:98.40pt;top:583.32pt;width:63.00pt;height:16.92pt;background:rgb(234, 234, 234)"></div>
   <div class="f" style="left:227.40pt;top:583.32pt;width:63.00pt;height:16.92pt;background:rgb(234, 234, 234)"></div>
@@ -75,105 +31,68 @@ body {
   <div class="f" style="left:482.40pt;top:583.32pt;width:84.00pt;height:16.92pt;background:rgb(234, 234, 234)"></div>
   <div class="f" style="left:54.60pt;top:591.60pt;width:2.40pt;height:0.48pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:321.48pt;top:591.60pt;width:2.40pt;height:0.48pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:397.08pt;top:588.12pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:397.20pt;top:589.92pt;width:0.36pt;height:4.56pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:447.48pt;top:593.76pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:0.48pt;top:0.48pt;width:474.00pt;height:37.32pt;background:rgb(63, 63, 63)"></div>
   <div class="f" style="left:474.48pt;top:0.48pt;width:137.52pt;height:37.32pt;background:rgb(105, 168, 100)"></div>
-  <div class="f" style="left:95.88pt;top:759.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:153.72pt;top:759.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:153.72pt;top:761.28pt;width:0.60pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:188.16pt;top:759.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:188.16pt;top:761.28pt;width:0.60pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:197.88pt;top:764.16pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:113.64pt;top:769.08pt;width:1.08pt;height:4.80pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:115.80pt;top:772.80pt;width:1.08pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:176.04pt;top:768.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:176.04pt;top:770.28pt;width:0.60pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:205.56pt;top:768.96pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:205.56pt;top:770.28pt;width:0.48pt;height:3.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:216.12pt;top:773.16pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:454.92pt;top:766.92pt;width:0.84pt;height:6.96pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:267.00pt;top:191.04pt;width:0.36pt;height:5.64pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:279.72pt;top:191.04pt;width:0.36pt;height:5.64pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:499.56pt;top:191.04pt;width:0.36pt;height:5.64pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.92pt;top:291.48pt;width:0.84pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.92pt;top:295.32pt;width:0.84pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:300.00pt;top:301.68pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:300.00pt;top:303.24pt;width:0.60pt;height:4.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:312.72pt;top:301.80pt;width:0.72pt;height:5.52pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:328.80pt;top:301.56pt;width:0.60pt;height:5.76pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:360.96pt;top:304.68pt;width:2.16pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:432.00pt;top:301.56pt;width:0.60pt;height:5.76pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:438.00pt;top:306.48pt;width:0.72pt;height:0.84pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:267.00pt;top:377.52pt;width:0.36pt;height:5.64pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:279.72pt;top:377.52pt;width:0.36pt;height:5.64pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:499.56pt;top:377.52pt;width:0.36pt;height:5.64pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:267.00pt;top:553.08pt;width:0.36pt;height:5.52pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:279.72pt;top:553.08pt;width:0.36pt;height:5.52pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:499.56pt;top:553.08pt;width:0.36pt;height:5.52pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.92pt;top:87.96pt;width:0.84pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.92pt;top:91.92pt;width:0.84pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:303.72pt;top:98.52pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:303.72pt;top:100.08pt;width:0.60pt;height:4.20pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:355.68pt;top:98.52pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:355.68pt;top:100.08pt;width:0.60pt;height:4.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:357.72pt;top:98.40pt;width:0.72pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:359.88pt;top:98.52pt;width:0.60pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:359.88pt;top:100.08pt;width:0.60pt;height:4.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:378.36pt;top:98.40pt;width:0.72pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:391.20pt;top:101.52pt;width:2.16pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:459.36pt;top:98.40pt;width:0.60pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:497.40pt;top:98.40pt;width:0.72pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:499.56pt;top:98.52pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:499.56pt;top:100.08pt;width:0.60pt;height:4.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:279.48pt;top:111.84pt;width:2.16pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:333.36pt;top:108.84pt;width:1.32pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:333.36pt;top:110.28pt;width:1.20pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:303.72pt;top:118.92pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:303.72pt;top:120.48pt;width:0.60pt;height:4.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:326.04pt;top:121.92pt;width:2.28pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:368.16pt;top:121.92pt;width:2.16pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:398.88pt;top:118.80pt;width:0.60pt;height:5.76pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:400.92pt;top:118.80pt;width:0.60pt;height:5.76pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:422.40pt;top:118.92pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:422.40pt;top:120.48pt;width:0.60pt;height:4.08pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.92pt;top:142.20pt;width:0.84pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.92pt;top:146.16pt;width:0.84pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:303.72pt;top:152.52pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:303.72pt;top:154.08pt;width:0.60pt;height:4.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:379.80pt;top:152.40pt;width:0.60pt;height:5.76pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:417.96pt;top:152.40pt;width:0.60pt;height:5.76pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:420.00pt;top:152.52pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:420.12pt;top:154.08pt;width:0.60pt;height:4.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:472.92pt;top:155.52pt;width:2.16pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:531.12pt;top:152.40pt;width:1.20pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:531.12pt;top:153.96pt;width:1.20pt;height:4.20pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:303.72pt;top:162.48pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:303.72pt;top:164.04pt;width:0.60pt;height:4.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:326.04pt;top:165.48pt;width:2.28pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:352.32pt;top:162.36pt;width:0.60pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:354.36pt;top:162.36pt;width:0.60pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:375.84pt;top:162.48pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:375.84pt;top:164.04pt;width:0.60pt;height:4.20pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.92pt;top:485.88pt;width:0.84pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:292.92pt;top:489.84pt;width:0.84pt;height:0.96pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:303.72pt;top:496.08pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:303.72pt;top:497.64pt;width:0.60pt;height:4.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:379.80pt;top:495.96pt;width:0.60pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:417.96pt;top:495.96pt;width:0.60pt;height:5.88pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:420.00pt;top:496.08pt;width:0.72pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:420.12pt;top:497.64pt;width:0.60pt;height:4.20pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:472.92pt;top:499.08pt;width:2.16pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:529.20pt;top:495.96pt;width:1.20pt;height:1.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:529.20pt;top:497.52pt;width:1.20pt;height:4.32pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:303.72pt;top:506.16pt;width:0.72pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:303.72pt;top:507.72pt;width:0.60pt;height:4.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:326.04pt;top:509.04pt;width:2.28pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:367.32pt;top:509.04pt;width:2.28pt;height:0.72pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:397.80pt;top:506.04pt;width:0.60pt;height:5.76pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:399.96pt;top:506.04pt;width:0.60pt;height:5.76pt;background:rgb(34, 31, 33)"></div>
-  <div class="f" style="left:421.44pt;top:506.16pt;width:0.60pt;height:0.60pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:421.44pt;top:507.72pt;width:0.60pt;height:4.08pt;background:rgb(34, 31, 33)"></div>
   <div class="f" style="left:483.12pt;top:183.24pt;width:83.16pt;height:0.60pt;background:rgb(154, 154, 154)"></div>
   <div class="f" style="left:41.40pt;top:183.24pt;width:441.96pt;height:0.60pt;background:rgb(154, 154, 154)"></div>
@@ -241,45 +160,71 @@ body {
   <img class="a" src="img/p027_01.png" alt="" style="left:59.44pt;top:286.00pt;width:379.48pt;height:79.84pt">
   <img class="a" src="img/p027_02.png" alt="" style="left:59.44pt;top:472.72pt;width:486.76pt;height:68.80pt">
   <img class="a" src="img/p027_03.png" alt="" style="left:29.08pt;top:757.84pt;width:557.32pt;height:19.36pt">
-  <div class="t" style="left:0.48pt;top:0.48pt;width:474.00pt;height:37.32pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">SSR Systems Pricing</div>
-  <div class="t" style="left:474.48pt;top:0.48pt;width:137.52pt;height:37.32pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">ACCESSORIES</div>
-  <div class="t" style="left:41.40pt;top:52.68pt;width:525.00pt;height:24.00pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">Valley Support Plate</div>
-  <div class="t" style="left:41.40pt;top:258.00pt;width:525.00pt;height:24.00pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">Valley Support Plate</div>
-  <div class="t" style="left:41.40pt;top:444.60pt;width:525.00pt;height:24.00pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center;font-weight:600;letter-spacing:.01em">Valley Support Plate</div>
-  <div class="t" style="left:41.40pt;top:183.24pt;width:441.96pt;height:19.68pt;font-size:8.27pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:483.12pt;top:183.24pt;width:83.16pt;height:19.68pt;font-size:8.27pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
-  <div class="t" style="left:41.40pt;top:202.92pt;width:525.00pt;height:18.36pt;font-size:7.71pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:41.40pt;top:221.28pt;width:57.00pt;height:29.04pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">P-100</div>
-  <div class="t" style="left:98.40pt;top:221.28pt;width:63.00pt;height:29.04pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">UD &amp; DL
+  <div class="t d" style="left:0.48pt;top:0.48pt;width:474.00pt;height:37.32pt;font-size:12.00pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">SSR Systems Pricing</div>
+  <div class="t d" style="left:474.48pt;top:0.48pt;width:137.52pt;height:37.32pt;font-size:12.00pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">ACCESSORIES</div>
+  <div class="t d" style="left:41.40pt;top:52.68pt;width:525.00pt;height:24.00pt;font-size:10.56pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">Valley Support Plate</div>
+  <div class="t d" style="left:41.40pt;top:258.00pt;width:525.00pt;height:24.00pt;font-size:10.56pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">Valley Support Plate</div>
+  <div class="t d" style="left:41.40pt;top:444.60pt;width:525.00pt;height:24.00pt;font-size:10.56pt;color:#fff;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">Valley Support Plate</div>
+  <div class="t" style="left:41.40pt;top:183.24pt;width:441.96pt;height:19.68pt;font-size:6.24pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:483.12pt;top:183.24pt;width:83.16pt;height:19.68pt;font-size:6.69pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
+  <div class="t" style="left:41.40pt;top:202.92pt;width:525.00pt;height:18.36pt;font-size:6.24pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:41.40pt;top:221.28pt;width:57.00pt;height:29.04pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">P-100</div>
+  <div class="t" style="left:98.40pt;top:221.28pt;width:63.00pt;height:29.04pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">UD &amp; DL
 BL &amp; SLK</div>
-  <div class="t" style="left:161.40pt;top:221.28pt;width:66.00pt;height:29.04pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">14</div>
-  <div class="t" style="left:227.40pt;top:221.28pt;width:63.00pt;height:29.04pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">36&quot;</div>
-  <div class="t" style="left:290.40pt;top:221.28pt;width:63.00pt;height:29.04pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center">10&#x27;-0&quot;</div>
-  <div class="t" style="left:353.40pt;top:221.28pt;width:66.00pt;height:29.04pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">Red Oxide</div>
-  <div class="t" style="left:419.40pt;top:221.28pt;width:63.66pt;height:29.04pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">84.47#</div>
-  <div class="t" style="left:482.40pt;top:221.28pt;width:84.00pt;height:29.04pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:369.84pt;width:441.96pt;height:20.16pt;font-size:8.47pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:483.12pt;top:369.84pt;width:83.16pt;height:20.16pt;font-size:8.47pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
-  <div class="t" style="left:41.40pt;top:390.00pt;width:525.00pt;height:18.36pt;font-size:7.71pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:41.40pt;top:408.36pt;width:57.00pt;height:28.92pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">P-101</div>
-  <div class="t" style="left:98.40pt;top:408.36pt;width:63.00pt;height:28.92pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">UD &amp; DL.
+  <div class="t" style="left:161.40pt;top:221.28pt;width:66.00pt;height:29.04pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">14</div>
+  <div class="t" style="left:227.40pt;top:221.28pt;width:63.00pt;height:29.04pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">36&quot;</div>
+  <div class="t" style="left:290.40pt;top:221.28pt;width:63.00pt;height:29.04pt;font-size:11.50pt;color:#fff;justify-content:center;text-align:center">10&#x27;-0&quot;</div>
+  <div class="t" style="left:353.40pt;top:221.28pt;width:66.00pt;height:29.04pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">Red Oxide</div>
+  <div class="t" style="left:419.40pt;top:221.28pt;width:63.66pt;height:29.04pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">84.47#</div>
+  <div class="t" style="left:482.40pt;top:221.28pt;width:84.00pt;height:29.04pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:369.84pt;width:441.96pt;height:20.16pt;font-size:6.24pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:483.12pt;top:369.84pt;width:83.16pt;height:20.16pt;font-size:6.85pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
+  <div class="t" style="left:41.40pt;top:390.00pt;width:525.00pt;height:18.36pt;font-size:6.24pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:41.40pt;top:408.36pt;width:57.00pt;height:28.92pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">P-101</div>
+  <div class="t" style="left:98.40pt;top:408.36pt;width:63.00pt;height:28.92pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">UD &amp; DL.
 BL &amp;SLK</div>
-  <div class="t" style="left:161.40pt;top:408.36pt;width:66.00pt;height:28.92pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">14</div>
-  <div class="t" style="left:227.40pt;top:408.36pt;width:63.00pt;height:28.92pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">36&quot;</div>
-  <div class="t" style="left:290.40pt;top:408.36pt;width:63.00pt;height:28.92pt;font-size:11.00pt;color:#fff;justify-content:center;text-align:center">10&#x27;-0&quot;</div>
-  <div class="t" style="left:353.40pt;top:408.36pt;width:66.00pt;height:28.92pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">Red Oxide</div>
-  <div class="t" style="left:419.40pt;top:408.36pt;width:63.66pt;height:28.92pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">84.47#</div>
-  <div class="t" style="left:482.40pt;top:408.36pt;width:84.00pt;height:28.92pt;font-size:11.00pt;color:#231f20;justify-content:center;text-align:center">✓</div>
-  <div class="t" style="left:41.40pt;top:545.28pt;width:441.96pt;height:19.68pt;font-size:8.27pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:483.12pt;top:545.28pt;width:83.16pt;height:19.68pt;font-size:8.27pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
-  <div class="t" style="left:41.40pt;top:564.96pt;width:525.00pt;height:18.36pt;font-size:7.71pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
-  <div class="t" style="left:41.40pt;top:583.32pt;width:57.00pt;height:16.92pt;font-size:7.11pt;color:#231f20;justify-content:center;text-align:center">P-105</div>
-  <div class="t" style="left:98.40pt;top:583.32pt;width:63.00pt;height:16.92pt;font-size:7.11pt;color:#231f20;justify-content:center;text-align:center">BL &amp; SLK</div>
-  <div class="t" style="left:161.40pt;top:583.32pt;width:66.00pt;height:16.92pt;font-size:7.11pt;color:#231f20;justify-content:center;text-align:center">14</div>
-  <div class="t" style="left:227.40pt;top:583.32pt;width:63.00pt;height:16.92pt;font-size:7.11pt;color:#231f20;justify-content:center;text-align:center">36&quot;</div>
-  <div class="t" style="left:290.40pt;top:583.32pt;width:63.00pt;height:16.92pt;font-size:7.11pt;color:#fff;justify-content:center;text-align:center">10&#x27;-0&quot;</div>
-  <div class="t" style="left:353.40pt;top:583.32pt;width:66.00pt;height:16.92pt;font-size:7.11pt;color:#231f20;justify-content:center;text-align:center">Red Oxide</div>
-  <div class="t" style="left:419.40pt;top:583.32pt;width:63.66pt;height:16.92pt;font-size:7.11pt;color:#231f20;justify-content:center;text-align:center">70.39#</div>
-  <div class="t" style="left:482.40pt;top:583.32pt;width:84.00pt;height:16.92pt;font-size:7.11pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:161.40pt;top:408.36pt;width:66.00pt;height:28.92pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">14</div>
+  <div class="t" style="left:227.40pt;top:408.36pt;width:63.00pt;height:28.92pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">36&quot;</div>
+  <div class="t" style="left:290.40pt;top:408.36pt;width:63.00pt;height:28.92pt;font-size:11.50pt;color:#fff;justify-content:center;text-align:center">10&#x27;-0&quot;</div>
+  <div class="t" style="left:353.40pt;top:408.36pt;width:66.00pt;height:28.92pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">Red Oxide</div>
+  <div class="t" style="left:419.40pt;top:408.36pt;width:63.66pt;height:28.92pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">84.47#</div>
+  <div class="t" style="left:482.40pt;top:408.36pt;width:84.00pt;height:28.92pt;font-size:11.50pt;color:#231f20;justify-content:center;text-align:center">✓</div>
+  <div class="t" style="left:41.40pt;top:545.28pt;width:441.96pt;height:19.68pt;font-size:6.24pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:483.12pt;top:545.28pt;width:83.16pt;height:19.68pt;font-size:6.69pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">PRICE</div>
+  <div class="t" style="left:41.40pt;top:564.96pt;width:525.00pt;height:18.36pt;font-size:6.24pt;color:#231f20;justify-content:center;text-align:center;font-weight:700;letter-spacing:.01em">DESCRIPTION</div>
+  <div class="t" style="left:41.40pt;top:583.32pt;width:57.00pt;height:16.92pt;font-size:10.83pt;color:#231f20;justify-content:center;text-align:center">P-105</div>
+  <div class="t" style="left:98.40pt;top:583.32pt;width:63.00pt;height:16.92pt;font-size:10.83pt;color:#231f20;justify-content:center;text-align:center">BL &amp; SLK</div>
+  <div class="t" style="left:161.40pt;top:583.32pt;width:66.00pt;height:16.92pt;font-size:10.83pt;color:#231f20;justify-content:center;text-align:center">14</div>
+  <div class="t" style="left:227.40pt;top:583.32pt;width:63.00pt;height:16.92pt;font-size:10.83pt;color:#231f20;justify-content:center;text-align:center">36&quot;</div>
+  <div class="t" style="left:290.40pt;top:583.32pt;width:63.00pt;height:16.92pt;font-size:10.83pt;color:#fff;justify-content:center;text-align:center">10&#x27;-0&quot;</div>
+  <div class="t" style="left:353.40pt;top:583.32pt;width:66.00pt;height:16.92pt;font-size:10.83pt;color:#231f20;justify-content:center;text-align:center">Red Oxide</div>
+  <div class="t" style="left:419.40pt;top:583.32pt;width:63.66pt;height:16.92pt;font-size:10.83pt;color:#231f20;justify-content:center;text-align:center">70.39#</div>
+  <div class="t" style="left:482.40pt;top:583.32pt;width:84.00pt;height:16.92pt;font-size:10.83pt;color:#231f20;justify-content:center;text-align:center">✓</div>
 </div>
 
+<script>
+(function () {
+  var root = document.documentElement, key = 'catalog-zoom';
+  var out = document.getElementById('zoomLevel');
+  function show(z) {
+    root.style.setProperty('--zoom', z);
+    if (out) out.textContent = Math.round(z * 100) + '%';
+  }
+  var saved = 1;
+  try { saved = parseFloat(localStorage.getItem(key)) || 1; } catch (e) {}
+  show(saved);
+  function step(by) {
+    var z = Math.min(2.5, Math.max(0.5,
+      Math.round((parseFloat(root.style.getPropertyValue('--zoom')) + by) * 20) / 20));
+    show(z);
+    try { localStorage.setItem(key, z); } catch (e) {}
+  }
+  document.querySelectorAll('[data-zoom]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var v = b.getAttribute('data-zoom');
+      if (v === 'reset') { show(1); try { localStorage.setItem(key, 1); } catch (e) {} }
+      else step(parseFloat(v));
+    });
+  });
+})();
+</script>
