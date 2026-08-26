@@ -1521,6 +1521,96 @@
    "column": "4",
    "from": "271",
    "to": "27.11"
+  },
+  {
+   "catalog": "ssr",
+   "page": 3,
+   "table": 0,
+   "row": 0,
+   "column": "column_1",
+   "from": "1FT.",
+   "to": "1 FT."
+  },
+  {
+   "catalog": "ssr",
+   "page": 5,
+   "table": 0,
+   "row": 0,
+   "column": "column_1",
+   "from": "TFT.",
+   "to": "1 FT."
+  },
+  {
+   "catalog": "ssr",
+   "page": 5,
+   "table": 0,
+   "row": 9,
+   "column": "column_1",
+   "from": "10 ET",
+   "to": "10 FT."
+  },
+  {
+   "catalog": "ssr",
+   "page": 5,
+   "table": 0,
+   "row": 14,
+   "column": "column_1",
+   "from": "15 FT",
+   "to": "15 FT."
+  },
+  {
+   "catalog": "ssr",
+   "page": 5,
+   "table": 0,
+   "row": 19,
+   "column": "column_1",
+   "from": "90 FT",
+   "to": "20 FT."
+  },
+  {
+   "catalog": "ssr",
+   "page": 5,
+   "table": 0,
+   "row": 24,
+   "column": "column_1",
+   "from": "95 ET",
+   "to": "25 FT."
+  },
+  {
+   "catalog": "ssr",
+   "page": 5,
+   "table": 0,
+   "row": 34,
+   "column": "column_1",
+   "from": "45 FT",
+   "to": "35 FT."
+  },
+  {
+   "catalog": "ssr",
+   "page": 5,
+   "table": 0,
+   "row": 39,
+   "column": "column_1",
+   "from": "40 FT",
+   "to": "40 FT."
+  },
+  {
+   "catalog": "ssr",
+   "page": 11,
+   "table": 0,
+   "row": 14,
+   "column": "column_1",
+   "from": "15 FT",
+   "to": "15 FT."
+  },
+  {
+   "catalog": "ssr",
+   "page": 11,
+   "table": 0,
+   "row": 24,
+   "column": "column_1",
+   "from": "95 FT",
+   "to": "25 FT."
   }
  ],
  "accepted_note": "Cells qa.py flagged that were checked against the render and found correct.  Recorded so the report converges on what has not been looked at yet.",

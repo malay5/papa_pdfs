@@ -1,0 +1,64 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MBCI catalogs</title>
+<style>
+:root { --paper: #fff; --edge: rgba(0,0,0,.16); }
+* { box-sizing: border-box; }
+body {
+  margin: 0; padding: 24pt 0; background: #f4f4f5;
+  font-family: Montserrat, "Century Gothic", "Futura", "Avenir Next",
+               "Segoe UI", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.page {
+  position: relative; margin: 0 auto 24pt; background: var(--paper);
+  box-shadow: 0 1pt 3pt rgba(0,0,0,.18), 0 8pt 24pt rgba(0,0,0,.10);
+  overflow: hidden;
+}
+.f { position: absolute; }
+.a { position: absolute; image-rendering: auto; }
+.t {
+  position: absolute; display: flex; align-items: center;
+  padding: 0 1.5pt; line-height: 1.15; white-space: pre-wrap;
+  overflow: hidden; word-break: break-word;
+}
+.bar {
+  position: sticky; top: 0; z-index: 5; background: #fff;
+  border-bottom: 1px solid var(--edge); padding: 10pt 16pt;
+  display: flex; gap: 16pt; align-items: baseline; flex-wrap: wrap;
+  font-size: 11pt;
+}
+.bar a { color: #0b62c4; text-decoration: none; }
+.bar a:hover { text-decoration: underline; }
+.bar .muted { color: #6b7280; font-size: 10pt; }
+@media print {
+  body { background: #fff; padding: 0; }
+  .bar { display: none; }
+  .page { margin: 0; box-shadow: none; page-break-after: always; }
+}
+@media (prefers-color-scheme: dark) {
+  body { background: #18181b; }
+  .bar { background: #18181b; color: #e4e4e7; border-color: rgba(255,255,255,.14); }
+  .bar a { color: #7cb7ff; }
+}
+</style>
+
+<div class="idx"><h1>MBCI catalogs</h1><p class="muted">The catalog pages as HTML, with the extracted text as real text.</p><table><thead><tr><th>Catalog</th><th>Pages</th></tr></thead><tbody><tr><td><a href="agricultural/index.html">agricultural</a></td><td>44</td></tr><tr><td><a href="architectural/index.html">architectural</a></td><td>65</td></tr><tr><td><a href="commercial-industrial/index.html">commercial-industrial</a></td><td>73</td></tr><tr><td><a href="fasteners/index.html">fasteners</a></td><td>25</td></tr><tr><td><a href="residential/index.html">residential</a></td><td>26</td></tr><tr><td><a href="ssr/index.html">ssr</a></td><td>70</td></tr></tbody></table></div><style>
+.idx { max-width: 60rem; margin: 0 auto; padding: 24pt; background: #fff;
+       border-radius: 6pt; box-shadow: 0 1pt 3pt rgba(0,0,0,.12); }
+.idx h1 { margin: 0 0 4pt; font-size: 20pt; text-transform: capitalize; }
+.idx .muted { color: #6b7280; margin: 0 0 16pt; }
+.idx table { border-collapse: collapse; width: 100%; font-size: 10pt; }
+.idx th { text-align: left; border-bottom: 2px solid #e4e4e7; padding: 6pt 8pt; }
+.idx td { border-bottom: 1px solid #f0f0f1; padding: 5pt 8pt; }
+.idx tr:hover td { background: #fafafa; }
+.idx a { color: #0b62c4; text-decoration: none; }
+.idx a:hover { text-decoration: underline; }
+@media (prefers-color-scheme: dark) {
+  .idx { background: #1f1f23; color: #e4e4e7; }
+  .idx th { border-color: #3f3f46; } .idx td { border-color: #2a2a2f; }
+  .idx tr:hover td { background: #26262b; }
+  .idx a { color: #7cb7ff; }
+}
+</style>

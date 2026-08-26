@@ -120,11 +120,28 @@ withheld**. The `PRICE` column holds a checkmark meaning the product is
 available on request, or the words `Please Inquire`; no dollar figures appear
 anywhere in the source. Extracted checkmarks are normalised to `✓`.
 
+## The catalogs as HTML
+
+The source PDFs cannot be searched or copied from -- there is no text layer
+to search. `html/` carries every page rebuilt as HTML, laid out from the
+PDF's own geometry, with the extracted values as real text:
+
+```bash
+python3 src/html_pages.py          # 303 pages, about 1.6 s each
+open html/index.html
+```
+
+Fills, rules and cell boxes come out of the vector layer, so the pages keep
+the catalog's proportions and its actual colours. The drawings are lifted as
+crops, because nothing in the file distinguishes a diagram from a letter --
+both are vector paths. See `html/README.md`.
+
 ## Layout
 
 ```
 pdfs/             the six source catalogs      -> pdfs/README.md
 data/             the extracted output         -> data/README.md
+html/             the pages rebuilt as HTML    -> html/README.md
 REVIEW.md         what is known to still be wrong
 
 src/geometry.py   vector primitives -> table grid, column stripes
@@ -133,6 +150,7 @@ src/extract.py    orchestration, CLI, JSON/CSV output
 src/qa.py         flag values worth re-reading
 src/corrections.py  apply the hand-reviewed readings
 src/repair.py     re-apply repairs to an existing data/ tree
+src/html_pages.py rebuild the pages as HTML
 ```
 
 **Read `REVIEW.md` before relying on this data.** It lists what the checks do

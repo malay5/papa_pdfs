@@ -91,7 +91,24 @@ read them.
 
 ---
 
-## 4. Structural findings - 25
+## 4. Fixed since this list was written
+
+Building the HTML view (`html/`) put every page in front of the eye at once,
+which surfaced a class the checks had no way to catch: the row labels down
+the side of the SSR conversion matrices. `20 FT.` had come back as `90 FT`,
+`25 FT.` as `95 ET`, `35 FT.` as `45 FT`. Nothing flagged them - the label
+column is not numeric, so the column tests do not apply, and each value is a
+plausible string on its own.
+
+All ten were read off the render and corrected. They are listed here because
+they say something about the checks rather than about the data: a column of
+labels has no shape for `qa.py` to test, so **anything wrong in a label
+column is invisible to it**. The same is true of any non-numeric column in
+any catalog.
+
+---
+
+## 5. Structural findings - 25
 
 Not wrong values; tables whose shape did not come through cleanly.
 
@@ -126,9 +143,18 @@ a table column; harmless. The `price` columns on commercial-industrial 21-22
 are worth a look - an empty price column may mean the checkmarks did not
 read, which would be a real omission rather than a cosmetic one.
 
+### Spanning headers that did not read
+
+Not counted above, because `qa.py` does not check for them. A table's group
+header (`PRICED PER EACH`, above the availability columns) is sometimes
+blank in `column_groups` where the catalog prints one - SSR page 65 is an
+example. The column names underneath are correct; only the label spanning
+them is missing. Visible in the HTML pages as an empty strip above the right
+half of a table.
+
 ---
 
-## 5. Things to know about the data as a whole
+## 6. Things to know about the data as a whole
 
 **The corrections layer is not reproducible by the pipeline.** A fresh
 extraction still produces `2.564`; `data/corrections.json` is what makes it
