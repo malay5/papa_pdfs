@@ -290,6 +290,44 @@ def _normalise_price(value, column_name, group_name):
     return value
 
 
+# "12'-O"" is twelve feet zero inches.  The letter O never appears between
+# the foot mark and the inch mark, so this is safe to rewrite outright.
+FEET_INCHES_ZERO = re.compile(r"('-\s*)O(?=\s*[\"'″])")
+
+
+def _normalise_table(table):
+    """Post-OCR fixes that need the whole column, or no evidence at all.
+
+    Returns how many values changed.  Both fixes here are rules rather than
+    readings, so they belong in the pipeline instead of corrections.json.
+    """
+    changed = 0
+    rows = table["rows"]
+    for position in range(len(table["columns"])):
+        values = [row[position] for row in rows
+                  if position < len(row) and row[position]]
+        # An availability column holds the same checkmark glyph as a price
+        # column, but is named for the finish rather than for the price, so
+        # the name cannot be what identifies it.  A column whose every value
+        # is checkmark-shaped is one, whatever it is called.
+        if not values or not all(CHECKMARK_OCR.match(v) for v in values):
+            continue
+        for row in rows:
+            if position < len(row) and row[position] \
+                    and row[position] != CHECKMARK:
+                row[position] = CHECKMARK
+                changed += 1
+
+    for row in rows:
+        for position, value in enumerate(row):
+            if value and "O" in value:
+                fixed = FEET_INCHES_ZERO.sub(r"\g<1>0", value)
+                if fixed != value:
+                    row[position] = fixed
+                    changed += 1
+    return changed
+
+
 # Words whose vertical centres sit within this fraction of a row's height
 # belong to the same row.
 ROW_TOLERANCE = 0.6
@@ -530,6 +568,8 @@ def extract_page(pdf_path, page_index):
             "column_groups": groups,
             "rows": rows,
         })
+    for table in result["tables"]:
+        result["repaired_cells"] += _normalise_table(table)
     return result
 
 
@@ -658,7 +698,7 @@ def tidy_rows(pages):
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--uploads", default=os.environ.get(
-        "CATALOG_DIR", "/root/.claude/uploads"))
+        "CATALOG_DIR", os.path.join(ROOT, "pdfs")))
     parser.add_argument("--out", default=DATA_DIR)
     parser.add_argument("--catalog", action="append",
                         help="slug to extract; repeatable, default all")

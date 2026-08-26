@@ -65,9 +65,12 @@ height that is enough to clip the glyphs and wreck the reading.
 
 ## Running it
 
+The source PDFs are in `pdfs/`, so a clean clone reproduces the output with
+no external files:
+
 ```bash
 ./setup.sh                                   # tesseract + Python deps
-python3 src/extract.py --uploads /path/to/pdfs
+python3 src/extract.py                       # all six catalogs
 python3 src/extract.py --catalog fasteners --pages 1-10   # a subset
 ```
 
@@ -120,10 +123,21 @@ anywhere in the source. Extracted checkmarks are normalised to `✓`.
 ## Layout
 
 ```
+pdfs/             the six source catalogs      -> pdfs/README.md
+data/             the extracted output         -> data/README.md
+REVIEW.md         what is known to still be wrong
+
 src/geometry.py   vector primitives -> table grid, column stripes
 src/ocr.py        render, crop, normalise, OCR
 src/extract.py    orchestration, CLI, JSON/CSV output
+src/qa.py         flag values worth re-reading
+src/corrections.py  apply the hand-reviewed readings
+src/repair.py     re-apply repairs to an existing data/ tree
 ```
+
+**Read `REVIEW.md` before relying on this data.** It lists what the checks do
+not catch -- chiefly 596 fractions whose denominator OCR dropped -- with
+counts and where they are.
 
 ## Accuracy, and what is still wrong
 

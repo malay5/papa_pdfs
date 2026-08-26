@@ -612,28 +612,28 @@
               "wy\" — 4\"",
               "8\"",
               ".50#",
-              "v"
+              "✓"
             ],
             [
               "-100°F to +437°F",
               "AM\" . 7\"",
               "11\"",
               ".5#",
-              "v"
+              "✓"
             ],
             [
               "-100°F to +437°F",
               "7\" 43\"",
               "17\"",
               "2.564",
-              "v"
+              "✓"
             ],
             [
               "-100°F to +437°F",
               "10\" _ 19\"",
               "25\"",
               "3.86#",
-              "v"
+              "✓"
             ]
           ]
         },
@@ -733,27 +733,27 @@
               "YQ\" _ A\"",
               "8 3/16\"",
               ".144",
-              "v"
+              "✓"
             ],
             [
               "-100°F to +437°F",
               "4\" 9%\"",
               "14%\"",
               "2.20#",
-              "v"
+              "✓"
             ],
             [
               "-100°F to +437°F",
               "9%\" - 16%\"",
               "21%\"",
               "3.78#",
-              "v"
+              "✓"
             ]
           ]
         }
       ],
       "text": "Agricultural Pricing ACCESSORIES\nRubber Roof Jack\nDESCRIPTION PRICED PER EACH\nTEMPERATURE\nRANGE PIPE SIZE BASE DIM. WEIGHT EACH\nHW-1000 -65°F to +212°F Ya\" - 1¥2\" AY\" A7# v\nHW-1001 -65°F to +212°F 1¥2\"- 4\" 8\" 5O# v\nHW-1002 -65°F to +212°F 4%\" - 6\" 1\" 5# v\nHW-1003 -65°F to +212°F 6\"-11\" 4\" 1.55# v\nHW-1004 -65°F to +212°F 7\"-13\" 7\" 2.56# v\nHIGH TEMPERATURE\nHW-1046 -100°F to +437°F Ya\" - 4\" 8\" 5O# v\nHW-1047 -100°F to +437°F 4%\" -7\" 1\" O5# v\nHW-1048 -100°F to +437°F 7\" -13\" 7\" 2.56# v\nHW-1049 -100°F to +437°F 10\"- 18\" 25\" 3.86# v\nRetrofit Rubber Roof Jack\nDESCRIPTION PRICED PER EACH\nDS eneee PIPE SIZE BASE DIM. WEIGHT EACH\nHW-1005 -65°F to +212°F Ya\" - 4\" 83/6\" 14# v\nHW-1006 -65°F to +212°F 4\" - 9%\" 14%\" 2.20# v\nHW-1007 -65°F to +212°F 9%\" - 16%\" 21%\" 3.78# v\nHIGH TEMPERATURE\nHW-1060 -100°F to +437°F yl\" - 4\" 83/6\" 148 v\nHW-1061 -100°F to +437°F 4\"-9%4\" 14%\" 2.20# v\nHW-1062 -100°F to +437°F 9%\" - 16%\" 21%\" 3.78# v\n== _—sSurbject to change without notice.\nWIRE. see MBCI.COM for current information. EFFECTIVE JANUARY 7, 2026 \"1",
-      "repaired_cells": 6,
+      "repaired_cells": 7,
       "effective_date": "JANUARY 7, 2026",
       "catalog": "agricultural"
     },
@@ -1989,7 +1989,7 @@
               "HW-990",
               "14",
               "Galvanized",
-              "12'-O\"",
+              "12'-0\"",
               "26.40#",
               "✓"
             ]
@@ -4016,7 +4016,7 @@
             ],
             [
               "AG-487",
-              "12'-O\"",
+              "12'-0\"",
               "5\"",
               "29",
               "3.12#",

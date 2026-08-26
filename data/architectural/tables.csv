@@ -956,13 +956,13 @@ architectural,25,Support Plate,3,0,weight_each,WEIGHT EACH,DESCRIPTION,54.35#
 architectural,25,Support Plate,3,0,price,PRICE,,✓
 architectural,26,MasterLine 16® Sheathing Support Angle,0,0,part,PART #,DESCRIPTION,HW-4651
 architectural,26,MasterLine 16® Sheathing Support Angle,0,0,gauge,GAUGE,DESCRIPTION,18
-architectural,26,MasterLine 16® Sheathing Support Angle,0,0,length,LENGTH,DESCRIPTION,"10'-O"""
+architectural,26,MasterLine 16® Sheathing Support Angle,0,0,length,LENGTH,DESCRIPTION,"10'-0"""
 architectural,26,MasterLine 16® Sheathing Support Angle,0,0,finish,FINISH,DESCRIPTION,Galvanized
 architectural,26,MasterLine 16® Sheathing Support Angle,0,0,weight_each,WEIGHT EACH,DESCRIPTION,9.38#
 architectural,26,MasterLine 16® Sheathing Support Angle,0,0,price,PRICE,,✓
 architectural,26,MasterLine 16® Sheathing Support Angle,1,0,part,PART #,DESCRIPTION,HW-4652
 architectural,26,MasterLine 16® Sheathing Support Angle,1,0,gauge,GAUGE,DESCRIPTION,18
-architectural,26,MasterLine 16® Sheathing Support Angle,1,0,length,LENGTH,DESCRIPTION,"10'-O"""
+architectural,26,MasterLine 16® Sheathing Support Angle,1,0,length,LENGTH,DESCRIPTION,"10'-0"""
 architectural,26,MasterLine 16® Sheathing Support Angle,1,0,finish,FINISH,DESCRIPTION,Galvanized
 architectural,26,MasterLine 16® Sheathing Support Angle,1,0,weight_each,WEIGHT EACH,DESCRIPTION,9.38#
 architectural,26,MasterLine 16® Sheathing Support Angle,1,0,price,PRICE,,✓
@@ -1845,73 +1845,73 @@ architectural,37,Valley Trim,2,0,column_2,,,"11"""
 architectural,37,Valley Trim,2,0,column_3,,,"10'-2"""
 architectural,37,Valley Trim,2,0,column_4,,,"24"""
 architectural,37,Valley Trim,2,0,column_5,,,19.85#
-architectural,37,Valley Trim,2,0,column_6,,,v
-architectural,37,Valley Trim,2,0,column_7,,,v
-architectural,37,Valley Trim,2,0,column_8,,,v
-architectural,37,Valley Trim,2,0,column_9,,,v
+architectural,37,Valley Trim,2,0,column_6,,,✓
+architectural,37,Valley Trim,2,0,column_7,,,✓
+architectural,37,Valley Trim,2,0,column_8,,,✓
+architectural,37,Valley Trim,2,0,column_9,,,✓
 architectural,37,Valley Trim,2,1,column_1,,,"4"""
 architectural,37,Valley Trim,2,1,column_2,,,"41"""
 architectural,37,Valley Trim,2,1,column_3,,,"20'-2"""
 architectural,37,Valley Trim,2,1,column_4,,,"24"""
 architectural,37,Valley Trim,2,1,column_5,,,39.384
-architectural,37,Valley Trim,2,1,column_6,,,v
-architectural,37,Valley Trim,2,1,column_7,,,v
-architectural,37,Valley Trim,2,1,column_8,,,v
-architectural,37,Valley Trim,2,1,column_9,,,v
+architectural,37,Valley Trim,2,1,column_6,,,✓
+architectural,37,Valley Trim,2,1,column_7,,,✓
+architectural,37,Valley Trim,2,1,column_8,,,✓
+architectural,37,Valley Trim,2,1,column_9,,,✓
 architectural,37,Valley Trim,2,2,column_1,,,"2"""
 architectural,37,Valley Trim,2,2,column_2,,,"11"""
 architectural,37,Valley Trim,2,2,column_3,,,"10'-2"""
 architectural,37,Valley Trim,2,2,column_4,,,"26"""
 architectural,37,Valley Trim,2,2,column_5,,,21.514
-architectural,37,Valley Trim,2,2,column_6,,,v
-architectural,37,Valley Trim,2,2,column_7,,,v
-architectural,37,Valley Trim,2,2,column_8,,,v
-architectural,37,Valley Trim,2,2,column_9,,,v
+architectural,37,Valley Trim,2,2,column_6,,,✓
+architectural,37,Valley Trim,2,2,column_7,,,✓
+architectural,37,Valley Trim,2,2,column_8,,,✓
+architectural,37,Valley Trim,2,2,column_9,,,✓
 architectural,37,Valley Trim,2,3,column_1,,,"2"""
 architectural,37,Valley Trim,2,3,column_2,,,"141"""
 architectural,37,Valley Trim,2,3,column_3,,,"20'-2"""
 architectural,37,Valley Trim,2,3,column_4,,,"26"""
 architectural,37,Valley Trim,2,3,column_5,,,42.66#
-architectural,37,Valley Trim,2,3,column_6,,,v
-architectural,37,Valley Trim,2,3,column_7,,,v
-architectural,37,Valley Trim,2,3,column_8,,,v
-architectural,37,Valley Trim,2,3,column_9,,,v
+architectural,37,Valley Trim,2,3,column_6,,,✓
+architectural,37,Valley Trim,2,3,column_7,,,✓
+architectural,37,Valley Trim,2,3,column_8,,,✓
+architectural,37,Valley Trim,2,3,column_9,,,✓
 architectural,37,Valley Trim,3,0,d_valley,d Valley,,"4"""
 architectural,37,Valley Trim,3,0,column_2,,,"23"""
 architectural,37,Valley Trim,3,0,column_3,,,"10'-2"""
 architectural,37,Valley Trim,3,0,column_4,,,"48"""
 architectural,37,Valley Trim,3,0,column_5,,,39.71#
-architectural,37,Valley Trim,3,0,column_6,,,v
-architectural,37,Valley Trim,3,0,column_7,,,v
-architectural,37,Valley Trim,3,0,column_8,,,v
-architectural,37,Valley Trim,3,0,column_9,,,v
+architectural,37,Valley Trim,3,0,column_6,,,✓
+architectural,37,Valley Trim,3,0,column_7,,,✓
+architectural,37,Valley Trim,3,0,column_8,,,✓
+architectural,37,Valley Trim,3,0,column_9,,,✓
 architectural,37,Valley Trim,3,1,d_valley,d Valley,,"1"""
 architectural,37,Valley Trim,3,1,column_2,,,"23"""
 architectural,37,Valley Trim,3,1,column_3,,,"14'-0"""
 architectural,37,Valley Trim,3,1,column_4,,,"48"""
 architectural,37,Valley Trim,3,1,column_5,,,54.68#
-architectural,37,Valley Trim,3,1,column_6,,,v
-architectural,37,Valley Trim,3,1,column_7,,,v
-architectural,37,Valley Trim,3,1,column_8,,,v
-architectural,37,Valley Trim,3,1,column_9,,,v
+architectural,37,Valley Trim,3,1,column_6,,,✓
+architectural,37,Valley Trim,3,1,column_7,,,✓
+architectural,37,Valley Trim,3,1,column_8,,,✓
+architectural,37,Valley Trim,3,1,column_9,,,✓
 architectural,37,Valley Trim,3,2,d_valley,d Valley,,"2"""
 architectural,37,Valley Trim,3,2,column_2,,,"22"""
 architectural,37,Valley Trim,3,2,column_3,,,"10'-2"""
 architectural,37,Valley Trim,3,2,column_4,,,"48"""
 architectural,37,Valley Trim,3,2,column_5,,,39.71#
-architectural,37,Valley Trim,3,2,column_6,,,v
-architectural,37,Valley Trim,3,2,column_7,,,v
-architectural,37,Valley Trim,3,2,column_8,,,v
-architectural,37,Valley Trim,3,2,column_9,,,v
+architectural,37,Valley Trim,3,2,column_6,,,✓
+architectural,37,Valley Trim,3,2,column_7,,,✓
+architectural,37,Valley Trim,3,2,column_8,,,✓
+architectural,37,Valley Trim,3,2,column_9,,,✓
 architectural,37,Valley Trim,3,3,d_valley,d Valley,,"2"""
 architectural,37,Valley Trim,3,3,column_2,,,"22"""
 architectural,37,Valley Trim,3,3,column_3,,,"14'-0"""
 architectural,37,Valley Trim,3,3,column_4,,,"48"""
 architectural,37,Valley Trim,3,3,column_5,,,54.68#
-architectural,37,Valley Trim,3,3,column_6,,,v
-architectural,37,Valley Trim,3,3,column_7,,,v
-architectural,37,Valley Trim,3,3,column_8,,,v
-architectural,37,Valley Trim,3,3,column_9,,,v
+architectural,37,Valley Trim,3,3,column_6,,,✓
+architectural,37,Valley Trim,3,3,column_7,,,✓
+architectural,37,Valley Trim,3,3,column_8,,,✓
+architectural,37,Valley Trim,3,3,column_9,,,✓
 architectural,38,Panel Starter,0,0,part,PART #,DESCRIPTION,T-5111
 architectural,38,Panel Starter,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,38,Panel Starter,0,0,girth,GIRTH,DESCRIPTION,"3"""
@@ -1929,17 +1929,17 @@ architectural,38,Continuous Cleat,1,0,part,PART #,DESCRIPTION,T-5121
 architectural,38,Continuous Cleat,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,38,Continuous Cleat,1,0,girth,GIRTH,DESCRIPTION,"3"""
 architectural,38,Continuous Cleat,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,2.48#
-architectural,38,Continuous Cleat,1,0,assorted_colors,ASSORTED COLORS,,v
+architectural,38,Continuous Cleat,1,0,assorted_colors,ASSORTED COLORS,,✓
 architectural,38,Offset Cleat,2,0,part,PART #,DESCRIPTION,T-5131
 architectural,38,Offset Cleat,2,0,length,LENGTH,DESCRIPTION,"1 Q'-2"""
 architectural,38,Offset Cleat,2,0,girth,GIRTH,DESCRIPTION,"3%"""
 architectural,38,Offset Cleat,2,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,2.90#
-architectural,38,Offset Cleat,2,0,assorted_colors,ASSORTED COLORS,,v
+architectural,38,Offset Cleat,2,0,assorted_colors,ASSORTED COLORS,,✓
 architectural,38,Perforated Vent Drip,3,0,part,PART #,DESCRIPTION,FL-254
 architectural,38,Perforated Vent Drip,3,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,38,Perforated Vent Drip,3,0,girth,GIRTH,DESCRIPTION,"634"""
 architectural,38,Perforated Vent Drip,3,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,5.58#
-architectural,38,Perforated Vent Drip,3,0,galvalume_plus,GALVALUME® PLUS,,v
+architectural,38,Perforated Vent Drip,3,0,galvalume_plus,GALVALUME® PLUS,,✓
 architectural,39,Eave Trim,0,0,part,PART #,DESCRIPTION,T-5141
 architectural,39,Eave Trim,0,0,dim_a,"DIM ""A""",DESCRIPTION,"4"""
 architectural,39,Eave Trim,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -2732,7 +2732,7 @@ architectural,46,Downspout with 45° Kickout,2,0,signature_300,"SIGNATURE®
 architectural,46,Downspout with 45° Kickout,2,0,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,46,Downspout with 45° Kickout,2,1,part,PART #,DESCRIPTION,T-5322
-architectural,46,Downspout with 45° Kickout,2,1,length,LENGTH,DESCRIPTION,"12'-O"""
+architectural,46,Downspout with 45° Kickout,2,1,length,LENGTH,DESCRIPTION,"12'-0"""
 architectural,46,Downspout with 45° Kickout,2,1,girth,GIRTH,DESCRIPTION,"16¾"""
 architectural,46,Downspout with 45° Kickout,2,1,weight_per_each,"WEIGHT PER
 EACH",DESCRIPTION,16.46#
@@ -3929,7 +3929,7 @@ architectural,59,NuWall® Spacer Angle,0,0,part,PART #,DESCRIPTION,T-6242
 architectural,59,NuWall® Spacer Angle,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,59,NuWall® Spacer Angle,0,0,girth,GIRTH,DESCRIPTION,"2%"""
 architectural,59,NuWall® Spacer Angle,0,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,1.86#
-architectural,59,NuWall® Spacer Angle,0,0,galvalume_plus,GALVALUME PLUS®,,v
+architectural,59,NuWall® Spacer Angle,0,0,galvalume_plus,GALVALUME PLUS®,,✓
 architectural,59,NuWall® Downspout with 45° Offset,1,0,part,PART #,DESCRIPTION,T-6250
 architectural,59,NuWall® Downspout with 45° Offset,1,0,length,LENGTH,DESCRIPTION,ge
 architectural,59,NuWall® Downspout with 45° Offset,1,0,girth,GIRTH,DESCRIPTION,"1634"""
@@ -4012,7 +4012,7 @@ architectural,61,Designer™ Series Support Zee,1,0,part,PART #,DESCRIPTION,T-63
 architectural,61,Designer™ Series Support Zee,1,0,length,LENGTH,DESCRIPTION,iOzey
 architectural,61,Designer™ Series Support Zee,1,0,girth,GIRTH,DESCRIPTION,"3 36"""
 architectural,61,Designer™ Series Support Zee,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,2.794
-architectural,61,Designer™ Series Support Zee,1,0,galvalume_plus,GALVALUME® PLUS,,v
+architectural,61,Designer™ Series Support Zee,1,0,galvalume_plus,GALVALUME® PLUS,,✓
 architectural,62,FlexLoc® Panel Splice Trim,0,0,part,PART #,DESCRIPTION,HW-1 200A
 architectural,62,FlexLoc® Panel Splice Trim,0,0,length,LENGTH,DESCRIPTION,"10'2"""
 architectural,62,FlexLoc® Panel Splice Trim,0,0,girth,GIRTH,DESCRIPTION,"3 13/16"""

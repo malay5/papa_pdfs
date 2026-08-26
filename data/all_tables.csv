@@ -165,22 +165,22 @@ agricultural,11,Rubber Roof Jack,1,0,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,0,high_temperatuf,HIGH TEMPERATUF,,"wy"" — 4"""
 agricultural,11,Rubber Roof Jack,1,0,e,E,,"8"""
 agricultural,11,Rubber Roof Jack,1,0,column_4,,,.50#
-agricultural,11,Rubber Roof Jack,1,0,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,0,column_5,,,✓
 agricultural,11,Rubber Roof Jack,1,1,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,1,high_temperatuf,HIGH TEMPERATUF,,"AM"" . 7"""
 agricultural,11,Rubber Roof Jack,1,1,e,E,,"11"""
 agricultural,11,Rubber Roof Jack,1,1,column_4,,,.5#
-agricultural,11,Rubber Roof Jack,1,1,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,1,column_5,,,✓
 agricultural,11,Rubber Roof Jack,1,2,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,2,high_temperatuf,HIGH TEMPERATUF,,"7"" 43"""
 agricultural,11,Rubber Roof Jack,1,2,e,E,,"17"""
 agricultural,11,Rubber Roof Jack,1,2,column_4,,,2.564
-agricultural,11,Rubber Roof Jack,1,2,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,2,column_5,,,✓
 agricultural,11,Rubber Roof Jack,1,3,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,3,high_temperatuf,HIGH TEMPERATUF,,"10"" _ 19"""
 agricultural,11,Rubber Roof Jack,1,3,e,E,,"25"""
 agricultural,11,Rubber Roof Jack,1,3,column_4,,,3.86#
-agricultural,11,Rubber Roof Jack,1,3,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,3,column_5,,,✓
 agricultural,11,Retrofit Rubber Roof Jack,2,0,part,PART #,DESCRIPTION,HW-1005
 agricultural,11,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
@@ -206,17 +206,17 @@ agricultural,11,Retrofit Rubber Roof Jack,3,0,column_1,,,-100°F to +437°F
 agricultural,11,Retrofit Rubber Roof Jack,3,0,high_temperatuf,HIGH TEMPERATUF,,"YQ"" _ A"""
 agricultural,11,Retrofit Rubber Roof Jack,3,0,e,E,,"8 3/16"""
 agricultural,11,Retrofit Rubber Roof Jack,3,0,column_4,,,.144
-agricultural,11,Retrofit Rubber Roof Jack,3,0,column_5,,,v
+agricultural,11,Retrofit Rubber Roof Jack,3,0,column_5,,,✓
 agricultural,11,Retrofit Rubber Roof Jack,3,1,column_1,,,-100°F to +437°F
 agricultural,11,Retrofit Rubber Roof Jack,3,1,high_temperatuf,HIGH TEMPERATUF,,"4"" 9%"""
 agricultural,11,Retrofit Rubber Roof Jack,3,1,e,E,,"14%"""
 agricultural,11,Retrofit Rubber Roof Jack,3,1,column_4,,,2.20#
-agricultural,11,Retrofit Rubber Roof Jack,3,1,column_5,,,v
+agricultural,11,Retrofit Rubber Roof Jack,3,1,column_5,,,✓
 agricultural,11,Retrofit Rubber Roof Jack,3,2,column_1,,,-100°F to +437°F
 agricultural,11,Retrofit Rubber Roof Jack,3,2,high_temperatuf,HIGH TEMPERATUF,,"9%"" - 16%"""
 agricultural,11,Retrofit Rubber Roof Jack,3,2,e,E,,"21%"""
 agricultural,11,Retrofit Rubber Roof Jack,3,2,column_4,,,3.78#
-agricultural,11,Retrofit Rubber Roof Jack,3,2,column_5,,,v
+agricultural,11,Retrofit Rubber Roof Jack,3,2,column_5,,,✓
 agricultural,12,Continuous Vent,0,0,part,PART #,DESCRIPTION,HW-702
 agricultural,12,Continuous Vent,0,0,size,SIZE,DESCRIPTION,"9"" x 10'-0"""
 agricultural,12,Continuous Vent,0,0,gauge,GAUGE,DESCRIPTION,26
@@ -487,7 +487,7 @@ agricultural,18,14 Gauge Track with Top Mount Brackets,1,1,price,PRICE,,✓
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,part,PART #,DESCRIPTION,HW-990
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,gauge,GAUGE,DESCRIPTION,14
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,finish,FINISH,DESCRIPTION,Galvanized
-agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,length,LENGTH,DESCRIPTION,"12'-O"""
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,length,LENGTH,DESCRIPTION,"12'-0"""
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,weight_each,WEIGHT EACH,DESCRIPTION,26.40#
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,price,PRICE,,✓
 agricultural,18,Double Track Side Mount Bracket,2,0,part,PART #,DESCRIPTION,HW-976
@@ -873,7 +873,7 @@ agricultural,31,Door Header,2,1,weight_each,WEIGHT EACH,DESCRIPTION,2.3#
 agricultural,31,Door Header,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,31,Door Header,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,31,Door Header,2,2,part,PART #,DESCRIPTION,AG-487
-agricultural,31,Door Header,2,2,length,LENGTH,DESCRIPTION,"12'-O"""
+agricultural,31,Door Header,2,2,length,LENGTH,DESCRIPTION,"12'-0"""
 agricultural,31,Door Header,2,2,girth,GIRTH,DESCRIPTION,"5"""
 agricultural,31,Door Header,2,2,gauge,GAUGE,DESCRIPTION,29
 agricultural,31,Door Header,2,2,weight_each,WEIGHT EACH,DESCRIPTION,3.12#
@@ -2240,13 +2240,13 @@ architectural,25,Support Plate,3,0,weight_each,WEIGHT EACH,DESCRIPTION,54.35#
 architectural,25,Support Plate,3,0,price,PRICE,,✓
 architectural,26,MasterLine 16® Sheathing Support Angle,0,0,part,PART #,DESCRIPTION,HW-4651
 architectural,26,MasterLine 16® Sheathing Support Angle,0,0,gauge,GAUGE,DESCRIPTION,18
-architectural,26,MasterLine 16® Sheathing Support Angle,0,0,length,LENGTH,DESCRIPTION,"10'-O"""
+architectural,26,MasterLine 16® Sheathing Support Angle,0,0,length,LENGTH,DESCRIPTION,"10'-0"""
 architectural,26,MasterLine 16® Sheathing Support Angle,0,0,finish,FINISH,DESCRIPTION,Galvanized
 architectural,26,MasterLine 16® Sheathing Support Angle,0,0,weight_each,WEIGHT EACH,DESCRIPTION,9.38#
 architectural,26,MasterLine 16® Sheathing Support Angle,0,0,price,PRICE,,✓
 architectural,26,MasterLine 16® Sheathing Support Angle,1,0,part,PART #,DESCRIPTION,HW-4652
 architectural,26,MasterLine 16® Sheathing Support Angle,1,0,gauge,GAUGE,DESCRIPTION,18
-architectural,26,MasterLine 16® Sheathing Support Angle,1,0,length,LENGTH,DESCRIPTION,"10'-O"""
+architectural,26,MasterLine 16® Sheathing Support Angle,1,0,length,LENGTH,DESCRIPTION,"10'-0"""
 architectural,26,MasterLine 16® Sheathing Support Angle,1,0,finish,FINISH,DESCRIPTION,Galvanized
 architectural,26,MasterLine 16® Sheathing Support Angle,1,0,weight_each,WEIGHT EACH,DESCRIPTION,9.38#
 architectural,26,MasterLine 16® Sheathing Support Angle,1,0,price,PRICE,,✓
@@ -3129,73 +3129,73 @@ architectural,37,Valley Trim,2,0,column_2,,,"11"""
 architectural,37,Valley Trim,2,0,column_3,,,"10'-2"""
 architectural,37,Valley Trim,2,0,column_4,,,"24"""
 architectural,37,Valley Trim,2,0,column_5,,,19.85#
-architectural,37,Valley Trim,2,0,column_6,,,v
-architectural,37,Valley Trim,2,0,column_7,,,v
-architectural,37,Valley Trim,2,0,column_8,,,v
-architectural,37,Valley Trim,2,0,column_9,,,v
+architectural,37,Valley Trim,2,0,column_6,,,✓
+architectural,37,Valley Trim,2,0,column_7,,,✓
+architectural,37,Valley Trim,2,0,column_8,,,✓
+architectural,37,Valley Trim,2,0,column_9,,,✓
 architectural,37,Valley Trim,2,1,column_1,,,"4"""
 architectural,37,Valley Trim,2,1,column_2,,,"41"""
 architectural,37,Valley Trim,2,1,column_3,,,"20'-2"""
 architectural,37,Valley Trim,2,1,column_4,,,"24"""
 architectural,37,Valley Trim,2,1,column_5,,,39.384
-architectural,37,Valley Trim,2,1,column_6,,,v
-architectural,37,Valley Trim,2,1,column_7,,,v
-architectural,37,Valley Trim,2,1,column_8,,,v
-architectural,37,Valley Trim,2,1,column_9,,,v
+architectural,37,Valley Trim,2,1,column_6,,,✓
+architectural,37,Valley Trim,2,1,column_7,,,✓
+architectural,37,Valley Trim,2,1,column_8,,,✓
+architectural,37,Valley Trim,2,1,column_9,,,✓
 architectural,37,Valley Trim,2,2,column_1,,,"2"""
 architectural,37,Valley Trim,2,2,column_2,,,"11"""
 architectural,37,Valley Trim,2,2,column_3,,,"10'-2"""
 architectural,37,Valley Trim,2,2,column_4,,,"26"""
 architectural,37,Valley Trim,2,2,column_5,,,21.514
-architectural,37,Valley Trim,2,2,column_6,,,v
-architectural,37,Valley Trim,2,2,column_7,,,v
-architectural,37,Valley Trim,2,2,column_8,,,v
-architectural,37,Valley Trim,2,2,column_9,,,v
+architectural,37,Valley Trim,2,2,column_6,,,✓
+architectural,37,Valley Trim,2,2,column_7,,,✓
+architectural,37,Valley Trim,2,2,column_8,,,✓
+architectural,37,Valley Trim,2,2,column_9,,,✓
 architectural,37,Valley Trim,2,3,column_1,,,"2"""
 architectural,37,Valley Trim,2,3,column_2,,,"141"""
 architectural,37,Valley Trim,2,3,column_3,,,"20'-2"""
 architectural,37,Valley Trim,2,3,column_4,,,"26"""
 architectural,37,Valley Trim,2,3,column_5,,,42.66#
-architectural,37,Valley Trim,2,3,column_6,,,v
-architectural,37,Valley Trim,2,3,column_7,,,v
-architectural,37,Valley Trim,2,3,column_8,,,v
-architectural,37,Valley Trim,2,3,column_9,,,v
+architectural,37,Valley Trim,2,3,column_6,,,✓
+architectural,37,Valley Trim,2,3,column_7,,,✓
+architectural,37,Valley Trim,2,3,column_8,,,✓
+architectural,37,Valley Trim,2,3,column_9,,,✓
 architectural,37,Valley Trim,3,0,d_valley,d Valley,,"4"""
 architectural,37,Valley Trim,3,0,column_2,,,"23"""
 architectural,37,Valley Trim,3,0,column_3,,,"10'-2"""
 architectural,37,Valley Trim,3,0,column_4,,,"48"""
 architectural,37,Valley Trim,3,0,column_5,,,39.71#
-architectural,37,Valley Trim,3,0,column_6,,,v
-architectural,37,Valley Trim,3,0,column_7,,,v
-architectural,37,Valley Trim,3,0,column_8,,,v
-architectural,37,Valley Trim,3,0,column_9,,,v
+architectural,37,Valley Trim,3,0,column_6,,,✓
+architectural,37,Valley Trim,3,0,column_7,,,✓
+architectural,37,Valley Trim,3,0,column_8,,,✓
+architectural,37,Valley Trim,3,0,column_9,,,✓
 architectural,37,Valley Trim,3,1,d_valley,d Valley,,"1"""
 architectural,37,Valley Trim,3,1,column_2,,,"23"""
 architectural,37,Valley Trim,3,1,column_3,,,"14'-0"""
 architectural,37,Valley Trim,3,1,column_4,,,"48"""
 architectural,37,Valley Trim,3,1,column_5,,,54.68#
-architectural,37,Valley Trim,3,1,column_6,,,v
-architectural,37,Valley Trim,3,1,column_7,,,v
-architectural,37,Valley Trim,3,1,column_8,,,v
-architectural,37,Valley Trim,3,1,column_9,,,v
+architectural,37,Valley Trim,3,1,column_6,,,✓
+architectural,37,Valley Trim,3,1,column_7,,,✓
+architectural,37,Valley Trim,3,1,column_8,,,✓
+architectural,37,Valley Trim,3,1,column_9,,,✓
 architectural,37,Valley Trim,3,2,d_valley,d Valley,,"2"""
 architectural,37,Valley Trim,3,2,column_2,,,"22"""
 architectural,37,Valley Trim,3,2,column_3,,,"10'-2"""
 architectural,37,Valley Trim,3,2,column_4,,,"48"""
 architectural,37,Valley Trim,3,2,column_5,,,39.71#
-architectural,37,Valley Trim,3,2,column_6,,,v
-architectural,37,Valley Trim,3,2,column_7,,,v
-architectural,37,Valley Trim,3,2,column_8,,,v
-architectural,37,Valley Trim,3,2,column_9,,,v
+architectural,37,Valley Trim,3,2,column_6,,,✓
+architectural,37,Valley Trim,3,2,column_7,,,✓
+architectural,37,Valley Trim,3,2,column_8,,,✓
+architectural,37,Valley Trim,3,2,column_9,,,✓
 architectural,37,Valley Trim,3,3,d_valley,d Valley,,"2"""
 architectural,37,Valley Trim,3,3,column_2,,,"22"""
 architectural,37,Valley Trim,3,3,column_3,,,"14'-0"""
 architectural,37,Valley Trim,3,3,column_4,,,"48"""
 architectural,37,Valley Trim,3,3,column_5,,,54.68#
-architectural,37,Valley Trim,3,3,column_6,,,v
-architectural,37,Valley Trim,3,3,column_7,,,v
-architectural,37,Valley Trim,3,3,column_8,,,v
-architectural,37,Valley Trim,3,3,column_9,,,v
+architectural,37,Valley Trim,3,3,column_6,,,✓
+architectural,37,Valley Trim,3,3,column_7,,,✓
+architectural,37,Valley Trim,3,3,column_8,,,✓
+architectural,37,Valley Trim,3,3,column_9,,,✓
 architectural,38,Panel Starter,0,0,part,PART #,DESCRIPTION,T-5111
 architectural,38,Panel Starter,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,38,Panel Starter,0,0,girth,GIRTH,DESCRIPTION,"3"""
@@ -3213,17 +3213,17 @@ architectural,38,Continuous Cleat,1,0,part,PART #,DESCRIPTION,T-5121
 architectural,38,Continuous Cleat,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,38,Continuous Cleat,1,0,girth,GIRTH,DESCRIPTION,"3"""
 architectural,38,Continuous Cleat,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,2.48#
-architectural,38,Continuous Cleat,1,0,assorted_colors,ASSORTED COLORS,,v
+architectural,38,Continuous Cleat,1,0,assorted_colors,ASSORTED COLORS,,✓
 architectural,38,Offset Cleat,2,0,part,PART #,DESCRIPTION,T-5131
 architectural,38,Offset Cleat,2,0,length,LENGTH,DESCRIPTION,"1 Q'-2"""
 architectural,38,Offset Cleat,2,0,girth,GIRTH,DESCRIPTION,"3%"""
 architectural,38,Offset Cleat,2,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,2.90#
-architectural,38,Offset Cleat,2,0,assorted_colors,ASSORTED COLORS,,v
+architectural,38,Offset Cleat,2,0,assorted_colors,ASSORTED COLORS,,✓
 architectural,38,Perforated Vent Drip,3,0,part,PART #,DESCRIPTION,FL-254
 architectural,38,Perforated Vent Drip,3,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,38,Perforated Vent Drip,3,0,girth,GIRTH,DESCRIPTION,"634"""
 architectural,38,Perforated Vent Drip,3,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,5.58#
-architectural,38,Perforated Vent Drip,3,0,galvalume_plus,GALVALUME® PLUS,,v
+architectural,38,Perforated Vent Drip,3,0,galvalume_plus,GALVALUME® PLUS,,✓
 architectural,39,Eave Trim,0,0,part,PART #,DESCRIPTION,T-5141
 architectural,39,Eave Trim,0,0,dim_a,"DIM ""A""",DESCRIPTION,"4"""
 architectural,39,Eave Trim,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -4016,7 +4016,7 @@ architectural,46,Downspout with 45° Kickout,2,0,signature_300,"SIGNATURE®
 architectural,46,Downspout with 45° Kickout,2,0,signature_300_metallic,"SIGNATURE®
 300 METALLIC",PRICED PER EACH,✓
 architectural,46,Downspout with 45° Kickout,2,1,part,PART #,DESCRIPTION,T-5322
-architectural,46,Downspout with 45° Kickout,2,1,length,LENGTH,DESCRIPTION,"12'-O"""
+architectural,46,Downspout with 45° Kickout,2,1,length,LENGTH,DESCRIPTION,"12'-0"""
 architectural,46,Downspout with 45° Kickout,2,1,girth,GIRTH,DESCRIPTION,"16¾"""
 architectural,46,Downspout with 45° Kickout,2,1,weight_per_each,"WEIGHT PER
 EACH",DESCRIPTION,16.46#
@@ -5213,7 +5213,7 @@ architectural,59,NuWall® Spacer Angle,0,0,part,PART #,DESCRIPTION,T-6242
 architectural,59,NuWall® Spacer Angle,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 architectural,59,NuWall® Spacer Angle,0,0,girth,GIRTH,DESCRIPTION,"2%"""
 architectural,59,NuWall® Spacer Angle,0,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,1.86#
-architectural,59,NuWall® Spacer Angle,0,0,galvalume_plus,GALVALUME PLUS®,,v
+architectural,59,NuWall® Spacer Angle,0,0,galvalume_plus,GALVALUME PLUS®,,✓
 architectural,59,NuWall® Downspout with 45° Offset,1,0,part,PART #,DESCRIPTION,T-6250
 architectural,59,NuWall® Downspout with 45° Offset,1,0,length,LENGTH,DESCRIPTION,ge
 architectural,59,NuWall® Downspout with 45° Offset,1,0,girth,GIRTH,DESCRIPTION,"1634"""
@@ -5296,7 +5296,7 @@ architectural,61,Designer™ Series Support Zee,1,0,part,PART #,DESCRIPTION,T-63
 architectural,61,Designer™ Series Support Zee,1,0,length,LENGTH,DESCRIPTION,iOzey
 architectural,61,Designer™ Series Support Zee,1,0,girth,GIRTH,DESCRIPTION,"3 36"""
 architectural,61,Designer™ Series Support Zee,1,0,weight_per_each,WEIGHT PER EACH,DESCRIPTION,2.794
-architectural,61,Designer™ Series Support Zee,1,0,galvalume_plus,GALVALUME® PLUS,,v
+architectural,61,Designer™ Series Support Zee,1,0,galvalume_plus,GALVALUME® PLUS,,✓
 architectural,62,FlexLoc® Panel Splice Trim,0,0,part,PART #,DESCRIPTION,HW-1 200A
 architectural,62,FlexLoc® Panel Splice Trim,0,0,length,LENGTH,DESCRIPTION,"10'2"""
 architectural,62,FlexLoc® Panel Splice Trim,0,0,girth,GIRTH,DESCRIPTION,"3 13/16"""
@@ -6921,10 +6921,10 @@ commercial-industrial,25,Retrofit Bracing Angle,2,0,weight_each,WEIGHT EACH,DESC
 commercial-industrial,25,Retrofit Bracing Angle,2,0,length,LENGTH,DESCRIPTION,"21'-0"""
 commercial-industrial,25,Retrofit Bracing Angle,2,0,price,PRICE,,✓
 commercial-industrial,26,Roof Hugger - Model C,0,0,1_249,"1-
-249",,v
+249",,✓
 commercial-industrial,26,Roof Hugger - Model C,0,0,500_749,"500 -
 749","250 -
-499",v
+499",✓
 commercial-industrial,26,Roof Hugger - Model C,0,0,750_999,"750 -
 999",PRICED PER EACH,✓
 commercial-industrial,26,Roof Hugger - Model C,0,0,1_000_1_499,"1,000 -
@@ -6986,7 +6986,7 @@ EACH",DESCRIPTION,17.42#
 commercial-industrial,26,R Panel Light Transmitting Panel,1,3,price,PRICE,,✓
 commercial-industrial,26,R Panel Light Transmitting Panel,1,4,part,PART #,DESCRIPTION,HW-1436
 commercial-industrial,26,R Panel Light Transmitting Panel,1,4,description,DESCRIPTION,DESCRIPTION,High Strength Fiberglass - U.V. Resistant
-commercial-industrial,26,R Panel Light Transmitting Panel,1,4,length,LENGTH,DESCRIPTION,"1 2'-O"""
+commercial-industrial,26,R Panel Light Transmitting Panel,1,4,length,LENGTH,DESCRIPTION,"1 2'-0"""
 commercial-industrial,26,R Panel Light Transmitting Panel,1,4,color,COLOR,DESCRIPTION,White
 commercial-industrial,26,R Panel Light Transmitting Panel,1,4,type,TYPE,DESCRIPTION,1
 commercial-industrial,26,R Panel Light Transmitting Panel,1,4,weight_sqft,"WEIGHT /
@@ -7046,7 +7046,7 @@ EACH",DESCRIPTION,19.00#
 commercial-industrial,27,7.2 Panel Light Transmitting Panel,1,0,price,PRICE,,✓
 commercial-industrial,28,C Panel Light Transmitting Panel,0,0,part,PART #,DESCRIPTION,HW-1645
 commercial-industrial,28,C Panel Light Transmitting Panel,0,0,description,DESCRIPTION,DESCRIPTION,High Strength Fiberglass
-commercial-industrial,28,C Panel Light Transmitting Panel,0,0,length,LENGTH,DESCRIPTION,"1 2'-O"""
+commercial-industrial,28,C Panel Light Transmitting Panel,0,0,length,LENGTH,DESCRIPTION,"1 2'-0"""
 commercial-industrial,28,C Panel Light Transmitting Panel,0,0,color,COLOR,DESCRIPTION,White
 commercial-industrial,28,C Panel Light Transmitting Panel,0,0,type,TYPE,DESCRIPTION,1
 commercial-industrial,28,C Panel Light Transmitting Panel,0,0,weight_sqft,"WEIGHT /
@@ -7095,7 +7095,7 @@ commercial-industrial,29,Continuous Vent,1,1,weight_each,WEIGHT EACH,DESCRIPTION
 commercial-industrial,29,Continuous Vent,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,29,Continuous Vent,1,1,white,WHITE,PRICED PER EACH,✓
 commercial-industrial,29,Continuous Vent,1,2,part,PART #,DESCRIPTION,HW-702R
-commercial-industrial,29,Continuous Vent,1,2,size,SIZE,DESCRIPTION,"Qo"" x 10'-O"""
+commercial-industrial,29,Continuous Vent,1,2,size,SIZE,DESCRIPTION,"Qo"" x 10'-0"""
 commercial-industrial,29,Continuous Vent,1,2,type,TYPE,DESCRIPTION,PBR Base
 commercial-industrial,29,Continuous Vent,1,2,gauge,GAUGE,DESCRIPTION,26
 commercial-industrial,29,Continuous Vent,1,2,weight_each,WEIGHT EACH,DESCRIPTION,115.00#
@@ -7239,22 +7239,22 @@ commercial-industrial,31,Rubber Roof Jack,1,0,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,0,high_temperatuf,HIGH TEMPERATUF,,"Y,"" _ 4A"""
 commercial-industrial,31,Rubber Roof Jack,1,0,e,E,,"8"""
 commercial-industrial,31,Rubber Roof Jack,1,0,column_4,,,.0
-commercial-industrial,31,Rubber Roof Jack,1,0,column_5,,,v
+commercial-industrial,31,Rubber Roof Jack,1,0,column_5,,,✓
 commercial-industrial,31,Rubber Roof Jack,1,1,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,1,high_temperatuf,HIGH TEMPERATUF,,"4%"" -7"""
 commercial-industrial,31,Rubber Roof Jack,1,1,e,E,,"141"""
 commercial-industrial,31,Rubber Roof Jack,1,1,column_4,,,.95#
-commercial-industrial,31,Rubber Roof Jack,1,1,column_5,,,v
+commercial-industrial,31,Rubber Roof Jack,1,1,column_5,,,✓
 commercial-industrial,31,Rubber Roof Jack,1,2,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,2,high_temperatuf,HIGH TEMPERATUF,,"7"" 43"""
 commercial-industrial,31,Rubber Roof Jack,1,2,e,E,,"17"""
 commercial-industrial,31,Rubber Roof Jack,1,2,column_4,,,2.564
-commercial-industrial,31,Rubber Roof Jack,1,2,column_5,,,v
+commercial-industrial,31,Rubber Roof Jack,1,2,column_5,,,✓
 commercial-industrial,31,Rubber Roof Jack,1,3,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,3,high_temperatuf,HIGH TEMPERATUF,,"10"" . 18"""
 commercial-industrial,31,Rubber Roof Jack,1,3,e,E,,"25"""
 commercial-industrial,31,Rubber Roof Jack,1,3,column_4,,,3.86#
-commercial-industrial,31,Rubber Roof Jack,1,3,column_5,,,v
+commercial-industrial,31,Rubber Roof Jack,1,3,column_5,,,✓
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,part,PART #,DESCRIPTION,HW-1005
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
@@ -7280,17 +7280,17 @@ commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_1,,,-100°F to +43
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,high_temperatuf,HIGH TEMPERATUF,,"YQ"" . A"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,e,E,,"8H6"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_4,,,.14#
-commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_5,,,v
+commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_5,,,✓
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,column_1,,,-100°F to +437°F
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,high_temperatuf,HIGH TEMPERATUF,,"4"" _ 9%"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,e,E,,"14%"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,column_4,,,2.204
-commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,column_5,,,v
+commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,column_5,,,✓
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,column_1,,,-100°F to +437°F
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,high_temperatuf,HIGH TEMPERATUF,,"9%"" - 16%"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,e,E,,"21%"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,column_4,,,3.78#
-commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,column_5,,,v
+commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,column_5,,,✓
 commercial-industrial,32,PBR Panel Closure Strip,0,0,part,PART #,DESCRIPTION,HW-455
 commercial-industrial,32,PBR Panel Closure Strip,0,0,type,TYPE,DESCRIPTION,Inside
 commercial-industrial,32,PBR Panel Closure Strip,0,0,adhesive,ADHESIVE?,DESCRIPTION,No
@@ -8007,7 +8007,7 @@ commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,0,galvalume_plus,GALV
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,part,PART #,DESCRIPTION,FL-500A
-commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,length,LENGTH,DESCRIPTION,"12'-O"""
+commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,length,LENGTH,DESCRIPTION,"12'-0"""
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,girth,GIRTH,DESCRIPTION,"14%"""
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,weight_each,WEIGHT EACH,DESCRIPTION,11.09#
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
@@ -8070,7 +8070,7 @@ commercial-industrial,47,Inside Corner Trim - PBU Panel,0,0,galvalume_plus,GALVA
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,part,PART #,DESCRIPTION,FL-811
-commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,length,LENGTH,DESCRIPTION,"12'-O"""
+commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,length,LENGTH,DESCRIPTION,"12'-0"""
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,girth,GIRTH,DESCRIPTION,"10%"""
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,weight_each,WEIGHT EACH,DESCRIPTION,8.27#
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
@@ -8534,72 +8534,72 @@ commercial-industrial,51,Box Hang-On Gutter,2,0,column_3,,,"10-2"""
 commercial-industrial,51,Box Hang-On Gutter,2,0,column_4,,,"17"""
 commercial-industrial,51,Box Hang-On Gutter,2,0,column_5,,,Y2-4:12
 commercial-industrial,51,Box Hang-On Gutter,2,0,column_6,,,11.21#
-commercial-industrial,51,Box Hang-On Gutter,2,0,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,0,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,0,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,2,0,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,0,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,0,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_1,,,"AM"""
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_2,,,"Ay"""
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_3,,,"20'-2"""
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_4,,,"17"""
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_5,,,Y2-4:12
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_6,,,22.234
-commercial-industrial,51,Box Hang-On Gutter,2,1,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,1,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,1,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,2,1,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,1,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,1,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_1,,,"454"""
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_2,,,"Ay."""
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_3,,,"10'-2"""
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_4,,,"17%"""
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_5,,,AV%6-6:12
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_6,,,11.46#
-commercial-industrial,51,Box Hang-On Gutter,2,2,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,2,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,2,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,2,2,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,2,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,2,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_1,,,"456"""
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_2,,,"Ay"""
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_3,,,"20'-2"""
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_4,,,"17%"""
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_5,,,4%6-6:12
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_6,,,22.724
-commercial-industrial,51,Box Hang-On Gutter,2,3,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,3,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,3,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,2,3,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,3,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,3,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_1,,,"4"""
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_2,,,"Ay."""
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_3,,,"10'-2"""
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_4,,,"16 34"""
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_5,,,Y2-4:12
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_6,,,11.04#
-commercial-industrial,51,Box Hang-On Gutter,3,0,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,0,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,0,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,3,0,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,0,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,0,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_1,,,"4"""
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_2,,,"4x2"""
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_3,,,"20'-2"""
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_4,,,"16 34"""
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_5,,,Y2-4:12
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_6,,,21.91#
-commercial-industrial,51,Box Hang-On Gutter,3,1,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,1,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,1,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,3,1,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,1,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,1,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_1,,,"AV"""
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_2,,,"4x2"""
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_3,,,"10'-2"""
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_4,,,"17"""
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_5,,,4VN6-6:12
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_6,,,11.214
-commercial-industrial,51,Box Hang-On Gutter,3,2,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,2,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,2,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,3,2,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,2,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,2,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_1,,,"AVA"""
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_2,,,"Ay."""
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_3,,,"20'-2"""
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_4,,,"17"""
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_5,,,AV%6-6:12
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_6,,,22.234
-commercial-industrial,51,Box Hang-On Gutter,3,3,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,3,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,3,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,3,3,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,3,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,3,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,0,0,part,PART #,DESCRIPTION,FL-14
 commercial-industrial,52,Box Eave Gutter,0,0,dim_a,"DIM ""A""",DESCRIPTION,"Ay"""
 commercial-industrial,52,Box Eave Gutter,0,0,dim_b,"DIM ""B""",DESCRIPTION,"AY"""
@@ -8666,72 +8666,72 @@ commercial-industrial,52,Box Eave Gutter,1,0,column_3,,,"10'-2"""
 commercial-industrial,52,Box Eave Gutter,1,0,column_4,,,"20 %"""
 commercial-industrial,52,Box Eave Gutter,1,0,column_5,,,¥2-4:12
 commercial-industrial,52,Box Eave Gutter,1,0,column_6,,,13.35#
-commercial-industrial,52,Box Eave Gutter,1,0,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,1,0,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,1,0,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,1,0,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,1,0,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,1,0,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,1,1,column_1,,,"AY"""
 commercial-industrial,52,Box Eave Gutter,1,1,column_2,,,"Ay,"""
 commercial-industrial,52,Box Eave Gutter,1,1,column_3,,,"20'-2"""
 commercial-industrial,52,Box Eave Gutter,1,1,column_4,,,"20 V4"""
 commercial-industrial,52,Box Eave Gutter,1,1,column_5,,,Y2-4:12
 commercial-industrial,52,Box Eave Gutter,1,1,column_6,,,26.48#
-commercial-industrial,52,Box Eave Gutter,1,1,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,1,1,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,1,1,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,1,1,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,1,1,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,1,1,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,1,2,column_1,,,"45"""
 commercial-industrial,52,Box Eave Gutter,1,2,column_2,,,"4x2"""
 commercial-industrial,52,Box Eave Gutter,1,2,column_3,,,"10'-2"""
 commercial-industrial,52,Box Eave Gutter,1,2,column_4,,,"20 %"""
 commercial-industrial,52,Box Eave Gutter,1,2,column_5,,,4VN6-6:12
 commercial-industrial,52,Box Eave Gutter,1,2,column_6,,,13.60#
-commercial-industrial,52,Box Eave Gutter,1,2,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,1,2,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,1,2,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,1,2,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,1,2,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,1,2,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,1,3,column_1,,,"4⅝"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_2,,,"AY"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_3,,,"20'-2"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_4,,,"20 %"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_5,,,AN6-6:12
 commercial-industrial,52,Box Eave Gutter,1,3,column_6,,,26.98#
-commercial-industrial,52,Box Eave Gutter,1,3,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,1,3,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,1,3,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,1,3,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,1,3,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,1,3,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,2,0,column_1,,,"4"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_2,,,"4½"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_3,,,"10'-2"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_4,,,"20"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_5,,,V2-4:12
 commercial-industrial,52,Box Eave Gutter,2,0,column_6,,,13.19#
-commercial-industrial,52,Box Eave Gutter,2,0,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,2,0,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,2,0,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,2,0,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,2,0,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,2,0,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,2,1,column_1,,,"4"""
 commercial-industrial,52,Box Eave Gutter,2,1,column_2,,,"Ay"""
 commercial-industrial,52,Box Eave Gutter,2,1,column_3,,,"20'-2"""
 commercial-industrial,52,Box Eave Gutter,2,1,column_4,,,"20"""
 commercial-industrial,52,Box Eave Gutter,2,1,column_5,,,Y2-4:12
 commercial-industrial,52,Box Eave Gutter,2,1,column_6,,,26.16#
-commercial-industrial,52,Box Eave Gutter,2,1,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,2,1,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,2,1,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,2,1,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,2,1,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,2,1,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,2,2,column_1,,,"AV"""
 commercial-industrial,52,Box Eave Gutter,2,2,column_2,,,"Ay"""
 commercial-industrial,52,Box Eave Gutter,2,2,column_3,,,"10'-2"""
 commercial-industrial,52,Box Eave Gutter,2,2,column_4,,,"20 %"""
 commercial-industrial,52,Box Eave Gutter,2,2,column_5,,,AV%6-6:12
 commercial-industrial,52,Box Eave Gutter,2,2,column_6,,,13.35#
-commercial-industrial,52,Box Eave Gutter,2,2,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,2,2,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,2,2,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,2,2,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,2,2,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,2,2,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,2,3,column_1,,,"4%"""
 commercial-industrial,52,Box Eave Gutter,2,3,column_2,,,"Aya"""
 commercial-industrial,52,Box Eave Gutter,2,3,column_3,,,"20'-2"""
 commercial-industrial,52,Box Eave Gutter,2,3,column_4,,,"20%"""
 commercial-industrial,52,Box Eave Gutter,2,3,column_5,,,4M%6-6:12
 commercial-industrial,52,Box Eave Gutter,2,3,column_6,,,26.48#
-commercial-industrial,52,Box Eave Gutter,2,3,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,2,3,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,2,3,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,2,3,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,2,3,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,2,3,column_9,,,✓
 commercial-industrial,52,Residential Gutter,3,0,part,PART #,DESCRIPTION,FL-1000
 commercial-industrial,52,Residential Gutter,3,0,girth,GIRTH,DESCRIPTION,"12%6"""
 commercial-industrial,52,Residential Gutter,3,0,gauge,GAUGE,DESCRIPTION,29
@@ -9635,7 +9635,7 @@ commercial-industrial,65,Panel Starter - AVP Panel,2,0,galvalume_plus,GALVALUME�
 commercial-industrial,65,Panel Starter - AVP Panel,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,65,Panel Starter - AVP Panel,2,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,65,Panel Starter - AVP Panel,2,1,part,PART #,DESCRIPTION,FL-46A
-commercial-industrial,65,Panel Starter - AVP Panel,2,1,length,LENGTH,DESCRIPTION,"12'-O"""
+commercial-industrial,65,Panel Starter - AVP Panel,2,1,length,LENGTH,DESCRIPTION,"12'-0"""
 commercial-industrial,65,Panel Starter - AVP Panel,2,1,girth,GIRTH,DESCRIPTION,"8%"""
 commercial-industrial,65,Panel Starter - AVP Panel,2,1,weight_each,WEIGHT EACH,DESCRIPTION,6.47#
 commercial-industrial,65,Panel Starter - AVP Panel,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
@@ -10550,22 +10550,22 @@ residential,9,Rubber Roof Jack,1,0,column_1,,,-100°F to +437°F
 residential,9,Rubber Roof Jack,1,0,high_temperaturi,HIGH TEMPERATURI,,yl gr
 residential,9,Rubber Roof Jack,1,0,7,7,,"3"""
 residential,9,Rubber Roof Jack,1,0,column_4,,,.0#
-residential,9,Rubber Roof Jack,1,0,column_5,,,v
+residential,9,Rubber Roof Jack,1,0,column_5,,,✓
 residential,9,Rubber Roof Jack,1,1,column_1,,,"""100°F to +437°F"
 residential,9,Rubber Roof Jack,1,1,high_temperaturi,HIGH TEMPERATURI,,"Avy! - 7"""
 residential,9,Rubber Roof Jack,1,1,7,7,,"1"""
 residential,9,Rubber Roof Jack,1,1,column_4,,,.5#
-residential,9,Rubber Roof Jack,1,1,column_5,,,v
+residential,9,Rubber Roof Jack,1,1,column_5,,,✓
 residential,9,Rubber Roof Jack,1,2,column_1,,,"""100°F to +437°F"
 residential,9,Rubber Roof Jack,1,2,high_temperaturi,HIGH TEMPERATURI,,"J"" 243"""
 residential,9,Rubber Roof Jack,1,2,7,7,,"7"""
 residential,9,Rubber Roof Jack,1,2,column_4,,,2.56#
-residential,9,Rubber Roof Jack,1,2,column_5,,,v
+residential,9,Rubber Roof Jack,1,2,column_5,,,✓
 residential,9,Rubber Roof Jack,1,3,column_1,,,-1O00°F to +437°F
 residential,9,Rubber Roof Jack,1,3,high_temperaturi,HIGH TEMPERATURI,,"10"" _ 18"""
 residential,9,Rubber Roof Jack,1,3,7,7,,"25"""
 residential,9,Rubber Roof Jack,1,3,column_4,,,3.860#
-residential,9,Rubber Roof Jack,1,3,column_5,,,v
+residential,9,Rubber Roof Jack,1,3,column_5,,,✓
 residential,9,Retrofit Rubber Roof Jack,2,0,part,PART #,DESCRIPTION,HW-1005
 residential,9,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
@@ -10591,17 +10591,17 @@ residential,9,Retrofit Rubber Roof Jack,3,0,column_1,,,-100°F to +437°F
 residential,9,Retrofit Rubber Roof Jack,3,0,high_temperaturi,HIGH TEMPERATURI,,"Yo"" _ 4"""
 residential,9,Retrofit Rubber Roof Jack,3,0,7,7,,8316
 residential,9,Retrofit Rubber Roof Jack,3,0,column_4,,,.4#
-residential,9,Retrofit Rubber Roof Jack,3,0,column_5,,,v
+residential,9,Retrofit Rubber Roof Jack,3,0,column_5,,,✓
 residential,9,Retrofit Rubber Roof Jack,3,1,column_1,,,-100°F to +437°F
 residential,9,Retrofit Rubber Roof Jack,3,1,high_temperaturi,HIGH TEMPERATURI,,"4"" - gyyl"
 residential,9,Retrofit Rubber Roof Jack,3,1,7,7,,14
 residential,9,Retrofit Rubber Roof Jack,3,1,column_4,,,2.20#
-residential,9,Retrofit Rubber Roof Jack,3,1,column_5,,,v
+residential,9,Retrofit Rubber Roof Jack,3,1,column_5,,,✓
 residential,9,Retrofit Rubber Roof Jack,3,2,column_1,,,"""100°F to +437°F"
 residential,9,Retrofit Rubber Roof Jack,3,2,high_temperaturi,HIGH TEMPERATURI,,"9%"" - 16%"""
 residential,9,Retrofit Rubber Roof Jack,3,2,7,7,,"212"""
 residential,9,Retrofit Rubber Roof Jack,3,2,column_4,,,3.78#
-residential,9,Retrofit Rubber Roof Jack,3,2,column_5,,,v
+residential,9,Retrofit Rubber Roof Jack,3,2,column_5,,,✓
 residential,10,Touch-Up Paint,0,0,part,PART #,DESCRIPTION,HW-304
 residential,10,Touch-Up Paint,0,0,finish,FINISH,DESCRIPTION,Signature® 200
 residential,10,Touch-Up Paint,0,0,size,SIZE,DESCRIPTION,2 ounce
@@ -10616,13 +10616,13 @@ residential,10,Reflective Insulation,1,0,roll_weight,ROLL WEIGHT,DESCRIPTION,31.
 residential,10,Reflective Insulation,1,0,price,PRICE,,✓
 residential,10,Reflective Insulation,1,1,part,PART #,DESCRIPTION,HW-3926
 residential,10,Reflective Insulation,1,1,type,TYPE,DESCRIPTION,SolarGuard
-residential,10,Reflective Insulation,1,1,width,WIDTH,DESCRIPTION,"6'-O"""
-residential,10,Reflective Insulation,1,1,length,LENGTH,DESCRIPTION,"125'-O"""
+residential,10,Reflective Insulation,1,1,width,WIDTH,DESCRIPTION,"6'-0"""
+residential,10,Reflective Insulation,1,1,length,LENGTH,DESCRIPTION,"125'-0"""
 residential,10,Reflective Insulation,1,1,roll_weight,ROLL WEIGHT,DESCRIPTION,46.50#
 residential,10,Reflective Insulation,1,1,price,PRICE,,✓
 residential,10,Scrimless Aluminum Tape,2,0,part,PART #,DESCRIPTION,HW-514
 residential,10,Scrimless Aluminum Tape,2,0,width,WIDTH,DESCRIPTION,"3"""
-residential,10,Scrimless Aluminum Tape,2,0,length,LENGTH,DESCRIPTION,"150'-O"""
+residential,10,Scrimless Aluminum Tape,2,0,length,LENGTH,DESCRIPTION,"150'-0"""
 residential,10,Scrimless Aluminum Tape,2,0,roll_weight,ROLL WEIGHT,DESCRIPTION,1.50#
 residential,10,Scrimless Aluminum Tape,2,0,price,PRICE,,✓
 residential,10,Slimline' Rib Cover,3,0,part,PART #,DESCRIPTION,CF-119
@@ -10831,7 +10831,7 @@ residential,13,Extended Valley,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EA
 residential,13,Extended Valley,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,13,Extended Valley,2,2,part,PART #,DESCRIPTION,AG-240
 residential,13,Extended Valley,2,2,dim_a,"DIM ""A""",DESCRIPTION,"197/16"""
-residential,13,Extended Valley,2,2,length,LENGTH,DESCRIPTION,"14'-O"""
+residential,13,Extended Valley,2,2,length,LENGTH,DESCRIPTION,"14'-0"""
 residential,13,Extended Valley,2,2,girth,GIRTH,DESCRIPTION,"40%"""
 residential,13,Extended Valley,2,2,gauge,GAUGE,DESCRIPTION,29
 residential,13,Extended Valley,2,2,weight_each,"WEIGHT
@@ -10840,7 +10840,7 @@ residential,13,Extended Valley,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EA
 residential,13,Extended Valley,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,13,Extended Valley,2,3,part,PART #,DESCRIPTION,AG-240
 residential,13,Extended Valley,2,3,dim_a,"DIM ""A""",DESCRIPTION,"20%"""
-residential,13,Extended Valley,2,3,length,LENGTH,DESCRIPTION,"14'-O"""
+residential,13,Extended Valley,2,3,length,LENGTH,DESCRIPTION,"14'-0"""
 residential,13,Extended Valley,2,3,girth,GIRTH,DESCRIPTION,"42%"""
 residential,13,Extended Valley,2,3,gauge,GAUGE,DESCRIPTION,26
 residential,13,Extended Valley,2,3,weight_each,"WEIGHT
@@ -10876,7 +10876,7 @@ residential,14,Box Gutter,0,3,weight_each,WEIGHT EACH,DESCRIPTION,21.424
 residential,14,Box Gutter,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 residential,14,Box Gutter,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,14,5K Gutter,1,0,part,PART #,DESCRIPTION,LG-161
-residential,14,5K Gutter,1,0,length,LENGTH,DESCRIPTION,"16'-O"""
+residential,14,5K Gutter,1,0,length,LENGTH,DESCRIPTION,"16'-0"""
 residential,14,5K Gutter,1,0,girth,GIRTH,DESCRIPTION,"12%"""
 residential,14,5K Gutter,1,0,gauge,GAUGE,DESCRIPTION,29
 residential,14,5K Gutter,1,0,weight_each,WEIGHT EACH,DESCRIPTION,9.86#
@@ -10955,7 +10955,7 @@ residential,15,Gutter Apron,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,
 residential,15,Gutter Apron,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,16,"3"" Oval Outlet",0,0,part,PART #,DESCRIPTION,HW-1328
 residential,16,"3"" Oval Outlet",0,0,weight_each,WEIGHT EACH,DESCRIPTION,.244
-residential,16,"3"" Oval Outlet",0,0,galvanized,GALVANIZED,,v
+residential,16,"3"" Oval Outlet",0,0,galvanized,GALVANIZED,,✓
 residential,16,Box Downspout - Straight,1,0,part,PART #,DESCRIPTION,FL-31
 residential,16,Box Downspout - Straight,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 residential,16,Box Downspout - Straight,1,0,girth,GIRTH,DESCRIPTION,"167%"""
@@ -10978,7 +10978,7 @@ residential,16,Box Downspout With 45° Elbow,2,0,weight_each,WEIGHT EACH,DESCRIP
 residential,16,Box Downspout With 45° Elbow,2,0,galvalume_plus,GALVALUME*® PLUS,PRICED PER EACH,✓
 residential,16,Box Downspout With 45° Elbow,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,16,Box Downspout With 45° Elbow,2,1,part,PART #,DESCRIPTION,FL-31E
-residential,16,Box Downspout With 45° Elbow,2,1,length,LENGTH,DESCRIPTION,"14'-O"""
+residential,16,Box Downspout With 45° Elbow,2,1,length,LENGTH,DESCRIPTION,"14'-0"""
 residential,16,Box Downspout With 45° Elbow,2,1,girth,GIRTH,DESCRIPTION,"167%"""
 residential,16,Box Downspout With 45° Elbow,2,1,gauge,GAUGE,DESCRIPTION,26
 residential,16,Box Downspout With 45° Elbow,2,1,weight_each,WEIGHT EACH,DESCRIPTION,15.32#
@@ -11396,13 +11396,13 @@ residential,22,Continuous Cleat,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 residential,22,Continuous Cleat,0,0,girth,GIRTH,DESCRIPTION,"3"""
 residential,22,Continuous Cleat,0,0,gauge,GAUGE,DESCRIPTION,24
 residential,22,Continuous Cleat,0,0,weight_each,WEIGHT EACH,DESCRIPTION,2.45#
-residential,22,Continuous Cleat,0,0,assorted_colors,ASSORTED COLORS,,v
+residential,22,Continuous Cleat,0,0,assorted_colors,ASSORTED COLORS,,✓
 residential,22,Offset Cleat,1,0,part,PART #,DESCRIPTION,FL-337
 residential,22,Offset Cleat,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 residential,22,Offset Cleat,1,0,girth,GIRTH,DESCRIPTION,"Sy"""
 residential,22,Offset Cleat,1,0,gauge,GAUGE,DESCRIPTION,24
 residential,22,Offset Cleat,1,0,weight_each,WEIGHT EACH,DESCRIPTION,2.45#
-residential,22,Offset Cleat,1,0,assorted_colors,ASSORTED COLORS,,v
+residential,22,Offset Cleat,1,0,assorted_colors,ASSORTED COLORS,,✓
 residential,22,Fascia/Soffit Trim,2,0,part,PART #,DESCRIPTION,AG-458
 residential,22,Fascia/Soffit Trim,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
 residential,22,Fascia/Soffit Trim,2,0,girth,GIRTH,DESCRIPTION,"8 5/16"""
@@ -14935,13 +14935,13 @@ ssr,15,Hat Section CHS-1),0,0,part,PART #,DESCRIPTION,HW-3100
 ssr,15,Hat Section CHS-1),0,0,gauge,GAUGE,DESCRIPTION,22
 ssr,15,Hat Section CHS-1),0,0,finish,FINISH,DESCRIPTION,Galvanized
 ssr,15,Hat Section CHS-1),0,0,weight_each,WEIGHT EACH,DESCRIPTION,14.00#
-ssr,15,Hat Section CHS-1),0,0,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,15,Hat Section CHS-1),0,0,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,15,Hat Section CHS-1),0,0,price,PRICE,,✓
 ssr,15,Hat Section CHS-1),0,1,part,PART #,DESCRIPTION,HW-3105
 ssr,15,Hat Section CHS-1),0,1,gauge,GAUGE,DESCRIPTION,16
 ssr,15,Hat Section CHS-1),0,1,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,15,Hat Section CHS-1),0,1,weight_each,WEIGHT EACH,DESCRIPTION,"25,.20#"
-ssr,15,Hat Section CHS-1),0,1,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,15,Hat Section CHS-1),0,1,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,15,Hat Section CHS-1),0,1,price,PRICE,,✓
 ssr,15,Hat Section CHS-1),0,2,part,PART #,DESCRIPTION,HW-3105
 ssr,15,Hat Section CHS-1),0,2,gauge,GAUGE,DESCRIPTION,16
@@ -14959,39 +14959,39 @@ ssr,15,"1"" Sub-Girt (SG-1)",2,0,part,PART #,DESCRIPTION,HW-3120
 ssr,15,"1"" Sub-Girt (SG-1)",2,0,gauge,GAUGE,DESCRIPTION,18
 ssr,15,"1"" Sub-Girt (SG-1)",2,0,finish,FINISH,DESCRIPTION,Galvanized
 ssr,15,"1"" Sub-Girt (SG-1)",2,0,weight_each,WEIGHT EACH,DESCRIPTION,22.00#
-ssr,15,"1"" Sub-Girt (SG-1)",2,0,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,15,"1"" Sub-Girt (SG-1)",2,0,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,15,"1"" Sub-Girt (SG-1)",2,0,price,PRICE,,✓
 ssr,15,"1"" Sub-Girt (SG-1)",2,1,part,PART #,DESCRIPTION,HW-3121
 ssr,15,"1"" Sub-Girt (SG-1)",2,1,gauge,GAUGE,DESCRIPTION,16
 ssr,15,"1"" Sub-Girt (SG-1)",2,1,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,15,"1"" Sub-Girt (SG-1)",2,1,weight_each,WEIGHT EACH,DESCRIPTION,27.40#
-ssr,15,"1"" Sub-Girt (SG-1)",2,1,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,15,"1"" Sub-Girt (SG-1)",2,1,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,15,"1"" Sub-Girt (SG-1)",2,1,price,PRICE,,✓
 ssr,16,"Ya"" Sub-Girt (SG-2)",0,0,part,PART #,DESCRIPTION,HW-3130
 ssr,16,"Ya"" Sub-Girt (SG-2)",0,0,gauge,GAUGE,DESCRIPTION,18
 ssr,16,"Ya"" Sub-Girt (SG-2)",0,0,finish,FINISH,DESCRIPTION,Galvanized
 ssr,16,"Ya"" Sub-Girt (SG-2)",0,0,weight_each,WEIGHT EACH,DESCRIPTION,13.60#
-ssr,16,"Ya"" Sub-Girt (SG-2)",0,0,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,16,"Ya"" Sub-Girt (SG-2)",0,0,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,16,"Ya"" Sub-Girt (SG-2)",0,0,price,PRICE,,✓
 ssr,16,"Ya"" Sub-Girt (SG-2)",0,1,part,PART #,DESCRIPTION,HW-3131
 ssr,16,"Ya"" Sub-Girt (SG-2)",0,1,gauge,GAUGE,DESCRIPTION,16
 ssr,16,"Ya"" Sub-Girt (SG-2)",0,1,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,16,"Ya"" Sub-Girt (SG-2)",0,1,weight_each,WEIGHT EACH,DESCRIPTION,16.40#
-ssr,16,"Ya"" Sub-Girt (SG-2)",0,1,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,16,"Ya"" Sub-Girt (SG-2)",0,1,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,16,"Ya"" Sub-Girt (SG-2)",0,1,price,PRICE,,✓
 ssr,16,Furring Zee,1,0,part,PART #,DESCRIPTION,HW-3020
 ssr,16,Furring Zee,1,0,dim_a,"DIM ""A""",DESCRIPTION,"1%"""
 ssr,16,Furring Zee,1,0,gauge,GAUGE,DESCRIPTION,22
 ssr,16,Furring Zee,1,0,finish,FINISH,DESCRIPTION,Galvanized
 ssr,16,Furring Zee,1,0,weight_each,WEIGHT EACH,DESCRIPTION,3.33#
-ssr,16,Furring Zee,1,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,16,Furring Zee,1,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,16,Furring Zee,1,0,price,PRICE,,✓
 ssr,16,Furring Zee,1,1,part,PART #,DESCRIPTION,HW-3021
 ssr,16,Furring Zee,1,1,dim_a,"DIM ""A""",DESCRIPTION,"2 Ve"""
 ssr,16,Furring Zee,1,1,gauge,GAUGE,DESCRIPTION,22
 ssr,16,Furring Zee,1,1,finish,FINISH,DESCRIPTION,Galvanized
 ssr,16,Furring Zee,1,1,weight_each,WEIGHT EACH,DESCRIPTION,4.39#
-ssr,16,Furring Zee,1,1,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,16,Furring Zee,1,1,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,16,Furring Zee,1,1,price,PRICE,,✓
 ssr,16,Furring Zee,1,2,part,PART #,DESCRIPTION,HW-3022
 ssr,16,Furring Zee,1,2,dim_a,"DIM ""A""",DESCRIPTION,Byer
@@ -15005,33 +15005,33 @@ ssr,16,Furring Zee,1,3,dim_a,"DIM ""A""",DESCRIPTION,"4 Ye"""
 ssr,16,Furring Zee,1,3,gauge,GAUGE,DESCRIPTION,18
 ssr,16,Furring Zee,1,3,finish,FINISH,DESCRIPTION,Galvanized
 ssr,16,Furring Zee,1,3,weight_each,WEIGHT EACH,DESCRIPTION,10.35#
-ssr,16,Furring Zee,1,3,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,16,Furring Zee,1,3,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,16,Furring Zee,1,3,price,PRICE,,✓
 ssr,16,Furring Zee,1,4,part,PART #,DESCRIPTION,HW-3024
 ssr,16,Furring Zee,1,4,dim_a,"DIM ""A""",DESCRIPTION,3 yal
 ssr,16,Furring Zee,1,4,gauge,GAUGE,DESCRIPTION,16
 ssr,16,Furring Zee,1,4,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,16,Furring Zee,1,4,weight_each,WEIGHT EACH,DESCRIPTION,10.54#
-ssr,16,Furring Zee,1,4,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,16,Furring Zee,1,4,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,16,Furring Zee,1,4,price,PRICE,,✓
 ssr,16,Furring Zee,1,5,part,PART #,DESCRIPTION,HW-3025
 ssr,16,Furring Zee,1,5,dim_a,"DIM ""A""",DESCRIPTION,"AV"""
 ssr,16,Furring Zee,1,5,gauge,GAUGE,DESCRIPTION,16
 ssr,16,Furring Zee,1,5,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,16,Furring Zee,1,5,weight_each,WEIGHT EACH,DESCRIPTION,12.60#
-ssr,16,Furring Zee,1,5,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,16,Furring Zee,1,5,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,16,Furring Zee,1,5,price,PRICE,,✓
 ssr,16,Strapping,2,0,part,PART #,DESCRIPTION,FL-569
 ssr,16,Strapping,2,0,gauge,GAUGE,DESCRIPTION,24
 ssr,16,Strapping,2,0,finish,FINISH,DESCRIPTION,White Wash Coat
 ssr,16,Strapping,2,0,weight_each,WEIGHT EACH,DESCRIPTION,84.024
-ssr,16,Strapping,2,0,length,LENGTH,DESCRIPTION,"SOO'-O"""
+ssr,16,Strapping,2,0,length,LENGTH,DESCRIPTION,"SOO'-0"""
 ssr,16,Strapping,2,0,price,PRICE,,✓
 ssr,16,Strapping,2,1,part,PART #,DESCRIPTION,FL-569
 ssr,16,Strapping,2,1,gauge,GAUGE,DESCRIPTION,24
 ssr,16,Strapping,2,1,finish,FINISH,DESCRIPTION,Galvalume?' Plus*
 ssr,16,Strapping,2,1,weight_each,WEIGHT EACH,DESCRIPTION,84.02#
-ssr,16,Strapping,2,1,length,LENGTH,DESCRIPTION,"SOO'-O"""
+ssr,16,Strapping,2,1,length,LENGTH,DESCRIPTION,"SOO'-0"""
 ssr,16,Strapping,2,1,price,PRICE,,✓
 ssr,17,Clip - Low Fixed,0,0,part,PART #,DESCRIPTION,HW-200
 ssr,17,Clip - Low Fixed,0,0,ssr_system,SSR SYSTEM,DESCRIPTION,"Ultra-Dek"""
@@ -15194,7 +15194,7 @@ ssr,21,"Eave Plate - 2"" Standoff",1,0,price,PRICE,,✓
 ssr,21,Floating Eave Plate - Low,2,0,part,PART #,DESCRIPTION,HW-7617
 ssr,21,Floating Eave Plate - Low,2,0,size,SIZE,DESCRIPTION,"VA"" x ¥"" xX 4"""
 ssr,21,Floating Eave Plate - Low,2,0,gauge,GAUGE,DESCRIPTION,14
-ssr,21,Floating Eave Plate - Low,2,0,finish,FINISH,DESCRIPTION,"g'-O"""""
+ssr,21,Floating Eave Plate - Low,2,0,finish,FINISH,DESCRIPTION,"g'-0"""""
 ssr,21,Floating Eave Plate - Low,2,0,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,21,Floating Eave Plate - Low,2,0,length,LENGTH,DESCRIPTION,13.65#
 ssr,21,Floating Eave Plate - Low,2,0,price,PRICE,,✓
@@ -15215,14 +15215,14 @@ ssr,22,"Floating Eave Plate - 2"" Standoff",1,0,price,PRICE,,✓
 ssr,22,Mid-Slope Fixed Plate - Low,2,0,part,PART #,DESCRIPTION,HW-7630
 ssr,22,Mid-Slope Fixed Plate - Low,2,0,size,SIZE,DESCRIPTION,"46"" x 3%"" x 74"""
 ssr,22,Mid-Slope Fixed Plate - Low,2,0,gauge,GAUGE,DESCRIPTION,14
-ssr,22,Mid-Slope Fixed Plate - Low,2,0,finish,FINISH,DESCRIPTION,"10'-O"""
+ssr,22,Mid-Slope Fixed Plate - Low,2,0,finish,FINISH,DESCRIPTION,"10'-0"""
 ssr,22,Mid-Slope Fixed Plate - Low,2,0,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,22,Mid-Slope Fixed Plate - Low,2,0,length,LENGTH,DESCRIPTION,16.28#
 ssr,22,Mid-Slope Fixed Plate - Low,2,0,price,PRICE,,✓
 ssr,22,Mid-Slope Fixed Plate - Low,2,1,part,PART #,DESCRIPTION,HW-7630
 ssr,22,Mid-Slope Fixed Plate - Low,2,1,size,SIZE,DESCRIPTION,"46"" x %"" x 17"""
 ssr,22,Mid-Slope Fixed Plate - Low,2,1,gauge,GAUGE,DESCRIPTION,14
-ssr,22,Mid-Slope Fixed Plate - Low,2,1,finish,FINISH,DESCRIPTION,"10'-O"""
+ssr,22,Mid-Slope Fixed Plate - Low,2,1,finish,FINISH,DESCRIPTION,"10'-0"""
 ssr,22,Mid-Slope Fixed Plate - Low,2,1,weight_each,WEIGHT EACH,DESCRIPTION,Galvanized
 ssr,22,Mid-Slope Fixed Plate - Low,2,1,length,LENGTH,DESCRIPTION,16.7/6#
 ssr,22,Mid-Slope Fixed Plate - Low,2,1,price,PRICE,,✓
@@ -15236,14 +15236,14 @@ ssr,22,Mid-Slope Fixed Plate - Low,2,2,price,PRICE,,✓
 ssr,22,Mid-Slope Fixed Plate - Low,2,3,part,PART #,DESCRIPTION,HW-7631
 ssr,22,Mid-Slope Fixed Plate - Low,2,3,size,SIZE,DESCRIPTION,"4iA6"" x ¥4"" x 17%"""
 ssr,22,Mid-Slope Fixed Plate - Low,2,3,gauge,GAUGE,DESCRIPTION,14
-ssr,22,Mid-Slope Fixed Plate - Low,2,3,finish,FINISH,DESCRIPTION,"20'-O"""
+ssr,22,Mid-Slope Fixed Plate - Low,2,3,finish,FINISH,DESCRIPTION,"20'-0"""
 ssr,22,Mid-Slope Fixed Plate - Low,2,3,weight_each,WEIGHT EACH,DESCRIPTION,Galvanized
 ssr,22,Mid-Slope Fixed Plate - Low,2,3,length,LENGTH,DESCRIPTION,33.52#
 ssr,22,Mid-Slope Fixed Plate - Low,2,3,price,PRICE,,✓
 ssr,22,Mid-Slope Fixed Plate - Low,2,4,part,PART #,DESCRIPTION,HW-7632
 ssr,22,Mid-Slope Fixed Plate - Low,2,4,size,SIZE,DESCRIPTION,"46"" x 3%"" x 174"""
 ssr,22,Mid-Slope Fixed Plate - Low,2,4,gauge,GAUGE,DESCRIPTION,14
-ssr,22,Mid-Slope Fixed Plate - Low,2,4,finish,FINISH,DESCRIPTION,"6'-O"""""
+ssr,22,Mid-Slope Fixed Plate - Low,2,4,finish,FINISH,DESCRIPTION,"6'-0"""""
 ssr,22,Mid-Slope Fixed Plate - Low,2,4,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,22,Mid-Slope Fixed Plate - Low,2,4,length,LENGTH,DESCRIPTION,10.24#
 ssr,22,Mid-Slope Fixed Plate - Low,2,4,price,PRICE,,✓
@@ -15257,91 +15257,91 @@ ssr,22,Mid-Slope Fixed Plate - Low,2,5,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,0,0,part,PART #,DESCRIPTION,HW-7634
 ssr,23,Mid-Slope Fixed Plate - High,0,0,size,SIZE,DESCRIPTION,"Ab"" x A"" x a"""
 ssr,23,Mid-Slope Fixed Plate - High,0,0,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,0,0,finish,FINISH,DESCRIPTION,"10'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,0,0,finish,FINISH,DESCRIPTION,"10'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,0,0,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,23,Mid-Slope Fixed Plate - High,0,0,length,LENGTH,DESCRIPTION,18.62#
 ssr,23,Mid-Slope Fixed Plate - High,0,0,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,0,1,part,PART #,DESCRIPTION,HW-7634
 ssr,23,Mid-Slope Fixed Plate - High,0,1,size,SIZE,DESCRIPTION,"4/6"" x PA"" x A"""
 ssr,23,Mid-Slope Fixed Plate - High,0,1,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,0,1,finish,FINISH,DESCRIPTION,"10'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,0,1,finish,FINISH,DESCRIPTION,"10'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,0,1,weight_each,WEIGHT EACH,DESCRIPTION,Galvanized
 ssr,23,Mid-Slope Fixed Plate - High,0,1,length,LENGTH,DESCRIPTION,19.18#
 ssr,23,Mid-Slope Fixed Plate - High,0,1,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,0,2,part,PART #,DESCRIPTION,HW-7635
 ssr,23,Mid-Slope Fixed Plate - High,0,2,size,SIZE,DESCRIPTION,"A/6"" x PA"" x a"""
 ssr,23,Mid-Slope Fixed Plate - High,0,2,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,0,2,finish,FINISH,DESCRIPTION,"20'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,0,2,finish,FINISH,DESCRIPTION,"20'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,0,2,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,23,Mid-Slope Fixed Plate - High,0,2,length,LENGTH,DESCRIPTION,37.25#
 ssr,23,Mid-Slope Fixed Plate - High,0,2,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,0,3,part,PART #,DESCRIPTION,HW-7635
 ssr,23,Mid-Slope Fixed Plate - High,0,3,size,SIZE,DESCRIPTION,"4/6"" x PA"" x 1"""
 ssr,23,Mid-Slope Fixed Plate - High,0,3,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,0,3,finish,FINISH,DESCRIPTION,"20'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,0,3,finish,FINISH,DESCRIPTION,"20'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,0,3,weight_each,WEIGHT EACH,DESCRIPTION,Galvanized
 ssr,23,Mid-Slope Fixed Plate - High,0,3,length,LENGTH,DESCRIPTION,38.36#
 ssr,23,Mid-Slope Fixed Plate - High,0,3,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,0,4,part,PART #,DESCRIPTION,HW-7636
 ssr,23,Mid-Slope Fixed Plate - High,0,4,size,SIZE,DESCRIPTION,"4/6"" x A"" x 1"""
 ssr,23,Mid-Slope Fixed Plate - High,0,4,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,0,4,finish,FINISH,DESCRIPTION,"6'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,0,4,finish,FINISH,DESCRIPTION,"6'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,0,4,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,23,Mid-Slope Fixed Plate - High,0,4,length,LENGTH,DESCRIPTION,11.72#
 ssr,23,Mid-Slope Fixed Plate - High,0,4,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,0,5,part,PART #,DESCRIPTION,HW-7636
 ssr,23,Mid-Slope Fixed Plate - High,0,5,size,SIZE,DESCRIPTION,"4/6"" x PA"" x a"""
 ssr,23,Mid-Slope Fixed Plate - High,0,5,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,0,5,finish,FINISH,DESCRIPTION,"6'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,0,5,finish,FINISH,DESCRIPTION,"6'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,0,5,weight_each,WEIGHT EACH,DESCRIPTION,Galvanized
 ssr,23,Mid-Slope Fixed Plate - High,0,5,length,LENGTH,DESCRIPTION,12.07#
 ssr,23,Mid-Slope Fixed Plate - High,0,5,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,1,0,part,PART #,DESCRIPTION,HW-7637
 ssr,23,Mid-Slope Fixed Plate - High,1,0,size,SIZE,DESCRIPTION,"4 Ae"" x 1"" x 25/0"""
 ssr,23,Mid-Slope Fixed Plate - High,1,0,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,1,0,finish,FINISH,DESCRIPTION,"6'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,1,0,finish,FINISH,DESCRIPTION,"6'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,1,0,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,23,Mid-Slope Fixed Plate - High,1,0,length,LENGTH,DESCRIPTION,11.724
 ssr,23,Mid-Slope Fixed Plate - High,1,0,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,1,1,part,PART #,DESCRIPTION,HW-7637
 ssr,23,Mid-Slope Fixed Plate - High,1,1,size,SIZE,DESCRIPTION,"4Me"" x 1"" x 2%e"""
 ssr,23,Mid-Slope Fixed Plate - High,1,1,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,1,1,finish,FINISH,DESCRIPTION,"6'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,1,1,finish,FINISH,DESCRIPTION,"6'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,1,1,weight_each,WEIGHT EACH,DESCRIPTION,Galvanized
 ssr,23,Mid-Slope Fixed Plate - High,1,1,length,LENGTH,DESCRIPTION,12.07#
 ssr,23,Mid-Slope Fixed Plate - High,1,1,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,1,2,part,PART #,DESCRIPTION,HW-7638
 ssr,23,Mid-Slope Fixed Plate - High,1,2,size,SIZE,DESCRIPTION,"4\re"" x 1"" x 2%/6"""
 ssr,23,Mid-Slope Fixed Plate - High,1,2,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,1,2,finish,FINISH,DESCRIPTION,"10'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,1,2,finish,FINISH,DESCRIPTION,"10'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,1,2,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,23,Mid-Slope Fixed Plate - High,1,2,length,LENGTH,DESCRIPTION,18.62#
 ssr,23,Mid-Slope Fixed Plate - High,1,2,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,1,3,part,PART #,DESCRIPTION,HW-7638
 ssr,23,Mid-Slope Fixed Plate - High,1,3,size,SIZE,DESCRIPTION,"4 Ae"" x 1"" x 2%A0"""
 ssr,23,Mid-Slope Fixed Plate - High,1,3,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,1,3,finish,FINISH,DESCRIPTION,"10'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,1,3,finish,FINISH,DESCRIPTION,"10'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,1,3,weight_each,WEIGHT EACH,DESCRIPTION,Galvanized
 ssr,23,Mid-Slope Fixed Plate - High,1,3,length,LENGTH,DESCRIPTION,20.118
 ssr,23,Mid-Slope Fixed Plate - High,1,3,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,1,4,part,PART #,DESCRIPTION,HW-7639
 ssr,23,Mid-Slope Fixed Plate - High,1,4,size,SIZE,DESCRIPTION,"4Me"" x 1"" x 2%e"""
 ssr,23,Mid-Slope Fixed Plate - High,1,4,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,1,4,finish,FINISH,DESCRIPTION,"20'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,1,4,finish,FINISH,DESCRIPTION,"20'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,1,4,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,23,Mid-Slope Fixed Plate - High,1,4,length,LENGTH,DESCRIPTION,37.254
 ssr,23,Mid-Slope Fixed Plate - High,1,4,price,PRICE,,✓
 ssr,23,Mid-Slope Fixed Plate - High,1,5,part,PART #,DESCRIPTION,HW-7639
 ssr,23,Mid-Slope Fixed Plate - High,1,5,size,SIZE,DESCRIPTION,"4 ire"" x 1"" x 2%/e"""
 ssr,23,Mid-Slope Fixed Plate - High,1,5,gauge,GAUGE,DESCRIPTION,14
-ssr,23,Mid-Slope Fixed Plate - High,1,5,finish,FINISH,DESCRIPTION,"20'-O"""
+ssr,23,Mid-Slope Fixed Plate - High,1,5,finish,FINISH,DESCRIPTION,"20'-0"""
 ssr,23,Mid-Slope Fixed Plate - High,1,5,weight_each,WEIGHT EACH,DESCRIPTION,Galvanized
 ssr,23,Mid-Slope Fixed Plate - High,1,5,length,LENGTH,DESCRIPTION,40.224
 ssr,23,Mid-Slope Fixed Plate - High,1,5,price,PRICE,,✓
 ssr,23,"Mid-Slope Fixed Plate - 2"" Standoff",2,0,part,PART #,DESCRIPTION,HW-7662
 ssr,23,"Mid-Slope Fixed Plate - 2"" Standoff",2,0,size,SIZE,DESCRIPTION,"5"" x 2"" x 1/6"""
 ssr,23,"Mid-Slope Fixed Plate - 2"" Standoff",2,0,gauge,GAUGE,DESCRIPTION,14
-ssr,23,"Mid-Slope Fixed Plate - 2"" Standoff",2,0,finish,FINISH,DESCRIPTION,"6'-O"""""
+ssr,23,"Mid-Slope Fixed Plate - 2"" Standoff",2,0,finish,FINISH,DESCRIPTION,"6'-0"""""
 ssr,23,"Mid-Slope Fixed Plate - 2"" Standoff",2,0,weight_each,WEIGHT EACH,DESCRIPTION,Red Oxide
 ssr,23,"Mid-Slope Fixed Plate - 2"" Standoff",2,0,length,LENGTH,DESCRIPTION,12.60#
 ssr,23,"Mid-Slope Fixed Plate - 2"" Standoff",2,0,price,PRICE,,✓
@@ -15370,7 +15370,7 @@ ssr,25,Rake Support - Low,0,0,part,PART #,DESCRIPTION,HW-7710
 ssr,25,Rake Support - Low,0,0,ssr_system,SSR SYSTEM,DESCRIPTION,UD & DL
 ssr,25,Rake Support - Low,0,0,size,SIZE,DESCRIPTION,"3%"" xX 2Y2"""
 ssr,25,Rake Support - Low,0,0,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - Low,0,0,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - Low,0,0,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - Low,0,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,25,Rake Support - Low,0,0,weight_each,WEIGHT EACH,DESCRIPTION,27.57#
 ssr,25,Rake Support - Low,0,0,price,PRICE,,✓
@@ -15378,7 +15378,7 @@ ssr,25,Rake Support - Low,0,1,part,PART #,DESCRIPTION,HW-7710
 ssr,25,Rake Support - Low,0,1,ssr_system,SSR SYSTEM,DESCRIPTION,UD & DL
 ssr,25,Rake Support - Low,0,1,size,SIZE,DESCRIPTION,"3 ¥3"" x 272"""
 ssr,25,Rake Support - Low,0,1,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - Low,0,1,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - Low,0,1,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - Low,0,1,finish,FINISH,DESCRIPTION,Galvanized
 ssr,25,Rake Support - Low,0,1,weight_each,WEIGHT EACH,DESCRIPTION,28.39#
 ssr,25,Rake Support - Low,0,1,price,PRICE,,✓
@@ -15386,7 +15386,7 @@ ssr,25,Rake Support - Low,0,2,part,PART #,DESCRIPTION,HW-7712
 ssr,25,Rake Support - Low,0,2,ssr_system,SSR SYSTEM,DESCRIPTION,BL & SLK
 ssr,25,Rake Support - Low,0,2,size,SIZE,DESCRIPTION,"2%8"" x SY"""
 ssr,25,Rake Support - Low,0,2,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - Low,0,2,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - Low,0,2,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - Low,0,2,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,25,Rake Support - Low,0,2,weight_each,WEIGHT EACH,DESCRIPTION,27.57#
 ssr,25,Rake Support - Low,0,2,price,PRICE,,✓
@@ -15394,7 +15394,7 @@ ssr,25,Rake Support - Low,0,3,part,PART #,DESCRIPTION,HW-7712
 ssr,25,Rake Support - Low,0,3,ssr_system,SSR SYSTEM,DESCRIPTION,BL & SLK
 ssr,25,Rake Support - Low,0,3,size,SIZE,DESCRIPTION,"29%"" x SYA"""
 ssr,25,Rake Support - Low,0,3,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - Low,0,3,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - Low,0,3,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - Low,0,3,finish,FINISH,DESCRIPTION,Galvanized
 ssr,25,Rake Support - Low,0,3,weight_each,WEIGHT EACH,DESCRIPTION,28.39#
 ssr,25,Rake Support - Low,0,3,price,PRICE,,✓
@@ -15402,7 +15402,7 @@ ssr,25,Rake Support - High,1,0,part,PART #,DESCRIPTION,HW-7720
 ssr,25,Rake Support - High,1,0,ssr_system,SSR SYSTEM,DESCRIPTION,UD & DL
 ssr,25,Rake Support - High,1,0,size,SIZE,DESCRIPTION,"4A Ye"" x 1Y2"""
 ssr,25,Rake Support - High,1,0,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - High,1,0,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - High,1,0,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - High,1,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,25,Rake Support - High,1,0,weight_each,WEIGHT EACH,DESCRIPTION,27.57#
 ssr,25,Rake Support - High,1,0,price,PRICE,,✓
@@ -15410,7 +15410,7 @@ ssr,25,Rake Support - High,1,1,part,PART #,DESCRIPTION,HW-7720
 ssr,25,Rake Support - High,1,1,ssr_system,SSR SYSTEM,DESCRIPTION,UD & DL
 ssr,25,Rake Support - High,1,1,size,SIZE,DESCRIPTION,"AY"" xX 1/2"""
 ssr,25,Rake Support - High,1,1,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - High,1,1,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - High,1,1,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - High,1,1,finish,FINISH,DESCRIPTION,Galvanized
 ssr,25,Rake Support - High,1,1,weight_each,WEIGHT EACH,DESCRIPTION,28.39#
 ssr,25,Rake Support - High,1,1,price,PRICE,,✓
@@ -15418,7 +15418,7 @@ ssr,25,Rake Support - High,1,2,part,PART #,DESCRIPTION,HW-7722
 ssr,25,Rake Support - High,1,2,ssr_system,SSR SYSTEM,DESCRIPTION,BL & SLK
 ssr,25,Rake Support - High,1,2,size,SIZE,DESCRIPTION,"3"" xX 27%"""
 ssr,25,Rake Support - High,1,2,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - High,1,2,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - High,1,2,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - High,1,2,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,25,Rake Support - High,1,2,weight_each,WEIGHT EACH,DESCRIPTION,27.57#
 ssr,25,Rake Support - High,1,2,price,PRICE,,✓
@@ -15426,7 +15426,7 @@ ssr,25,Rake Support - High,1,3,part,PART #,DESCRIPTION,HW-7722
 ssr,25,Rake Support - High,1,3,ssr_system,SSR SYSTEM,DESCRIPTION,BL & SLK
 ssr,25,Rake Support - High,1,3,size,SIZE,DESCRIPTION,"3"" xX 27%"""
 ssr,25,Rake Support - High,1,3,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - High,1,3,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - High,1,3,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - High,1,3,finish,FINISH,DESCRIPTION,Galvanized
 ssr,25,Rake Support - High,1,3,weight_each,WEIGHT EACH,DESCRIPTION,28.39#
 ssr,25,Rake Support - High,1,3,price,PRICE,,✓
@@ -15434,7 +15434,7 @@ ssr,25,Rake Support - Utility,2,0,part,PART #,DESCRIPTION,HW-7722
 ssr,25,Rake Support - Utility,2,0,ssr_system,SSR SYSTEM,DESCRIPTION,UD
 ssr,25,Rake Support - Utility,2,0,size,SIZE,DESCRIPTION,"3"" x 27%"""
 ssr,25,Rake Support - Utility,2,0,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - Utility,2,0,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - Utility,2,0,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - Utility,2,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,25,Rake Support - Utility,2,0,weight_each,WEIGHT EACH,DESCRIPTION,27.57#
 ssr,25,Rake Support - Utility,2,0,price,PRICE,,✓
@@ -15442,7 +15442,7 @@ ssr,25,Rake Support - Utility,2,1,part,PART #,DESCRIPTION,HW-7722
 ssr,25,Rake Support - Utility,2,1,ssr_system,SSR SYSTEM,DESCRIPTION,UD
 ssr,25,Rake Support - Utility,2,1,size,SIZE,DESCRIPTION,"3"" x 27%"""
 ssr,25,Rake Support - Utility,2,1,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - Utility,2,1,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - Utility,2,1,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - Utility,2,1,finish,FINISH,DESCRIPTION,Galvanized
 ssr,25,Rake Support - Utility,2,1,weight_each,WEIGHT EACH,DESCRIPTION,28.39#
 ssr,25,Rake Support - Utility,2,1,price,PRICE,,✓
@@ -15450,7 +15450,7 @@ ssr,25,Rake Support - Utility,2,2,part,PART #,DESCRIPTION,HW-7732
 ssr,25,Rake Support - Utility,2,2,ssr_system,SSR SYSTEM,DESCRIPTION,BL & SLK
 ssr,25,Rake Support - Utility,2,2,size,SIZE,DESCRIPTION,"2"" x 37%"""
 ssr,25,Rake Support - Utility,2,2,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - Utility,2,2,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - Utility,2,2,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - Utility,2,2,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,25,Rake Support - Utility,2,2,weight_each,WEIGHT EACH,DESCRIPTION,27.57#
 ssr,25,Rake Support - Utility,2,2,price,PRICE,,✓
@@ -15458,7 +15458,7 @@ ssr,25,Rake Support - Utility,2,3,part,PART #,DESCRIPTION,HW-7732
 ssr,25,Rake Support - Utility,2,3,ssr_system,SSR SYSTEM,DESCRIPTION,BL & SLK
 ssr,25,Rake Support - Utility,2,3,size,SIZE,DESCRIPTION,"2"" x 37%"""
 ssr,25,Rake Support - Utility,2,3,gauge,GAUGE,DESCRIPTION,14
-ssr,25,Rake Support - Utility,2,3,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,25,Rake Support - Utility,2,3,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,25,Rake Support - Utility,2,3,finish,FINISH,DESCRIPTION,Galvanized
 ssr,25,Rake Support - Utility,2,3,weight_each,WEIGHT EACH,DESCRIPTION,28.39#
 ssr,25,Rake Support - Utility,2,3,price,PRICE,,✓
@@ -15466,7 +15466,7 @@ ssr,26,"Rake Support 2"" Standoff",0,0,part,PART #,DESCRIPTION,HW-7664
 ssr,26,"Rake Support 2"" Standoff",0,0,ssr_system,SSR SYSTEM,DESCRIPTION,DL
 ssr,26,"Rake Support 2"" Standoff",0,0,size,SIZE,DESCRIPTION,"5"" x 2 1SAg"""
 ssr,26,"Rake Support 2"" Standoff",0,0,gauge,GAUGE,DESCRIPTION,14
-ssr,26,"Rake Support 2"" Standoff",0,0,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,26,"Rake Support 2"" Standoff",0,0,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,26,"Rake Support 2"" Standoff",0,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,26,"Rake Support 2"" Standoff",0,0,weight_each,WEIGHT EACH,DESCRIPTION,37.31#
 ssr,26,"Rake Support 2"" Standoff",0,0,price,PRICE,,✓
@@ -15502,7 +15502,7 @@ ssr,27,Valley Support Plate,0,0,part,PART #,DESCRIPTION,P-100
 ssr,27,Valley Support Plate,0,0,ssr_system,SSR SYSTEM,DESCRIPTION,UD & DL BL & SLK
 ssr,27,Valley Support Plate,0,0,gauge,GAUGE,DESCRIPTION,14
 ssr,27,Valley Support Plate,0,0,girth,GIRTH,DESCRIPTION,"36"""
-ssr,27,Valley Support Plate,0,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,27,Valley Support Plate,0,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,27,Valley Support Plate,0,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,27,Valley Support Plate,0,0,weight_each,WEIGHT EACH,DESCRIPTION,84.47#
 ssr,27,Valley Support Plate,0,0,price,PRICE,,✓
@@ -15510,7 +15510,7 @@ ssr,27,Valley Support Plate,1,0,part,PART #,DESCRIPTION,P-101
 ssr,27,Valley Support Plate,1,0,ssr_system,SSR SYSTEM,DESCRIPTION,UD & DL. BL &SLK
 ssr,27,Valley Support Plate,1,0,gauge,GAUGE,DESCRIPTION,14
 ssr,27,Valley Support Plate,1,0,girth,GIRTH,DESCRIPTION,"36"""
-ssr,27,Valley Support Plate,1,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,27,Valley Support Plate,1,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,27,Valley Support Plate,1,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,27,Valley Support Plate,1,0,weight_each,WEIGHT EACH,DESCRIPTION,84.47#
 ssr,27,Valley Support Plate,1,0,price,PRICE,,✓
@@ -15518,7 +15518,7 @@ ssr,27,Valley Support Plate,2,0,part,PART #,DESCRIPTION,P-105
 ssr,27,Valley Support Plate,2,0,ssr_system,SSR SYSTEM,DESCRIPTION,BL & SLK
 ssr,27,Valley Support Plate,2,0,gauge,GAUGE,DESCRIPTION,14
 ssr,27,Valley Support Plate,2,0,girth,GIRTH,DESCRIPTION,"36"""
-ssr,27,Valley Support Plate,2,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,27,Valley Support Plate,2,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,27,Valley Support Plate,2,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,27,Valley Support Plate,2,0,weight_each,WEIGHT EACH,DESCRIPTION,70.39#
 ssr,27,Valley Support Plate,2,0,price,PRICE,,✓
@@ -15534,7 +15534,7 @@ ssr,28,Valley Support Plate,1,0,part,PART #,DESCRIPTION,P-110
 ssr,28,Valley Support Plate,1,0,ssr_system,SSR SYSTEM,DESCRIPTION,UD & DL
 ssr,28,Valley Support Plate,1,0,gauge,GAUGE,DESCRIPTION,14
 ssr,28,Valley Support Plate,1,0,girth,GIRTH,DESCRIPTION,"48"""
-ssr,28,Valley Support Plate,1,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,28,Valley Support Plate,1,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,28,Valley Support Plate,1,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,28,Valley Support Plate,1,0,weight_each,WEIGHT EACH,DESCRIPTION,112.62#
 ssr,28,Valley Support Plate,1,0,price,PRICE,,✓
@@ -15550,7 +15550,7 @@ ssr,28,Valley Support Plate,3,0,part,PART #,DESCRIPTION,P-164
 ssr,28,Valley Support Plate,3,0,ssr_system,SSR SYSTEM,DESCRIPTION,BL & SLK UD & OL
 ssr,28,Valley Support Plate,3,0,gauge,GAUGE,DESCRIPTION,14
 ssr,28,Valley Support Plate,3,0,girth,GIRTH,DESCRIPTION,"30"""
-ssr,28,Valley Support Plate,3,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,28,Valley Support Plate,3,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,28,Valley Support Plate,3,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,28,Valley Support Plate,3,0,weight_each,WEIGHT EACH,DESCRIPTION,70.39#
 ssr,28,Valley Support Plate,3,0,price,PRICE,,✓
@@ -15558,7 +15558,7 @@ ssr,29,Valley Support Plate,0,0,part,PART #,DESCRIPTION,P-162
 ssr,29,Valley Support Plate,0,0,ssr_system,SSR SYSTEM,DESCRIPTION,BL &SLK UD & DL.
 ssr,29,Valley Support Plate,0,0,gauge,GAUGE,DESCRIPTION,14
 ssr,29,Valley Support Plate,0,0,girth,GIRTH,DESCRIPTION,"48"""
-ssr,29,Valley Support Plate,0,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,29,Valley Support Plate,0,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,29,Valley Support Plate,0,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,29,Valley Support Plate,0,0,weight_each,WEIGHT EACH,DESCRIPTION,112.62#
 ssr,29,Valley Support Plate,0,0,price,PRICE,,✓
@@ -15566,7 +15566,7 @@ ssr,29,Valley Support Plate,1,0,part,PART #,DESCRIPTION,P-163
 ssr,29,Valley Support Plate,1,0,ssr_system,SSR SYSTEM,DESCRIPTION,DL
 ssr,29,Valley Support Plate,1,0,gauge,GAUGE,DESCRIPTION,14
 ssr,29,Valley Support Plate,1,0,girth,GIRTH,DESCRIPTION,"48"""
-ssr,29,Valley Support Plate,1,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,29,Valley Support Plate,1,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,29,Valley Support Plate,1,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,29,Valley Support Plate,1,0,weight_each,WEIGHT EACH,DESCRIPTION,112.62#
 ssr,29,Valley Support Plate,1,0,price,PRICE,,✓
@@ -15574,7 +15574,7 @@ ssr,29,Hip Support Plate,2,0,part,PART #,DESCRIPTION,P-140
 ssr,29,Hip Support Plate,2,0,ssr_system,SSR SYSTEM,DESCRIPTION,BL & SLK UD & DL
 ssr,29,Hip Support Plate,2,0,gauge,GAUGE,DESCRIPTION,14
 ssr,29,Hip Support Plate,2,0,girth,GIRTH,DESCRIPTION,"23%"""
-ssr,29,Hip Support Plate,2,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,29,Hip Support Plate,2,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,29,Hip Support Plate,2,0,finish,FINISH,DESCRIPTION,Red Oxide
 ssr,29,Hip Support Plate,2,0,weight_each,WEIGHT EACH,DESCRIPTION,54.85#
 ssr,29,Hip Support Plate,2,0,price,PRICE,,✓
@@ -15745,7 +15745,7 @@ ssr,33,Tape Sealer - Triple Bead,0,0,part,PART #,DESCRIPTION,HW-502
 ssr,33,Tape Sealer - Triple Bead,0,0,type,TYPE,DESCRIPTION,Butyl
 ssr,33,Tape Sealer - Triple Bead,0,0,width,WIDTH,DESCRIPTION,"2 Va"""
 ssr,33,Tape Sealer - Triple Bead,0,0,thickness,THICKNESS,DESCRIPTION,36
-ssr,33,Tape Sealer - Triple Bead,0,0,length,LENGTH,DESCRIPTION,"20'-O"""
+ssr,33,Tape Sealer - Triple Bead,0,0,length,LENGTH,DESCRIPTION,"20'-0"""
 ssr,33,Tape Sealer - Triple Bead,0,0,carton_qty,CARTON QTY,DESCRIPTION,6 rolls
 ssr,33,Tape Sealer - Triple Bead,0,0,carton_weight,"CARTON
 WEIGHT",DESCRIPTION,23.00#
@@ -15754,7 +15754,7 @@ ssr,33,Tape Sealer - Tri-Bead,1,0,part,PART #,DESCRIPTION,HW-504
 ssr,33,Tape Sealer - Tri-Bead,1,0,type,TYPE,DESCRIPTION,Butyl
 ssr,33,Tape Sealer - Tri-Bead,1,0,width,WIDTH,DESCRIPTION,"Ya""!"
 ssr,33,Tape Sealer - Tri-Bead,1,0,thickness,THICKNESS,DESCRIPTION,36
-ssr,33,Tape Sealer - Tri-Bead,1,0,length,LENGTH,DESCRIPTION,"25'-O"""
+ssr,33,Tape Sealer - Tri-Bead,1,0,length,LENGTH,DESCRIPTION,"25'-0"""
 ssr,33,Tape Sealer - Tri-Bead,1,0,carton_qty,CARTON QTY,DESCRIPTION,8 rolls
 ssr,33,Tape Sealer - Tri-Bead,1,0,carton_weight,"CARTON
 WEIGHT",DESCRIPTION,"20,.00#"
@@ -15822,7 +15822,7 @@ ssr,34,Flexible Membrane,2,1,roll_weight,ROLL WEIGHT,DESCRIPTION,30.00#
 ssr,34,Flexible Membrane,2,1,price,PRICE,,✓
 ssr,35,Double Faced Tape,0,0,part,PART #,DESCRIPTION,HW-522
 ssr,35,Double Faced Tape,0,0,width,WIDTH,DESCRIPTION,"yA"""
-ssr,35,Double Faced Tape,0,0,roll_length,ROLL LENGTH,DESCRIPTION,"180'-O"""
+ssr,35,Double Faced Tape,0,0,roll_length,ROLL LENGTH,DESCRIPTION,"180'-0"""
 ssr,35,Double Faced Tape,0,0,roll_weight,ROLL WEIGHT,DESCRIPTION,1.00#
 ssr,35,Double Faced Tape,0,0,price,PRICE,,✓
 ssr,35,Thermal Spacers,1,0,part,PART #,DESCRIPTION,HW-5S75
@@ -15942,18 +15942,18 @@ ssr,36,Tube Sealant,0,6,price,PRICE,,✓
 ssr,36,Reflective Insulation,1,0,part,PART #,DESCRIPTION,HW-3925
 ssr,36,Reflective Insulation,1,0,type,TYPE,DESCRIPTION,SolarGuard
 ssr,36,Reflective Insulation,1,0,width,WIDTH,DESCRIPTION,"A'-0O"""
-ssr,36,Reflective Insulation,1,0,length,LENGTH,DESCRIPTION,"125'-O"""
+ssr,36,Reflective Insulation,1,0,length,LENGTH,DESCRIPTION,"125'-0"""
 ssr,36,Reflective Insulation,1,0,roll_weight,ROLL WEIGHT,DESCRIPTION,31.00#
 ssr,36,Reflective Insulation,1,0,price,PRICE,,✓
 ssr,36,Reflective Insulation,1,1,part,PART #,DESCRIPTION,HW-3926
 ssr,36,Reflective Insulation,1,1,type,TYPE,DESCRIPTION,SolarGuard
-ssr,36,Reflective Insulation,1,1,width,WIDTH,DESCRIPTION,"6'-O"""
-ssr,36,Reflective Insulation,1,1,length,LENGTH,DESCRIPTION,"125'-O"""
+ssr,36,Reflective Insulation,1,1,width,WIDTH,DESCRIPTION,"6'-0"""
+ssr,36,Reflective Insulation,1,1,length,LENGTH,DESCRIPTION,"125'-0"""
 ssr,36,Reflective Insulation,1,1,roll_weight,ROLL WEIGHT,DESCRIPTION,46.50#
 ssr,36,Reflective Insulation,1,1,price,PRICE,,✓
 ssr,36,Scrimless Aluminum Tape,2,0,part,PART #,DESCRIPTION,HW-514
 ssr,36,Scrimless Aluminum Tape,2,0,width,WIDTH,DESCRIPTION,"3"""
-ssr,36,Scrimless Aluminum Tape,2,0,length,LENGTH,DESCRIPTION,"150'-O"""
+ssr,36,Scrimless Aluminum Tape,2,0,length,LENGTH,DESCRIPTION,"150'-0"""
 ssr,36,Scrimless Aluminum Tape,2,0,roll_weight,ROLL WEIGHT,DESCRIPTION,1.50#
 ssr,36,Scrimless Aluminum Tape,2,0,price,PRICE,,✓
 ssr,37,Bearing Plate,0,0,part,PART #,DESCRIPTION,HW-7500
@@ -16009,13 +16009,13 @@ ssr,39,Color Strip,1,0,ssr_system,SSR SYSTEM,DESCRIPTION,All
 ssr,39,Color Strip,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,39,Color Strip,1,0,weight_each,WEIGHT EACH,DESCRIPTION,1.30#
 ssr,39,Color Strip,1,0,signature_plus,"SIGNATURE
-PLUS'",,v
+PLUS'",,✓
 ssr,39,Color Strip,1,0,signature_200,"SIGNATURE
-200",,v
+200",,✓
 ssr,39,Color Strip,1,0,signature_300,"SIGNATURE
-300",,v
+300",,✓
 ssr,39,Color Strip,1,0,column_8,,".SIGNATURE""
-300 METALLIC",v
+300 METALLIC",✓
 ssr,40,Spacer Tool,0,0,part,PART #,DESCRIPTION,HW-619
 ssr,40,Spacer Tool,0,0,ssr_system,SSR SYSTEM,DESCRIPTION,UD
 ssr,40,Spacer Tool,0,0,length,LENGTH,DESCRIPTION,"26"""
@@ -16047,108 +16047,108 @@ ssr,41,Rib Locker,1,0,weight_each,WEIGHT EACH,DESCRIPTION,25.00#
 ssr,41,Rib Locker,1,0,price,PRICE,,✓
 ssr,41,Roof Hugger - Model D,2,0,part,PART #,,HW-1240D
 ssr,41,Roof Hugger - Model D,2,0,1_249,"1-
-249",,v
+249",,✓
 ssr,41,Roof Hugger - Model D,2,0,250_499,"250 -
-499",,v
+499",,✓
 ssr,41,Roof Hugger - Model D,2,0,500_749,"500 -
-749",,v
+749",,✓
 ssr,41,Roof Hugger - Model D,2,0,750_999,"750 -
-999",,v
+999",,✓
 ssr,41,Roof Hugger - Model D,2,0,1_000_1_499,"1,000 -
-1,499",,v
+1,499",,✓
 ssr,41,Roof Hugger - Model D,2,0,1_500_1_999,"1,500 -
-1,999",,v
+1,999",,✓
 ssr,41,Roof Hugger - Model D,2,0,2_000_2_999,"2,000 -
-2,999",,v
+2,999",,✓
 ssr,41,Roof Hugger - Model D,2,0,3_000_3_999,"3,000 -
-3,999",,v
+3,999",,✓
 ssr,41,Roof Hugger - Model D,2,0,4_000_4_999,"4,000 -
-4,999",,v
+4,999",,✓
 ssr,41,Roof Hugger - Model D,2,0,5_000_7_499,"5,000 -
-7,499",,v
+7,499",,✓
 ssr,41,Roof Hugger - Model D,2,0,7_500_9_999,"7,500 -
-9,999",,v
+9,999",,✓
 ssr,41,Roof Hugger - Model D,2,0,over_10_000,"OVER
-10,000",,v
+10,000",,✓
 ssr,42,Roof Hugger - Model T,0,0,part,PART #,,HW-1240T
-ssr,42,Roof Hugger - Model T,0,0,1_149,1-149,,v
-ssr,42,Roof Hugger - Model T,0,0,150_249,150 - 249,,v
-ssr,42,Roof Hugger - Model T,0,0,250_499,250 - 499,,v
-ssr,42,Roof Hugger - Model T,0,0,500_749,500 - 749,,v
-ssr,42,Roof Hugger - Model T,0,0,750_999,750 - 999,,v
+ssr,42,Roof Hugger - Model T,0,0,1_149,1-149,,✓
+ssr,42,Roof Hugger - Model T,0,0,150_249,150 - 249,,✓
+ssr,42,Roof Hugger - Model T,0,0,250_499,250 - 499,,✓
+ssr,42,Roof Hugger - Model T,0,0,500_749,500 - 749,,✓
+ssr,42,Roof Hugger - Model T,0,0,750_999,750 - 999,,✓
 ssr,42,Roof Hugger - Model T,0,0,1_000_1_499,"1,000 -
-1,499",,v
+1,499",,✓
 ssr,42,Roof Hugger - Model T,0,0,1_500_1_999,"1,500 -
-1,999",,v
+1,999",,✓
 ssr,42,Roof Hugger - Model T,0,0,2_000_2_999,"2,000 -
-2,999",,v
+2,999",,✓
 ssr,42,Roof Hugger - Model T,0,0,3_000_3_999,"3,000 -
-3,999",,v
+3,999",,✓
 ssr,42,Roof Hugger - Model T,0,0,over_4_000,"OVER
-4,000",,v
+4,000",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,0,part,PART #,DESCRIPTION,HW-1240VRI12
 ssr,42,Roof Hugger - Vertical Rib,1,0,existing_panel_width,"EXISTING PANEL
 WIDTH",DESCRIPTION,"12"""
-ssr,42,Roof Hugger - Vertical Rib,1,0,1_149,1-149,,v
-ssr,42,Roof Hugger - Vertical Rib,1,0,150_249,150 - 249,,v
+ssr,42,Roof Hugger - Vertical Rib,1,0,1_149,1-149,,✓
+ssr,42,Roof Hugger - Vertical Rib,1,0,150_249,150 - 249,,✓
 ssr,42,Roof Hugger - Vertical Rib,1,0,250_499,"250 -
-499",,v
+499",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,0,500_749,"500 -
-749",,v
+749",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,0,750_999,"750 -
-999",,v
+999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,0,1_000_1_499,"1,000 -
-1,499",,v
+1,499",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,0,1_500_1_999,"1,500 -
-1,999",,v
+1,999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,0,2_000_2_999,"2,000 -
-2,999",,v
+2,999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,0,3_000_3_999,"3,000 -
-3,999",,v
+3,999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,0,over_4_000,"OVER
-4,000",,v
+4,000",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,1,part,PART #,DESCRIPTION,HW-1240VRI6
 ssr,42,Roof Hugger - Vertical Rib,1,1,existing_panel_width,"EXISTING PANEL
 WIDTH",DESCRIPTION,"16"""
-ssr,42,Roof Hugger - Vertical Rib,1,1,1_149,1-149,,v
-ssr,42,Roof Hugger - Vertical Rib,1,1,150_249,150 - 249,,v
+ssr,42,Roof Hugger - Vertical Rib,1,1,1_149,1-149,,✓
+ssr,42,Roof Hugger - Vertical Rib,1,1,150_249,150 - 249,,✓
 ssr,42,Roof Hugger - Vertical Rib,1,1,250_499,"250 -
-499",,v
+499",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,1,500_749,"500 -
-749",,v
+749",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,1,750_999,"750 -
-999",,v
+999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,1,1_000_1_499,"1,000 -
-1,499",,v
+1,499",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,1,1_500_1_999,"1,500 -
-1,999",,v
+1,999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,1,2_000_2_999,"2,000 -
-2,999",,v
+2,999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,1,3_000_3_999,"3,000 -
-3,999",,v
+3,999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,1,over_4_000,"OVER
-4,000",,v
+4,000",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,2,part,PART #,DESCRIPTION,HW-1240VRI18
 ssr,42,Roof Hugger - Vertical Rib,1,2,existing_panel_width,"EXISTING PANEL
 WIDTH",DESCRIPTION,"18"""
-ssr,42,Roof Hugger - Vertical Rib,1,2,1_149,1-149,,v
-ssr,42,Roof Hugger - Vertical Rib,1,2,150_249,150 - 249,,v
+ssr,42,Roof Hugger - Vertical Rib,1,2,1_149,1-149,,✓
+ssr,42,Roof Hugger - Vertical Rib,1,2,150_249,150 - 249,,✓
 ssr,42,Roof Hugger - Vertical Rib,1,2,250_499,"250 -
-499",,v
+499",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,2,500_749,"500 -
-749",,v
+749",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,2,750_999,"750 -
-999",,v
+999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,2,1_000_1_499,"1,000 -
-1,499",,v
+1,499",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,2,1_500_1_999,"1,500 -
-1,999",,v
+1,999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,2,2_000_2_999,"2,000 -
-2,999",,v
+2,999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,2,3_000_3_999,"3,000 -
-3,999",,v
+3,999",,✓
 ssr,42,Roof Hugger - Vertical Rib,1,2,over_4_000,"OVER
-4,000",,v
+4,000",,✓
 ssr,43,Touch-Up Paint,0,0,part,PART #,DESCRIPTION,HW-304
 ssr,43,Touch-Up Paint,0,0,finish,FINISH,DESCRIPTION,Signature' 200
 ssr,43,Touch-Up Paint,0,0,size,SIZE,DESCRIPTION,2 ounce
@@ -16175,7 +16175,7 @@ ssr,43,Continuous Vents,2,0,weight_each,WEIGHT EACH,DESCRIPTION,115.00#
 ssr,43,Continuous Vents,2,0,galvalume_plus,GALVALUME PLUS',PRICED PER EACH,✓
 ssr,43,Continuous Vents,2,0,white,WHITE,PRICED PER EACH,✓
 ssr,43,Continuous Vents,2,1,part,PART #,DESCRIPTION,HW-704
-ssr,43,Continuous Vents,2,1,size,SIZE,DESCRIPTION,"12"" x 10'-O"""
+ssr,43,Continuous Vents,2,1,size,SIZE,DESCRIPTION,"12"" x 10'-0"""
 ssr,43,Continuous Vents,2,1,gauge,GAUGE,DESCRIPTION,26
 ssr,43,Continuous Vents,2,1,weight_each,WEIGHT EACH,DESCRIPTION,150.00#
 ssr,43,Continuous Vents,2,1,galvalume_plus,GALVALUME PLUS',PRICED PER EACH,✓
@@ -16202,7 +16202,7 @@ ssr,44,Vent Damper Operator Parts,0,3,weight_each,WEIGHT EACH,DESCRIPTION,.0#
 ssr,44,Vent Damper Operator Parts,0,3,price,PRICE,,✓
 ssr,44,Vent Damper Operator Parts,0,4,part,PART #,DESCRIPTION,HW-712
 ssr,44,Vent Damper Operator Parts,0,4,description,DESCRIPTION,DESCRIPTION,Vent Pull Chain With Handle
-ssr,44,Vent Damper Operator Parts,0,4,priced_per,PRICED PER,DESCRIPTION,"3'-O"" Section"
+ssr,44,Vent Damper Operator Parts,0,4,priced_per,PRICED PER,DESCRIPTION,"3'-0"" Section"
 ssr,44,Vent Damper Operator Parts,0,4,weight_each,WEIGHT EACH,DESCRIPTION,1.00#
 ssr,44,Vent Damper Operator Parts,0,4,price,PRICE,,✓
 ssr,44,Vent Damper Operator Parts,0,5,part,PART #,DESCRIPTION,HW-714
@@ -16317,13 +16317,13 @@ SPACING",DESCRIPTION,"18"""
 ssr,48,Ridge Flashing - Floating,0,0,ssr_system,".SSR
 SYSTEM",DESCRIPTION,UD & DL
 ssr,48,Ridge Flashing - Floating,0,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,48,Ridge Flashing - Floating,0,0,signature_200,"SIGNATURE
-200",,v
+200",,✓
 ssr,48,Ridge Flashing - Floating,0,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,48,Ridge Flashing - Floating,0,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,48,Ridge Flashing - Floating,0,1,part,PART #,DESCRIPTION,FL-202
 ssr,48,Ridge Flashing - Floating,0,1,dim_a,"DIM ""A""",DESCRIPTION,"AVY"""
 ssr,48,Ridge Flashing - Floating,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16338,13 +16338,13 @@ SPACING",DESCRIPTION,"18"""
 ssr,48,Ridge Flashing - Floating,0,1,ssr_system,".SSR
 SYSTEM",DESCRIPTION,UD & DL
 ssr,48,Ridge Flashing - Floating,0,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,48,Ridge Flashing - Floating,0,1,signature_200,"SIGNATURE
-200",,v
+200",,✓
 ssr,48,Ridge Flashing - Floating,0,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,48,Ridge Flashing - Floating,0,1,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,48,Ridge Flashing - Floating,0,2,part,PART #,DESCRIPTION,FL-213
 ssr,48,Ridge Flashing - Floating,0,2,dim_a,"DIM ""A""",DESCRIPTION,"6%"""
 ssr,48,Ridge Flashing - Floating,0,2,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16359,13 +16359,13 @@ SPACING",DESCRIPTION,"24"""
 ssr,48,Ridge Flashing - Floating,0,2,ssr_system,".SSR
 SYSTEM",DESCRIPTION,UD & DL
 ssr,48,Ridge Flashing - Floating,0,2,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,48,Ridge Flashing - Floating,0,2,signature_200,"SIGNATURE
-200",,v
+200",,✓
 ssr,48,Ridge Flashing - Floating,0,2,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,48,Ridge Flashing - Floating,0,2,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,48,Ridge Flashing - Floating,0,3,part,PART #,DESCRIPTION,FL-214
 ssr,48,Ridge Flashing - Floating,0,3,dim_a,"DIM ""A""",DESCRIPTION,7 Vat
 ssr,48,Ridge Flashing - Floating,0,3,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16380,13 +16380,13 @@ SPACING",DESCRIPTION,"24"""
 ssr,48,Ridge Flashing - Floating,0,3,ssr_system,".SSR
 SYSTEM",DESCRIPTION,UD & DL
 ssr,48,Ridge Flashing - Floating,0,3,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,48,Ridge Flashing - Floating,0,3,signature_200,"SIGNATURE
-200",,v
+200",,✓
 ssr,48,Ridge Flashing - Floating,0,3,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,48,Ridge Flashing - Floating,0,3,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,48,Ridge Flashing - Floating,1,0,7_use_w,"7""
 Use w",,"10%"""
 ssr,48,Ridge Flashing - Floating,1,0,10_2_thout_v,".10-2""
@@ -16398,10 +16398,10 @@ ssr,48,Ridge Flashing - Floating,1,0,2_6_4_12_1,".2%6-4:12
 ssr,48,Ridge Flashing - Floating,1,0,15_49,15.49#,,19.124
 ssr,48,Ridge Flashing - Floating,1,0,24,"24""",,"32"""
 ssr,48,Ridge Flashing - Floating,1,0,ud_dl,UD & DL,,UD & DL
-ssr,48,Ridge Flashing - Floating,1,0,v,v,,v
-ssr,48,Ridge Flashing - Floating,1,0,v_2,v,,v
-ssr,48,Ridge Flashing - Floating,1,0,v_3,v,,v
-ssr,48,Ridge Flashing - Floating,1,0,v_4,v,,v
+ssr,48,Ridge Flashing - Floating,1,0,v,v,,✓
+ssr,48,Ridge Flashing - Floating,1,0,v_2,v,,✓
+ssr,48,Ridge Flashing - Floating,1,0,v_3,v,,✓
+ssr,48,Ridge Flashing - Floating,1,0,v_4,v,,✓
 ssr,48,Ridge Flashing - Floating,1,1,7_use_w,"7""
 Use w",,W
 ssr,48,Ridge Flashing - Floating,1,1,10_2_thout_v,".10-2""
@@ -16413,10 +16413,10 @@ ssr,48,Ridge Flashing - Floating,1,1,2_6_4_12_1,".2%6-4:12
 ssr,48,Ridge Flashing - Floating,1,1,15_49,15.49#,,20.114
 ssr,48,Ridge Flashing - Floating,1,1,24,"24""",,"30"""
 ssr,48,Ridge Flashing - Floating,1,1,ud_dl,UD & DL,,UD & DL
-ssr,48,Ridge Flashing - Floating,1,1,v,v,,v
-ssr,48,Ridge Flashing - Floating,1,1,v_2,v,,v
-ssr,48,Ridge Flashing - Floating,1,1,v_3,v,,v
-ssr,48,Ridge Flashing - Floating,1,1,v_4,v,,v
+ssr,48,Ridge Flashing - Floating,1,1,v,v,,✓
+ssr,48,Ridge Flashing - Floating,1,1,v_2,v,,✓
+ssr,48,Ridge Flashing - Floating,1,1,v_3,v,,✓
+ssr,48,Ridge Flashing - Floating,1,1,v_4,v,,✓
 ssr,48,Ridge Flashing - Floating,2,0,column_1,,,"3 Yo"""
 ssr,48,Ridge Flashing - Floating,2,0,column_2,,,"10'-2"""
 ssr,48,Ridge Flashing - Floating,2,0,column_3,,,"15%"""
@@ -16424,10 +16424,10 @@ ssr,48,Ridge Flashing - Floating,2,0,column_4,,,Ya-3 Yal2
 ssr,48,Ridge Flashing - Floating,2,0,column_5,,,10.22#
 ssr,48,Ridge Flashing - Floating,2,0,column_6,,,"18"""
 ssr,48,Ridge Flashing - Floating,2,0,column_7,,,BL & SLK
-ssr,48,Ridge Flashing - Floating,2,0,column_8,,,v
-ssr,48,Ridge Flashing - Floating,2,0,column_9,,,v
-ssr,48,Ridge Flashing - Floating,2,0,column_10,,,v
-ssr,48,Ridge Flashing - Floating,2,0,column_11,,,v
+ssr,48,Ridge Flashing - Floating,2,0,column_8,,,✓
+ssr,48,Ridge Flashing - Floating,2,0,column_9,,,✓
+ssr,48,Ridge Flashing - Floating,2,0,column_10,,,✓
+ssr,48,Ridge Flashing - Floating,2,0,column_11,,,✓
 ssr,48,Ridge Flashing - Floating,2,1,column_1,,,AVyt
 ssr,48,Ridge Flashing - Floating,2,1,column_2,,,"10'-2"""
 ssr,48,Ridge Flashing - Floating,2,1,column_3,,,"17%"""
@@ -16435,10 +16435,10 @@ ssr,48,Ridge Flashing - Floating,2,1,column_4,,,3'%A6-6:12
 ssr,48,Ridge Flashing - Floating,2,1,column_5,,,12.00#
 ssr,48,Ridge Flashing - Floating,2,1,column_6,,,"18"""
 ssr,48,Ridge Flashing - Floating,2,1,column_7,,,BL & SLK
-ssr,48,Ridge Flashing - Floating,2,1,column_8,,,v
-ssr,48,Ridge Flashing - Floating,2,1,column_9,,,v
-ssr,48,Ridge Flashing - Floating,2,1,column_10,,,v
-ssr,48,Ridge Flashing - Floating,2,1,column_11,,,v
+ssr,48,Ridge Flashing - Floating,2,1,column_8,,,✓
+ssr,48,Ridge Flashing - Floating,2,1,column_9,,,✓
+ssr,48,Ridge Flashing - Floating,2,1,column_10,,,✓
+ssr,48,Ridge Flashing - Floating,2,1,column_11,,,✓
 ssr,48,Ridge Flashing - Floating,2,2,column_1,,,"6%"""
 ssr,48,Ridge Flashing - Floating,2,2,column_2,,,"10'-2"""
 ssr,48,Ridge Flashing - Floating,2,2,column_3,,,"21%"""
@@ -16446,10 +16446,10 @@ ssr,48,Ridge Flashing - Floating,2,2,column_4,,,Ya- 3 Yal2
 ssr,48,Ridge Flashing - Floating,2,2,column_5,,,14.744
 ssr,48,Ridge Flashing - Floating,2,2,column_6,,,"24"""
 ssr,48,Ridge Flashing - Floating,2,2,column_7,,,BL & SLK
-ssr,48,Ridge Flashing - Floating,2,2,column_8,,,v
-ssr,48,Ridge Flashing - Floating,2,2,column_9,,,v
-ssr,48,Ridge Flashing - Floating,2,2,column_10,,,v
-ssr,48,Ridge Flashing - Floating,2,2,column_11,,,v
+ssr,48,Ridge Flashing - Floating,2,2,column_8,,,✓
+ssr,48,Ridge Flashing - Floating,2,2,column_9,,,✓
+ssr,48,Ridge Flashing - Floating,2,2,column_10,,,✓
+ssr,48,Ridge Flashing - Floating,2,2,column_11,,,✓
 ssr,48,Ridge Flashing - Floating,2,3,column_1,,,"7 Va"""
 ssr,48,Ridge Flashing - Floating,2,3,column_2,,,"10'-2"""
 ssr,48,Ridge Flashing - Floating,2,3,column_3,,,"23%"""
@@ -16457,10 +16457,10 @@ ssr,48,Ridge Flashing - Floating,2,3,column_4,,,3'%A6-6:12
 ssr,48,Ridge Flashing - Floating,2,3,column_5,,,15. 49#
 ssr,48,Ridge Flashing - Floating,2,3,column_6,,,"24"""
 ssr,48,Ridge Flashing - Floating,2,3,column_7,,,BL & SLK
-ssr,48,Ridge Flashing - Floating,2,3,column_8,,,v
-ssr,48,Ridge Flashing - Floating,2,3,column_9,,,v
-ssr,48,Ridge Flashing - Floating,2,3,column_10,,,v
-ssr,48,Ridge Flashing - Floating,2,3,column_11,,,v
+ssr,48,Ridge Flashing - Floating,2,3,column_8,,,✓
+ssr,48,Ridge Flashing - Floating,2,3,column_9,,,✓
+ssr,48,Ridge Flashing - Floating,2,3,column_10,,,✓
+ssr,48,Ridge Flashing - Floating,2,3,column_11,,,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,0,part,PART #,DESCRIPTION,FL-209
 ssr,48,Ridge/Hip Flashing - Fixed,3,0,dim_a,"DIM ""A""",DESCRIPTION,"6"""
 ssr,48,Ridge/Hip Flashing - Fixed,3,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16475,13 +16475,13 @@ SPACING",DESCRIPTION,"18"""
 ssr,48,Ridge/Hip Flashing - Fixed,3,0,ssr_system,".SSR
 SYSTEM",DESCRIPTION,BL & SLK
 ssr,48,Ridge/Hip Flashing - Fixed,3,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,1,part,PART #,DESCRIPTION,FL-211
 ssr,48,Ridge/Hip Flashing - Fixed,3,1,dim_a,"DIM ""A""",DESCRIPTION,"7"""
 ssr,48,Ridge/Hip Flashing - Fixed,3,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16496,13 +16496,13 @@ SPACING",DESCRIPTION,"18"""
 ssr,48,Ridge/Hip Flashing - Fixed,3,1,ssr_system,".SSR
 SYSTEM",DESCRIPTION,BL & SLK
 ssr,48,Ridge/Hip Flashing - Fixed,3,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,1,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,1,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,2,part,PART #,DESCRIPTION,FL-212
 ssr,48,Ridge/Hip Flashing - Fixed,3,2,dim_a,"DIM ""A""",DESCRIPTION,"ny"""
 ssr,48,Ridge/Hip Flashing - Fixed,3,2,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16517,13 +16517,13 @@ SPACING",DESCRIPTION,"24"""
 ssr,48,Ridge/Hip Flashing - Fixed,3,2,ssr_system,".SSR
 SYSTEM",DESCRIPTION,BL & SLK
 ssr,48,Ridge/Hip Flashing - Fixed,3,2,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,2,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,2,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,48,Ridge/Hip Flashing - Fixed,3,2,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flashing,0,0,part,PART #,DESCRIPTION,FL-300
 ssr,49,Ridge Flashing,0,0,dim_a,"DIM ""A""",DESCRIPTION,"A Yo"""
 ssr,49,Ridge Flashing,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16536,13 +16536,13 @@ ssr,49,Ridge Flashing,0,0,peak_purlin_spacing,"PEAK
 PURLIN.
 SPACING",DESCRIPTION,"18"""
 ssr,49,Ridge Flashing,0,0,galvalume_plus,"GALVALUME
-PLUS",,v
+PLUS",,✓
 ssr,49,Ridge Flashing,0,0,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flashing,0,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flashing,0,0,signature_300_metallic,".SIGNATURE
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flashing,0,1,part,PART #,DESCRIPTION,FL-302
 ssr,49,Ridge Flashing,0,1,dim_a,"DIM ""A""",DESCRIPTION,"5"""
 ssr,49,Ridge Flashing,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16555,13 +16555,13 @@ ssr,49,Ridge Flashing,0,1,peak_purlin_spacing,"PEAK
 PURLIN.
 SPACING",DESCRIPTION,"18"""
 ssr,49,Ridge Flashing,0,1,galvalume_plus,"GALVALUME
-PLUS",,v
+PLUS",,✓
 ssr,49,Ridge Flashing,0,1,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flashing,0,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flashing,0,1,signature_300_metallic,".SIGNATURE
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flashing,0,2,part,PART #,DESCRIPTION,FL-303
 ssr,49,Ridge Flashing,0,2,dim_a,"DIM ""A""",DESCRIPTION,"7 Vp"""
 ssr,49,Ridge Flashing,0,2,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16574,13 +16574,13 @@ ssr,49,Ridge Flashing,0,2,peak_purlin_spacing,"PEAK
 PURLIN.
 SPACING",DESCRIPTION,"24"""
 ssr,49,Ridge Flashing,0,2,galvalume_plus,"GALVALUME
-PLUS",,v
+PLUS",,✓
 ssr,49,Ridge Flashing,0,2,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flashing,0,2,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flashing,0,2,signature_300_metallic,".SIGNATURE
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flashing,0,3,part,PART #,DESCRIPTION,FL-304
 ssr,49,Ridge Flashing,0,3,dim_a,"DIM ""A""",DESCRIPTION,"38y%"""
 ssr,49,Ridge Flashing,0,3,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16593,13 +16593,13 @@ ssr,49,Ridge Flashing,0,3,peak_purlin_spacing,"PEAK
 PURLIN.
 SPACING",DESCRIPTION,"24"""
 ssr,49,Ridge Flashing,0,3,galvalume_plus,"GALVALUME
-PLUS",,v
+PLUS",,✓
 ssr,49,Ridge Flashing,0,3,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flashing,0,3,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flashing,0,3,signature_300_metallic,".SIGNATURE
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,0,part,PART #,DESCRIPTION,FL-540
 ssr,49,Ridge Flashing For Metal Vent,1,0,dim_a,"DIM ""A""",DESCRIPTION,"By"""
 ssr,49,Ridge Flashing For Metal Vent,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16612,13 +16612,13 @@ ssr,49,Ridge Flashing For Metal Vent,1,0,peak_purlin_spacing,"PEAK
 PURLIN
 'SPACING",DESCRIPTION,"18"""
 ssr,49,Ridge Flashing For Metal Vent,1,0,column_9,,"GALVALUME
-PLUS",v
+PLUS",✓
 ssr,49,Ridge Flashing For Metal Vent,1,0,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,1,part,PART #,DESCRIPTION,FL-541
 ssr,49,Ridge Flashing For Metal Vent,1,1,dim_a,"DIM ""A""",DESCRIPTION,"6"""
 ssr,49,Ridge Flashing For Metal Vent,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16631,13 +16631,13 @@ ssr,49,Ridge Flashing For Metal Vent,1,1,peak_purlin_spacing,"PEAK
 PURLIN
 'SPACING",DESCRIPTION,"18"""
 ssr,49,Ridge Flashing For Metal Vent,1,1,column_9,,"GALVALUME
-PLUS",v
+PLUS",✓
 ssr,49,Ridge Flashing For Metal Vent,1,1,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,1,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,2,part,PART #,DESCRIPTION,FL-543
 ssr,49,Ridge Flashing For Metal Vent,1,2,dim_a,"DIM ""A""",DESCRIPTION,"By"""
 ssr,49,Ridge Flashing For Metal Vent,1,2,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16650,13 +16650,13 @@ ssr,49,Ridge Flashing For Metal Vent,1,2,peak_purlin_spacing,"PEAK
 PURLIN
 'SPACING",DESCRIPTION,"24"""
 ssr,49,Ridge Flashing For Metal Vent,1,2,column_9,,"GALVALUME
-PLUS",v
+PLUS",✓
 ssr,49,Ridge Flashing For Metal Vent,1,2,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,2,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,2,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,3,part,PART #,DESCRIPTION,FL-544
 ssr,49,Ridge Flashing For Metal Vent,1,3,dim_a,"DIM ""A""",DESCRIPTION,"Q"""
 ssr,49,Ridge Flashing For Metal Vent,1,3,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16669,13 +16669,13 @@ ssr,49,Ridge Flashing For Metal Vent,1,3,peak_purlin_spacing,"PEAK
 PURLIN
 'SPACING",DESCRIPTION,"24"""
 ssr,49,Ridge Flashing For Metal Vent,1,3,column_9,,"GALVALUME
-PLUS",v
+PLUS",✓
 ssr,49,Ridge Flashing For Metal Vent,1,3,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,3,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flashing For Metal Vent,1,3,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,0,part,PART #,DESCRIPTION,FL-545
 ssr,49,Ridge Flash Metal Vent - Fixed,2,0,dim_a,"DIM ""A""",DESCRIPTION,"87%"""
 ssr,49,Ridge Flash Metal Vent - Fixed,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16690,13 +16690,13 @@ SPACING",DESCRIPTION,"18"""
 ssr,49,Ridge Flash Metal Vent - Fixed,2,0,ssr_system,".SSR
 SYSTEM",DESCRIPTION,BL & SLK
 ssr,49,Ridge Flash Metal Vent - Fixed,2,0,galvalume_plus,"GALVALUME
-PLUS",,v
+PLUS",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,0,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,1,part,PART #,DESCRIPTION,FL-546
 ssr,49,Ridge Flash Metal Vent - Fixed,2,1,dim_a,"DIM ""A""",DESCRIPTION,"gy"""
 ssr,49,Ridge Flash Metal Vent - Fixed,2,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16711,13 +16711,13 @@ SPACING",DESCRIPTION,"18"""
 ssr,49,Ridge Flash Metal Vent - Fixed,2,1,ssr_system,".SSR
 SYSTEM",DESCRIPTION,BL & SLK
 ssr,49,Ridge Flash Metal Vent - Fixed,2,1,galvalume_plus,"GALVALUME
-PLUS",,v
+PLUS",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,1,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,1,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,2,part,PART #,DESCRIPTION,FL-547
 ssr,49,Ridge Flash Metal Vent - Fixed,2,2,dim_a,"DIM ""A""",DESCRIPTION,"Ws"""
 ssr,49,Ridge Flash Metal Vent - Fixed,2,2,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16732,13 +16732,13 @@ SPACING",DESCRIPTION,"24"""
 ssr,49,Ridge Flash Metal Vent - Fixed,2,2,ssr_system,".SSR
 SYSTEM",DESCRIPTION,BL & SLK
 ssr,49,Ridge Flash Metal Vent - Fixed,2,2,galvalume_plus,"GALVALUME
-PLUS",,v
+PLUS",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,2,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,2,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,2,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,part,PART #,DESCRIPTION,FL-548
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,dim_a,"DIM ""A""",DESCRIPTION,"12%"""
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16753,30 +16753,30 @@ SPACING",DESCRIPTION,"24"""
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,ssr_system,".SSR
 SYSTEM",DESCRIPTION,BL & SLK
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,galvalume_plus,"GALVALUME
-PLUS",,v
+PLUS",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,49,Ridge Flash Metal Vent - Fixed,2,3,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,50,Ridge End Cap,0,0,part,PART #,DESCRIPTION,FL-201
 ssr,50,Ridge End Cap,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.5#
 ssr,50,Ridge End Cap,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,50,Ridge End Cap,0,0,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,50,Ridge End Cap,0,0,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,50,Ridge End Cap,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,50,Ridge End Cap,0,1,part,PART #,DESCRIPTION,Perforated Vent Drip
 ssr,50,Ridge End Cap,1,0,part_plus,"PART #
 PLUS""",DESCRIPTION,FL-254
 ssr,50,Ridge End Cap,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,50,Ridge End Cap,1,0,girth,GIRTH,DESCRIPTION,"6%"""
 ssr,50,Ridge End Cap,1,0,weight_each,WEIGHT EACH,DESCRIPTION,5.58#
-ssr,50,Ridge End Cap,1,0,galvalume,GALVALUME,,v
+ssr,50,Ridge End Cap,1,0,galvalume,GALVALUME,,✓
 ssr,50,Ridge End Cap,1,1,part_plus,"PART #
 PLUS""",DESCRIPTION,"""Z"" Closure"
 ssr,50,Ridge End Cap,2,0,part,PART #,DESCRIPTION,FL-360
@@ -16788,13 +16788,13 @@ SYSTEM",DESCRIPTION,UD & DL
 ssr,50,Ridge End Cap,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,4#
 ssr,50,Ridge End Cap,2,0,galvalume_plus,"GALVALUME""
-PLus""",,v
+PLus""",,✓
 ssr,50,Ridge End Cap,2,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,50,Ridge End Cap,2,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,50,Ridge End Cap,2,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,50,Ridge End Cap,2,1,part,PART #,DESCRIPTION,FL-361
 ssr,50,Ridge End Cap,2,1,dim_a,"DIM ""A""",DESCRIPTION,Qn
 ssr,50,Ridge End Cap,2,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16804,13 +16804,13 @@ SYSTEM",DESCRIPTION,BL & SLK
 ssr,50,Ridge End Cap,2,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,3.31#
 ssr,50,Ridge End Cap,2,1,galvalume_plus,"GALVALUME""
-PLus""",,v
+PLus""",,✓
 ssr,50,Ridge End Cap,2,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,50,Ridge End Cap,2,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,50,Ridge End Cap,2,1,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,51,Gutter Strap,0,0,part,PART #,DESCRIPTION,FL-246
 ssr,51,Gutter Strap,0,0,length,LENGTH,DESCRIPTION,"10"""
 ssr,51,Gutter Strap,0,0,girth,GIRTH,DESCRIPTION,ayn
@@ -16826,13 +16826,13 @@ SLOPE",DESCRIPTION,Ya-4.12
 ssr,51,Sculptured Gutter - Standard,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,15.70#
 ssr,51,Sculptured Gutter - Standard,1,0,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,51,Sculptured Gutter - Standard,1,0,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,51,Sculptured Gutter - Standard,1,0,signature_300,"SIGNATURE'
-300",,v
+300",,✓
 ssr,51,Sculptured Gutter - Standard,1,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,51,Sculptured Gutter - Standard,1,1,part,PART #,DESCRIPTION,FL- 241A
 ssr,51,Sculptured Gutter - Standard,1,1,dim_a,"DIM ""A""",DESCRIPTION,"67 gi"""
 ssr,51,Sculptured Gutter - Standard,1,1,length,LENGTH,DESCRIPTION,"20'-2"""
@@ -16842,13 +16842,13 @@ SLOPE",DESCRIPTION,Y-4:12
 ssr,51,Sculptured Gutter - Standard,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,31.14#
 ssr,51,Sculptured Gutter - Standard,1,1,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,51,Sculptured Gutter - Standard,1,1,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,51,Sculptured Gutter - Standard,1,1,signature_300,"SIGNATURE'
-300",,v
+300",,✓
 ssr,51,Sculptured Gutter - Standard,1,1,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,51,Sculptured Gutter - Standard,1,2,part,PART #,DESCRIPTION,FL- 240B
 ssr,51,Sculptured Gutter - Standard,1,2,dim_a,"DIM ""A""",DESCRIPTION,"6!5A6"""
 ssr,51,Sculptured Gutter - Standard,1,2,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16858,13 +16858,13 @@ SLOPE",DESCRIPTION,4\A6-6:12
 ssr,51,Sculptured Gutter - Standard,1,2,weight_each,"WEIGHT
 EACH",DESCRIPTION,16.11#
 ssr,51,Sculptured Gutter - Standard,1,2,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,51,Sculptured Gutter - Standard,1,2,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,51,Sculptured Gutter - Standard,1,2,signature_300,"SIGNATURE'
-300",,v
+300",,✓
 ssr,51,Sculptured Gutter - Standard,1,2,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,51,Sculptured Gutter - Standard,1,3,part,PART #,DESCRIPTION,FL-241B
 ssr,51,Sculptured Gutter - Standard,1,3,dim_a,"DIM ""A""",DESCRIPTION,"6!5A6"""
 ssr,51,Sculptured Gutter - Standard,1,3,length,LENGTH,DESCRIPTION,"20'-2"""
@@ -16874,13 +16874,13 @@ SLOPE",DESCRIPTION,4\A6-6:12
 ssr,51,Sculptured Gutter - Standard,1,3,weight_each,"WEIGHT
 EACH",DESCRIPTION,31.96#
 ssr,51,Sculptured Gutter - Standard,1,3,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,51,Sculptured Gutter - Standard,1,3,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,51,Sculptured Gutter - Standard,1,3,signature_300,"SIGNATURE'
-300",,v
+300",,✓
 ssr,51,Sculptured Gutter - Standard,1,3,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,52,Sculptured Gutter - Optional,0,0,part,PART #,DESCRIPTION,FL-240F
 ssr,52,Sculptured Gutter - Optional,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,52,Sculptured Gutter - Optional,0,0,girth,GIRTH,DESCRIPTION,"24"""
@@ -16889,13 +16889,13 @@ SLOPE",DESCRIPTION,Ya-4:12
 ssr,52,Sculptured Gutter - Optional,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,15.82#
 ssr,52,Sculptured Gutter - Optional,0,0,galvalume_plus,"GALVALUME'
-PLUS",,v
+PLUS",,✓
 ssr,52,Sculptured Gutter - Optional,0,0,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,52,Sculptured Gutter - Optional,0,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,52,Sculptured Gutter - Optional,0,0,signature_300_metallic,".SIGNATURE'
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,52,Sculptured Gutter - Optional,0,1,part,PART #,DESCRIPTION,FL-241F
 ssr,52,Sculptured Gutter - Optional,0,1,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,52,Sculptured Gutter - Optional,0,1,girth,GIRTH,DESCRIPTION,"24"""
@@ -16904,13 +16904,13 @@ SLOPE",DESCRIPTION,Ya- 4:12
 ssr,52,Sculptured Gutter - Optional,0,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,31.394
 ssr,52,Sculptured Gutter - Optional,0,1,galvalume_plus,"GALVALUME'
-PLUS",,v
+PLUS",,✓
 ssr,52,Sculptured Gutter - Optional,0,1,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,52,Sculptured Gutter - Optional,0,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,52,Sculptured Gutter - Optional,0,1,signature_300_metallic,".SIGNATURE'
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,52,Sculptured Gutter - Optional,0,2,part,PART #,DESCRIPTION,Sculptured Gutter - Standard
 ssr,52,Sculptured Gutter - Optional,1,0,part,PART #,DESCRIPTION,FL-247A
 ssr,52,Sculptured Gutter - Optional,1,0,dim_a,"DIM ""A""",DESCRIPTION,"70"""
@@ -16921,13 +16921,13 @@ SLOPE",DESCRIPTION,Ya-4:12
 ssr,52,Sculptured Gutter - Optional,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,17.73#
 ssr,52,Sculptured Gutter - Optional,1,0,galvalume_plus,"GALVALUME'
-PLUS",,v
+PLUS",,✓
 ssr,52,Sculptured Gutter - Optional,1,0,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,52,Sculptured Gutter - Optional,1,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,52,Sculptured Gutter - Optional,1,0,signature_300_metallic,".SIGNATURE'
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,52,Sculptured Gutter - Optional,1,1,part,PART #,DESCRIPTION,FL-248A
 ssr,52,Sculptured Gutter - Optional,1,1,dim_a,"DIM ""A""",DESCRIPTION,"7 56"""
 ssr,52,Sculptured Gutter - Optional,1,1,length,LENGTH,DESCRIPTION,"20'-2"""
@@ -16937,13 +16937,13 @@ SLOPE",DESCRIPTION,Y-412
 ssr,52,Sculptured Gutter - Optional,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,35.50#
 ssr,52,Sculptured Gutter - Optional,1,1,galvalume_plus,"GALVALUME'
-PLUS",,v
+PLUS",,✓
 ssr,52,Sculptured Gutter - Optional,1,1,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,52,Sculptured Gutter - Optional,1,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,52,Sculptured Gutter - Optional,1,1,signature_300_metallic,".SIGNATURE'
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,52,Sculptured Gutter - Optional,1,2,part,PART #,DESCRIPTION,FL-247B
 ssr,52,Sculptured Gutter - Optional,1,2,dim_a,"DIM ""A""",DESCRIPTION,"7 She"""
 ssr,52,Sculptured Gutter - Optional,1,2,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16953,13 +16953,13 @@ SLOPE",DESCRIPTION,4 Yc-6:12
 ssr,52,Sculptured Gutter - Optional,1,2,weight_each,"WEIGHT
 EACH",DESCRIPTION,18.88#
 ssr,52,Sculptured Gutter - Optional,1,2,galvalume_plus,"GALVALUME'
-PLUS",,v
+PLUS",,✓
 ssr,52,Sculptured Gutter - Optional,1,2,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,52,Sculptured Gutter - Optional,1,2,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,52,Sculptured Gutter - Optional,1,2,signature_300_metallic,".SIGNATURE'
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,52,Sculptured Gutter - Optional,1,3,part,PART #,DESCRIPTION,FL-248B
 ssr,52,Sculptured Gutter - Optional,1,3,dim_a,"DIM ""A""",DESCRIPTION,"7 18/6"""
 ssr,52,Sculptured Gutter - Optional,1,3,length,LENGTH,DESCRIPTION,"20'-2"""
@@ -16969,13 +16969,13 @@ SLOPE",DESCRIPTION,4 A6-6:12
 ssr,52,Sculptured Gutter - Optional,1,3,weight_each,"WEIGHT
 EACH",DESCRIPTION,35.77#
 ssr,52,Sculptured Gutter - Optional,1,3,galvalume_plus,"GALVALUME'
-PLUS",,v
+PLUS",,✓
 ssr,52,Sculptured Gutter - Optional,1,3,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,52,Sculptured Gutter - Optional,1,3,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,52,Sculptured Gutter - Optional,1,3,signature_300_metallic,".SIGNATURE'
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,52,Sculptured Gutter - Optional,1,4,part,PART #,DESCRIPTION,Sculptured Gutter - Optional
 ssr,52,Sculptured Gutter - Optional,2,0,part,PART #,DESCRIPTION,FL-247H
 ssr,52,Sculptured Gutter - Optional,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -16985,13 +16985,13 @@ SLOPE",DESCRIPTION,Ya-4:12
 ssr,52,Sculptured Gutter - Optional,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,17.92#
 ssr,52,Sculptured Gutter - Optional,2,0,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,52,Sculptured Gutter - Optional,2,0,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,52,Sculptured Gutter - Optional,2,0,signature_300,"SIGNATURE'
-300",,v
+300",,✓
 ssr,52,Sculptured Gutter - Optional,2,0,signature_300_metallic,".SIGNATURE'
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,52,Sculptured Gutter - Optional,2,1,part,PART #,DESCRIPTION,FL-248H
 ssr,52,Sculptured Gutter - Optional,2,1,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,52,Sculptured Gutter - Optional,2,1,girth,GIRTH,DESCRIPTION,"24"""
@@ -17000,23 +17000,23 @@ SLOPE",DESCRIPTION,Ya- 4:12
 ssr,52,Sculptured Gutter - Optional,2,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,38.824
 ssr,52,Sculptured Gutter - Optional,2,1,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,52,Sculptured Gutter - Optional,2,1,signature_200,"SIGNATURE'
-200",,v
+200",,✓
 ssr,52,Sculptured Gutter - Optional,2,1,signature_300,"SIGNATURE'
-300",,v
+300",,✓
 ssr,52,Sculptured Gutter - Optional,2,1,signature_300_metallic,".SIGNATURE'
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,53,Gutter Ends,0,0,part,PART #,DESCRIPTION,FL-245
 ssr,53,Gutter Ends,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.58#
 ssr,53,Gutter Ends,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,53,Gutter Ends,0,0,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,53,Gutter Ends,0,0,signature_300,"SIGNATURE®*
-300",,v
+300",,✓
 ssr,53,Gutter Ends,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,53,Gutter Ends,0,1,part,PART #,DESCRIPTION,Sculptured Eave Trim
 ssr,53,Gutter Ends,1,0,part,PART #,DESCRIPTION,FL-250
 ssr,53,Gutter Ends,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17024,26 +17024,26 @@ ssr,53,Gutter Ends,1,0,girth,GIRTH,DESCRIPTION,"14%"""
 ssr,53,Gutter Ends,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,9.77#
 ssr,53,Gutter Ends,1,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,53,Gutter Ends,1,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,53,Gutter Ends,1,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,53,Gutter Ends,1,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,53,Gutter Ends,1,1,part,PART #,DESCRIPTION,FL-251
 ssr,53,Gutter Ends,1,1,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,53,Gutter Ends,1,1,girth,GIRTH,DESCRIPTION,"14%"""
 ssr,53,Gutter Ends,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,19.62#
 ssr,53,Gutter Ends,1,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,53,Gutter Ends,1,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,53,Gutter Ends,1,1,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,53,Gutter Ends,1,1,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,53,Gutter Ends,1,2,part,PART #,DESCRIPTION,Sculptured Eave Trim
 ssr,53,Gutter Ends,2,0,part,PART #,DESCRIPTION,FL-252
 ssr,53,Gutter Ends,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17051,39 +17051,39 @@ ssr,53,Gutter Ends,2,0,girth,GIRTH,DESCRIPTION,"15%"""
 ssr,53,Gutter Ends,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,10.46#
 ssr,53,Gutter Ends,2,0,galvalume_plus,"GALVALUME*
-PLUS.",,v
+PLUS.",,✓
 ssr,53,Gutter Ends,2,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,53,Gutter Ends,2,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,53,Gutter Ends,2,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,53,Gutter Ends,2,1,part,PART #,DESCRIPTION,FL-253
 ssr,53,Gutter Ends,2,1,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,53,Gutter Ends,2,1,girth,GIRTH,DESCRIPTION,"15%"""
 ssr,53,Gutter Ends,2,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,21.00#
 ssr,53,Gutter Ends,2,1,galvalume_plus,"GALVALUME*
-PLUS.",,v
+PLUS.",,✓
 ssr,53,Gutter Ends,2,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,53,Gutter Ends,2,1,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,53,Gutter Ends,2,1,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,54,Retro-Fit High Eave Trim,0,0,part,PART #,DESCRIPTION,FL-863
 ssr,54,Retro-Fit High Eave Trim,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,54,Retro-Fit High Eave Trim,0,0,girth,GIRTH,DESCRIPTION,"227%"""
 ssr,54,Retro-Fit High Eave Trim,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,18.924
 ssr,54,Retro-Fit High Eave Trim,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,54,Retro-Fit High Eave Trim,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,54,Retro-Fit High Eave Trim,0,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,54,Retro-Fit High Eave Trim,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,54,Retro-Fit High Eave Trim,0,1,part,PART #,DESCRIPTION,Sculptured High Side Eave Trim
 ssr,54,Retro-Fit High Eave Trim,1,0,part,PART #,DESCRIPTION,FL-265
 ssr,54,Retro-Fit High Eave Trim,1,0,dim_a,"DIM ""A""",DESCRIPTION,"2"""
@@ -17094,13 +17094,13 @@ SLOPE",DESCRIPTION,Ya-1¥412
 ssr,54,Retro-Fit High Eave Trim,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,14.36#
 ssr,54,Retro-Fit High Eave Trim,1,0,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,54,Retro-Fit High Eave Trim,1,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,54,Retro-Fit High Eave Trim,1,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,54,Retro-Fit High Eave Trim,1,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,54,Retro-Fit High Eave Trim,1,1,part,PART #,DESCRIPTION,FL-265B
 ssr,54,Retro-Fit High Eave Trim,1,1,dim_a,"DIM ""A""",DESCRIPTION,"3 Wig"""
 ssr,54,Retro-Fit High Eave Trim,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17110,13 +17110,13 @@ SLOPE",DESCRIPTION,WA6-4:12
 ssr,54,Retro-Fit High Eave Trim,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,14.57#
 ssr,54,Retro-Fit High Eave Trim,1,1,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,54,Retro-Fit High Eave Trim,1,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,54,Retro-Fit High Eave Trim,1,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,54,Retro-Fit High Eave Trim,1,1,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,54,Retro-Fit High Eave Trim,1,2,part,PART #,DESCRIPTION,Offset Panel Cap Trim
 ssr,54,Retro-Fit High Eave Trim,2,0,part,PART #,DESCRIPTION,FL-271
 ssr,54,Retro-Fit High Eave Trim,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17124,52 +17124,52 @@ ssr,54,Retro-Fit High Eave Trim,2,0,girth,GIRTH,DESCRIPTION,7 Vail
 ssr,54,Retro-Fit High Eave Trim,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,4.95#
 ssr,54,Retro-Fit High Eave Trim,2,0,galvalume_plus,"GALVALUME*
-PLUS.",,v
+PLUS.",,✓
 ssr,54,Retro-Fit High Eave Trim,2,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,54,Retro-Fit High Eave Trim,2,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,54,Retro-Fit High Eave Trim,2,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,55,Box Panel Cap Trim,0,0,part,PART #,DESCRIPTION,FL-272
 ssr,55,Box Panel Cap Trim,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,55,Box Panel Cap Trim,0,0,girth,GIRTH,DESCRIPTION,gn
 ssr,55,Box Panel Cap Trim,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,5.27#
 ssr,55,Box Panel Cap Trim,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,55,Box Panel Cap Trim,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,55,Box Panel Cap Trim,0,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,55,Box Panel Cap Trim,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,55,Sculptured Rake Trim,1,0,part,PART #,DESCRIPTION,FL-110
 ssr,55,Sculptured Rake Trim,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,55,Sculptured Rake Trim,1,0,girth,GIRTH,DESCRIPTION,"19%"""
 ssr,55,Sculptured Rake Trim,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,12.69#
 ssr,55,Sculptured Rake Trim,1,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,55,Sculptured Rake Trim,1,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,55,Sculptured Rake Trim,1,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,55,Sculptured Rake Trim,1,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,55,Sculptured Rake Trim,1,1,part,PART #,DESCRIPTION,FL-111
 ssr,55,Sculptured Rake Trim,1,1,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,55,Sculptured Rake Trim,1,1,girth,GIRTH,DESCRIPTION,"19%"""
 ssr,55,Sculptured Rake Trim,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,25.184
 ssr,55,Sculptured Rake Trim,1,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,55,Sculptured Rake Trim,1,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,55,Sculptured Rake Trim,1,1,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,55,Sculptured Rake Trim,1,1,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,55,Sculptured Rake Trim,1,2,part,PART #,DESCRIPTION,Retro-Fit Rake Trim
 ssr,55,Sculptured Rake Trim,2,0,part,PART #,DESCRIPTION,FL-861
 ssr,55,Sculptured Rake Trim,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17177,26 +17177,26 @@ ssr,55,Sculptured Rake Trim,2,0,girth,GIRTH,DESCRIPTION,"20%"""
 ssr,55,Sculptured Rake Trim,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,16.86#
 ssr,55,Sculptured Rake Trim,2,0,galvalume_plus,"GALVALUME*
-PLUS.",,v
+PLUS.",,✓
 ssr,55,Sculptured Rake Trim,2,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,55,Sculptured Rake Trim,2,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,55,Sculptured Rake Trim,2,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,56,Rake Slide,0,0,part,PART #,DESCRIPTION,FL-115
 ssr,56,Rake Slide,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,56,Rake Slide,0,0,girth,GIRTH,DESCRIPTION,"DHA"""
 ssr,56,Rake Slide,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,2.37#
 ssr,56,Rake Slide,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,56,Rake Slide,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,56,Rake Slide,0,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,56,Rake Slide,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,56,Rake Slide,0,1,part,PART #,DESCRIPTION,Rake Slide - High Wind
 ssr,56,Rake Slide,1,0,part,PART #,DESCRIPTION,FL-215
 ssr,56,Rake Slide,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17204,13 +17204,13 @@ ssr,56,Rake Slide,1,0,girth,GIRTH,DESCRIPTION,"3¾"""
 ssr,56,Rake Slide,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,3.10#
 ssr,56,Rake Slide,1,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,56,Rake Slide,1,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,56,Rake Slide,1,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,56,Rake Slide,1,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,56,Rake Slide,1,1,part,PART #,DESCRIPTION,Variable Termination
 ssr,56,Rake Slide,2,0,part,PART #,DESCRIPTION,FL-117
 ssr,56,Rake Slide,2,0,length,LENGTH,DESCRIPTION,"14'-2"""
@@ -17218,13 +17218,13 @@ ssr,56,Rake Slide,2,0,girth,GIRTH,DESCRIPTION,"10%"""
 ssr,56,Rake Slide,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,9.42#
 ssr,56,Rake Slide,2,0,galvalume_plus,"GALVALUME*
-PLUS.",,v
+PLUS.",,✓
 ssr,56,Rake Slide,2,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,56,Rake Slide,2,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,56,Rake Slide,2,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,0,0,part,PART #,DESCRIPTION,FL-120
 ssr,57,Fixed Peak Box - Sculptured Rake,0,0,length,LENGTH,DESCRIPTION,"1-6"""
 ssr,57,Fixed Peak Box - Sculptured Rake,0,0,girth,GIRTH,DESCRIPTION,"2"""
@@ -17233,13 +17233,13 @@ SLOPE",DESCRIPTION,Ya- 6:12
 ssr,57,Fixed Peak Box - Sculptured Rake,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,"2,364"
 ssr,57,Fixed Peak Box - Sculptured Rake,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,0,0,signature_300,"SIGNATURE®*
-300",,v
+300",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,0,1,part,PART #,DESCRIPTION,FL-121
 ssr,57,Fixed Peak Box - Sculptured Rake,0,1,length,LENGTH,DESCRIPTION,"2-6"""
 ssr,57,Fixed Peak Box - Sculptured Rake,0,1,girth,GIRTH,DESCRIPTION,?| mr
@@ -17248,13 +17248,13 @@ SLOPE",DESCRIPTION,Ya-3 Yal2
 ssr,57,Fixed Peak Box - Sculptured Rake,0,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,3.71#
 ssr,57,Fixed Peak Box - Sculptured Rake,0,1,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,0,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,0,1,signature_300,"SIGNATURE®*
-300",,v
+300",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,0,1,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,0,2,part,PART #,DESCRIPTION,Floating Peak Box - Sculptured Rake
 ssr,57,Fixed Peak Box - Sculptured Rake,1,0,part,PART #,DESCRIPTION,FL-125
 ssr,57,Fixed Peak Box - Sculptured Rake,1,0,length,LENGTH,DESCRIPTION,"Qeq"""
@@ -17264,13 +17264,13 @@ SLOPE",DESCRIPTION,Ya-6:12
 ssr,57,Fixed Peak Box - Sculptured Rake,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,5.92#
 ssr,57,Fixed Peak Box - Sculptured Rake,1,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,1,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,1,0,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,1,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,1,1,part,PART #,DESCRIPTION,FL-126
 ssr,57,Fixed Peak Box - Sculptured Rake,1,1,length,LENGTH,DESCRIPTION,"2'-6"""
 ssr,57,Fixed Peak Box - Sculptured Rake,1,1,girth,GIRTH,DESCRIPTION,"37%"""
@@ -17279,67 +17279,67 @@ SLOPE",DESCRIPTION,Y%a-6:13
 ssr,57,Fixed Peak Box - Sculptured Rake,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,7#
 ssr,57,Fixed Peak Box - Sculptured Rake,1,1,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,1,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,1,1,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,1,1,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,1,2,part,PART #,DESCRIPTION,Sculptured Low Eave Corner Box
 ssr,57,Fixed Peak Box - Sculptured Rake,2,0,part,PART #,DESCRIPTION,FL-132
 ssr,57,Fixed Peak Box - Sculptured Rake,2,0,weight_each,WEIGHT EACH,DESCRIPTION,1.69#
 ssr,57,Fixed Peak Box - Sculptured Rake,2,0,galvalume_plus,"GALVALUME""
-PLUS.",,v
+PLUS.",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,2,0,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,2,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,2,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,2,1,part,PART #,DESCRIPTION,FL-132B
 ssr,57,Fixed Peak Box - Sculptured Rake,2,1,weight_each,WEIGHT EACH,DESCRIPTION,1.69#
 ssr,57,Fixed Peak Box - Sculptured Rake,2,1,galvalume_plus,"GALVALUME""
-PLUS.",,v
+PLUS.",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,2,1,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,2,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,57,Fixed Peak Box - Sculptured Rake,2,1,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,58,Sculptured Rake End,0,0,part,PART #,DESCRIPTION,FL-134
 ssr,58,Sculptured Rake End,0,0,weight_each,WEIGHT EACH,DESCRIPTION,1.544
 ssr,58,Sculptured Rake End,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,58,Sculptured Rake End,0,0,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,58,Sculptured Rake End,0,0,signature_300,"SIGNATURE®*
-300",,v
+300",,✓
 ssr,58,Sculptured Rake End,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,58,Sculptured Rake End,0,1,part,PART #,DESCRIPTION,Parapet Peak Box
 ssr,58,Sculptured Rake End,1,0,part,PART #,DESCRIPTION,FL-295
 ssr,58,Sculptured Rake End,1,0,girth,GIRTH,DESCRIPTION,"14"""
 ssr,58,Sculptured Rake End,1,0,weight_each,WEIGHT EACH,DESCRIPTION,2.244
 ssr,58,Sculptured Rake End,1,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,58,Sculptured Rake End,1,0,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,58,Sculptured Rake End,1,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,58,Sculptured Rake End,1,0,signature_300_metallic,".SIGNATURE
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,58,Sculptured Rake End,1,1,part,PART #,DESCRIPTION,FL-297
 ssr,58,Sculptured Rake End,1,1,girth,GIRTH,DESCRIPTION,"16"""
 ssr,58,Sculptured Rake End,1,1,weight_each,WEIGHT EACH,DESCRIPTION,2.76#
 ssr,58,Sculptured Rake End,1,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,58,Sculptured Rake End,1,1,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,58,Sculptured Rake End,1,1,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,58,Sculptured Rake End,1,1,signature_300_metallic,".SIGNATURE
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,58,Sculptured Rake End,1,2,part,PART #,DESCRIPTION,Parapet Corner Box
 ssr,58,Sculptured Rake End,2,0,part,PART #,DESCRIPTION,FL-299
 ssr,58,Sculptured Rake End,2,0,length,LENGTH,DESCRIPTION,"18"""
@@ -17347,26 +17347,26 @@ ssr,58,Sculptured Rake End,2,0,girth,GIRTH,DESCRIPTION,"18"""
 ssr,58,Sculptured Rake End,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,1.75#
 ssr,58,Sculptured Rake End,2,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,58,Sculptured Rake End,2,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,58,Sculptured Rake End,2,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,58,Sculptured Rake End,2,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,59,Flat Eave Trim,0,0,part,PART #,DESCRIPTION,FL-270
 ssr,59,Flat Eave Trim,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,59,Flat Eave Trim,0,0,girth,GIRTH,DESCRIPTION,"1%"""
 ssr,59,Flat Eave Trim,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,8.38#
 ssr,59,Flat Eave Trim,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,59,Flat Eave Trim,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,59,Flat Eave Trim,0,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,59,Flat Eave Trim,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,59,Flat Eave Trim,0,1,part,PART #,DESCRIPTION,Box Eave Trim
 ssr,59,Flat Eave Trim,1,0,part,PART #,DESCRIPTION,FL-325
 ssr,59,Flat Eave Trim,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17374,26 +17374,26 @@ ssr,59,Flat Eave Trim,1,0,girth,GIRTH,DESCRIPTION,"8%"""
 ssr,59,Flat Eave Trim,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,710#
 ssr,59,Flat Eave Trim,1,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,59,Flat Eave Trim,1,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,59,Flat Eave Trim,1,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,59,Flat Eave Trim,1,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,59,Flat Eave Trim,1,1,part,PART #,DESCRIPTION,FL-326
 ssr,59,Flat Eave Trim,1,1,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,59,Flat Eave Trim,1,1,girth,GIRTH,DESCRIPTION,"8%"""
 ssr,59,Flat Eave Trim,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,14.25#
 ssr,59,Flat Eave Trim,1,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,59,Flat Eave Trim,1,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,59,Flat Eave Trim,1,1,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,59,Flat Eave Trim,1,1,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,59,Flat Eave Trim,1,2,part,PART #,DESCRIPTION,Box High Side Eave Trim
 ssr,59,Flat Eave Trim,2,0,part,PART #,DESCRIPTION,FL-332
 ssr,59,Flat Eave Trim,2,0,length,LENGTH,DESCRIPTION,"20'-2"""
@@ -17401,50 +17401,50 @@ ssr,59,Flat Eave Trim,2,0,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,59,Flat Eave Trim,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,26.23#
 ssr,59,Flat Eave Trim,2,0,galvalume_plus,"GALVALUME*
-PLUS.",,v
+PLUS.",,✓
 ssr,59,Flat Eave Trim,2,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,59,Flat Eave Trim,2,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,59,Flat Eave Trim,2,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,60,Box Gutter,0,0,part,PART #,DESCRIPTION,FL-307
 ssr,60,Box Gutter,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,60,Box Gutter,0,0,girth,GIRTH,DESCRIPTION,"24"""
 ssr,60,Box Gutter,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,19.86#
 ssr,60,Box Gutter,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,60,Box Gutter,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,60,Box Gutter,0,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,60,Box Gutter,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,60,Box Gutter,0,1,part,PART #,DESCRIPTION,FL-308
 ssr,60,Box Gutter,0,1,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,60,Box Gutter,0,1,girth,GIRTH,DESCRIPTION,"24"""
 ssr,60,Box Gutter,0,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,34.40#
 ssr,60,Box Gutter,0,1,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,60,Box Gutter,0,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,60,Box Gutter,0,1,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,60,Box Gutter,0,1,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,60,Box Gutter,0,2,part,PART #,DESCRIPTION,Box Gutter End Cap
 ssr,60,Box Gutter,1,0,part,PART #,DESCRIPTION,FL-309
 ssr,60,Box Gutter,1,0,weight_each,WEIGHT EACH,DESCRIPTION,.1#
 ssr,60,Box Gutter,1,0,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,60,Box Gutter,1,0,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,60,Box Gutter,1,0,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,60,Box Gutter,1,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,60,Box Gutter,1,1,part,PART #,DESCRIPTION,Box Gutter Strap
 ssr,60,Box Gutter,2,0,part,PART #,DESCRIPTION,FL-310
 ssr,60,Box Gutter,2,0,length,LENGTH,DESCRIPTION,"10"""
@@ -17452,129 +17452,129 @@ ssr,60,Box Gutter,2,0,girth,GIRTH,DESCRIPTION,Qn
 ssr,60,Box Gutter,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,.4#
 ssr,60,Box Gutter,2,0,galvalume_plus,"GALVALUME*
-PLUS.",,v
+PLUS.",,✓
 ssr,60,Box Gutter,2,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,60,Box Gutter,2,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,60,Box Gutter,2,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,61,Box Rake Trim,0,0,part,PART #,DESCRIPTION,FL-305
 ssr,61,Box Rake Trim,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,61,Box Rake Trim,0,0,girth,GIRTH,DESCRIPTION,"OQ 5%"""
 ssr,61,Box Rake Trim,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,7.96#
 ssr,61,Box Rake Trim,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,61,Box Rake Trim,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,61,Box Rake Trim,0,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,61,Box Rake Trim,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,61,Box Rake Trim,0,1,part,PART #,DESCRIPTION,FL-306
 ssr,61,Box Rake Trim,0,1,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,61,Box Rake Trim,0,1,girth,GIRTH,DESCRIPTION,"Q 5A"""
 ssr,61,Box Rake Trim,0,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,18.83#
 ssr,61,Box Rake Trim,0,1,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,61,Box Rake Trim,0,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,61,Box Rake Trim,0,1,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,61,Box Rake Trim,0,1,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,61,Counterflash,1,0,part,PART #,DESCRIPTION,FL-341
 ssr,61,Counterflash,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,61,Counterflash,1,0,girth,GIRTH,DESCRIPTION,"417"""
 ssr,61,Counterflash,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,3.48#
 ssr,61,Counterflash,1,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,61,Counterflash,1,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,61,Counterflash,1,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,61,Counterflash,1,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,61,Counterflash,1,1,part,PART #,DESCRIPTION,FL-342
 ssr,61,Counterflash,1,1,length,LENGTH,DESCRIPTION,"14'-0"""
 ssr,61,Counterflash,1,1,girth,GIRTH,DESCRIPTION,AVYyt
 ssr,61,Counterflash,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,6.96#
 ssr,61,Counterflash,1,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,61,Counterflash,1,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,61,Counterflash,1,1,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,61,Counterflash,1,1,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,61,Alternate Counterflash,2,0,part,PART #,DESCRIPTION,FL-343
 ssr,61,Alternate Counterflash,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,61,Alternate Counterflash,2,0,girth,GIRTH,DESCRIPTION,Ayn
 ssr,61,Alternate Counterflash,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,3.484
 ssr,61,Alternate Counterflash,2,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,61,Alternate Counterflash,2,0,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,61,Alternate Counterflash,2,0,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,61,Alternate Counterflash,2,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,61,Alternate Counterflash,2,1,part,PART #,DESCRIPTION,FL-344
-ssr,61,Alternate Counterflash,2,1,length,LENGTH,DESCRIPTION,"14'-O"""
+ssr,61,Alternate Counterflash,2,1,length,LENGTH,DESCRIPTION,"14'-0"""
 ssr,61,Alternate Counterflash,2,1,girth,GIRTH,DESCRIPTION,"4 Yo"""
 ssr,61,Alternate Counterflash,2,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,6.96#
 ssr,61,Alternate Counterflash,2,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,61,Alternate Counterflash,2,1,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,61,Alternate Counterflash,2,1,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,61,Alternate Counterflash,2,1,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,62,Panel Starter,0,0,part,PART #,DESCRIPTION,FL-335
 ssr,62,Panel Starter,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,62,Panel Starter,0,0,girth,GIRTH,DESCRIPTION,"3"""
 ssr,62,Panel Starter,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,2.484
 ssr,62,Panel Starter,0,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,62,Panel Starter,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,62,Panel Starter,0,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,62,Panel Starter,0,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,62,Panel Starter,0,1,part,PART #,DESCRIPTION,Continuous Cleat
 ssr,62,Panel Starter,1,0,part,PART #,DESCRIPTION,FL-338
 ssr,62,Panel Starter,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,62,Panel Starter,1,0,girth,GIRTH,DESCRIPTION,"3"""
 ssr,62,Panel Starter,1,0,weight_each,WEIGHT EACH,DESCRIPTION,2.45#
-ssr,62,Panel Starter,1,0,assorted_colors,ASSORTED COLORS,,v
+ssr,62,Panel Starter,1,0,assorted_colors,ASSORTED COLORS,,✓
 ssr,62,Panel Starter,1,1,part,PART #,DESCRIPTION,Offset Cleat
 ssr,62,Panel Starter,2,0,part,PART #,DESCRIPTION,FL-337
 ssr,62,Panel Starter,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,62,Panel Starter,2,0,girth,GIRTH,DESCRIPTION,ZByyn
 ssr,62,Panel Starter,2,0,weight_each,WEIGHT EACH,DESCRIPTION,2.45#
-ssr,62,Panel Starter,2,0,assorted_colors,ASSORTED COLORS,,v
+ssr,62,Panel Starter,2,0,assorted_colors,ASSORTED COLORS,,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,0,0,part,PART #,DESCRIPTION,FL-276
 ssr,63,Parapet High Side Eave Flash - Fixed,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,63,Parapet High Side Eave Flash - Fixed,0,0,girth,GIRTH,DESCRIPTION,"12"""
 ssr,63,Parapet High Side Eave Flash - Fixed,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,7.914
 ssr,63,Parapet High Side Eave Flash - Fixed,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,0,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,0,1,part,PART #,DESCRIPTION,Parapet High Side Eave Flash - Floating
 ssr,63,Parapet High Side Eave Flash - Fixed,1,0,part,PART #,DESCRIPTION,FL-275
 ssr,63,Parapet High Side Eave Flash - Fixed,1,0,dim_a,"DIM ""A""",DESCRIPTION,"By"""
@@ -17583,13 +17583,13 @@ ssr,63,Parapet High Side Eave Flash - Fixed,1,0,girth,GIRTH,DESCRIPTION,"12%"""
 ssr,63,Parapet High Side Eave Flash - Fixed,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,8.244
 ssr,63,Parapet High Side Eave Flash - Fixed,1,0,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,1,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,1,0,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,1,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,1,1,part,PART #,DESCRIPTION,FL-274
 ssr,63,Parapet High Side Eave Flash - Fixed,1,1,dim_a,"DIM ""A""",DESCRIPTION,"ays"""
 ssr,63,Parapet High Side Eave Flash - Fixed,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17597,13 +17597,13 @@ ssr,63,Parapet High Side Eave Flash - Fixed,1,1,girth,GIRTH,DESCRIPTION,"13%"""
 ssr,63,Parapet High Side Eave Flash - Fixed,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,9.26#
 ssr,63,Parapet High Side Eave Flash - Fixed,1,1,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,1,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,1,1,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,1,1,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,1,2,part,PART #,DESCRIPTION,Parapet Rake Flash - Fixed
 ssr,63,Parapet High Side Eave Flash - Fixed,2,0,part,PART #,DESCRIPTION,FL-280
 ssr,63,Parapet High Side Eave Flash - Fixed,2,0,dim_a,"DIM ""A""",DESCRIPTION,2
@@ -17612,13 +17612,13 @@ ssr,63,Parapet High Side Eave Flash - Fixed,2,0,girth,GIRTH,DESCRIPTION,3
 ssr,63,Parapet High Side Eave Flash - Fixed,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,5.27#
 ssr,63,Parapet High Side Eave Flash - Fixed,2,0,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,1,part,PART #,DESCRIPTION,FL-281
 ssr,63,Parapet High Side Eave Flash - Fixed,2,1,dim_a,"DIM ""A""",DESCRIPTION,"4"""
 ssr,63,Parapet High Side Eave Flash - Fixed,2,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17626,13 +17626,13 @@ ssr,63,Parapet High Side Eave Flash - Fixed,2,1,girth,GIRTH,DESCRIPTION,"10"""
 ssr,63,Parapet High Side Eave Flash - Fixed,2,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,6.59#
 ssr,63,Parapet High Side Eave Flash - Fixed,2,1,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,1,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,2,part,PART #,DESCRIPTION,FL-282
 ssr,63,Parapet High Side Eave Flash - Fixed,2,2,dim_a,"DIM ""A""",DESCRIPTION,"6"""
 ssr,63,Parapet High Side Eave Flash - Fixed,2,2,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17640,13 +17640,13 @@ ssr,63,Parapet High Side Eave Flash - Fixed,2,2,girth,GIRTH,DESCRIPTION,"12"""
 ssr,63,Parapet High Side Eave Flash - Fixed,2,2,weight_each,"WEIGHT
 EACH",DESCRIPTION,8.844
 ssr,63,Parapet High Side Eave Flash - Fixed,2,2,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,2,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,2,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,63,Parapet High Side Eave Flash - Fixed,2,2,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,64,Parapet Rake Flash - Floating,0,0,part,PART #,DESCRIPTION,FL-285
 ssr,64,Parapet Rake Flash - Floating,0,0,dim_a,"DIM ""A""",DESCRIPTION,"3"""
 ssr,64,Parapet Rake Flash - Floating,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17654,13 +17654,13 @@ ssr,64,Parapet Rake Flash - Floating,0,0,girth,GIRTH,DESCRIPTION,3
 ssr,64,Parapet Rake Flash - Floating,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,5.27#
 ssr,64,Parapet Rake Flash - Floating,0,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,64,Parapet Rake Flash - Floating,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,64,Parapet Rake Flash - Floating,0,0,signature_300,"SIGNATURE®*
-300",,v
+300",,✓
 ssr,64,Parapet Rake Flash - Floating,0,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,64,Parapet Rake Flash - Floating,0,1,part,PART #,DESCRIPTION,FL-286
 ssr,64,Parapet Rake Flash - Floating,0,1,dim_a,"DIM ""A""",DESCRIPTION,"5"""
 ssr,64,Parapet Rake Flash - Floating,0,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17668,13 +17668,13 @@ ssr,64,Parapet Rake Flash - Floating,0,1,girth,GIRTH,DESCRIPTION,"10"""
 ssr,64,Parapet Rake Flash - Floating,0,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,6.59#
 ssr,64,Parapet Rake Flash - Floating,0,1,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,64,Parapet Rake Flash - Floating,0,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,64,Parapet Rake Flash - Floating,0,1,signature_300,"SIGNATURE®*
-300",,v
+300",,✓
 ssr,64,Parapet Rake Flash - Floating,0,1,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,64,Parapet Rake Flash - Floating,0,2,part,PART #,DESCRIPTION,FL-287
 ssr,64,Parapet Rake Flash - Floating,0,2,dim_a,"DIM ""A""",DESCRIPTION,"7"""
 ssr,64,Parapet Rake Flash - Floating,0,2,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17682,13 +17682,13 @@ ssr,64,Parapet Rake Flash - Floating,0,2,girth,GIRTH,DESCRIPTION,"12"""
 ssr,64,Parapet Rake Flash - Floating,0,2,weight_each,"WEIGHT
 EACH",DESCRIPTION,8.844
 ssr,64,Parapet Rake Flash - Floating,0,2,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,64,Parapet Rake Flash - Floating,0,2,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,64,Parapet Rake Flash - Floating,0,2,signature_300,"SIGNATURE®*
-300",,v
+300",,✓
 ssr,64,Parapet Rake Flash - Floating,0,2,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,64,Parapet Rake Flash - Floating,0,3,part,PART #,DESCRIPTION,Parapet Rake Cleat
 ssr,64,Parapet Rake Flash - Floating,1,0,part,PART #,DESCRIPTION,FL-290
 ssr,64,Parapet Rake Flash - Floating,1,0,dim_a,"DIM ""A""",DESCRIPTION,"3f,"""""
@@ -17697,13 +17697,13 @@ ssr,64,Parapet Rake Flash - Floating,1,0,girth,GIRTH,DESCRIPTION,"ayy"""
 ssr,64,Parapet Rake Flash - Floating,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,1.48#
 ssr,64,Parapet Rake Flash - Floating,1,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,64,Parapet Rake Flash - Floating,1,0,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,64,Parapet Rake Flash - Floating,1,0,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,64,Parapet Rake Flash - Floating,1,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,64,Parapet Rake Flash - Floating,1,1,part,PART #,DESCRIPTION,FL-291
 ssr,64,Parapet Rake Flash - Floating,1,1,dim_a,"DIM ""A""",DESCRIPTION,"1"""
 ssr,64,Parapet Rake Flash - Floating,1,1,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17711,13 +17711,13 @@ ssr,64,Parapet Rake Flash - Floating,1,1,girth,GIRTH,DESCRIPTION,"2 Vo"""
 ssr,64,Parapet Rake Flash - Floating,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,1.65#
 ssr,64,Parapet Rake Flash - Floating,1,1,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,64,Parapet Rake Flash - Floating,1,1,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,64,Parapet Rake Flash - Floating,1,1,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,64,Parapet Rake Flash - Floating,1,1,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,64,Parapet Rake Flash - Floating,1,2,part,PART #,DESCRIPTION,Parapet Rake Cleat - High Wind
 ssr,64,Parapet Rake Flash - Floating,2,0,part,PART #,DESCRIPTION,FL-292
 ssr,64,Parapet Rake Flash - Floating,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17725,78 +17725,78 @@ ssr,64,Parapet Rake Flash - Floating,2,0,girth,GIRTH,DESCRIPTION,Zyyn
 ssr,64,Parapet Rake Flash - Floating,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,2.90#
 ssr,64,Parapet Rake Flash - Floating,2,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,64,Parapet Rake Flash - Floating,2,0,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,64,Parapet Rake Flash - Floating,2,0,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,64,Parapet Rake Flash - Floating,2,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,0,0,part,PART #,DESCRIPTION,FL-31
 ssr,65,Downspout - Straight,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,65,Downspout - Straight,0,0,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,0,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,11.12#
 ssr,65,Downspout - Straight,0,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,0,0,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,0,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,0,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,0,1,part,PART #,DESCRIPTION,FL-31C
-ssr,65,Downspout - Straight,0,1,length,LENGTH,DESCRIPTION,"12'-O"""
+ssr,65,Downspout - Straight,0,1,length,LENGTH,DESCRIPTION,"12'-0"""
 ssr,65,Downspout - Straight,0,1,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,0,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,13.13#
 ssr,65,Downspout - Straight,0,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,0,1,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,0,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,0,1,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,0,2,part,PART #,DESCRIPTION,FL-31B
-ssr,65,Downspout - Straight,0,2,length,LENGTH,DESCRIPTION,"14'-O"""
+ssr,65,Downspout - Straight,0,2,length,LENGTH,DESCRIPTION,"14'-0"""
 ssr,65,Downspout - Straight,0,2,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,0,2,weight_each,"WEIGHT
 EACH",DESCRIPTION,15.32#
 ssr,65,Downspout - Straight,0,2,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,0,2,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,0,2,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,0,2,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,0,3,part,PART #,DESCRIPTION,FL-31J
-ssr,65,Downspout - Straight,0,3,length,LENGTH,DESCRIPTION,"16'-O"""
+ssr,65,Downspout - Straight,0,3,length,LENGTH,DESCRIPTION,"16'-0"""
 ssr,65,Downspout - Straight,0,3,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,0,3,weight_each,"WEIGHT
 EACH",DESCRIPTION,17.51#
 ssr,65,Downspout - Straight,0,3,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,0,3,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,0,3,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,0,3,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,0,4,part,PART #,DESCRIPTION,FL-31H
 ssr,65,Downspout - Straight,0,4,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,65,Downspout - Straight,0,4,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,0,4,weight_each,"WEIGHT
 EACH",DESCRIPTION,22.07#
 ssr,65,Downspout - Straight,0,4,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,0,4,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,0,4,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,0,4,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,0,5,part,PART #,DESCRIPTION,Downspout With 45° Elbow
 ssr,65,Downspout - Straight,1,0,part,PART #,DESCRIPTION,FL-31A
 ssr,65,Downspout - Straight,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
@@ -17804,65 +17804,65 @@ ssr,65,Downspout - Straight,1,0,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,1,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,11.12#
 ssr,65,Downspout - Straight,1,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,1,0,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,1,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,1,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,1,1,part,PART #,DESCRIPTION,FL-31D
 ssr,65,Downspout - Straight,1,1,length,LENGTH,DESCRIPTION,"12'-0"""
 ssr,65,Downspout - Straight,1,1,girth,GIRTH,DESCRIPTION,"16%"""
 ssr,65,Downspout - Straight,1,1,weight_each,"WEIGHT
 EACH",DESCRIPTION,13.13#
 ssr,65,Downspout - Straight,1,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,1,1,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,1,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,1,1,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,1,2,part,PART #,DESCRIPTION,FL-31E
 ssr,65,Downspout - Straight,1,2,length,LENGTH,DESCRIPTION,"14'-Q"""
 ssr,65,Downspout - Straight,1,2,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,1,2,weight_each,"WEIGHT
 EACH",DESCRIPTION,15.32#
 ssr,65,Downspout - Straight,1,2,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,1,2,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,1,2,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,1,2,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,1,3,part,PART #,DESCRIPTION,FL-31|
-ssr,65,Downspout - Straight,1,3,length,LENGTH,DESCRIPTION,"16'-O"""
+ssr,65,Downspout - Straight,1,3,length,LENGTH,DESCRIPTION,"16'-0"""
 ssr,65,Downspout - Straight,1,3,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,1,3,weight_each,"WEIGHT
 EACH",DESCRIPTION,17.51#
 ssr,65,Downspout - Straight,1,3,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,1,3,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,1,3,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,1,3,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,1,4,part,PART #,DESCRIPTION,FL-31G
 ssr,65,Downspout - Straight,1,4,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,65,Downspout - Straight,1,4,girth,GIRTH,DESCRIPTION,"16 7%"""
 ssr,65,Downspout - Straight,1,4,weight_each,"WEIGHT
 EACH",DESCRIPTION,22.07#
 ssr,65,Downspout - Straight,1,4,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,1,4,signature_200,"SIGNATURE""
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,1,4,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,1,4,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,65,Downspout - Straight,1,5,part,PART #,DESCRIPTION,Downspout Strap
 ssr,65,Downspout - Straight,2,0,part,PART #,DESCRIPTION,FL-797
 ssr,65,Downspout - Straight,2,0,length,LENGTH,DESCRIPTION,"1"""
@@ -17870,47 +17870,47 @@ ssr,65,Downspout - Straight,2,0,girth,GIRTH,DESCRIPTION,"10"""
 ssr,65,Downspout - Straight,2,0,weight_each,"WEIGHT
 EACH",DESCRIPTION,.05#
 ssr,65,Downspout - Straight,2,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,65,Downspout - Straight,2,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,65,Downspout - Straight,2,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,65,Downspout - Straight,2,0,signature_300_metallic,".SIGNATURE®
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,66,Rib Covers,0,0,part,PART #,DESCRIPTION,FL-249A
 ssr,66,Rib Covers,0,0,length,LENGTH,DESCRIPTION,gn
 ssr,66,Rib Covers,0,0,weight_each,WEIGHT EACH,DESCRIPTION,.21#
 ssr,66,Rib Covers,0,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,66,Rib Covers,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,66,Rib Covers,0,0,signature_300,"SIGNATURE'
-300",,v
+300",,✓
 ssr,66,Rib Covers,0,0,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,66,Rib Covers,0,1,part,PART #,DESCRIPTION,FL-249B
 ssr,66,Rib Covers,0,1,length,LENGTH,DESCRIPTION,gn
 ssr,66,Rib Covers,0,1,weight_each,WEIGHT EACH,DESCRIPTION,.Wt
 ssr,66,Rib Covers,0,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,66,Rib Covers,0,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,66,Rib Covers,0,1,signature_300,"SIGNATURE'
-300",,v
+300",,✓
 ssr,66,Rib Covers,0,1,signature_300_metallic,".SIGNATURE*
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,66,Light Transmitting Panel Trim,1,0,part,PART #,DESCRIPTION,FL-568
 ssr,66,Light Transmitting Panel Trim,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,66,Light Transmitting Panel Trim,1,0,girth,GIRTH,DESCRIPTION,"6%"""
 ssr,66,Light Transmitting Panel Trim,1,0,weight_each,WEIGHT EACH,DESCRIPTION,4.29#
 ssr,66,Light Transmitting Panel Trim,1,0,galvalume_plus,"GALVALUME®
-PLUS",,v
+PLUS",,✓
 ssr,66,Light Transmitting Panel Trim,1,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,66,Light Transmitting Panel Trim,1,0,signature_300,"SIGNATURE®
-300",,v
+300",,✓
 ssr,66,Light Transmitting Panel Trim,1,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,66,Double-Lok' Repair Cap,2,0,part,PART #,DESCRIPTION,HW-1210
 ssr,66,Double-Lok' Repair Cap,2,0,length,LENGTH,DESCRIPTION,"10'-3"""
 ssr,66,Double-Lok' Repair Cap,2,0,weight_each,WEIGHT EACH,DESCRIPTION,4.37#
@@ -17921,90 +17921,90 @@ ssr,67,Valley,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,67,Valley,0,0,girth,GIRTH,DESCRIPTION,"38"""
 ssr,67,Valley,0,0,weight_each,WEIGHT EACH,DESCRIPTION,31.44#
 ssr,67,Valley,0,0,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,67,Valley,0,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,67,Valley,0,0,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,67,Valley,0,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,67,Valley,0,1,part,PART #,DESCRIPTION,FL-702
-ssr,67,Valley,0,1,length,LENGTH,DESCRIPTION,"14'-O"""
+ssr,67,Valley,0,1,length,LENGTH,DESCRIPTION,"14'-0"""
 ssr,67,Valley,0,1,girth,GIRTH,DESCRIPTION,"38"""
 ssr,67,Valley,0,1,weight_each,WEIGHT EACH,DESCRIPTION,43. 29#
 ssr,67,Valley,0,1,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,67,Valley,0,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,67,Valley,0,1,signature_300,"SIGNATURE""
-300",,v
+300",,✓
 ssr,67,Valley,0,1,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,67,Valley,0,2,part,PART #,DESCRIPTION,Valley
 ssr,67,Valley,1,0,part,PART #,DESCRIPTION,FL-705
 ssr,67,Valley,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,67,Valley,1,0,girth,GIRTH,DESCRIPTION,"27"""
 ssr,67,Valley,1,0,weight_each,WEIGHT EACH,DESCRIPTION,22.344
 ssr,67,Valley,1,0,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,67,Valley,1,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,67,Valley,1,0,signature_300,"SIGNATURE'
-300",,v
+300",,✓
 ssr,67,Valley,1,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,67,Valley,1,1,part,PART #,DESCRIPTION,FL-707
 ssr,67,Valley,1,1,length,LENGTH,DESCRIPTION,"20'-2"""
 ssr,67,Valley,1,1,girth,GIRTH,DESCRIPTION,"27"""
 ssr,67,Valley,1,1,weight_each,WEIGHT EACH,DESCRIPTION,46.16#
 ssr,67,Valley,1,1,galvalume_plus,"GALVALUME*
-PLUS",,v
+PLUS",,✓
 ssr,67,Valley,1,1,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,67,Valley,1,1,signature_300,"SIGNATURE'
-300",,v
+300",,✓
 ssr,67,Valley,1,1,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,67,Valley,1,2,part,PART #,DESCRIPTION,Valley
 ssr,67,Valley,2,0,part,PART #,DESCRIPTION,FL-708
 ssr,67,Valley,2,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,67,Valley,2,0,girth,GIRTH,DESCRIPTION,"48"""
 ssr,67,Valley,2,0,weight_each,WEIGHT EACH,DESCRIPTION,39.71#
 ssr,67,Valley,2,0,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,67,Valley,2,0,signature_200,"SIGNATURE®
-200",,v
+200",,✓
 ssr,67,Valley,2,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,67,Valley,2,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,67,Valley,3,0,part,PART #,DESCRIPTION,FL-711
 ssr,67,Valley,3,0,length,LENGTH,DESCRIPTION,"10'-2"""
 ssr,67,Valley,3,0,girth,GIRTH,DESCRIPTION,"36"""
 ssr,67,Valley,3,0,weight_each,WEIGHT EACH,DESCRIPTION,31.13#
 ssr,67,Valley,3,0,galvalume_plus,"GALVALUME""
-PLUS",,v
+PLUS",,✓
 ssr,67,Valley,3,0,signature_200,"SIGNATURE*
-200",,v
+200",,✓
 ssr,67,Valley,3,0,signature_300,"SIGNATURE*
-300",,v
+300",,✓
 ssr,67,Valley,3,0,signature_300_metallic,".SIGNATURE""
-300 METALLIC",,v
+300 METALLIC",,✓
 ssr,68,BattenLok' HS - Alternate Ridge Channel,0,0,part,PART #,DESCRIPTION,FL-648
-ssr,68,BattenLok' HS - Alternate Ridge Channel,0,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,68,BattenLok' HS - Alternate Ridge Channel,0,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,68,BattenLok' HS - Alternate Ridge Channel,0,0,girth,GIRTH,DESCRIPTION,"7 Va"""
 ssr,68,BattenLok' HS - Alternate Ridge Channel,0,0,weight_each,WEIGHT EACH,DESCRIPTION,12.024
-ssr,68,BattenLok' HS - Alternate Ridge Channel,0,0,galvalume,GALVALUME,,v
+ssr,68,BattenLok' HS - Alternate Ridge Channel,0,0,galvalume,GALVALUME,,✓
 ssr,68,BattenLok' HS - Alternate Transition Channel,1,0,part,PART #,DESCRIPTION,FL-649
-ssr,68,BattenLok' HS - Alternate Transition Channel,1,0,length,LENGTH,DESCRIPTION,"10'-O"""
+ssr,68,BattenLok' HS - Alternate Transition Channel,1,0,length,LENGTH,DESCRIPTION,"10'-0"""
 ssr,68,BattenLok' HS - Alternate Transition Channel,1,0,girth,GIRTH,DESCRIPTION,"ZH"""
 ssr,68,BattenLok' HS - Alternate Transition Channel,1,0,weight_each,WEIGHT EACH,DESCRIPTION,10.57#
-ssr,68,BattenLok' HS - Alternate Transition Channel,1,0,galvalume,GALVALUME,,v
+ssr,68,BattenLok' HS - Alternate Transition Channel,1,0,galvalume,GALVALUME,,✓
 ssr,68,BattenLok' HS - Alternate Channel Coupler,2,0,part,PART #,DESCRIPTION,FL-650
 ssr,68,BattenLok' HS - Alternate Channel Coupler,2,0,length,LENGTH,DESCRIPTION,"5"""
 ssr,68,BattenLok' HS - Alternate Channel Coupler,2,0,girth,GIRTH,DESCRIPTION,"7 7A0"""
 ssr,68,BattenLok' HS - Alternate Channel Coupler,2,0,weight_each,WEIGHT EACH,DESCRIPTION,.29#
-ssr,68,BattenLok' HS - Alternate Channel Coupler,2,0,galvalume,GALVALUME,,v
+ssr,68,BattenLok' HS - Alternate Channel Coupler,2,0,galvalume,GALVALUME,,✓
 ssr,69,,0,0,gauge,GAUGE,,26
 ssr,69,,0,0,galvalume_plus,"GALVALUME""
 PLUS",PRICED PER EACH,✓

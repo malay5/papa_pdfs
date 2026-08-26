@@ -165,22 +165,22 @@ agricultural,11,Rubber Roof Jack,1,0,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,0,high_temperatuf,HIGH TEMPERATUF,,"wy"" — 4"""
 agricultural,11,Rubber Roof Jack,1,0,e,E,,"8"""
 agricultural,11,Rubber Roof Jack,1,0,column_4,,,.50#
-agricultural,11,Rubber Roof Jack,1,0,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,0,column_5,,,✓
 agricultural,11,Rubber Roof Jack,1,1,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,1,high_temperatuf,HIGH TEMPERATUF,,"AM"" . 7"""
 agricultural,11,Rubber Roof Jack,1,1,e,E,,"11"""
 agricultural,11,Rubber Roof Jack,1,1,column_4,,,.5#
-agricultural,11,Rubber Roof Jack,1,1,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,1,column_5,,,✓
 agricultural,11,Rubber Roof Jack,1,2,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,2,high_temperatuf,HIGH TEMPERATUF,,"7"" 43"""
 agricultural,11,Rubber Roof Jack,1,2,e,E,,"17"""
 agricultural,11,Rubber Roof Jack,1,2,column_4,,,2.564
-agricultural,11,Rubber Roof Jack,1,2,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,2,column_5,,,✓
 agricultural,11,Rubber Roof Jack,1,3,column_1,,,-100°F to +437°F
 agricultural,11,Rubber Roof Jack,1,3,high_temperatuf,HIGH TEMPERATUF,,"10"" _ 19"""
 agricultural,11,Rubber Roof Jack,1,3,e,E,,"25"""
 agricultural,11,Rubber Roof Jack,1,3,column_4,,,3.86#
-agricultural,11,Rubber Roof Jack,1,3,column_5,,,v
+agricultural,11,Rubber Roof Jack,1,3,column_5,,,✓
 agricultural,11,Retrofit Rubber Roof Jack,2,0,part,PART #,DESCRIPTION,HW-1005
 agricultural,11,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
@@ -206,17 +206,17 @@ agricultural,11,Retrofit Rubber Roof Jack,3,0,column_1,,,-100°F to +437°F
 agricultural,11,Retrofit Rubber Roof Jack,3,0,high_temperatuf,HIGH TEMPERATUF,,"YQ"" _ A"""
 agricultural,11,Retrofit Rubber Roof Jack,3,0,e,E,,"8 3/16"""
 agricultural,11,Retrofit Rubber Roof Jack,3,0,column_4,,,.144
-agricultural,11,Retrofit Rubber Roof Jack,3,0,column_5,,,v
+agricultural,11,Retrofit Rubber Roof Jack,3,0,column_5,,,✓
 agricultural,11,Retrofit Rubber Roof Jack,3,1,column_1,,,-100°F to +437°F
 agricultural,11,Retrofit Rubber Roof Jack,3,1,high_temperatuf,HIGH TEMPERATUF,,"4"" 9%"""
 agricultural,11,Retrofit Rubber Roof Jack,3,1,e,E,,"14%"""
 agricultural,11,Retrofit Rubber Roof Jack,3,1,column_4,,,2.20#
-agricultural,11,Retrofit Rubber Roof Jack,3,1,column_5,,,v
+agricultural,11,Retrofit Rubber Roof Jack,3,1,column_5,,,✓
 agricultural,11,Retrofit Rubber Roof Jack,3,2,column_1,,,-100°F to +437°F
 agricultural,11,Retrofit Rubber Roof Jack,3,2,high_temperatuf,HIGH TEMPERATUF,,"9%"" - 16%"""
 agricultural,11,Retrofit Rubber Roof Jack,3,2,e,E,,"21%"""
 agricultural,11,Retrofit Rubber Roof Jack,3,2,column_4,,,3.78#
-agricultural,11,Retrofit Rubber Roof Jack,3,2,column_5,,,v
+agricultural,11,Retrofit Rubber Roof Jack,3,2,column_5,,,✓
 agricultural,12,Continuous Vent,0,0,part,PART #,DESCRIPTION,HW-702
 agricultural,12,Continuous Vent,0,0,size,SIZE,DESCRIPTION,"9"" x 10'-0"""
 agricultural,12,Continuous Vent,0,0,gauge,GAUGE,DESCRIPTION,26
@@ -487,7 +487,7 @@ agricultural,18,14 Gauge Track with Top Mount Brackets,1,1,price,PRICE,,✓
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,part,PART #,DESCRIPTION,HW-990
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,gauge,GAUGE,DESCRIPTION,14
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,finish,FINISH,DESCRIPTION,Galvanized
-agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,length,LENGTH,DESCRIPTION,"12'-O"""
+agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,length,LENGTH,DESCRIPTION,"12'-0"""
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,weight_each,WEIGHT EACH,DESCRIPTION,26.40#
 agricultural,18,14 Gauge Track with Top Mount Brackets,1,2,price,PRICE,,✓
 agricultural,18,Double Track Side Mount Bracket,2,0,part,PART #,DESCRIPTION,HW-976
@@ -873,7 +873,7 @@ agricultural,31,Door Header,2,1,weight_each,WEIGHT EACH,DESCRIPTION,2.3#
 agricultural,31,Door Header,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 agricultural,31,Door Header,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 agricultural,31,Door Header,2,2,part,PART #,DESCRIPTION,AG-487
-agricultural,31,Door Header,2,2,length,LENGTH,DESCRIPTION,"12'-O"""
+agricultural,31,Door Header,2,2,length,LENGTH,DESCRIPTION,"12'-0"""
 agricultural,31,Door Header,2,2,girth,GIRTH,DESCRIPTION,"5"""
 agricultural,31,Door Header,2,2,gauge,GAUGE,DESCRIPTION,29
 agricultural,31,Door Header,2,2,weight_each,WEIGHT EACH,DESCRIPTION,3.12#

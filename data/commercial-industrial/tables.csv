@@ -1429,10 +1429,10 @@ commercial-industrial,25,Retrofit Bracing Angle,2,0,weight_each,WEIGHT EACH,DESC
 commercial-industrial,25,Retrofit Bracing Angle,2,0,length,LENGTH,DESCRIPTION,"21'-0"""
 commercial-industrial,25,Retrofit Bracing Angle,2,0,price,PRICE,,✓
 commercial-industrial,26,Roof Hugger - Model C,0,0,1_249,"1-
-249",,v
+249",,✓
 commercial-industrial,26,Roof Hugger - Model C,0,0,500_749,"500 -
 749","250 -
-499",v
+499",✓
 commercial-industrial,26,Roof Hugger - Model C,0,0,750_999,"750 -
 999",PRICED PER EACH,✓
 commercial-industrial,26,Roof Hugger - Model C,0,0,1_000_1_499,"1,000 -
@@ -1494,7 +1494,7 @@ EACH",DESCRIPTION,17.42#
 commercial-industrial,26,R Panel Light Transmitting Panel,1,3,price,PRICE,,✓
 commercial-industrial,26,R Panel Light Transmitting Panel,1,4,part,PART #,DESCRIPTION,HW-1436
 commercial-industrial,26,R Panel Light Transmitting Panel,1,4,description,DESCRIPTION,DESCRIPTION,High Strength Fiberglass - U.V. Resistant
-commercial-industrial,26,R Panel Light Transmitting Panel,1,4,length,LENGTH,DESCRIPTION,"1 2'-O"""
+commercial-industrial,26,R Panel Light Transmitting Panel,1,4,length,LENGTH,DESCRIPTION,"1 2'-0"""
 commercial-industrial,26,R Panel Light Transmitting Panel,1,4,color,COLOR,DESCRIPTION,White
 commercial-industrial,26,R Panel Light Transmitting Panel,1,4,type,TYPE,DESCRIPTION,1
 commercial-industrial,26,R Panel Light Transmitting Panel,1,4,weight_sqft,"WEIGHT /
@@ -1554,7 +1554,7 @@ EACH",DESCRIPTION,19.00#
 commercial-industrial,27,7.2 Panel Light Transmitting Panel,1,0,price,PRICE,,✓
 commercial-industrial,28,C Panel Light Transmitting Panel,0,0,part,PART #,DESCRIPTION,HW-1645
 commercial-industrial,28,C Panel Light Transmitting Panel,0,0,description,DESCRIPTION,DESCRIPTION,High Strength Fiberglass
-commercial-industrial,28,C Panel Light Transmitting Panel,0,0,length,LENGTH,DESCRIPTION,"1 2'-O"""
+commercial-industrial,28,C Panel Light Transmitting Panel,0,0,length,LENGTH,DESCRIPTION,"1 2'-0"""
 commercial-industrial,28,C Panel Light Transmitting Panel,0,0,color,COLOR,DESCRIPTION,White
 commercial-industrial,28,C Panel Light Transmitting Panel,0,0,type,TYPE,DESCRIPTION,1
 commercial-industrial,28,C Panel Light Transmitting Panel,0,0,weight_sqft,"WEIGHT /
@@ -1603,7 +1603,7 @@ commercial-industrial,29,Continuous Vent,1,1,weight_each,WEIGHT EACH,DESCRIPTION
 commercial-industrial,29,Continuous Vent,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 commercial-industrial,29,Continuous Vent,1,1,white,WHITE,PRICED PER EACH,✓
 commercial-industrial,29,Continuous Vent,1,2,part,PART #,DESCRIPTION,HW-702R
-commercial-industrial,29,Continuous Vent,1,2,size,SIZE,DESCRIPTION,"Qo"" x 10'-O"""
+commercial-industrial,29,Continuous Vent,1,2,size,SIZE,DESCRIPTION,"Qo"" x 10'-0"""
 commercial-industrial,29,Continuous Vent,1,2,type,TYPE,DESCRIPTION,PBR Base
 commercial-industrial,29,Continuous Vent,1,2,gauge,GAUGE,DESCRIPTION,26
 commercial-industrial,29,Continuous Vent,1,2,weight_each,WEIGHT EACH,DESCRIPTION,115.00#
@@ -1747,22 +1747,22 @@ commercial-industrial,31,Rubber Roof Jack,1,0,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,0,high_temperatuf,HIGH TEMPERATUF,,"Y,"" _ 4A"""
 commercial-industrial,31,Rubber Roof Jack,1,0,e,E,,"8"""
 commercial-industrial,31,Rubber Roof Jack,1,0,column_4,,,.0
-commercial-industrial,31,Rubber Roof Jack,1,0,column_5,,,v
+commercial-industrial,31,Rubber Roof Jack,1,0,column_5,,,✓
 commercial-industrial,31,Rubber Roof Jack,1,1,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,1,high_temperatuf,HIGH TEMPERATUF,,"4%"" -7"""
 commercial-industrial,31,Rubber Roof Jack,1,1,e,E,,"141"""
 commercial-industrial,31,Rubber Roof Jack,1,1,column_4,,,.95#
-commercial-industrial,31,Rubber Roof Jack,1,1,column_5,,,v
+commercial-industrial,31,Rubber Roof Jack,1,1,column_5,,,✓
 commercial-industrial,31,Rubber Roof Jack,1,2,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,2,high_temperatuf,HIGH TEMPERATUF,,"7"" 43"""
 commercial-industrial,31,Rubber Roof Jack,1,2,e,E,,"17"""
 commercial-industrial,31,Rubber Roof Jack,1,2,column_4,,,2.564
-commercial-industrial,31,Rubber Roof Jack,1,2,column_5,,,v
+commercial-industrial,31,Rubber Roof Jack,1,2,column_5,,,✓
 commercial-industrial,31,Rubber Roof Jack,1,3,column_1,,,-100°F to +437°F
 commercial-industrial,31,Rubber Roof Jack,1,3,high_temperatuf,HIGH TEMPERATUF,,"10"" . 18"""
 commercial-industrial,31,Rubber Roof Jack,1,3,e,E,,"25"""
 commercial-industrial,31,Rubber Roof Jack,1,3,column_4,,,3.86#
-commercial-industrial,31,Rubber Roof Jack,1,3,column_5,,,v
+commercial-industrial,31,Rubber Roof Jack,1,3,column_5,,,✓
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,part,PART #,DESCRIPTION,HW-1005
 commercial-industrial,31,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
@@ -1788,17 +1788,17 @@ commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_1,,,-100°F to +43
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,high_temperatuf,HIGH TEMPERATUF,,"YQ"" . A"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,e,E,,"8H6"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_4,,,.14#
-commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_5,,,v
+commercial-industrial,31,Retrofit Rubber Roof Jack,3,0,column_5,,,✓
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,column_1,,,-100°F to +437°F
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,high_temperatuf,HIGH TEMPERATUF,,"4"" _ 9%"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,e,E,,"14%"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,column_4,,,2.204
-commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,column_5,,,v
+commercial-industrial,31,Retrofit Rubber Roof Jack,3,1,column_5,,,✓
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,column_1,,,-100°F to +437°F
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,high_temperatuf,HIGH TEMPERATUF,,"9%"" - 16%"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,e,E,,"21%"""
 commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,column_4,,,3.78#
-commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,column_5,,,v
+commercial-industrial,31,Retrofit Rubber Roof Jack,3,2,column_5,,,✓
 commercial-industrial,32,PBR Panel Closure Strip,0,0,part,PART #,DESCRIPTION,HW-455
 commercial-industrial,32,PBR Panel Closure Strip,0,0,type,TYPE,DESCRIPTION,Inside
 commercial-industrial,32,PBR Panel Closure Strip,0,0,adhesive,ADHESIVE?,DESCRIPTION,No
@@ -2515,7 +2515,7 @@ commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,0,galvalume_plus,GALV
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,part,PART #,DESCRIPTION,FL-500A
-commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,length,LENGTH,DESCRIPTION,"12'-O"""
+commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,length,LENGTH,DESCRIPTION,"12'-0"""
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,girth,GIRTH,DESCRIPTION,"14%"""
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,weight_each,WEIGHT EACH,DESCRIPTION,11.09#
 commercial-industrial,46,Outside Corner Trim - 7.2 Panel,1,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
@@ -2578,7 +2578,7 @@ commercial-industrial,47,Inside Corner Trim - PBU Panel,0,0,galvalume_plus,GALVA
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,part,PART #,DESCRIPTION,FL-811
-commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,length,LENGTH,DESCRIPTION,"12'-O"""
+commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,length,LENGTH,DESCRIPTION,"12'-0"""
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,girth,GIRTH,DESCRIPTION,"10%"""
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,weight_each,WEIGHT EACH,DESCRIPTION,8.27#
 commercial-industrial,47,Inside Corner Trim - PBU Panel,0,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
@@ -3042,72 +3042,72 @@ commercial-industrial,51,Box Hang-On Gutter,2,0,column_3,,,"10-2"""
 commercial-industrial,51,Box Hang-On Gutter,2,0,column_4,,,"17"""
 commercial-industrial,51,Box Hang-On Gutter,2,0,column_5,,,Y2-4:12
 commercial-industrial,51,Box Hang-On Gutter,2,0,column_6,,,11.21#
-commercial-industrial,51,Box Hang-On Gutter,2,0,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,0,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,0,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,2,0,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,0,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,0,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_1,,,"AM"""
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_2,,,"Ay"""
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_3,,,"20'-2"""
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_4,,,"17"""
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_5,,,Y2-4:12
 commercial-industrial,51,Box Hang-On Gutter,2,1,column_6,,,22.234
-commercial-industrial,51,Box Hang-On Gutter,2,1,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,1,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,1,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,2,1,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,1,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,1,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_1,,,"454"""
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_2,,,"Ay."""
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_3,,,"10'-2"""
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_4,,,"17%"""
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_5,,,AV%6-6:12
 commercial-industrial,51,Box Hang-On Gutter,2,2,column_6,,,11.46#
-commercial-industrial,51,Box Hang-On Gutter,2,2,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,2,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,2,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,2,2,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,2,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,2,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_1,,,"456"""
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_2,,,"Ay"""
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_3,,,"20'-2"""
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_4,,,"17%"""
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_5,,,4%6-6:12
 commercial-industrial,51,Box Hang-On Gutter,2,3,column_6,,,22.724
-commercial-industrial,51,Box Hang-On Gutter,2,3,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,3,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,2,3,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,2,3,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,3,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,2,3,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_1,,,"4"""
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_2,,,"Ay."""
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_3,,,"10'-2"""
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_4,,,"16 34"""
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_5,,,Y2-4:12
 commercial-industrial,51,Box Hang-On Gutter,3,0,column_6,,,11.04#
-commercial-industrial,51,Box Hang-On Gutter,3,0,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,0,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,0,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,3,0,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,0,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,0,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_1,,,"4"""
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_2,,,"4x2"""
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_3,,,"20'-2"""
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_4,,,"16 34"""
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_5,,,Y2-4:12
 commercial-industrial,51,Box Hang-On Gutter,3,1,column_6,,,21.91#
-commercial-industrial,51,Box Hang-On Gutter,3,1,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,1,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,1,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,3,1,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,1,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,1,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_1,,,"AV"""
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_2,,,"4x2"""
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_3,,,"10'-2"""
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_4,,,"17"""
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_5,,,4VN6-6:12
 commercial-industrial,51,Box Hang-On Gutter,3,2,column_6,,,11.214
-commercial-industrial,51,Box Hang-On Gutter,3,2,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,2,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,2,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,3,2,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,2,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,2,column_9,,,✓
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_1,,,"AVA"""
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_2,,,"Ay."""
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_3,,,"20'-2"""
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_4,,,"17"""
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_5,,,AV%6-6:12
 commercial-industrial,51,Box Hang-On Gutter,3,3,column_6,,,22.234
-commercial-industrial,51,Box Hang-On Gutter,3,3,column_7,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,3,column_8,,,v
-commercial-industrial,51,Box Hang-On Gutter,3,3,column_9,,,v
+commercial-industrial,51,Box Hang-On Gutter,3,3,column_7,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,3,column_8,,,✓
+commercial-industrial,51,Box Hang-On Gutter,3,3,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,0,0,part,PART #,DESCRIPTION,FL-14
 commercial-industrial,52,Box Eave Gutter,0,0,dim_a,"DIM ""A""",DESCRIPTION,"Ay"""
 commercial-industrial,52,Box Eave Gutter,0,0,dim_b,"DIM ""B""",DESCRIPTION,"AY"""
@@ -3174,72 +3174,72 @@ commercial-industrial,52,Box Eave Gutter,1,0,column_3,,,"10'-2"""
 commercial-industrial,52,Box Eave Gutter,1,0,column_4,,,"20 %"""
 commercial-industrial,52,Box Eave Gutter,1,0,column_5,,,¥2-4:12
 commercial-industrial,52,Box Eave Gutter,1,0,column_6,,,13.35#
-commercial-industrial,52,Box Eave Gutter,1,0,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,1,0,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,1,0,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,1,0,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,1,0,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,1,0,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,1,1,column_1,,,"AY"""
 commercial-industrial,52,Box Eave Gutter,1,1,column_2,,,"Ay,"""
 commercial-industrial,52,Box Eave Gutter,1,1,column_3,,,"20'-2"""
 commercial-industrial,52,Box Eave Gutter,1,1,column_4,,,"20 V4"""
 commercial-industrial,52,Box Eave Gutter,1,1,column_5,,,Y2-4:12
 commercial-industrial,52,Box Eave Gutter,1,1,column_6,,,26.48#
-commercial-industrial,52,Box Eave Gutter,1,1,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,1,1,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,1,1,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,1,1,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,1,1,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,1,1,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,1,2,column_1,,,"45"""
 commercial-industrial,52,Box Eave Gutter,1,2,column_2,,,"4x2"""
 commercial-industrial,52,Box Eave Gutter,1,2,column_3,,,"10'-2"""
 commercial-industrial,52,Box Eave Gutter,1,2,column_4,,,"20 %"""
 commercial-industrial,52,Box Eave Gutter,1,2,column_5,,,4VN6-6:12
 commercial-industrial,52,Box Eave Gutter,1,2,column_6,,,13.60#
-commercial-industrial,52,Box Eave Gutter,1,2,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,1,2,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,1,2,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,1,2,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,1,2,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,1,2,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,1,3,column_1,,,"4⅝"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_2,,,"AY"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_3,,,"20'-2"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_4,,,"20 %"""
 commercial-industrial,52,Box Eave Gutter,1,3,column_5,,,AN6-6:12
 commercial-industrial,52,Box Eave Gutter,1,3,column_6,,,26.98#
-commercial-industrial,52,Box Eave Gutter,1,3,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,1,3,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,1,3,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,1,3,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,1,3,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,1,3,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,2,0,column_1,,,"4"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_2,,,"4½"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_3,,,"10'-2"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_4,,,"20"""
 commercial-industrial,52,Box Eave Gutter,2,0,column_5,,,V2-4:12
 commercial-industrial,52,Box Eave Gutter,2,0,column_6,,,13.19#
-commercial-industrial,52,Box Eave Gutter,2,0,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,2,0,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,2,0,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,2,0,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,2,0,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,2,0,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,2,1,column_1,,,"4"""
 commercial-industrial,52,Box Eave Gutter,2,1,column_2,,,"Ay"""
 commercial-industrial,52,Box Eave Gutter,2,1,column_3,,,"20'-2"""
 commercial-industrial,52,Box Eave Gutter,2,1,column_4,,,"20"""
 commercial-industrial,52,Box Eave Gutter,2,1,column_5,,,Y2-4:12
 commercial-industrial,52,Box Eave Gutter,2,1,column_6,,,26.16#
-commercial-industrial,52,Box Eave Gutter,2,1,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,2,1,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,2,1,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,2,1,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,2,1,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,2,1,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,2,2,column_1,,,"AV"""
 commercial-industrial,52,Box Eave Gutter,2,2,column_2,,,"Ay"""
 commercial-industrial,52,Box Eave Gutter,2,2,column_3,,,"10'-2"""
 commercial-industrial,52,Box Eave Gutter,2,2,column_4,,,"20 %"""
 commercial-industrial,52,Box Eave Gutter,2,2,column_5,,,AV%6-6:12
 commercial-industrial,52,Box Eave Gutter,2,2,column_6,,,13.35#
-commercial-industrial,52,Box Eave Gutter,2,2,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,2,2,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,2,2,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,2,2,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,2,2,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,2,2,column_9,,,✓
 commercial-industrial,52,Box Eave Gutter,2,3,column_1,,,"4%"""
 commercial-industrial,52,Box Eave Gutter,2,3,column_2,,,"Aya"""
 commercial-industrial,52,Box Eave Gutter,2,3,column_3,,,"20'-2"""
 commercial-industrial,52,Box Eave Gutter,2,3,column_4,,,"20%"""
 commercial-industrial,52,Box Eave Gutter,2,3,column_5,,,4M%6-6:12
 commercial-industrial,52,Box Eave Gutter,2,3,column_6,,,26.48#
-commercial-industrial,52,Box Eave Gutter,2,3,column_7,,,v
-commercial-industrial,52,Box Eave Gutter,2,3,column_8,,,v
-commercial-industrial,52,Box Eave Gutter,2,3,column_9,,,v
+commercial-industrial,52,Box Eave Gutter,2,3,column_7,,,✓
+commercial-industrial,52,Box Eave Gutter,2,3,column_8,,,✓
+commercial-industrial,52,Box Eave Gutter,2,3,column_9,,,✓
 commercial-industrial,52,Residential Gutter,3,0,part,PART #,DESCRIPTION,FL-1000
 commercial-industrial,52,Residential Gutter,3,0,girth,GIRTH,DESCRIPTION,"12%6"""
 commercial-industrial,52,Residential Gutter,3,0,gauge,GAUGE,DESCRIPTION,29
@@ -4143,7 +4143,7 @@ commercial-industrial,65,Panel Starter - AVP Panel,2,0,galvalume_plus,GALVALUME�
 commercial-industrial,65,Panel Starter - AVP Panel,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 commercial-industrial,65,Panel Starter - AVP Panel,2,0,signature_300,SIGNATURE® 300,PRICED PER EACH,✓
 commercial-industrial,65,Panel Starter - AVP Panel,2,1,part,PART #,DESCRIPTION,FL-46A
-commercial-industrial,65,Panel Starter - AVP Panel,2,1,length,LENGTH,DESCRIPTION,"12'-O"""
+commercial-industrial,65,Panel Starter - AVP Panel,2,1,length,LENGTH,DESCRIPTION,"12'-0"""
 commercial-industrial,65,Panel Starter - AVP Panel,2,1,girth,GIRTH,DESCRIPTION,"8%"""
 commercial-industrial,65,Panel Starter - AVP Panel,2,1,weight_each,WEIGHT EACH,DESCRIPTION,6.47#
 commercial-industrial,65,Panel Starter - AVP Panel,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓

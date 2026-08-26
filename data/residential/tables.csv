@@ -121,22 +121,22 @@ residential,9,Rubber Roof Jack,1,0,column_1,,,-100°F to +437°F
 residential,9,Rubber Roof Jack,1,0,high_temperaturi,HIGH TEMPERATURI,,yl gr
 residential,9,Rubber Roof Jack,1,0,7,7,,"3"""
 residential,9,Rubber Roof Jack,1,0,column_4,,,.0#
-residential,9,Rubber Roof Jack,1,0,column_5,,,v
+residential,9,Rubber Roof Jack,1,0,column_5,,,✓
 residential,9,Rubber Roof Jack,1,1,column_1,,,"""100°F to +437°F"
 residential,9,Rubber Roof Jack,1,1,high_temperaturi,HIGH TEMPERATURI,,"Avy! - 7"""
 residential,9,Rubber Roof Jack,1,1,7,7,,"1"""
 residential,9,Rubber Roof Jack,1,1,column_4,,,.5#
-residential,9,Rubber Roof Jack,1,1,column_5,,,v
+residential,9,Rubber Roof Jack,1,1,column_5,,,✓
 residential,9,Rubber Roof Jack,1,2,column_1,,,"""100°F to +437°F"
 residential,9,Rubber Roof Jack,1,2,high_temperaturi,HIGH TEMPERATURI,,"J"" 243"""
 residential,9,Rubber Roof Jack,1,2,7,7,,"7"""
 residential,9,Rubber Roof Jack,1,2,column_4,,,2.56#
-residential,9,Rubber Roof Jack,1,2,column_5,,,v
+residential,9,Rubber Roof Jack,1,2,column_5,,,✓
 residential,9,Rubber Roof Jack,1,3,column_1,,,-1O00°F to +437°F
 residential,9,Rubber Roof Jack,1,3,high_temperaturi,HIGH TEMPERATURI,,"10"" _ 18"""
 residential,9,Rubber Roof Jack,1,3,7,7,,"25"""
 residential,9,Rubber Roof Jack,1,3,column_4,,,3.860#
-residential,9,Rubber Roof Jack,1,3,column_5,,,v
+residential,9,Rubber Roof Jack,1,3,column_5,,,✓
 residential,9,Retrofit Rubber Roof Jack,2,0,part,PART #,DESCRIPTION,HW-1005
 residential,9,Retrofit Rubber Roof Jack,2,0,temperature_range,"TEMPERATURE
 RANGE",DESCRIPTION,-65°F to +212°F
@@ -162,17 +162,17 @@ residential,9,Retrofit Rubber Roof Jack,3,0,column_1,,,-100°F to +437°F
 residential,9,Retrofit Rubber Roof Jack,3,0,high_temperaturi,HIGH TEMPERATURI,,"Yo"" _ 4"""
 residential,9,Retrofit Rubber Roof Jack,3,0,7,7,,8316
 residential,9,Retrofit Rubber Roof Jack,3,0,column_4,,,.4#
-residential,9,Retrofit Rubber Roof Jack,3,0,column_5,,,v
+residential,9,Retrofit Rubber Roof Jack,3,0,column_5,,,✓
 residential,9,Retrofit Rubber Roof Jack,3,1,column_1,,,-100°F to +437°F
 residential,9,Retrofit Rubber Roof Jack,3,1,high_temperaturi,HIGH TEMPERATURI,,"4"" - gyyl"
 residential,9,Retrofit Rubber Roof Jack,3,1,7,7,,14
 residential,9,Retrofit Rubber Roof Jack,3,1,column_4,,,2.20#
-residential,9,Retrofit Rubber Roof Jack,3,1,column_5,,,v
+residential,9,Retrofit Rubber Roof Jack,3,1,column_5,,,✓
 residential,9,Retrofit Rubber Roof Jack,3,2,column_1,,,"""100°F to +437°F"
 residential,9,Retrofit Rubber Roof Jack,3,2,high_temperaturi,HIGH TEMPERATURI,,"9%"" - 16%"""
 residential,9,Retrofit Rubber Roof Jack,3,2,7,7,,"212"""
 residential,9,Retrofit Rubber Roof Jack,3,2,column_4,,,3.78#
-residential,9,Retrofit Rubber Roof Jack,3,2,column_5,,,v
+residential,9,Retrofit Rubber Roof Jack,3,2,column_5,,,✓
 residential,10,Touch-Up Paint,0,0,part,PART #,DESCRIPTION,HW-304
 residential,10,Touch-Up Paint,0,0,finish,FINISH,DESCRIPTION,Signature® 200
 residential,10,Touch-Up Paint,0,0,size,SIZE,DESCRIPTION,2 ounce
@@ -187,13 +187,13 @@ residential,10,Reflective Insulation,1,0,roll_weight,ROLL WEIGHT,DESCRIPTION,31.
 residential,10,Reflective Insulation,1,0,price,PRICE,,✓
 residential,10,Reflective Insulation,1,1,part,PART #,DESCRIPTION,HW-3926
 residential,10,Reflective Insulation,1,1,type,TYPE,DESCRIPTION,SolarGuard
-residential,10,Reflective Insulation,1,1,width,WIDTH,DESCRIPTION,"6'-O"""
-residential,10,Reflective Insulation,1,1,length,LENGTH,DESCRIPTION,"125'-O"""
+residential,10,Reflective Insulation,1,1,width,WIDTH,DESCRIPTION,"6'-0"""
+residential,10,Reflective Insulation,1,1,length,LENGTH,DESCRIPTION,"125'-0"""
 residential,10,Reflective Insulation,1,1,roll_weight,ROLL WEIGHT,DESCRIPTION,46.50#
 residential,10,Reflective Insulation,1,1,price,PRICE,,✓
 residential,10,Scrimless Aluminum Tape,2,0,part,PART #,DESCRIPTION,HW-514
 residential,10,Scrimless Aluminum Tape,2,0,width,WIDTH,DESCRIPTION,"3"""
-residential,10,Scrimless Aluminum Tape,2,0,length,LENGTH,DESCRIPTION,"150'-O"""
+residential,10,Scrimless Aluminum Tape,2,0,length,LENGTH,DESCRIPTION,"150'-0"""
 residential,10,Scrimless Aluminum Tape,2,0,roll_weight,ROLL WEIGHT,DESCRIPTION,1.50#
 residential,10,Scrimless Aluminum Tape,2,0,price,PRICE,,✓
 residential,10,Slimline' Rib Cover,3,0,part,PART #,DESCRIPTION,CF-119
@@ -402,7 +402,7 @@ residential,13,Extended Valley,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EA
 residential,13,Extended Valley,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,13,Extended Valley,2,2,part,PART #,DESCRIPTION,AG-240
 residential,13,Extended Valley,2,2,dim_a,"DIM ""A""",DESCRIPTION,"197/16"""
-residential,13,Extended Valley,2,2,length,LENGTH,DESCRIPTION,"14'-O"""
+residential,13,Extended Valley,2,2,length,LENGTH,DESCRIPTION,"14'-0"""
 residential,13,Extended Valley,2,2,girth,GIRTH,DESCRIPTION,"40%"""
 residential,13,Extended Valley,2,2,gauge,GAUGE,DESCRIPTION,29
 residential,13,Extended Valley,2,2,weight_each,"WEIGHT
@@ -411,7 +411,7 @@ residential,13,Extended Valley,2,2,galvalume_plus,GALVALUME® PLUS,PRICED PER EA
 residential,13,Extended Valley,2,2,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,13,Extended Valley,2,3,part,PART #,DESCRIPTION,AG-240
 residential,13,Extended Valley,2,3,dim_a,"DIM ""A""",DESCRIPTION,"20%"""
-residential,13,Extended Valley,2,3,length,LENGTH,DESCRIPTION,"14'-O"""
+residential,13,Extended Valley,2,3,length,LENGTH,DESCRIPTION,"14'-0"""
 residential,13,Extended Valley,2,3,girth,GIRTH,DESCRIPTION,"42%"""
 residential,13,Extended Valley,2,3,gauge,GAUGE,DESCRIPTION,26
 residential,13,Extended Valley,2,3,weight_each,"WEIGHT
@@ -447,7 +447,7 @@ residential,14,Box Gutter,0,3,weight_each,WEIGHT EACH,DESCRIPTION,21.424
 residential,14,Box Gutter,0,3,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,✓
 residential,14,Box Gutter,0,3,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,14,5K Gutter,1,0,part,PART #,DESCRIPTION,LG-161
-residential,14,5K Gutter,1,0,length,LENGTH,DESCRIPTION,"16'-O"""
+residential,14,5K Gutter,1,0,length,LENGTH,DESCRIPTION,"16'-0"""
 residential,14,5K Gutter,1,0,girth,GIRTH,DESCRIPTION,"12%"""
 residential,14,5K Gutter,1,0,gauge,GAUGE,DESCRIPTION,29
 residential,14,5K Gutter,1,0,weight_each,WEIGHT EACH,DESCRIPTION,9.86#
@@ -526,7 +526,7 @@ residential,15,Gutter Apron,2,1,galvalume_plus,GALVALUME® PLUS,PRICED PER EACH,
 residential,15,Gutter Apron,2,1,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,16,"3"" Oval Outlet",0,0,part,PART #,DESCRIPTION,HW-1328
 residential,16,"3"" Oval Outlet",0,0,weight_each,WEIGHT EACH,DESCRIPTION,.244
-residential,16,"3"" Oval Outlet",0,0,galvanized,GALVANIZED,,v
+residential,16,"3"" Oval Outlet",0,0,galvanized,GALVANIZED,,✓
 residential,16,Box Downspout - Straight,1,0,part,PART #,DESCRIPTION,FL-31
 residential,16,Box Downspout - Straight,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 residential,16,Box Downspout - Straight,1,0,girth,GIRTH,DESCRIPTION,"167%"""
@@ -549,7 +549,7 @@ residential,16,Box Downspout With 45° Elbow,2,0,weight_each,WEIGHT EACH,DESCRIP
 residential,16,Box Downspout With 45° Elbow,2,0,galvalume_plus,GALVALUME*® PLUS,PRICED PER EACH,✓
 residential,16,Box Downspout With 45° Elbow,2,0,signature_200,SIGNATURE® 200,PRICED PER EACH,✓
 residential,16,Box Downspout With 45° Elbow,2,1,part,PART #,DESCRIPTION,FL-31E
-residential,16,Box Downspout With 45° Elbow,2,1,length,LENGTH,DESCRIPTION,"14'-O"""
+residential,16,Box Downspout With 45° Elbow,2,1,length,LENGTH,DESCRIPTION,"14'-0"""
 residential,16,Box Downspout With 45° Elbow,2,1,girth,GIRTH,DESCRIPTION,"167%"""
 residential,16,Box Downspout With 45° Elbow,2,1,gauge,GAUGE,DESCRIPTION,26
 residential,16,Box Downspout With 45° Elbow,2,1,weight_each,WEIGHT EACH,DESCRIPTION,15.32#
@@ -967,13 +967,13 @@ residential,22,Continuous Cleat,0,0,length,LENGTH,DESCRIPTION,"10'-2"""
 residential,22,Continuous Cleat,0,0,girth,GIRTH,DESCRIPTION,"3"""
 residential,22,Continuous Cleat,0,0,gauge,GAUGE,DESCRIPTION,24
 residential,22,Continuous Cleat,0,0,weight_each,WEIGHT EACH,DESCRIPTION,2.45#
-residential,22,Continuous Cleat,0,0,assorted_colors,ASSORTED COLORS,,v
+residential,22,Continuous Cleat,0,0,assorted_colors,ASSORTED COLORS,,✓
 residential,22,Offset Cleat,1,0,part,PART #,DESCRIPTION,FL-337
 residential,22,Offset Cleat,1,0,length,LENGTH,DESCRIPTION,"10'-2"""
 residential,22,Offset Cleat,1,0,girth,GIRTH,DESCRIPTION,"Sy"""
 residential,22,Offset Cleat,1,0,gauge,GAUGE,DESCRIPTION,24
 residential,22,Offset Cleat,1,0,weight_each,WEIGHT EACH,DESCRIPTION,2.45#
-residential,22,Offset Cleat,1,0,assorted_colors,ASSORTED COLORS,,v
+residential,22,Offset Cleat,1,0,assorted_colors,ASSORTED COLORS,,✓
 residential,22,Fascia/Soffit Trim,2,0,part,PART #,DESCRIPTION,AG-458
 residential,22,Fascia/Soffit Trim,2,0,length,LENGTH,DESCRIPTION,"10'-6"""
 residential,22,Fascia/Soffit Trim,2,0,girth,GIRTH,DESCRIPTION,"8 5/16"""

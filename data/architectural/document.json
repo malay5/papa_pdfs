@@ -2975,7 +2975,7 @@
             [
               "HW-4651",
               "18",
-              "10'-O\"",
+              "10'-0\"",
               "Galvanized",
               "9.38#",
               "✓"
@@ -3019,7 +3019,7 @@
             [
               "HW-4652",
               "18",
-              "10'-O\"",
+              "10'-0\"",
               "Galvanized",
               "9.38#",
               "✓"
@@ -4173,7 +4173,7 @@
         }
       ],
       "text": "Architectural Pricing\nMN.\n=A all\nClosure Angle\n1 Ye\"\nt_t\n+\nCOLOR 4 1p\nak\n—F\nCOLOR 1 Ye\"\n\"\"\n4-4\n14%\"\nInside Outside\nDESCRIPTION PRICED PER EACH\nWEIGHT PER GALVALUME® SIGNATURE® SIGNATURE® —_SIGNATURE®\nPare WANS SIRT Wi EACH PLUS 200 300 300 METALLIC\nT-5005 10'-2\" 3\" Inside 2.484 v v v v\nT-5006 io-2\" 3\" Outside 2.484 v v v v\n4\"\ntT\n——t\nCOLOR \"A\"\n_\ni\nDESCRIPTION PRICED PER EACH\n»~ WEIGHT PER GALVALUME® SIGNATURE® SIGNATURE® —_SIGNATURE®\nPLIES eet) CERT EACH PLUS 200 300 300 METALLIC\nT-5011 i 10'-2\" 3\" 2.A8H# v v v v\nT-5012 1%\" 10'-2\" 3%\" 2.59# v v v v\nT-5014 134\" 10'-2\" 334\" 3.10# v v v v\nT-5015 Pa 10'-2\" 4\" 3.31# v v v v\nT-5016 2%\" 10'-2\" Ay\" 3.A1# v v v v\nSubject to change without notice.\nFis bd See MBCI.COM for current information. EFFECTIVE JANUARY 16, 2026 32",
-      "repaired_cells": 3,
+      "repaired_cells": 5,
       "effective_date": "JANUARY 16, 2026",
       "catalog": "architectural"
     },
@@ -4690,7 +4690,7 @@
         }
       ],
       "text": "Architectural Pricing\nAngle Trim\n4\"\nCOLOR\nDESCRIPTION PRICED PER EACH\nWEIGHT PER GALVALUME® —_ SIGNATURE® SIGNATURE® SIGNATURE®\nPRU ee HANI CEU! EACH PLUS 200 300 300 METALLIC\nT-5051 10'-2\" 2%\" 1.86# v v v v\nhy\n4\"\n4U coor\nDESCRIPTION PRICED PER EACH\n» WEIGHT PER GALVALUME® SIGNATURE® SIGNATURE® —_ SIGNATURE®\nBUI ES alent) (eal EACH PLUS 200 300 300 METALLIC\nT-5053 i 10'-2\" 2%\" 2.07# v v v v\nT-5055 1%\" 10'-2\" Bi 2.48# v v v v\nCap Trim\ntt\nya\"\n1, 4\nCOLOR\nDESCRIPTION PRICED PER EACH\n~ WEIGHT PER GALVALUME® SIGNATURE® SIGNATURE® — SIGNATURE®\nPLIES Hae) (EULA EACH PLUS 200 300 300 METALLIC\nT-5061 1%\" 10'-2\" 556\" 4.65# v v v v\nT-5065 156\" 10'-2\" 61\" 5.07# v v v v\nT-5062 134\" 10'-2\" 6%\" 5.17# v v v v\nT-5063 z! 10'-2\" 6%\" 5.38# v v v v\nT-5064 2%\" 10'-2\" 654\" 5.A8# v v v v\nSubject to change without notice.\nFis bd See MBCI.COM for current information. EFFECTIVE JANUARY 16, 2026 34",
-      "repaired_cells": 3,
+      "repaired_cells": 5,
       "effective_date": "JANUARY 16, 2026",
       "catalog": "architectural"
     },
@@ -5327,10 +5327,10 @@
               "10'-2\"",
               "24\"",
               "19.85#",
-              "v",
-              "v",
-              "v",
-              "v"
+              "✓",
+              "✓",
+              "✓",
+              "✓"
             ],
             [
               "4\"",
@@ -5338,10 +5338,10 @@
               "20'-2\"",
               "24\"",
               "39.384",
-              "v",
-              "v",
-              "v",
-              "v"
+              "✓",
+              "✓",
+              "✓",
+              "✓"
             ],
             [
               "2\"",
@@ -5349,10 +5349,10 @@
               "10'-2\"",
               "26\"",
               "21.514",
-              "v",
-              "v",
-              "v",
-              "v"
+              "✓",
+              "✓",
+              "✓",
+              "✓"
             ],
             [
               "2\"",
@@ -5360,10 +5360,10 @@
               "20'-2\"",
               "26\"",
               "42.66#",
-              "v",
-              "v",
-              "v",
-              "v"
+              "✓",
+              "✓",
+              "✓",
+              "✓"
             ]
           ]
         },
@@ -5416,10 +5416,10 @@
               "10'-2\"",
               "48\"",
               "39.71#",
-              "v",
-              "v",
-              "v",
-              "v"
+              "✓",
+              "✓",
+              "✓",
+              "✓"
             ],
             [
               "1\"",
@@ -5427,10 +5427,10 @@
               "14'-0\"",
               "48\"",
               "54.68#",
-              "v",
-              "v",
-              "v",
-              "v"
+              "✓",
+              "✓",
+              "✓",
+              "✓"
             ],
             [
               "2\"",
@@ -5438,10 +5438,10 @@
               "10'-2\"",
               "48\"",
               "39.71#",
-              "v",
-              "v",
-              "v",
-              "v"
+              "✓",
+              "✓",
+              "✓",
+              "✓"
             ],
             [
               "2\"",
@@ -5449,10 +5449,10 @@
               "14'-0\"",
               "48\"",
               "54.68#",
-              "v",
-              "v",
-              "v",
-              "v"
+              "✓",
+              "✓",
+              "✓",
+              "✓"
             ]
           ]
         }
@@ -5561,7 +5561,7 @@
               "10'-2\"",
               "3\"",
               "2.48#",
-              "v"
+              "✓"
             ]
           ]
         },
@@ -5601,7 +5601,7 @@
               "1 Q'-2\"",
               "3%\"",
               "2.90#",
-              "v"
+              "✓"
             ]
           ]
         },
@@ -5641,7 +5641,7 @@
               "10'-2\"",
               "634\"",
               "5.58#",
-              "v"
+              "✓"
             ]
           ]
         }
@@ -5865,7 +5865,7 @@
         }
       ],
       "text": "Architectural Pricing\nNote:\n+ Specify roof slope or angle indicated on drawing\n+ Specify open hem when using with T-5121 Continuous Cleat\nDESCRIPTION PRICED PER EACH\n~ WEIGHT PER GALVALUME® SIGNATURE® SIGNATURE® —SIGNATURE®\nPius BILMIMES Meet) (ELLA EACH PLUS 200 300 300 METALLIC\nT5141 4\" 10'-2\" 856\" 7.144 v v v v\nT5142 4\" 20'-2\" 856\" 14.15# v v v v\nT-5143 3\" 10'-2\" 754\" 6.31# v v v v\nT5144 3\" 20'-2\" 754\" 12.51# v v v v\nEave with Extended Drip Edge\nNote:\n+ Use with roof slopes up to 4:12\n+ Specify roof slope or angle indicated on drawing\n+ Specify open hem when using with T-5121 Continuous Cleat\nDESCRIPTION PRICED PER EACH\nWEIGHT PER GALVALUME® SIGNATURE® SIGNATURE® SIGNATURE®\n[Gants = HaNSui Gu EACH PLUS 200 300 300 METALLIC\nT-5151 10'-2\" 9%\" 7 96# v v v v\nQS ak Note:\n7, COLOR + Use with roof slopes over 4:12\non\nSE\n3\" — SPECIFY\n+ Specify roof slope or angle indicated on drawing\n* Specify open hem when using with T-5121 Continuous Cleat\nANGLE\n#& COLOR\nDESCRIPTION PRICED PER EACH\nWEIGHT PER = GALVALUME® SIGNATURE® SIGNATURE® SIGNATURE®\nPRU a HaNTeiutn| CELL! EACH PLUS 200 300 300 METALLIC\nT-5152A 10!-2\" s\" 4.144 v v v v\nT-5152B 10'-2\" 5%\" 4A5# v v v v\n_a= _—s Subject to change without notice.\nIBGE. sce maci.com for current information. EFFECTIVE JANUARY 16, 2026\n39",
-      "repaired_cells": 3,
+      "repaired_cells": 4,
       "effective_date": "JANUARY 16, 2026",
       "catalog": "architectural"
     },
@@ -7419,7 +7419,7 @@
             ],
             [
               "T-5322",
-              "12'-O\"",
+              "12'-0\"",
               "16¾\"",
               "16.46#",
               "✓",
@@ -7461,7 +7461,7 @@
         }
       ],
       "text": "Architectural Pricing\nGutter Ends - Left or Right\nNote:\n+ Use with T-5261 or T-5262 Box Gutter or T-5271 Box Gutter\nwith Drip Edge\n+ Specify left or right.\nDESCRIPTION PRICED PER EACH\nGALVALUME® SIGNATURE® SIGNATURE® SIGNATURE®\npies Wabeifet a AE Net PLUS 200 300 300 METALLIC\nT-5291 31# v G v Y\nDownspout\n3 YO gu\nA *\nDESCRIPTION PRICED PER EACH\nWEIGHT PER GALVALUME® — SIGNATURE® SIGNATURE® SIGNATURE®\nPU ee Haieiutn| EACH PLUS 200 300 300 METALLIC\nT-5311 12\" 16%\" 13.96# v v v v\nT-5312 Dor 16%\" 16.48# v v v v\nT-5313 14'-0\" 16%\" 19.22# v v v v\nT-5315 16'-0\" 1676\" 21.974# v v v v\nT-5314 20'-2\" 1676\" 27.694 v v v v\nDownspout with 45° Kickout\nx \"SS\nDESCRIPTION PRICED PER EACH\nWEIGHT PER GALVALUME® — SIGNATURE® SIGNATURE® SIGNATURE®\nPUARU Halen) EACH PLUS 200 300 300 METALLIC\nT-5321 12\" 1634\" 13.86# v v v v\nT-5322 12-0\" 1634\" 16.46# v v v v\nT-5323 14'-0\" 1634\" 19.21# v v v v\nT-5325 16'-0\" 1634\" 21.95# v v v v\nT-5324 20'-2\" 1678\" 27.69# v v v v\nSubject to change without notice.\nFis bd See MBCI.COM for current information. EFFECTIVE JANUARY 16, 2026 46",
-      "repaired_cells": 2,
+      "repaired_cells": 4,
       "effective_date": "JANUARY 16, 2026",
       "catalog": "architectural"
     },
@@ -8177,7 +8177,7 @@
         }
       ],
       "text": "Architectural Pricing\nTermination Trim\nan)\n—\nA\na +\nbay\n2v\"\nDESCRIPTION PRICED PER EACH\n~ WEIGHT PER GALVALUME® SIGNATURE® SIGNATURE® —_ SIGNATURE®\nPLIES Meet) (ELLA EACH PLUS 200 300 300 METALLIC\nT-5391 1 10'-2\" 7%\" 6.00# v v v v\nT-5392 1%\" 10'-2\" 734\" 6.A1# v v v v\nT-5393 156\" 10'-2\" TT\" 6.51# v v v v\nT-5394 2%\" 10'-2\" 834\" 7.24# v v v v\nT-5395 By 10'-2\" QM\" 7.65# v v v v\nMasterLine 16® Head Trim\nay\"\n142\"\nCOLOR\nDESCRIPTION PRICED PER EACH\nPART # LENGTH GIRTH WEIGHTEACH GALVALUME® Le SIGNS TURES ATURESS\nT-5511 3'-6\" 6%\" 1.744 v v v v\nT-5513 10'-4\" 6%\" 5.15# v v v v\nT-5515 141-4\" 6%\" 714 v v v v\nMasterLine 16® Jamb/Sill Case\nCOLOR\n1 an\n>\n4\"\nL\nDESCRIPTION PRICED PER EACH\nPART # LENGTH GIRTH WEIGHT EACH GALVALUME® SIGNATURE® SIGNATURE® SIGNATURE®\nPLUS 200 300 300 METALLIC\nT-5517 10-2\" 6\" 4.96# v v v v\nSubject to change without notice.\nFis bd See MBCI.COM for current information. EFFECTIVE JANUARY 16, 2026 49",
-      "repaired_cells": 4,
+      "repaired_cells": 6,
       "effective_date": "JANUARY 16, 2026",
       "catalog": "architectural"
     },
@@ -8409,7 +8409,7 @@
         }
       ],
       "text": "Architectural Pricing\nMasterLine 16® Door Jamb Cleat\n{ ft yn Note:\n+ Use with T-5541, T-5542, T-5543, T-5544 or T-5545 Two Piece Jamb Trim\n$f 2%\" +4\nDESCRIPTION PRICED PER EACH\nPART # LENGTH GIRTH WEIGHTEACH GALVALUME® Sa SON TORE SIGNATURE®\nPLUS 300 METALLIC\nT-5540 10'-2\" 3\" 2.48# v v v v\nMasterLine 16® Two Piece Jamb Trim\nNote:\n+ Use with T-5540 Door Jamb Cleat\nCOLOR\nDESCRIPTION PRICED PER EACH\nay» SHEATHING WEIGHT GALVALUME® SIGNATURE® SIGNATURE® SIGNATURE®\nDIM*A\" \"THICKNEss LENGTH = GIRTH EACH PLUS 200 300 300 METALLIC\nT-5541 1h\" ye\" 1o2\" Ay\" 4.03# v v v v\nT5542. 1%\" 34\" 1102\" 5%\" 4.24# v g v v\nT-5543 2 1\" 10'-2\" 536\" 4A5# v G v v\nT5544 2%\" 1%\" 10'-2\" 5%\" 4.86# v o v v\nT-5545 3\" 2\" 10'-2\" 636\" 5.27# v v v v\nMasterLine 16® Base Trim\nT COLOR\n24%\"\n, Ay .\nLaw +\nDESCRIPTION PRICED PER EACH\nPART # DIM \"A\" LENGTH GIRTH WEIGHT PER GALVALUME® SIGNATURE® SIGNATURE® SIGNATURE®\nEACH PLUS 200 300 300 METALLIC\nT-5534 1%\" 10'-2\" 454\" 3.93# v v v v\nSubject to change without notice.\nMet. See MBCI.COM for current information. EFFECTIVE JANUARY 16, 2026 50",
-      "repaired_cells": 3,
+      "repaired_cells": 6,
       "effective_date": "JANUARY 16, 2026",
       "catalog": "architectural"
     },
@@ -10180,7 +10180,7 @@
               "10'-2\"",
               "2%\"",
               "1.86#",
-              "v"
+              "✓"
             ]
           ]
         },
@@ -10563,7 +10563,7 @@
               "iOzey",
               "3 36\"",
               "2.794",
-              "v"
+              "✓"
             ]
           ]
         }

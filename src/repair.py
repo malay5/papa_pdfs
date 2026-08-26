@@ -75,7 +75,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--data", default=os.path.join(ROOT, "data"))
     parser.add_argument("--uploads", default=os.environ.get(
-        "CATALOG_DIR", "/root/.claude/uploads"))
+        "CATALOG_DIR", os.path.join(ROOT, "pdfs")))
     parser.add_argument("--catalog", action="append")
     args = parser.parse_args()
 
@@ -90,6 +90,13 @@ def main():
             document = json.load(handle)
         pdf_path = available[slug]
         repaired = 0
+        # Rule-based, so it needs no render and runs over every table.
+        normalised = sum(extract._normalise_table(table)
+                         for page in document["pages"]
+                         for table in page.get("tables", []))
+        if normalised:
+            print(f"  {slug}: {normalised} values normalised", flush=True)
+        repaired += normalised
         for page in document["pages"]:
             count = repair_page(pdf_path, page["page"] - 1, page)
             if count:
@@ -101,6 +108,14 @@ def main():
         rows = list(extract.tidy_rows(document["pages"]))
         extract.csv_write(os.path.join(out_dir, "tables.csv"), rows)
         print(f"{slug}: {repaired} cells repaired", flush=True)
+
+    # The numeric repairs re-read cells, which would otherwise undo a
+    # reviewed correction by replacing it with a fresh OCR reading.
+    import corrections
+    _applied, stale, _already = corrections.apply(args.data, catalogs)
+    if stale:
+        print(f"{stale} correction(s) no longer match what was read;"
+              f" run corrections.py to see them", flush=True)
 
     # Repairing one catalog must leave the others in the corpus-wide files.
     extract._write_corpus(args.data, [])
