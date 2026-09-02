@@ -179,6 +179,40 @@ def _text_box(text, bbox, fills, align="center", weight=None, ratio=None,
             f'{html.escape(text)}</div>\n')
 
 
+def _render_run(run):
+    """One collected run as the positioned div the HTML pages use."""
+    colour = "#fff" if run["k"] else "#231f20"
+    style = (f'left:{run["x"]}pt;top:{run["y"]}pt;'
+             f'width:{run["w"]}pt;height:{run["h"]}pt;'
+             f'font-size:{run["s"]}pt;color:{colour};'
+             f'justify-content:{"flex-start" if run["a"] == "left" else "center"};'
+             f'text-align:{run["a"]}')
+    if run["b"]:
+        style += f';font-weight:{run["b"]};letter-spacing:.01em'
+    return (f'  <div class="{"t d" if run["d"] else "t"}" style="{style}">'
+            f'{html.escape(run["t"])}</div>\n')
+
+
+def _text_run(text, bbox, fills, align="center", weight=None, ratio=None,
+              lines=1, display=False, size=None):
+    """The same placement as `_text_box`, kept as data.
+
+    The HTML pages and the single-file viewer need identical geometry, so
+    both are built from this rather than from two copies of the arithmetic.
+    """
+    if not text:
+        return None
+    x0, top, x1, bottom = bbox
+    if size is None:
+        size = _size_for(text, bbox, weight, ratio, lines)
+    background = _background_at(fills, bbox)
+    knockout = bool(background) and _luma(background) < KNOCKOUT_MAX_LUMA
+    return {"x": round(x0, 2), "y": round(top, 2),
+            "w": round(x1 - x0, 2), "h": round(bottom - top, 2),
+            "s": round(size, 2), "b": weight or 0, "k": int(knockout),
+            "d": int(display), "a": align, "t": text}
+
+
 # The drawings are vector art in the same layer as the glyph outlines, so
 # they cannot be told apart by object type.  They are lifted as pictures
 # instead: everything outside the tables and banners, at this resolution.
@@ -257,7 +291,8 @@ def _write_art(pdf_path, page_index, regions, out_dir, stem):
     return out
 
 
-def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
+def _page_html(page, pdf_path, page_index, stored, art_dir=None,
+               art_href="", as_model=False):
     """One page: its fills and rules, with the extracted text placed on top."""
     width, height = page.width, page.height
     fills = _fills(page)
@@ -317,19 +352,25 @@ def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
     reserved += [tuple(t["bbox"]) for t in stored.get("tables", [])]
     if stripes:
         reserved += [(s[0], s[2], s[1], s[3]) for s in stripes]
+    regions = _art_regions(page, reserved) if (art_dir or as_model) else []
     art = []
     if art_dir is not None:
-        art = _write_art(pdf_path, page_index, _art_regions(page, reserved),
-                         art_dir, f"p{page_index + 1:03d}")
+        art = _write_art(pdf_path, page_index, regions, art_dir,
+                         f"p{page_index + 1:03d}")
+
+    runs = []
+
+    def _put(run):
+        if run:
+            runs.append(run)
 
     parts = [f'<div class="page" style="width:{width}pt;height:{height}pt">\n']
     for x, y, w, h, colour in fills:
         parts.append(f'  <div class="f" style="left:{x:.2f}pt;top:{y:.2f}pt;'
                      f'width:{w:.2f}pt;height:{h:.2f}pt;'
                      f'background:rgb{colour}"></div>\n')
-    for x, y, w, h, colour in rules:
-        if _in_banner(x, y, w, h):
-            continue
+    drawn_rules = [r for r in rules if not _in_banner(*r[:4])]
+    for x, y, w, h, colour in drawn_rules:
         parts.append(f'  <div class="f" style="left:{x:.2f}pt;top:{y:.2f}pt;'
                      f'width:{w:.2f}pt;height:{h:.2f}pt;'
                      f'background:rgb{colour}"></div>\n')
@@ -340,7 +381,7 @@ def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
                      f'width:{x1 - x0:.2f}pt;height:{bottom - top:.2f}pt">\n')
 
     for banner in stored.get("_banners", []):
-        parts.append(_text_box(banner["text"], banner["bbox"], fills,
+        _put(_text_run(banner["text"], banner["bbox"], fills,
                                weight=700, ratio=0.44, display=True))
 
     for table in stored.get("tables", []):
@@ -351,7 +392,7 @@ def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
             # stripes, rows evenly divided over the block.
             if not stripes or not table["rows"]:
                 continue
-            parts.append(_matrix_html(table, stripes, fills))
+            runs.extend(_matrix_runs(table, stripes, fills))
             continue
         edges, bands = tables[index].grid()
         count = len(edges) - 1
@@ -393,7 +434,7 @@ def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
                 (_size_for(t, b, 700, HEADER_HEIGHT_RATIO, 2)
                  for t, b, s in labelled if s > 1), default=None)
             for label, bbox, span in labelled:
-                parts.append(_text_box(
+                _put(_text_run(
                     label, bbox, fills, weight=700, lines=3,
                     size=group_size if span > 1 else head_size))
 
@@ -413,15 +454,19 @@ def _page_html(page, pdf_path, page_index, stored, art_dir=None, art_href=""):
             column = 0
             for cell, span in cells:
                 if column < count and column < len(stored_row):
-                    parts.append(_text_box(stored_row[column], cell.bbox,
+                    _put(_text_run(stored_row[column], cell.bbox,
                                            fills, size=body_size))
                 column += span
 
+    if as_model:
+        return {"w": width, "h": height, "fills": fills, "rules": drawn_rules,
+                "regions": regions, "runs": runs}
+    parts.extend(_render_run(run) for run in runs)
     parts.append("</div>\n")
     return "".join(parts)
 
 
-def _matrix_html(table, stripes, fills):
+def _matrix_runs(table, stripes, fills):
     """Place a column-shaded matrix, whose rows are evenly spaced."""
     edges = extract._stripe_columns(stripes)
     x0, top, x1, bottom = table["bbox"]
@@ -435,9 +480,10 @@ def _matrix_html(table, stripes, fills):
     for position, label in enumerate(labels):
         if not label or position + 1 >= len(edges):
             continue
-        out.append(_text_box(label, (edges[position], top - pitch,
-                                     edges[position + 1], top), fills,
-                             weight=700))
+        head = _text_run(label, (edges[position], top - pitch,
+                                 edges[position + 1], top), fills, weight=700)
+        if head:
+            out.append(head)
     boxes = []
     for index, row in enumerate(table["rows"]):
         row_top = top + index * pitch
@@ -449,8 +495,10 @@ def _matrix_html(table, stripes, fills):
                                       edges[position + 1], row_top + pitch)))
     size = min((_size_for(text, bbox) for text, bbox in boxes), default=None)
     for text, bbox in boxes:
-        out.append(_text_box(text, bbox, fills, size=size))
-    return "".join(out)
+        run = _text_run(text, bbox, fills, size=size)
+        if run:
+            out.append(run)
+    return out
 
 
 STYLE = """@font-face {

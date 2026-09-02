@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 .venv/
+
+# Built artifact bundle: 6.9 MB of inlined images, regenerate with
+# tools/build_artifact.py
+artifact/
